@@ -1,0 +1,10 @@
+{
+  "name": "BRIA — Briefing Diário",
+  "short_name": "BRIA",
+  "description": "Curadoria de notícias por IA para profissionais",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F8F9FB",
+  "theme_color": "#0F172A",
+  "lang": "pt-BR"
+}
