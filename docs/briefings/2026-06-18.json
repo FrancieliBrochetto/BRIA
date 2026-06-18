@@ -1,0 +1,86 @@
+{
+  "data": "2026-06-18",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Como desativar IA no Google Docs",
+      "resumo": "Google Docs apresenta pop-ups de \"escrever com Gemini\" que podem ser desativados. O tutorial mostra o passo a passo para remover essa funcionalidade da plataforma.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Antropic retira Mythos e Fable após ordem dos EUA",
+      "resumo": "Anthropic removeu os modelos Mythos e Fable de circulação após determinação do governo americano. A medida segue preocupações de segurança levantadas pela administração.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/anthropic-pulls-mythos-fable-after-u-s-order",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Cursor se torna parte oficial da máquina de IA do SpaceX",
+      "resumo": "SpaceX adquiriu a plataforma Cursor, consolidando sua presença no desenvolvimento de ferramentas de IA. A aquisição faz parte da estratégia de expansão tecnológica da empresa.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/cursor-officially-joins-the-spacex-ai-machine",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Líderes mundiais temem desligamento de IA americana",
+      "resumo": "Presidentes de França e Índia expressaram preocupação no G7 sobre possibilidade de EUA desligar acesso a IA americana. Temor foi amplificado pela situação do Fable da Anthropic.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Empresas ainda calculam ROI real de investimentos em IA",
+      "resumo": "Executivos e investidores observam que a rentabilidade de IA para empresas continua incerta. Alguns gastos disparam enquanto a comprovação de retorno financeiro ainda é frágil.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Intel salta 6,5% após acordo Apple-Intel para chips nos EUA",
+      "resumo": "Trump anuncia parceria entre Apple e Intel para produção de chips em território americano. Ação da Intel avança significativamente em pré-mercado, ampliando ganhos anuais.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/intel-trump-diz-que-apple-fara-parceria-para-producao-de-chips-nos-eua-e-acao-salta",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Banco da Inglaterra mantém juros em 3,75%",
+      "resumo": "Banco da Inglaterra votou por 7 a 2 pela manutenção das taxas de juros. Decisão contrasta com movimentos do BCE e Banco do Japão em política monetária.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/economia/banco-da-inglaterra-vota-por-7-a-2-pela-manutencao-dos-juros-em-375/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Reforma Tributária é regulamentada com vetos presidenciais",
+      "resumo": "Presidente Lula sanciona Lei Complementar que regulamenta a Reforma Tributária, com alguns vetos ao PLP 68 de 2024. Novas regras entram em vigor para sistema tributário nacional.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "GIA-ST será eliminada em julho de 2025 em São Paulo",
+      "resumo": "Estado de São Paulo elimina obrigação de apresentação da GIA-ST para contribuintes do ICMS estabelecidos em outros estados. Simplificação entra em vigor a partir de julho de 2025.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
+      "idioma_original": "pt"
+    }
+  ]
+}
