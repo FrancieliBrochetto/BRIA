@@ -3,18 +3,27 @@
   "noticias": [
     {
       "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Amazon lança Alexa+ no Brasil com IA generativa",
+      "resumo": "Amazon iniciou acesso antecipado à Alexa+ no Brasil com tecnologia de IA generativa similar ao ChatGPT. Serviço estará incluído no Prime ou custará R$ 99 por mês. Assistente agora executa tarefas mais complexas com nova voz.",
+      "fonte": "G1 Economia / Tecnoblog",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/06/18/amazon-traz-alexa-ao-brasil-e-aposta-em-ia-como-o-chatgpt-para-renovar-assistente-virtual.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "Gemini",
       "titulo": "Como desativar IA no Google Docs",
-      "resumo": "Google Docs apresenta pop-ups de \"escrever com Gemini\" que podem ser desativados. O tutorial mostra o passo a passo para remover essa funcionalidade da plataforma.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "resumo": "Google Docs permite desativar sugestões de IA Gemini. Usuários podem remover pop-ups \"write with Gemini\" através das configurações.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Antropic retira Mythos e Fable após ordem dos EUA",
-      "resumo": "Anthropic removeu os modelos Mythos e Fable de circulação após determinação do governo americano. A medida segue preocupações de segurança levantadas pela administração.",
+      "titulo": "Anthropic retira Mythos e Fable após ordem governamental dos EUA",
+      "resumo": "Anthropic removeu os modelos Mythos e Fable após ordem do governo americano. Mais de 100 especialistas em segurança questionam a decisão, argumentando que ela pode ser contraproducente.",
       "fonte": "The Rundown AI",
       "url_original": "https://www.therundown.ai/p/anthropic-pulls-mythos-fable-after-u-s-order",
       "idioma_original": "en"
@@ -22,8 +31,8 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Cursor se torna parte oficial da máquina de IA do SpaceX",
-      "resumo": "SpaceX adquiriu a plataforma Cursor, consolidando sua presença no desenvolvimento de ferramentas de IA. A aquisição faz parte da estratégia de expansão tecnológica da empresa.",
+      "titulo": "Cursor se une oficialmente ao portfólio de IA do SpaceX",
+      "resumo": "SpaceX adquiriu o Cursor, ferramenta de codificação com IA. A integração fortalece a presença da empresa em desenvolvimento de software e automação.",
       "fonte": "The Rundown AI",
       "url_original": "https://www.therundown.ai/p/cursor-officially-joins-the-spacex-ai-machine",
       "idioma_original": "en"
@@ -31,55 +40,118 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Líderes mundiais temem desligamento de IA americana",
-      "resumo": "Presidentes de França e Índia expressaram preocupação no G7 sobre possibilidade de EUA desligar acesso a IA americana. Temor foi amplificado pela situação do Fable da Anthropic.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "titulo": "Empresas ainda calculam retorno sobre investimento em IA",
+      "resumo": "Líderes de venture capital apontam que empresas enfrentam dificuldades para medir ROI em IA. Após boom inicial, algumas firmas cortaram gastos e revisaram estratégias de implementação.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Empresas ainda calculam ROI real de investimentos em IA",
-      "resumo": "Executivos e investidores observam que a rentabilidade de IA para empresas continua incerta. Alguns gastos disparam enquanto a comprovação de retorno financeiro ainda é frágil.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+      "titulo": "Pixi transforma mensagens de texto em experiências de realidade aumentada",
+      "resumo": "Novo app iOS Pixi permite converter mensagens de texto em experiências interativas de realidade aumentada. Tecnologia oferece alternativa a stickers, GIFs e reações de emoji.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
       "idioma_original": "en"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Intel salta 6,5% após acordo Apple-Intel para chips nos EUA",
-      "resumo": "Trump anuncia parceria entre Apple e Intel para produção de chips em território americano. Ação da Intel avança significativamente em pré-mercado, ampliando ganhos anuais.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/intel-trump-diz-que-apple-fara-parceria-para-producao-de-chips-nos-eua-e-acao-salta",
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Microsoft Edge permite login com Conta Google a partir de julho de 2026",
+      "resumo": "Microsoft Edge receberá suporte para login e sincronização usando Conta Google em julho de 2026. Funcionalidade estará disponível para Windows e macOS.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/microsoft-edge-vai-permitir-login-com-uma-conta-google/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Apple e Intel parceriam para fabricar chips nos EUA",
+      "resumo": "Trump anuncia acordo entre Apple e Intel para design e fabricação de chips em território norte-americano. Iniciativa visa reduzir dependência de fabricação externa.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/06/18/trump-diz-que-apple-fara-chips-nos-eua-em-parceria-com-a-intel",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Python",
+      "titulo": "iPhone 18 pode ganhar 12 GB de RAM para rodar Siri AI localmente",
+      "resumo": "Próxima geração de iPhone pode receber aumento de RAM para executar IA do Siri localmente. Especula-se que recurso será mantido sem aumento de preço.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/iphone-18-pode-ganhar-mais-ram-enquanto-mantem-o-mesmo-preco/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Câmbio",
-      "titulo": "Banco da Inglaterra mantém juros em 3,75%",
-      "resumo": "Banco da Inglaterra votou por 7 a 2 pela manutenção das taxas de juros. Decisão contrasta com movimentos do BCE e Banco do Japão em política monetária.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/economia/banco-da-inglaterra-vota-por-7-a-2-pela-manutencao-dos-juros-em-375/",
+      "titulo": "Dólar abre em alta após decisão de juros e acordo entre EUA e Irã",
+      "resumo": "Dólar avançou 0,65%, cotado a R$ 5,1406 nesta quinta-feira. Copom cortou Selic em 0,25 ponto percentual, impactando operações no mercado cambial.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/06/18/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "CNPJ passa a aceitar letras em novas inscrições",
+      "resumo": "Receita Federal adota CNPJ alfanumérico para novas inscrições. Mudança afeta sistemas e impõe necessidade de adaptação para negócios.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/06/18/pro/cnpj-tera-letras-pela-primeira-vez-entenda-como-a-mudanca-afeta-negocios/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Reforma Tributária é regulamentada com vetos presidenciais",
-      "resumo": "Presidente Lula sanciona Lei Complementar que regulamenta a Reforma Tributária, com alguns vetos ao PLP 68 de 2024. Novas regras entram em vigor para sistema tributário nacional.",
+      "titulo": "ECF 2026: guia para entregar sem erros",
+      "resumo": "Confira obrigatoriedade, prazos e principais pontos de atenção para entrega da Escrituração Contábil Fiscal (ECF) em 2026 sem inconsistências.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77513/ecf-2026-guia-para-entregar-sem-erros/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Reforma Tributária é regulamentada com vetos",
+      "resumo": "Presidente Lula sanciona Lei Complementar regulamentando Reforma Tributária com vetos ao PLP 68 de 2024. Alterações impactam alíquotas e regime tributário.",
       "fonte": "Siga o Fisco",
       "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "GIA-ST será eliminada em julho de 2025 em São Paulo",
-      "resumo": "Estado de São Paulo elimina obrigação de apresentação da GIA-ST para contribuintes do ICMS estabelecidos em outros estados. Simplificação entra em vigor a partir de julho de 2025.",
+      "subtema": "Imposto de Renda",
+      "titulo": "IR 2026: Receita abre consulta ao 2º lote de restituição",
+      "resumo": "Receita Federal libera consulta ao segundo lote de restituição do IR 2026 na terça-feira (23). Contribuintes podem verificar status de devoluções.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77510/ir-2026-receita-abre-consulta-ao-2o-lote-de-restituicao-na-terca-23/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "GIA-ST será eliminada em São Paulo a partir de julho de 2025",
+      "resumo": "Contribuintes do ICMS estabelecidos em outros estados serão dispensados da Guia de Informação e Apuração do ICMS-ST a partir de julho de 2025.",
       "fonte": "Siga o Fisco",
       "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Simples Nacional: cálculo do ICMS-ST sobre produtos alimentícios em SP",
+      "resumo": "Redução da carga tributária do art. 39 do Anexo II do RICMS/00 não alcança o ICMS-ST. Análise sobre cálculo correto para Simples Nacional em São Paulo.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/simples-nacional-e-o-calculo-do-icms-st-sobre-produtos-alimenticios-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Estados e municípios rejeitam ampliação do Simples Nacional",
+      "resumo": "Entidades apontam perda de R$ 21 bilhões e risco de distorções com aumento dos limites do Simples Nacional. Críticas à proposta de expansão.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77512/estados-e-municipios-rejeitam-ampliacao-do-simples-nacional/",
       "idioma_original": "pt"
     }
   ]
