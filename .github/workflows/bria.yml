@@ -1,0 +1,35 @@
+name: BRIA — Pipeline Diário
+
+on:
+  schedule:
+    - cron: '0 10 * * *'   # 7h horário de Brasília (UTC-3)
+  workflow_dispatch:         # permite rodar manualmente pelo GitHub
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Rodar pipeline BRIA
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python main.py
+
+      - name: Commit e push do briefing
+        run: |
+          git config --global user.email "bria-bot@github.com"
+          git config --global user.name "BRIA Bot"
+          git add docs/briefings/
+          git diff --staged --quiet || git commit -m "briefing $(date +%Y-%m-%d)"
+          git push

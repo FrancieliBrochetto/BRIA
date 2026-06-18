@@ -1,57 +1,63 @@
-// app.js — Lógica do frontend BRIA
+// app.js — Lê JSONs estáticos do GitHub Pages (sem API Flask)
 
-// ── Configuração ─────────────────────────────────────
-// Em desenvolvimento: API local. Ao subir pro Railway, troca a URL aqui.
-const API = "http://127.0.0.1:5000";
-
-// ── Estado da aplicação ──────────────────────────────
-let dadosAtuais = null;   // { data, noticias[] }
+let dadosAtuais = null;
 let temaAtivo   = "IA & Tech";
 let dataAtiva   = null;
 
-// ── Inicialização ────────────────────────────────────
 async function init() {
   configurarAbas();
   await Promise.all([
-    carregarBriefing(),
+    carregarBriefingInicial(),
     carregarHistorico(),
   ]);
 }
 
-// ── API calls ────────────────────────────────────────
-async function carregarBriefing(data = null) {
+async function carregarBriefingInicial() {
+  // Tenta o briefing de hoje; se não existir, pega o mais recente do índice
+  const hoje = new Date().toISOString().split("T")[0];
+  try {
+    await carregarBriefing(hoje);
+  } catch {
+    try {
+      const resp  = await fetch("briefings/index.json");
+      const index = await resp.json();
+      if (index.datas.length > 0) {
+        await carregarBriefing(index.datas[0]);
+      } else {
+        mostrarErro("Nenhum briefing encontrado ainda.");
+      }
+    } catch {
+      mostrarErro("Não foi possível carregar o briefing.");
+    }
+  }
+}
+
+async function carregarBriefing(data) {
   mostrarLoading();
   try {
-    const endpoint = data
-      ? `${API}/api/briefing/${data}`
-      : `${API}/api/briefing/hoje`;
-
-    const resp = await fetch(endpoint);
+    const resp = await fetch(`briefings/${data}.json`);
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-
     dadosAtuais = await resp.json();
-    dataAtiva   = dadosAtuais.data;
-
+    dataAtiva   = data;
     atualizarHeader();
     atualizarBotoesHistorico();
     renderizarCards();
   } catch (err) {
-    mostrarErro("Não foi possível conectar à API. Verifique se o servidor está rodando.");
-    console.error("Erro ao carregar briefing:", err);
+    mostrarErro("Briefing não encontrado para esta data.");
+    throw err;
   }
 }
 
 async function carregarHistorico() {
   try {
-    const resp = await fetch(`${API}/api/historico`);
-    const dias  = await resp.json();
-    renderizarHistorico(dias);
+    const resp  = await fetch("briefings/index.json");
+    const index = await resp.json();
+    renderizarHistorico(index.datas);
   } catch {
-    // falha silenciosa — histórico é secundário
+    // silêncio — histórico é secundário
   }
 }
 
-// ── Renderização ─────────────────────────────────────
 function atualizarHeader() {
   if (!dadosAtuais?.data) return;
   const [ano, mes, dia] = dadosAtuais.data.split("-");
@@ -61,16 +67,13 @@ function atualizarHeader() {
 }
 
 function renderizarCards() {
-  const cards  = document.getElementById("cards");
-  const vazio  = document.getElementById("vazio");
+  const cards = document.getElementById("cards");
+  const vazio = document.getElementById("vazio");
 
-  // Esconde loading e erro
   document.getElementById("loading").classList.add("hidden");
   document.getElementById("erro").classList.add("hidden");
 
-  const noticias = dadosAtuais?.noticias ?? [];
-
-  // Filtra pelo tema da aba ativa (ignora acentuação)
+  const noticias  = dadosAtuais?.noticias ?? [];
   const filtradas = noticias.filter(n => normalizar(n.tema) === normalizar(temaAtivo));
 
   if (filtradas.length === 0) {
@@ -80,7 +83,6 @@ function renderizarCards() {
   }
 
   vazio.classList.add("hidden");
-
   cards.innerHTML = filtradas.map(n => `
     <article class="card">
       <div class="card-meta">
@@ -96,16 +98,15 @@ function renderizarCards() {
   `).join("");
 }
 
-function renderizarHistorico(dias) {
+function renderizarHistorico(datas) {
   const container = document.getElementById("histbarDias");
   const meses     = ["jan","fev","mar","abr","mai","jun","jul","ago","set","out","nov","dez"];
 
-  container.innerHTML = dias.map(d => {
-    const [, mes, dia] = d.data_coleta.split("-");
+  container.innerHTML = datas.map(data => {
+    const [, mes, dia] = data.split("-");
     const label = `${dia}/${meses[parseInt(mes) - 1]}`;
-    return `<button class="hist-btn" data-data="${d.data_coleta}"
-      title="${d.total_salvo} notícias salvas"
-      onclick="carregarBriefing('${d.data_coleta}')">
+    return `<button class="hist-btn" data-data="${data}"
+      onclick="carregarBriefing('${data}')">
       ${label}
     </button>`;
   }).join("");
@@ -117,7 +118,6 @@ function atualizarBotoesHistorico() {
   });
 }
 
-// ── Abas ─────────────────────────────────────────────
 function configurarAbas() {
   document.querySelectorAll(".tab").forEach(btn => {
     btn.addEventListener("click", () => {
@@ -129,7 +129,6 @@ function configurarAbas() {
   });
 }
 
-// ── Estados de UI ────────────────────────────────────
 function mostrarLoading() {
   document.getElementById("loading").classList.remove("hidden");
   document.getElementById("erro").classList.add("hidden");
@@ -143,13 +142,10 @@ function mostrarErro(msg) {
   document.getElementById("erro").classList.remove("hidden");
 }
 
-// ── Utilitários ───────────────────────────────────────
-// Remove acentos antes de comparar temas (BRIA pode retornar "Legislação" ou "Legislacao")
 function normalizar(str = "") {
   return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
 }
 
-// Escapa HTML para evitar injeção de conteúdo malicioso
 function escHTML(str = "") {
   return str
     .replace(/&/g, "&amp;")
@@ -158,5 +154,4 @@ function escHTML(str = "") {
     .replace(/"/g, "&quot;");
 }
 
-// ── Start ─────────────────────────────────────────────
 init();

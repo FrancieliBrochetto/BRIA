@@ -1,0 +1,194 @@
+{
+  "data": "2026-06-17",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "iPhone 18 pode ganhar mais RAM para rodar Siri AI localmente",
+      "resumo": "Próxima geração do iPhone deve contar com 12 GB de RAM para executar inteligência artificial do Siri de forma local, mantendo o mesmo preço atual.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/iphone-18-pode-ganhar-mais-ram-enquanto-mantem-o-mesmo-preco/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Antropic retira modelos Mythos e Fable após ordem dos EUA",
+      "resumo": "Antropic removeu seus modelos de IA Mythos e Fable após determinação do governo americano, em resposta a preocupações de segurança e pressões regulatórias.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/anthropic-pulls-mythos-fable-after-u-s-order",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Especialistas em segurança criticam banimento do Fable 5",
+      "resumo": "Mais de 100 especialistas em segurança afirmam que a proibição do modelo Fable 5 pode ser contraproducente e prejudicar o desenvolvimento responsável de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/why-100-security-experts-say-the-fable-5-ban-backfires",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Cursor se une oficialmente à máquina de IA da SpaceX",
+      "resumo": "SpaceX adquire a plataforma Cursor, integrando-a ao seu portfólio de ferramentas de IA e tecnologia.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/cursor-officially-joins-the-spacex-ai-machine",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Robôs humanoides do futuro podem ter design menos humano",
+      "resumo": "Genesis AI aposta em robôs Eno com design não humanoide focado em tarefas reais, com chegada gradual a indústrias e serviços até final de 2026.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/06/17/robotica/o-futuro-dos-robos-humanoides-pode-ser-menos-humano/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Antropic lidera esforços de regulação de IA junto a Washington",
+      "resumo": "Antropic divulga manual de regulação de IA para legisladores americanos, consolidando seu papel no debate político sobre governança de inteligência artificial.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/anthropic-writes-washington-an-ai-regulation-playbook",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Antropic se torna primeira startup de IA a integrar coalizão de remoção de carbono",
+      "resumo": "Antropic aderiu à coalizão Frontier, que recebeu US$ 915 milhões em promessas para financiar projetos de remoção de carbono.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Empresas enfrentam dificuldades em medir ROI de investimentos em IA",
+      "resumo": "Analistas indicam que empresas ainda buscam entender o retorno real de seus investimentos em IA, após período de adoção agressiva e custos crescentes.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Líderes mundiais temem que EUA corte acesso a IA americana",
+      "resumo": "Macron e Modi alertam na cúpula do G7 sobre risco de EUA cortar acesso overnight a IA americana, temor amplificado pelo apagão da Antropic.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Jeff Bezos investe US$ 41 bilhões em 'engenheiro inteligente artificial'",
+      "resumo": "Bezos investe volumosa quantia em desenvolvimento de IA geral capaz de executar tarefas de engenharia de forma autônoma.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/jeff-bezos-41b-artificial-general-engineer",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Óculos AR do Snap têm preço proibitivo; ações caem",
+      "resumo": "Lançamento dos óculos inteligentes do Snap teve impacto negativo nas ações da empresa devido ao preço considerado muito elevado.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Roelof Botha integra conselho administrativo da SpaceX",
+      "resumo": "Ex-líder do Sequoia Capital assume posição no conselho da SpaceX dias após a empresa abrir capital na maior IPO da história.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Copom reduz Selic de 14,50% para 14,25% ao ano",
+      "resumo": "Comitê de Política Monetária do Banco Central reduz a taxa básica de juros em 0,25 ponto percentual de forma unânime, sinalizando possível fim do ciclo de cortes.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/06/17/copom-reduz-a-taxa-basica-de-juros-da-economia-a-selic-de-1450percent-para-1425percent-ao-ano.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Fed mantém juros dos EUA em 3,50% a 3,75% sob liderança de Warsh",
+      "resumo": "Federal Reserve mantém taxa básica no menor nível desde setembro de 2022, em primeira decisão com Kevin Warsh na presidência.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/06/17/fed-juros-junho.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Federal pagará 'cashback' de IR a 4 milhões de contribuintes a partir de 15 de julho",
+      "resumo": "Lote especial de restituição será direcionado a contribuintes que não entregaram declaração de IR 2025 mas têm direito a restituição por fatos de 2024.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/06/17/receita-paga-a-partir-de-15-de-junho-lote-especial-de-restituicao-do-ir-a-4-milhoes-de-contribuintes-com-direito-a-cashback.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Reforma Tributária é regulamentada com vetos presidenciais",
+      "resumo": "Presidente Lula sanciona Lei Complementar regulamentando a Reforma Tributária aprovada pela EC, com vetos ao PLP 68 de 2024.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Alterações do SPED 2024 entram em vigor",
+      "resumo": "Confira as principais mudanças implementadas no Sistema Público de Escrituração Digital para o exercício de 2024.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em São Paulo",
+      "resumo": "Contribuintes do ICMS estabelecidos em outros estados serão dispensados de entregar a Guia de Informação e Apuração de ICMS a partir de julho de 2025.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Simples Nacional e cálculo do ICMS-ST sobre alimentos em SP",
+      "resumo": "Análise sobre aplicação correta da redução tributária do art. 39 do Anexo II do RICMS/00 para produtos alimentícios no regime Simples Nacional.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/simples-nacional-e-o-calculo-do-icms-st-sobre-produtos-alimenticios-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "STF define ajustes na responsabilização das big techs; não cabem mais recursos",
+      "resumo": "Supremo Tribunal Federal declara trânsito em julgado das ações que ampliaram responsabilidade de plataformas digitais por conteúdo, eliminando possibilidade de recursos.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/politica/noticia/2026/06/17/stf-faz-ajustes-na-responsabilizacao-das-big-techs-nao-cabe-mais-recursos-da-decisao-dos-ministros.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Câmara aprova anistia a multas de bloqueios de estrada pós-2022",
+      "resumo": "Medida provisória aprova anistia de multas a caminhoneiros por manifestações em 2022 e reforça piso do frete.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/politica/noticia/2026/06/17/camara-aprova-anistia-a-multas-por-bloqueios-de-estrada-apos-eleicao-de-2022-texto-tambem-reforca-piso-do-frete.ghtml",
+      "idioma_original": "pt"
+    }
+  ]
+}
