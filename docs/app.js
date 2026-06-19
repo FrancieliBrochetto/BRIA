@@ -8,7 +8,6 @@ async function init() {
   configurarAbas();
   await Promise.all([
     carregarBriefingInicial(),
-    carregarHistorico(),
   ]);
 }
 
@@ -40,21 +39,10 @@ async function carregarBriefing(data) {
     dadosAtuais = await resp.json();
     dataAtiva   = data;
     atualizarHeader();
-    atualizarBotoesHistorico();
     renderizarCards();
   } catch (err) {
     mostrarErro("Briefing não encontrado para esta data.");
     throw err;
-  }
-}
-
-async function carregarHistorico() {
-  try {
-    const resp  = await fetch("briefings/index.json");
-    const index = await resp.json();
-    renderizarHistorico(index.datas);
-  } catch {
-    // silêncio — histórico é secundário
   }
 }
 
@@ -96,26 +84,6 @@ function renderizarCards() {
       </a>
     </article>
   `).join("");
-}
-
-function renderizarHistorico(datas) {
-  const container = document.getElementById("histbarDias");
-  const meses     = ["jan","fev","mar","abr","mai","jun","jul","ago","set","out","nov","dez"];
-
-  container.innerHTML = datas.map(data => {
-    const [, mes, dia] = data.split("-");
-    const label = `${dia}/${meses[parseInt(mes) - 1]}`;
-    return `<button class="hist-btn" data-data="${data}"
-      onclick="carregarBriefing('${data}')">
-      ${label}
-    </button>`;
-  }).join("");
-}
-
-function atualizarBotoesHistorico() {
-  document.querySelectorAll(".hist-btn").forEach(btn => {
-    btn.classList.toggle("active", btn.dataset.data === dataAtiva);
-  });
 }
 
 function configurarAbas() {

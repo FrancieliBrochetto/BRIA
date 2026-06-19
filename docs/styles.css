@@ -1,19 +1,35 @@
-/* ===== TOKENS ===== */
+/* ===== TOKENS — LIGHT ===== */
 :root {
   --bg:             #F8F9FB;
   --card:           #FFFFFF;
+  --header-bg:      #0F172A;
   --text-primary:   #0F172A;
   --text-secondary: #64748B;
   --text-body:      #374151;
   --accent:         #1D4ED8;
   --accent-light:   #EEF2FF;
   --border:         #E2E8F0;
+  --shadow:         0 1px 3px rgba(0,0,0,0.08);
 
   --font-display: Georgia, 'Times New Roman', serif;
   --font-body:    -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-
   --radius: 12px;
-  --shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+
+/* ===== TOKENS — DARK ===== */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:             #0F172A;
+    --card:           #1E293B;
+    --header-bg:      #020617;
+    --text-primary:   #F1F5F9;
+    --text-secondary: #94A3B8;
+    --text-body:      #CBD5E1;
+    --accent:         #60A5FA;
+    --accent-light:   #1E3A5F;
+    --border:         #334155;
+    --shadow:         0 1px 3px rgba(0,0,0,0.4);
+  }
 }
 
 /* ===== RESET ===== */
@@ -32,7 +48,7 @@ body {
 
 /* ===== HEADER ===== */
 .header {
-  background: var(--text-primary);
+  background: var(--header-bg);
   padding: 14px 16px 12px;
   position: sticky;
   top: 0;
@@ -104,7 +120,6 @@ body {
 .main {
   flex: 1;
   padding: 16px;
-  padding-bottom: 72px; /* espaço para a histbar */
   max-width: 680px;
   width: 100%;
   margin: 0 auto;
@@ -208,57 +223,10 @@ body {
 
 .card-link:hover { text-decoration: underline; }
 
-/* ===== HISTORY BAR ===== */
-.histbar {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: var(--card);
-  border-top: 1px solid var(--border);
-  padding: 10px 16px;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  overflow-x: auto;
-  scrollbar-width: none;
-}
-
-.histbar::-webkit-scrollbar { display: none; }
-
-.histbar-label {
-  font-size: 0.63rem;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--text-secondary);
-  font-weight: 700;
-  white-space: nowrap;
-}
-
-.hist-btn {
-  font-size: 0.72rem;
-  padding: 4px 11px;
-  border-radius: 20px;
-  border: 1px solid var(--border);
-  background: var(--bg);
-  color: var(--text-secondary);
-  cursor: pointer;
-  white-space: nowrap;
-  font-family: var(--font-body);
-  transition: background 0.15s, color 0.15s, border-color 0.15s;
-}
-
-.hist-btn:hover,
-.hist-btn.active {
-  background: var(--text-primary);
-  color: #fff;
-  border-color: var(--text-primary);
-}
-
 /* ===== DESKTOP ===== */
 @media (min-width: 640px) {
-  .tab      { font-size: 0.8rem; padding: 13px 16px; }
-  .card     { padding: 20px; }
+  .tab         { font-size: 0.8rem; padding: 13px 16px; }
+  .card        { padding: 20px; }
   .card-titulo { font-size: 1.05rem; }
   .card-resumo { font-size: 0.9rem; }
 }

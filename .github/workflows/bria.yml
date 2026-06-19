@@ -2,11 +2,12 @@ name: BRIA — Pipeline Diário
 
 on:
   schedule:
-    - cron: '0 10 * * *'
+    - cron: '0 10 * * *'   # 7h horário de Brasília (UTC-3)
+    - cron: '0 15 * * *'   # 12h horário de Brasília (UTC-3)
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write            # ← necessário para o bot fazer push
 
 jobs:
   pipeline:
@@ -37,4 +38,5 @@ jobs:
           git config --global user.name "BRIA Bot"
           git add docs/briefings/
           git diff --staged --quiet || git commit -m "briefing $(date +%Y-%m-%d)"
+          git pull --rebase
           git push
