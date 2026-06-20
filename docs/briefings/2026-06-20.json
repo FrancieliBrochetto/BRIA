@@ -4,116 +4,80 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Trump anuncia acordo entre Apple e Intel para fabricação de chips nos EUA",
-      "resumo": "Presidente americano divulga parceria entre Apple e Intel para produção de chips, visando aliviar gargalos de fornecimento e fortalecer a indústria de semicondutores dos Estados Unidos.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/trump-diz-que-apple-vai-fabricar-chips-com-ajuda-da-intel/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Atualização do Windows 11 causa falhas em Office, OneDrive e Lixeira",
-      "resumo": "Patch Tuesday de junho de 2026 provoca bugs em alguns PCs, afetando inicialização de sistemas e gerando problemas visuais. Microsoft investiga impactos em componentes críticos do Windows.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/atualizacao-do-windows-11-causa-bugs-no-office-onedrive-e-ate-na-lixeira/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA & Modelos",
-      "titulo": "EUA ordena retirada dos modelos Fable 5 e Mythos 5 da Anthropic",
-      "resumo": "Governo americano força Anthropic a descontinuar modelos por preocupações com segurança nacional após pesquisadores descobrirem falha de segurança. Mais de 100 especialistas assinam carta criticando a decisão.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Reliance integra IA em serviços de telecom para 500 milhões de usuários",
-      "resumo": "Bilionário Ambani expande presença de inteligência artificial em chamadas, aplicativos e dispositivos domésticos através da maior operadora de telecom da Índia.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "SpaceX adquire Cursor, plataforma de desenvolvimento com IA",
-      "resumo": "SpaceX incorpora Cursor em sua estratégia de IA. Aquisição fortalece capacidades da empresa em ferramentas de desenvolvimento assistidas por inteligência artificial.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/cursor-officially-joins-the-spacex-ai-machine",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA & Produtividade",
-      "titulo": "Inteligência artificial redefinindo produtividade corporativa",
-      "resumo": "IA reduz atividades operacionais e eleva relevância de funções analíticas nas empresas. Tecnologia exige reposicionamento de profissionais para tarefas mais estratégicas.",
+      "titulo": "IA redefinindo produtividade corporativa",
+      "resumo": "Inteligência artificial está transformando o ambiente corporativo ao reduzir atividades operacionais e aumentar a relevância de funções analíticas. A tecnologia redefine o tipo de esforço exigido dos profissionais.",
       "fonte": "Olhar Digital",
       "url_original": "https://olhardigital.com.br/2026/06/20/colunistas/como-a-inteligencia-artificial-esta-redefinindo-a-produtividade-corporativa/",
       "idioma_original": "pt"
     },
     {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Presidente sanciona Lei de regulamentação da Reforma Tributária com vetos",
-      "resumo": "Lula edita Lei Complementar regulamentando Reforma Tributária com vetos ao PLP 68 de 2024. Mudanças na legislação tributária entram em vigor com ajustes executivos.",
-      "fonte": "Siga o Fisco",
-      "url_original": "https://sigaofisco.com.br/reforma-tributaria-x-vetos-ao-plp-68-de-2024/",
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "US bane modelos Fable 5 e Mythos de Anthropic por segurança nacional",
+      "resumo": "Governo americano forçou Anthropic a remover modelos Fable 5 e Mythos 5 citando preocupações de segurança nacional após pesquisadores da Amazon descobrirem modo de contornar proteções. Mais de 100 especialistas em segurança criticaram a decisão como prejudicial.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "IA na Contabilidade: transformação dos escritórios contábeis",
+      "resumo": "Inteligência artificial já transforma escritórios contábeis e jurídicos, automatizando tarefas operacionais e exigindo rápida adaptação dos profissionais. Tendência redefine competências necessárias no setor.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77555/ia-na-contabilidade-o-futuro-dos-escritorios-contabeis/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Windows 11 atualização causa bugs em Office, OneDrive e Lixeira",
+      "resumo": "Patch Tuesday de junho para Windows 11 causa falhas em vários PCs, incluindo problemas de inicialização e bugs visuais na Lixeira do sistema. Office e OneDrive também apresentam instabilidades.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/atualizacao-do-windows-11-causa-bugs-no-office-onedrive-e-ate-na-lixeira/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em São Paulo",
-      "resumo": "Contribuintes do ICMS de outros estados ficarão dispensados da obrigação de apresentar Guia de Informação e Apuração do ICMS Substituto em SP.",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária regulamentada com vetos presidenciais",
+      "resumo": "Presidente Lula sanciona Lei Complementar regulamentando a Reforma Tributária aprovada por Emenda Constitucional, com vetos ao PLP 68/2024. Reforma altera estrutura de tributação no Brasil.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "GIA-ST será eliminada em São Paulo a partir de julho de 2025",
+      "resumo": "Contribuintes do ICMS de outros estados serão dispensados da obrigatoriedade de apresentar GIA-ST em São Paulo. Mudança simplifica procedimentos para operações interestaduais.",
       "fonte": "Siga o Fisco",
       "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "Alterações no SPED 2024 para contribuintes",
-      "resumo": "Atualizações no Sistema Público de Escrituração Digital para 2024 implementam novas regras e exigências para empresas.",
-      "fonte": "Siga o Fisco",
-      "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "STF elimina exigência de idade mínima na aposentadoria especial",
-      "resumo": "Decisão do Supremo Tribunal Federal altera regras da Reforma da Previdência, removendo requisito de idade mínima para aposentadoria especial do INSS.",
+      "titulo": "STF elimina idade mínima na aposentadoria especial do INSS",
+      "resumo": "Decisão do STF altera regras da Reforma da Previdência, eliminando exigência de idade mínima para aposentadoria especial. Mudança beneficia trabalhadores em atividades insalubres.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/77560/stf-altera-regras-do-inss-com-fim-da-idade-minima-na-aposentadoria-especial/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "STJ valida venda de imóvel por sócio de empresa com dívida fiscal",
-      "resumo": "Superior Tribunal de Justiça reconhece validade da venda de imóvel por sócio quando não há redirecionamento formal da execução fiscal contra a empresa.",
+      "subtema": "Leis Novas",
+      "titulo": "STJ valida venda de imóvel por sócio com dívida fiscal da empresa",
+      "resumo": "Superior Tribunal de Justiça decidiu que venda de imóvel por sócio é válida mesmo com dívida fiscal pendente da empresa, quando não há redirecionamento formal da execução.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/77552/stj-valida-venda-de-imovel-por-socio-de-empresa-com-divida-fiscal/",
       "idioma_original": "pt"
     },
     {
-      "tema": "IA & Tech",
-      "subtema": "IA & Contabilidade",
-      "titulo": "Inteligência artificial transforma o futuro dos escritórios contábeis",
-      "resumo": "IA automatiza tarefas em escritórios contábeis e jurídicos, exigindo rápida adaptação e capacitação dos profissionais da área.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77555/ia-na-contabilidade-o-futuro-dos-escritorios-contabeis/",
-      "idioma_original": "pt"
-    },
-    {
       "tema": "Mercado Financeiro",
-      "subtema": "Crédito & Negócios",
-      "titulo": "Novo Desenrola renegocia R$ 15,6 bilhões em dívidas de pequenos negócios",
-      "resumo": "Programa já realizou mais de 121 mil operações, ajudando micro e pequenas empresas a reorganizar fluxo de caixa diante do crédito caro e alta inadimplência.",
+      "subtema": "Ações",
+      "titulo": "Programa Novo Desenrola renegocia R$ 15,6 bi em dívidas de pequenos negócios",
+      "resumo": "Programa já soma 121 mil operações ajudando micro e pequenas empresas a reorganizarem caixa e negociar dívidas em contexto de crédito caro e alta inadimplência.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/77557/novo-desenrola-renegocia-r-15-6-bilhoes-em-dividas-de-pequenos-negocios/",
       "idioma_original": "pt"
