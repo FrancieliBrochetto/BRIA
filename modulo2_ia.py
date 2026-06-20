@@ -26,7 +26,7 @@ REGRAS:
 TEMAS E SUBTEMAS VÁLIDOS:
 - IA & Tech: ChatGPT, Gemini, Claude, Python, Automação
 - Mercado Financeiro: Selic, Câmbio, FIIs, Ações, Opções, Cripto
-- Contabilidade & Legislação: SPED, Nota Fiscal, eSocial, Leis Novas, Imposto de Renda
+- Contabilidade & Legislação: SPED, Nota Fiscal, eSocial, Leis Novas, Imposto de Renda, Reforma Tributária
 
 FORMATO DE SAÍDA (JSON):
 {
