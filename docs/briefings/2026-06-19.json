@@ -4,127 +4,154 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Elastic adquire DeductiveAI por até US$ 85 milhões",
-      "resumo": "Empresa de software Elastic fechou acordo para comprar a startup DeductiveAI, que usa IA para detectar e resolver bugs em código. A aquisição reforça aposta em automação e qualidade de software.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Startup Baseten levanta US$ 1,5 bilhão em rodada de investimento",
-      "resumo": "Baseten, focada em inferência de IA, está finalizando rodada de US$ 1,5 bilhão com avaliação de US$ 13 bilhões. Movimento reflete corrida por infraestrutura de execução de modelos de IA.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Snap cria empresa independente Dotmo focada em vídeo com IA",
-      "resumo": "Snapchat separa divisão de vídeo e cria Dotmo para reduzir custos operacionais. Equipe interna responsável pelo desenvolvimento de IA para vídeo se torna empresa independente.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Cursor é oficialmente adquirida por SpaceX",
-      "resumo": "Editor de código com assistência de IA Cursor passa a integrar estrutura da SpaceX. Movimento consolida atuação de Elon Musk em ferramentas de desenvolvimento assistidas por inteligência artificial.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/cursor-officially-joins-the-spacex-ai-machine",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "SPED 2024 apresenta alterações regulatórias",
-      "resumo": "Sistema Público de Escrituração Fiscal Digital sofreu mudanças em 2024. Empresas devem se adequar às novas obrigações e procedimentos do SPED atualizado.",
-      "fonte": "Siga o Fisco",
-      "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
+      "titulo": "Trump anuncia acordo Apple-Intel para fabricação de chips nos EUA",
+      "resumo": "Trump afirma que Apple vai fabricar chips com ajuda da Intel em acordo que deve aliviar gargalos produtivos e fortalecer a indústria americana de semicondutores.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/trump-diz-que-apple-vai-fabricar-chips-com-ajuda-da-intel/",
       "idioma_original": "pt"
     },
     {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Nota Fiscal",
-      "titulo": "NT 009 da NFS-e: Reforma Tributária transforma documentos fiscais",
-      "resumo": "Nota Técnica atualiza regras de Nota Fiscal de Serviço Eletrônica. Reforma Tributária implementa mudanças que afetam emissão de documentos e rotinas de empresas e municípios.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77551/nt-009-da-nfs-e-como-a-reforma-tributaria-esta-transformando-os-documentos-fiscais/",
+      "tema": "IA & Tech",
+      "subtema": "IA & Tech",
+      "titulo": "Atualização do Windows 11 causa bugs no Office, OneDrive e Lixeira",
+      "resumo": "Patch Tuesday de junho de 2026 para Windows 11 provocou falhas em PCs, incluindo problemas de inicialização e bugs visuais na Lixeira do sistema operacional.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/atualizacao-do-windows-11-causa-bugs-no-office-onedrive-e-ate-na-lixeira/",
       "idioma_original": "pt"
     },
     {
+      "tema": "IA & Tech",
+      "subtema": "IA & Tech",
+      "titulo": "Shadow AI: riscos do uso não autorizado de IA nas empresas",
+      "resumo": "O uso escondido de ferramentas de IA já é realidade em grande parte das empresas e preocupa especialistas por representar riscos de segurança e conformidade.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/06/19/inteligencia-artificial/shadow-ai-voce-ja-usou-ia-escondido-no-trabalho-o-risco-pode-ser-maior-do-que-voce-pensa/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Trump não vê mais Anthropic como ameaça à segurança nacional",
+      "resumo": "Em entrevista ao Axios, Trump elogiou a resposta da Anthropic ao bloqueio dos modelos Fable 5 e Mythos, sinalizando mudança na posição governamental sobre a empresa.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/06/19/pro/trump-diz-que-nao-ve-mais-anthropic-como-ameaca-a-seguranca-nacional/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Governo dos EUA banindo Fable 5 e Mythos da Anthropic por questões de segurança",
+      "resumo": "EUA forçou Anthropic a remover seus dois novos modelos citando preocupações de segurança nacional, mas mais de 100 pesquisadores de segurança cibernética contestam a medida em carta aberta.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Reliance integra IA em serviços de telecom para 500+ milhões de usuários",
+      "resumo": "Bilionário Ambani quer incorporar IA em chamadas, aplicativos e sistemas domésticos através dos serviços de telecomunicações da Reliance na Índia.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Tech",
+      "titulo": "SpaceX adquire Cursor, editor de código com IA",
+      "resumo": "Cursor, plataforma de desenvolvimento com IA integrada, agora faz parte da divisão de IA da SpaceX, sinalizando investimento em ferramentas de programação assistidas por IA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/the-state-of-fable-the-jailbreak-problem-spacex-acquires-cursor/",
+      "idioma_original": "en"
+    },
+    {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Reforma Tributária é regulamentada com vetos presidenciais",
-      "resumo": "Presidente Lula sanciona Lei Complementar que regulamenta Reforma Tributária aprovada por Emenda Constitucional. Regulamentação inclui vetos ao PLP 68 de 2024.",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária é regulamentada pelo governo Lula",
+      "resumo": "Presidente Lula edita Lei Complementar regulamentando a Reforma Tributária aprovada pela Emenda Constitucional, definindo regras operacionais para implementação.",
       "fonte": "Siga o Fisco",
       "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "RFB identifica R$ 920 milhões em compensações irregulares",
-      "resumo": "Receita Federal alerta sobre uso indevido de créditos de terceiros para compensação de tributos. Consultoria oferecendo essa facilidade é investigada por irregularidades.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77538/rfb-identifica-r-920-mi-em-compensacoes-irregulares-com-creditos-de-terceiros/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "PL responsabiliza sócios por dívidas de empresas encerradas",
-      "resumo": "Projeto de Lei altera Código Civil para definir responsabilidade de sócios sobre débitos pendentes após extinção empresarial. Afeta questões com credores, trabalhadores e setor público.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77540/pl-responsabiliza-socios-por-dividas-de-empresas-encerradas/",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária regulamentada com vetos ao PLP 68 de 2024",
+      "resumo": "Presidente sanciona Lei que regulamenta Reforma Tributária com vetos específicos ao PLP 68 de 2024, ajustando aspectos da implementação.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-x-vetos-ao-plp-68-de-2024/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "SPED",
-      "titulo": "RFB lança Painel Receita com inteligência de negócios",
-      "resumo": "Receita Federal amplia acesso a ferramenta gratuita que transforma dados fiscais em inteligência estratégica. Beneficia empresas e contadores na tomada de decisão.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77542/rfb-lanca-painel-receita-com-dados-estrategicos-para-empresas/",
+      "titulo": "SPED 2024 – Principais alterações",
+      "resumo": "Confira as alterações implementadas no SPED 2024 que afetam a escrituração fiscal digital de empresas.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Simples Nacional: adesão muda para setembro com novo cronograma",
-      "resumo": "Adesão ao Simples Nacional passa a ocorrer em setembro de 2026, exigindo planejamento tributário prévio. Mudança requer atenção para evitar pendências fiscais.",
+      "subtema": "Legislação",
+      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em SP",
+      "resumo": "Contribuintes do ICMS de outros Estados serão dispensados da Guia de Informação e Apuração de ICMS a partir de julho de 2025 em São Paulo.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Influenciadores que promoverem apostas ilegais serão responsabilizados tributariamente",
+      "resumo": "Governo federal acionará responsabilidade fiscal solidária contra influenciadores que divulgarem apostas ilegais, cobrando IR, PIS/Cofins e demais tributos devidos.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/06/19/influencers-que-divulgarem-apostas-ilegais-serao-responsabilizados-diz-governo.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Governo planeja manter carga tributária sobre bebidas e cigarro durante transição do imposto seletivo",
+      "resumo": "Ministro da Fazenda afirma que não há intenção de adiar o imposto seletivo (imposto do pecado) previsto para 2027, mantendo carga tributária atual em processo de transição.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/06/19/imposto-do-pecado-ideia-e-manter-em-transicao-o-atual-peso-de-tributos-para-bebidas-alcoolicas-e-cigarros-diz-ministro-da-fazenda.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "STF altera regras do INSS eliminando idade mínima na aposentadoria especial",
+      "resumo": "Decisão do STF altera regras da Reforma da Previdência e extingue exigência de idade mínima para aposentadoria especial do INSS.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77523/mudanca-no-simples-nacional-exige-planejamento-antecipado/",
+      "url_original": "https://www.contabeis.com.br/noticias/77560/stf-altera-regras-do-inss-com-fim-da-idade-minima-na-aposentadoria-especial/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "STJ valida venda de imóvel por sócio de empresa com dívida fiscal",
+      "resumo": "STJ decide que venda de imóvel por sócio de empresa com dívida fiscal é válida quando não há redirecionamento formal da execução.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77552/stj-valida-venda-de-imovel-por-socio-de-empresa-com-divida-fiscal/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "IA & Tech",
+      "titulo": "IA na Contabilidade: transformação dos escritórios contábeis",
+      "resumo": "Inteligência artificial já transforma escritórios jurídicos e contábeis, automatizando tarefas e exigindo rápida adaptação dos profissionais da área.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77555/ia-na-contabilidade-o-futuro-dos-escritorios-contabeis/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
-      "subtema": "Câmbio",
-      "titulo": "Dólar cai com negociações EUA-Irã; Ibovespa avança",
-      "resumo": "Dólar registra queda de 0,45% para R$ 5,1506 nesta sexta. Ibovespa sobe 0,11% aos 168.465 pontos, impulsionado por expectativa de paz no Oriente Médio.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/06/19/dolar-ibovespa.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "China expressa interesse em parceria com Brasil sobre Pix",
-      "resumo": "Banco Central da China sinaliza interesse em cooperação com Brasil sobre sistema de pagamentos Pix. Mecanismo pode facilitar transferências internacionais no Mercosul.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/economia/governo-chines-aponta-interesse-em-parceria-com-o-brasil-sobre-o-pix/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Cripto",
-      "titulo": "Governo congela recursos de bets ilegais para fundo de segurança pública",
-      "resumo": "Governo federal anuncia bloqueio de recursos provenientes de apostas ilegais com transferência para fundo de segurança. Medida respeita processo legal e visa combate ao crime.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/06/19/governo-vai-congelar-recursos-de-bets-ilegais-e-enviar-ao-fundo-de-seguranca-publica-diz-ministro-da-fazenda.ghtml",
+      "subtema": "Legislação",
+      "titulo": "Novo Desenrola renegocia R$ 15,6 bilhões em dívidas de pequenos negócios",
+      "resumo": "Programa já registra mais de 121 mil operações e auxilia micro e pequenas empresas a reorganizarem o caixa ante crédito caro e alta inadimplência.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77557/novo-desenrola-renegocia-r-15-6-bilhoes-em-dividas-de-pequenos-negocios/",
       "idioma_original": "pt"
     }
   ]
