@@ -3,45 +3,81 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "IA redefinindo produtividade corporativa",
-      "resumo": "Inteligência artificial está transformando o ambiente corporativo ao reduzir atividades operacionais e aumentar a relevância de funções analíticas. A tecnologia redefine o tipo de esforço exigido dos profissionais.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/06/20/colunistas/como-a-inteligencia-artificial-esta-redefinindo-a-produtividade-corporativa/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "US bane modelos Fable 5 e Mythos de Anthropic por segurança nacional",
-      "resumo": "Governo americano forçou Anthropic a remover modelos Fable 5 e Mythos 5 citando preocupações de segurança nacional após pesquisadores da Amazon descobrirem modo de contornar proteções. Mais de 100 especialistas em segurança criticaram a decisão como prejudicial.",
-      "fonte": "TechCrunch AI",
+      "titulo": "Governo dos EUA força Anthropic a remover modelos Fable 5 e Mythos",
+      "resumo": "O governo americano obrigou a Anthropic a retirar seus modelos Fable 5 e Mythos por preocupações com segurança nacional, após pesquisadores da Amazon descobrirem uma forma de contornar as proteções do Fable 5. Mais de 100 especialistas em segurança cibernética criticam a decisão como contraproducente.",
+      "fonte": "TechCrunch AI / The Rundown AI",
       "url_original": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "IA na Contabilidade: transformação dos escritórios contábeis",
-      "resumo": "Inteligência artificial já transforma escritórios contábeis e jurídicos, automatizando tarefas operacionais e exigindo rápida adaptação dos profissionais. Tendência redefine competências necessárias no setor.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77555/ia-na-contabilidade-o-futuro-dos-escritorios-contabeis/",
-      "idioma_original": "pt"
+      "subtema": "IA Geral",
+      "titulo": "Reliance integra IA em serviços de telecom para 500 milhões de usuários",
+      "resumo": "O bilionário Ambani está incorporando IA em chamadas, aplicativos e sistemas residenciais através da Reliance, atingindo mais de 500 milhões de pessoas em serviços de telecomunicações.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "SpaceX adquire Cursor para fortalecer divisão de IA",
+      "resumo": "A SpaceX completou a aquisição do Cursor, ferramenta de desenvolvimento assistida por IA, consolidando sua estratégia na área de inteligência artificial.",
+      "fonte": "The Rundown AI / Stratechery",
+      "url_original": "https://www.therundown.ai/p/cursor-officially-joins-the-spacex-ai-machine",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Windows 11 atualização causa bugs em Office, OneDrive e Lixeira",
-      "resumo": "Patch Tuesday de junho para Windows 11 causa falhas em vários PCs, incluindo problemas de inicialização e bugs visuais na Lixeira do sistema. Office e OneDrive também apresentam instabilidades.",
+      "titulo": "Participação de mercado do ChatGPT cai apesar de novos lançamentos",
+      "resumo": "A quota de mercado do ChatGPT registra queda mesmo com o lançamento de novas versões e funcionalidades, sugerindo aumento da concorrência no mercado de IA generativa.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-06-18",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "DeepSeek levanta US$ 7,4 bilhões em nova rodada de financiamento",
+      "resumo": "A startup chinesa de IA DeepSeek fecha rodada de financiamento no valor de US$ 7,4 bilhões, consolidando posição entre os principais players globais de inteligência artificial.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-06-17",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Trump anuncia parceria Apple-Intel para fabricação de chips",
+      "resumo": "Segundo Trump, Apple vai fabricar chips com ajuda da Intel em acordo que promete aliviar gargalos produtivos e alocar bilhões para fábricas americanas.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/atualizacao-do-windows-11-causa-bugs-no-office-onedrive-e-ate-na-lixeira/",
+      "url_original": "https://tecnoblog.net/noticias/trump-diz-que-apple-vai-fabricar-chips-com-ajuda-da-intel/",
       "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Google Gemini amplia capacidades para preparação de reuniões",
+      "resumo": "Google Gemini agora permite economizar horas na preparação de reuniões através de automação de tarefas de planejamento e síntese de informações.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/step-into-midjourney-s-spa-for-a-body-scan",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Perplexity lança ferramenta Finance para análise de ações",
+      "resumo": "Perplexity Finance oferece nova funcionalidade para conduzir pesquisa de ações com melhor qualidade, utilizando capacidades de busca avançada da plataforma.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/cursor-officially-joins-the-spacex-ai-machine",
+      "idioma_original": "en"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Reforma Tributária regulamentada com vetos presidenciais",
-      "resumo": "Presidente Lula sanciona Lei Complementar regulamentando a Reforma Tributária aprovada por Emenda Constitucional, com vetos ao PLP 68/2024. Reforma altera estrutura de tributação no Brasil.",
+      "titulo": "Presidente Lula regulamenta Reforma Tributária com vetos ao PLP 68",
+      "resumo": "Lei Complementar regulamenta a Reforma Tributária com ajustes incluindo vetos presidenciais ao PLP 68 de 2024, alterando cronograma e escopo de implementação.",
       "fonte": "Siga o Fisco",
       "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
       "idioma_original": "pt"
@@ -50,16 +86,25 @@
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
       "titulo": "GIA-ST será eliminada em São Paulo a partir de julho de 2025",
-      "resumo": "Contribuintes do ICMS de outros estados serão dispensados da obrigatoriedade de apresentar GIA-ST em São Paulo. Mudança simplifica procedimentos para operações interestaduais.",
+      "resumo": "Contribuintes do ICMS de outros estados estarão dispensados da apresentação da GIA-ST a partir de julho de 2025, simplificando obrigações acessórias em São Paulo.",
       "fonte": "Siga o Fisco",
       "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
+      "subtema": "SPED",
+      "titulo": "Alterações no SPED 2024 requerem atenção de contribuintes",
+      "resumo": "Mudanças implementadas no SPED 2024 exigem revisão das rotinas de transmissão de informações por parte dos contribuintes.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
       "titulo": "STF elimina idade mínima na aposentadoria especial do INSS",
-      "resumo": "Decisão do STF altera regras da Reforma da Previdência, eliminando exigência de idade mínima para aposentadoria especial. Mudança beneficia trabalhadores em atividades insalubres.",
+      "resumo": "Decisão do Supremo Tribunal Federal altera regras da Reforma da Previdência e remove requisito de idade mínima para concessão de aposentadoria especial.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/77560/stf-altera-regras-do-inss-com-fim-da-idade-minima-na-aposentadoria-especial/",
       "idioma_original": "pt"
@@ -67,19 +112,19 @@
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "STJ valida venda de imóvel por sócio com dívida fiscal da empresa",
-      "resumo": "Superior Tribunal de Justiça decidiu que venda de imóvel por sócio é válida mesmo com dívida fiscal pendente da empresa, quando não há redirecionamento formal da execução.",
+      "titulo": "Reforma Tributária impacta estrutura de escritórios de contabilidade",
+      "resumo": "Reforma Tributária gera transformações nos setores fiscal, contábil, consultivo, comercial, tecnológico e de RH dos escritórios de contabilidade, exigindo planejamento estratégico.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77552/stj-valida-venda-de-imovel-por-socio-de-empresa-com-divida-fiscal/",
+      "url_original": "https://www.contabeis.com.br/noticias/77501/do-fiscal-ao-dp-como-preparar-o-escritorio-de-contabilidade-para-a-reforma-tributaria/",
       "idioma_original": "pt"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Programa Novo Desenrola renegocia R$ 15,6 bi em dívidas de pequenos negócios",
-      "resumo": "Programa já soma 121 mil operações ajudando micro e pequenas empresas a reorganizarem caixa e negociar dívidas em contexto de crédito caro e alta inadimplência.",
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "IA na contabilidade avança em tarefas básicas mas depende de supervisão",
+      "resumo": "Estudo aponta que uso de IA na contabilidade concentra-se em automação de processos básicos, enquanto tarefas técnicas complexas ainda exigem validação de profissionais.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77557/novo-desenrola-renegocia-r-15-6-bilhoes-em-dividas-de-pequenos-negocios/",
+      "url_original": "https://www.contabeis.com.br/noticias/77504/ia-na-contabilidade-automacao-avanca-mas-ainda-depende-dos-contadores/",
       "idioma_original": "pt"
     }
   ]
