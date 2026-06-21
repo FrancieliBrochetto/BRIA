@@ -3,119 +3,92 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Apple fabricará chips com ajuda da Intel, segundo Trump",
-      "resumo": "Trump anuncia acordo entre Apple e Intel para fabricação de chips nos Estados Unidos. Acordo visa aliviar gargalos produtivos e investimento bilionário em fábricas americanas.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/trump-diz-que-apple-vai-fabricar-chips-com-ajuda-da-intel/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Pesquisador Nobel John Jumper deixa DeepMind e vai para Anthropic",
-      "resumo": "Jumper, laureado com prêmio Nobel, sai do Google DeepMind para se juntar à rival Anthropic. Movimento representa fuga de talentos da empresa de IA do Google.",
+      "titulo": "Nobel da Química John Jumper deixa DeepMind para Anthropic",
+      "resumo": "Pesquisador vencedor do Prêmio Nobel abandona o Google DeepMind para se juntar à Anthropic, sinalizando movimento de talentos entre gigantes de IA.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Governo dos EUA força Anthropic a retirar modelos Mythos e Fable",
-      "resumo": "Anthropic retira seus dois modelos mais recentes (Fable 5 e Mythos 5) após ordem do governo americano por razões de segurança nacional. Pesquisadores afirmam que a ação prejudica segurança cibernética.",
+      "subtema": "Automação",
+      "titulo": "Apple anuncia recursos de IA no iOS 27 além de Siri",
+      "resumo": "iPhone receberá múltiplos recursos de inteligência artificial integrados no iOS 27, expandindo funcionalidades além da renovação do assistente Siri.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/06/20/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "url_original": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Chatbots de IA não são seus amigos, alerta Meredith Whittaker do Signal",
-      "resumo": "Executiva do Signal enfatiza que chatbots de IA não são seres conscientes ou sentientes. Mensagem visa estabelecer expectativas realistas sobre os limites dessas tecnologias.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-      "idioma_original": "en"
+      "titulo": "Custos de IA forçam empresas a impor limites de uso para funcionários",
+      "resumo": "Amazon, Walmart, Uber e Meta adotam restrições e incentivos para controlar gastos com modelos avançados de IA, refletindo preocupações com custos operacionais.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/negocios/conta-da-ia-chega-as-empresas-e-forca-limites-para-funcionarios/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Automação libera profissionais de tarefas repetitivas, mas exige mais análise",
+      "resumo": "Inteligência artificial e automação reduzem trabalho repetitivo, aumentando demanda por capacidade analítica e pensamento crítico dos profissionais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77465/automacao-aumenta-demanda-por-analise-no-trabalho/",
+      "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Python",
-      "titulo": "SpaceX adquire Cursor, plataforma de codificação com IA",
-      "resumo": "Cursor, ferramenta de desenvolvimento com inteligência artificial integrada, é adquirida pela SpaceX. Movimento reforça interesse das grandes empresas em tools de programação assistida por IA.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/cursor-officially-joins-the-spacex-ai-machine",
+      "titulo": "SpaceX adquire Cursor, ferramenta de desenvolvimento com IA",
+      "resumo": "Cursor, editor de código com inteligência artificial, foi adquirida pela SpaceX como parte da estratégia de reforço em tecnologia de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
       "idioma_original": "en"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Presidente Lula regulamenta Reforma Tributária com vetos ao PLP 68",
-      "resumo": "Lei Complementar regulamenta a Reforma Tributária com alguns vetos ao projeto original. Mudança traz implicações para sistemas tributários em transição.",
+      "titulo": "Reforma Tributária é regulamentada com vetos do Presidente",
+      "resumo": "Presidente Lula sanciona Lei Complementar regulamentando Reforma Tributária aprovada pela Emenda Constitucional, com vetos ao PLP 68 de 2024.",
       "fonte": "Siga o Fisco",
-      "url_original": "https://sigaofisco.com.br/reforma-tributaria-x-vetos-ao-plp-68-de-2024/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "CBS: empresas devem revisar créditos de PIS/Cofins antes de 2027",
-      "resumo": "Com chegada da CBS em 2027, empresas precisam revisar e comprovar créditos de PIS/Cofins para não perder aproveitamentos. Especialistas alertam sobre importância da documentação.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77503/cbs-atencao-aos-creditos-de-pis-cofins-antes-da-transicao-para-2027/",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "SPED",
-      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em São Paulo",
-      "resumo": "Contribuintes do ICMS de outros Estados serão dispensados da GIA-ST a partir de julho de 2025 em SP. Medida simplifica obrigações acessórias para empresas localizadas fora do estado.",
-      "fonte": "Siga o Fisco",
-      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "Alterações no SPED 2024 — confira as mudanças",
-      "resumo": "SPED 2024 passou por alterações importantes que profissionais precisam conhecer para manter conformidade nas obrigações acessórias.",
+      "titulo": "SPED 2024 apresenta alterações em padrões de declaração",
+      "resumo": "Sistema Público de Escrituração Digital passa por mudanças em 2024; empresas devem conhecer novas exigências para manter compliance.",
       "fonte": "Siga o Fisco",
       "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em São Paulo",
+      "resumo": "Contribuintes do ICMS estabelecidos em outros Estados serão dispensados da apresentação de GIA-ST, simplificando obrigações fiscais estaduais.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "ITCMD: alteração na Lei Complementar 227 pode aumentar custo de heranças",
-      "resumo": "Lei Complementar 227 altera cálculo do imposto sobre transmissão de bens e direitos hereditários. Especialistas recomendam planejamento patrimonial urgente antes de adaptação dos Estados.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/minhas-financas/mudanca-no-itcmd-pode-aumentar-custo-de-herancas-e-holdings-familiares/",
+      "titulo": "CBS exige atenção a créditos de PIS/Cofins antes de 2027",
+      "resumo": "Empresas devem revisar processos para garantir aproveitamento de créditos de PIS/Cofins durante transição para Contribuição sobre Serviços (CBS) em 2027.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77503/cbs-atencao-aos-creditos-de-pis-cofins-antes-da-transicao-para-2027/",
       "idioma_original": "pt"
     },
     {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "eSocial",
-      "titulo": "NR-1 desafia empresas no mapeamento de riscos psicossociais",
-      "resumo": "Norma Regulamentadora exige identificação e gestão de riscos psicossociais, mas empresas enfrentam dificuldades na implementação. Especialistas apontam soluções para compliance.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77518/nr-1-desafia-empresas-no-mapeamento-de-riscos-psicossociais/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "IA na contabilidade: automação avança mas ainda depende dos contadores",
-      "resumo": "Levantamento mostra que IA em contabilidade concentra-se em tarefas básicas, enquanto processos técnicos ainda exigem supervisão humana. Tecnologia é ferramenta de apoio, não substituição.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77504/ia-na-contabilidade-automacao-avanca-mas-ainda-depende-dos-contadores/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Reforma Tributária: como preparar escritório de contabilidade para mudanças",
-      "resumo": "Reforma impactará setores fiscal, contábil, consultivo, comercial, tecnológico e RH. Escritórios devem se preparar com antecedência para adaptar operações.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77501/do-fiscal-ao-dp-como-preparar-o-escritorio-de-contabilidade-para-a-reforma-tributaria/",
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Consumo segue forte apesar de juros altos e dívida recorde",
+      "resumo": "Economia brasileira apresenta fenômeno econômico inusitado: consumo permanece elevado mesmo com taxa Selic em queda e endividamento em patamares recordes.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/06/21/por-que-o-consumo-segue-forte-mesmo-com-juros-altos.ghtml",
       "idioma_original": "pt"
     }
   ]
