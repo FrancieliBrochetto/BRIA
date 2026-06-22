@@ -1,0 +1,185 @@
+{
+  "data": "2026-06-22",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Intel e AMD publicam padrão ACE para IA em processadores x86",
+      "resumo": "Intel e AMD lançaram a especificação 1.15 do padrão ACE, permitindo que CPUs x86 executem tarefas de inteligência artificial localmente. O padrão abre caminho para processamento de IA descentralizado em computadores convencionais.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/como-intel-e-amd-querem-fazer-chips-x86-lidarem-com-tarefas-de-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA",
+      "titulo": "SK Hynix supera Samsung em valor de mercado pela primeira vez",
+      "resumo": "Impulsionada pelo boom dos chips de IA, a SK Hynix ultrapassou a Samsung em capitalização de mercado após mais de duas décadas. A mudança reflete a demanda crescente por semicondutores para inteligência artificial.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/samsung-perde-a-coroa-para-sk-hynix-apos-mais-de-duas-decadas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "CEO da Microsoft critica monopólios no setor de IA",
+      "resumo": "Satya Nadella, presidente da Microsoft, alertou que a concentração de poder em poucas gigantes de IA é prejudicial ao mercado. Ele defendeu modelos de inteligência artificial mais acessíveis e com menor custo.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/ceo-da-microsoft-diz-que-monopolios-de-ia-sao-um-problema/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Pesquisador premiado com Nobel deixa Google para Anthropic",
+      "resumo": "Um dos principais pesquisadores do Google, ganhador de prêmio Nobel, se junta à Anthropic. A mudança reforça a competição entre grandes empresas de IA pela melhor talento.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA",
+      "titulo": "Amazon testa Alexa+ com suporte a Hindi na Índia",
+      "resumo": "Amazon está expandindo seu assistente de IA conversacional Alexa+ para a Índia e convida usuários a testar versão em idioma Hindi. O teste marca a estratégia da empresa de localizar produtos de IA em diferentes mercados.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA",
+      "titulo": "SpaceX fecha acordo de US$ 150 mi/mês com Reflection AI para processamento",
+      "resumo": "Reflection AI pagará US$ 150 milhões mensais a SpaceX por acesso imediato aos chips de IA GB300 da Nvidia no data center Colossus 2, em Memphis, de julho de 2026 a 2029.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA",
+      "titulo": "Apple Intelligence chega ao iOS 27 com novos recursos de IA",
+      "resumo": "Apple apresenta funcionalidades de IA em iOS 27 além da reformulação do Siri, incluindo integração de inteligência artificial em aplicativos do sistema. Os recursos focam em melhorias práticas do dia a dia.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA",
+      "titulo": "Wikipédia rejeita edições diretas de IA para evitar desinformação",
+      "resumo": "Jimmy Wales, cofundador da Wikipédia, afirmou que a enciclopédia não permitirá que IA edite artigos diretamente na plataforma. A decisão se baseia no risco de sistemas automatizados gerar informações falsas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/06/22/wikipedia-ia-artigos.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA",
+      "titulo": "Cursor se junta oficialmente à máquina de IA da SpaceX",
+      "resumo": "Cursor, plataforma de desenvolvimento de IA, é adquirida pela SpaceX como parte da estratégia de consolidação de tecnologia. A aquisição integra ferramentas de desenvolvimento ao ecossistema de IA da empresa.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/cursor-officially-joins-the-spacex-ai-machine",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA",
+      "titulo": "Administração Trump enfrenta críticas sobre proibição do modelo Fable 5",
+      "resumo": "Mais de 100 especialistas em segurança criticam a proibição do modelo Fable 5 da Anthropic, argumentando que a medida pode ser contraproducente. Debate envolve regulação governamental de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/why-100-security-experts-say-the-fable-5-ban-backfires",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA",
+      "titulo": "Vazamento de dados expõe Apple e Tesla após ataque à fornecedora Tata",
+      "resumo": "Tata Electronics detectou incidente de segurança cibernética com exposição de dados de design e especificações da Apple e Tesla. Pesquisadores indicam publicação de documentos confidenciais por grupo de ransomware.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/06/22/vazamento-dados-apple-tesla-tata-electronics-resgate.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária é regulamentada com vetos presidenciais",
+      "resumo": "Presidente Lula sanciona Lei Complementar regulamentando a Reforma Tributária, mas com vetos ao PLP 68 de 2024. Medida estabelece novos marcos para sistema tributário brasileiro.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita libera consulta ao 2º lote de restituição do IRPF 2026",
+      "resumo": "A partir de 23 de junho, contribuintes podem consultar o segundo lote de restituição do Imposto de Renda 2026. Pagamento será feito em 30 de junho, totalizando R$ 16 bilhões para 9,58 milhões de pessoas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/06/22/irpf-segundo-lote-consulta.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Agenda tributária de junho: ECD e PGDAS-D vencem até final do mês",
+      "resumo": "Prazos críticos de junho incluem entrega da ECD (Escrituração Contábil Digital), PGDAS-D, DCTFWeb, DOI e DME. Atrasos resultam em multas para pessoas jurídicas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77570/agenda-tributaria-de-junho-ecd-e-mais-vencem-nesta-reta-final/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em São Paulo",
+      "resumo": "Contribuintes do ICMS estabelecidos em outros estados serão dispensados da Guia de Informação e Apuração do ICMS-ST a partir de julho de 2025. Simplificação afeta obrigações acessórias estaduais.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "SPED 2024 sofre alterações em declarações de imposto",
+      "resumo": "Sistema Público de Escrituração Digital foi atualizado em 2024 com novas regras de declaração. Contribuintes devem se adequar às modificações para conformidade.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Simples Nacional: cálculo correto do ICMS-ST em SP",
+      "resumo": "Análise aponta que redução do ICMS prevista no Anexo II do RICMS/00 não se aplica ao ICMS-ST. Simples Nacional deve revisar cálculos de impostos sobre produtos alimentícios.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/simples-nacional-e-o-calculo-do-icms-st-sobre-produtos-alimenticios-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "MP amplia monitoramento de benefícios do INSS",
+      "resumo": "Medida Provisória 1369/26 expande Programa de Gerenciamento de Benefícios do INSS para processos com mais de 30 dias e prazos judiciais expirados. Intensifica fiscalização de benefícios previdenciários.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77576/mp-amplia-monitoramento-de-beneficios-no-inss/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Planejamento tributário será decisivo para empresas na reforma",
+      "resumo": "Bernard Appy alerta que empresas não preparadas para a reforma tributária podem perder competitividade e até falir. Planejamento estratégico é essencial para sobrevivência no novo sistema.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77574/planejamento-sera-decisivo-para-empresas-na-reforma-tributaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Meu INSS atualiza Procuração Eletrônica com solicitação por terceiros",
+      "resumo": "MGI moderniza Procuração Eletrônica no Meu INSS permitindo que terceiros autorizados iniciem pedido de representação no GOV.BR. Facilita gestão de procurações digitais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77573/meu-inss-atualiza-procuracao-eletronica-e-permite-solicitacao-por-terceiros/",
+      "idioma_original": "pt"
+    }
+  ]
+}
