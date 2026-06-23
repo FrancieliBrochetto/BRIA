@@ -1,0 +1,194 @@
+{
+  "data": "2026-06-23",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Advogado recebe multa por tentar manipular IA do judiciário",
+      "resumo": "Um advogado foi multado em R$ 32,8 mil na Paraíba após tentar usar prompt injection para manipular sistemas de IA utilizados pelo tribunal. A decisão reforça consequências legais para abuso de ferramentas de inteligência artificial em processos judiciais.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/advogado-tenta-prompt-injection-de-ia-e-recebe-multa-de-r-328-mil/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "OpenAI lança iniciativa para encontrar e corrigir bugs em código aberto",
+      "resumo": "OpenAI apresentou novo programa usando IA para ajudar a comunidade de código aberto a identificar e corrigir vulnerabilidades de segurança. Iniciativa visa fortalecer a proteção de projetos de software aberto.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "IA agentic evolui com modelos 'loopy' que trabalham continuamente",
+      "resumo": "Novo conceito de IA agentic chamado 'loopy' autoriza múltiplos agentes a trabalharem continuamente em background. Tecnologia avança a capacidade de automação sem intervenção humana constante.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Desemprego em tech: principais layoffs de 2026 com IA como fator",
+      "resumo": "Lista de grandes empresas tech que anunciaram demissões significativas em 2026 citando IA como motivo. Tendência reflete impacto de automação em postos de trabalho do setor.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Groq levanta US$ 650 mi e reconstrói time após saída de executivos",
+      "resumo": "Fabricante de chips IA Groq confirmou rodada de financiamento de US$ 650 milhões e contrata novos executivos. Movimento ocorre após perda de talentos em transação envolvendo Nvidia.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Nvidia reduz consumo de água em data centers, mas problema de IA persiste",
+      "resumo": "Nvidia apresentou novo sistema de refrigeração que reduz uso de água nos data centers. Porém, solução não aborda maior consumo de água da IA: usinas de energia fóssil.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Pesquisador premiado da Google muda para Anthropic",
+      "resumo": "Ganhador de Prêmio Nobel na área de IA deixa Google e junta-se à Anthropic. Movimento indica fluxo de talento entre grandes players do setor de inteligência artificial.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Editor de código Cursor integra-se oficialmente à SpaceX AI",
+      "resumo": "Ferramenta Cursor foi adquirida e agora faz parte da operação de IA da SpaceX. Integração busca potencializar desenvolvimento de software com assistência de inteligência artificial.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/cursor-officially-joins-the-spacex-ai-machine",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Opera mantém suporte ao uBlock Origin apesar de mudanças do Chrome",
+      "resumo": "Navegador Opera compromete-se a manter extensão uBlock Origin no Manifest V2 pelo máximo tempo possível. Decisão contraria movimento do Google Chrome em abandonar o padrão.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/opera-promete-suporte-ao-ublock-origin-pelo-maior-tempo-possivel/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar abre em alta com foco em ata do Copom e negociações EUA-Irã",
+      "resumo": "Dólar abriu terça-feira em alta de 0,71%, cotado a R$ 5,1779. Negociações entre EUA e Irã seguem pressionando mercado, enquanto expectativa sobre Copom influencia operações.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/06/23/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Banco Central mantém Selic apesar de inflação acima da meta",
+      "resumo": "BC informou que, mesmo com piora do cenário inflacionário, mantém política de redução de juros baseado em 'melhores práticas' que não reagem integralmente a choques de oferta. Decisão contraria pressão de mercado.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/06/23/banco-central-admite-inflacao-acima-da-meta-mas-diz-que-melhores-praticas-recomendam-nao-reagir-a-choques-de-oferta.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "Euro digital ganha apoio do Parlamento Europeu",
+      "resumo": "Banco Central Europeu obteve apoio parlamentar nesta terça para lançar euro digital. Moeda eletrônica busca reduzir dependência da zona do euro em relação a cartões de crédito americanos.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/06/23/euro-digital-ganha-apoio-no-parlamento-europeu-e-avanca-em-fase-decisiva.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "SpaceX caminha para nova queda com valor de mercado abaixo de US$ 2 tri",
+      "resumo": "SpaceX segue trajetória de queda no valor de mercado que deve ficar abaixo de US$ 2 trilhões. Empresa prepara venda de títulos de grau de investimento pela primeira vez.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/spacex-acoes-queda-valor-mercado-abaixo-2-trilhoes-dolares/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária é regulamentada com vetos presidenciais",
+      "resumo": "Presidente Lula edita Lei Complementar regulamentando Reforma Tributária aprovada, incluindo vetos ao PLP 68 de 2024. Regulamentação encaminha aplicação prática da reforma.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "STJ regulamenta conflitos federativos sobre IBS da Reforma Tributária",
+      "resumo": "Superior Tribunal de Justiça regulamentou julgamentos de conflitos entre estados e União sobre Imposto sobre Bens e Serviços (IBS). Decisão traz clareza à governança da Reforma Tributária.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77578/stj-regulamenta-conflitos-da-reforma-tributaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "SPED Fiscal: automação reduz risco de autuação e moderniza fechamento",
+      "resumo": "Receita Federal modernizou acesso e visual do SPED Fiscal, mantendo inteligência de cruzamento de dados ainda mais ágil. Automação reduz riscos para escritórios contábeis.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77585/sped-fiscal-como-a-automacao-reduz-riscos-de-autuacao-e-transforma-o-fechamento-fiscal/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Federal libera consulta ao 2º lote de restituição IRPF 2026",
+      "resumo": "Receita Federal disponibiliza consulta ao segundo lote de restituição do Imposto de Renda Pessoa Física 2026. Contribuintes podem verificar inclusão e data de pagamento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77595/receita-federal-libera-consulta-ao-segundo-lote-de-restituicao-do-irpf-2026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "PGFN lança novos editais para negociação de débitos inscritos",
+      "resumo": "Procuradoria-Geral da Fazenda Nacional abriu novos editais permitindo contribuintes regularizar débitos em dívida ativa com descontos e parcelamentos facilitados.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77597/pgfn-lanca-novos-editais-para-negociacao-de-debitos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Mais de 400 mil MEIs podem perder CNPJ por dívida fiscal",
+      "resumo": "Alerta sobre urgência de regularização para Microempreendedores Individuais com dívidas fiscais para evitar exclusão do Simples Nacional. Soluções de crédito estão disponíveis para recomposição de caixa.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77562/a-urgencia-da-regularizacao-do-mei-mais-de-400-mil-podem-perder-cnpj-por-divida-fiscal/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Simples Nacional: cálculo correto do ICMS-ST em SP",
+      "resumo": "Análise sobre aplicação correta do ICMS-ST para contribuintes do Simples Nacional em São Paulo. Redução tributária do Anexo II do RICMS/00 não alcança ICMS-Substituição Tributária.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/simples-nacional-e-o-calculo-do-icms-st-sobre-produtos-alimenticios-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em SP",
+      "resumo": "Guia de Informação e Apuração do ICMS-ST deixará de ser exigida de contribuintes de outros estados a partir de julho. Medida simplifica obrigações fiscais acessórias em São Paulo.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
+      "idioma_original": "pt"
+    }
+  ]
+}
