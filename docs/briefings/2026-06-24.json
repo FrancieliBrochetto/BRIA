@@ -1,0 +1,149 @@
+{
+  "data": "2026-06-24",
+  "noticias": [
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária é regulamentada com vetos presidenciais",
+      "resumo": "Presidente Lula sancionou Lei Complementar regulamentando a Reforma Tributária aprovada pela Emenda Constitucional. Documento inclui vetos ao PLP 68 de 2024. Mudanças já enfrentam primeiras disputas judiciais no STF sobre IBS, exportadoras e Zona Franca de Manaus.",
+      "fonte": "Siga o Fisco / Contábeis",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Imposto Seletivo: alíquotas podem virar MP em outubro",
+      "resumo": "Imposto Seletivo terá alíquotas definidas via Medida Provisória em outubro. Contadores devem antecipar impacto para indústrias, distribuidoras e transportadoras. Oportunidade para escritórios consultivos gerarem receita recorrente com clientes.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77615/imposto-seletivo-aliquotas-podem-virar-mp-em-outubro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Alterações no SPED 2024",
+      "resumo": "Principais modificações implementadas no SPED para 2024 foram divulgadas. Contribuintes precisam acompanhar atualizações no sistema de declarações.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em SP",
+      "resumo": "Contribuintes do ICMS estabelecidos em outros Estados serão dispensados da GIA-ST a partir de julho de 2025. Mudança simplifica obrigações para contribuintes de substituição tributária.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Governo prepara projeto para ampliar teto do MEI",
+      "resumo": "Governo deve enviar à Câmara projeto elevando teto do Microempreendedor Individual. Proposta pode beneficiar milhões de MEIs no país.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77626/governo-prepara-envio-de-projeto-para-ampliar-teto-do-mei/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Aprovada mudança em licitações com novo critério de desempate",
+      "resumo": "PL 7202/25 exige comprovação de vínculo trabalhista com mulheres em situação de vulnerabilidade para desempate em licitações. Critério reconhece medidas protetivas ou boletim de ocorrência.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77616/aprovada-mudanca-em-licitacoes-com-novo-criterio-de-desempate-para-empresas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude Tag do Anthropic é integrado ao Slack como assistente corporativo",
+      "resumo": "Anthropic lança Claude Tag, um assistente de IA sempre disponível no Slack que aprende sobre a empresa através das mensagens. Feature é estratégia para capturar contexto organizacional, conhecimento institucional e fluxos de trabalho empresariais.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "MoEngage aposta em futuro do marketing com milhões de agentes de IA",
+      "resumo": "Empresa indiana adquire tecnologia para atribuir agentes de IA a clientes individuais. Estratégia visa revolucionar marketing personalizado em escala massiva.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Fika Jobs levanta $4M para plataforma de contratação com agentes de IA",
+      "resumo": "Startup sueca cria plataforma de vídeo-first combinando agentes de IA para entrevistas com perfis em vídeo curto. Conceito híbrido entre LinkedIn e TikTok para recrutamento.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Layoffs em big tech em 2026 citam IA como fator determinante",
+      "resumo": "Levantamento documenta demissões significativas em grandes empresas de tecnologia com IA como fator declarado. Tendência mostra impacto do avanço da inteligência artificial no mercado de trabalho tech.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Experiência prática com vibe coding revela potencial e limitações de desenvolvimento com IA",
+      "resumo": "Análise de desenvolvimento de aplicação real usando vibe coding (codificação baseada em vibes/intuição com IA). Reflexão com dez aprendizados sobre a experiência prática.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Apple Intelligence não será oferecida na UE; Apple aumenta preços",
+      "resumo": "Apple finalmente aumenta preços de produtos, mas não entrega Siri AI na União Europeia. Regulações locais impõem restrições ao lançamento de recursos de IA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar abre em alta com foco em juros e preço do petróleo",
+      "resumo": "Dólar sobe 0,14% e é cotado a R$ 5,1937 nesta quarta-feira. Investidores acompanham decisões sobre juros no Brasil e EUA, além de movimento do petróleo em queda.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/06/24/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa Futuro recua com petróleo em queda e dólar em alta",
+      "resumo": "Índice futuro cai influenciado por petróleo recuando mais de 1% e dólar em alta. Movimento amplia perdas da semana no mercado brasileiro.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-futuro-recua-com-petroleo-em-queda-e-dolar-em-alta/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Minério de ferro se recupera com compras na baixa",
+      "resumo": "Contrato de minério de ferro mais negociado na Bolsa de Mercadorias de Dalian (DCE) na China fecha com alta de 0,74%. Recuperação impulsionada por compradores aproveitando queda de preços.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/preco-do-minerio-de-ferro-se-recupera-impulsionado-por-compras-na-baixa/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar avança frente ao real com busca por proteção e cautela global",
+      "resumo": "Investidores buscam proteção contra queda das ações de tecnologia e se posicionam para aumentos nas taxas de juros do Fed. Movimento favorece apreciação do dólar ante o real.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-24062026/",
+      "idioma_original": "pt"
+    }
+  ]
+}
