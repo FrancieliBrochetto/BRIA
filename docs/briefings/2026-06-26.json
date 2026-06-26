@@ -1,0 +1,167 @@
+{
+  "data": "2026-06-26",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Casa Branca pede a OpenAI para desacelerar lançamento do GPT-5.6",
+      "resumo": "Administração Trump solicitou à OpenAI que compartilhe seu novo modelo GPT-5.6 apenas com parceiros selecionados, em vez de lançar publicamente. A medida é motivada por preocupações com segurança e impactos inflacionários dos gastos em tecnologia.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude está ganhando consumidores pagos no mercado dominado pelo ChatGPT",
+      "resumo": "Dados mostram que usuários que pagam por IA estão escolhendo cada vez mais Claude, da Anthropic, apesar da liderança de mercado do ChatGPT. A tendência indica mudança no comportamento de consumidores de IA premium.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Automação",
+      "titulo": "Patronus AI levanta US$ 50 milhões para testar agentes de IA em 'mundos digitais'",
+      "resumo": "Startup de testes de IA fundada por ex-pesquisadores do Meta recebe aporte de US$ 50M. A empresa cria ambientes digitais para executar stress-tests em agentes de IA e enfrenta demanda crescente.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Automação",
+      "titulo": "General Intuition aposta US$ 320 milhões em treinar IA com videogames",
+      "resumo": "Startup arrecada US$ 320M para escalar IA treinada em milhões de horas de gameplay. A aposta é que dados de ação de games podem desenvolver agentes de IA com capacidades mais próximas da intuição humana.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Automação",
+      "titulo": "Ex-chefe de IA da Databricks acredita poder reduzir conta de energia da IA em 1.000x",
+      "resumo": "Pesquisador apresenta sistema de geração de imagens que demonstra como sua tecnologia consegue replicar sistemas convencionais de IA com eficiência energética drasticamente maior. Potencial disruptivo para custos operacionais.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI desenvolve chip customizado para IA",
+      "resumo": "OpenAI apresenta novo chip próprio para otimizar o funcionamento de modelos de IA. Hardware customizado busca reduzir dependência de fornecedores externos e melhorar performance.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude agora integrado ao Slack como colega de trabalho",
+      "resumo": "Anthropic integra Claude ao Slack para assistência em tempo real nas conversas de trabalho. Ferramenta oferece sugestões, análise e automação de tarefas direto na plataforma.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/meet-your-new-slack-coworker-claude",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Automação",
+      "titulo": "Pesquisador de Google ganhador do Prêmio Nobel se junta à Anthropic",
+      "resumo": "Cientista premiado deixa Google para integrar equipe de pesquisa da Anthropic. Movimento reforça competição por talentos entre gigantes de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Desemprego no Brasil fica em 5,6% em maio, menor para o mês desde 2012",
+      "resumo": "Taxa de desemprego se mantém estável em 5,6% no trimestre até maio, mas marca menor índice para o mês na série histórica da PNAD Contínua. Comparado com maio de 2025, houve redução de 0,6 ponto percentual.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/06/26/desemprego-pnad-maio.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "STF suspende multas da NR-1 sobre saúde mental no trabalho por 90 dias",
+      "resumo": "Ministro André Mendonça suspendeu aplicação de penalidades da Norma Regulamentadora nº 1 relacionadas a riscos psicossociais. Decisão provisória visa permitir melhor definição de parâmetros de fiscalização.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/26/stf-suspende-multas-da-nr-1-sobre-saude-mental-no-trabalho-por-90-dias.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária é regulamentada com vetos presidenciais",
+      "resumo": "Presidente sanciona Lei Complementar regulamentando a Reforma Tributária aprovada por Emenda Constitucional. Regulamentação inclui vetos ao PLP 68 de 2024 com ajustes nas alíquotas e critérios.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Imposto Seletivo para bebidas: novas regras da Reforma Tributária",
+      "resumo": "Reforma Tributária estabelece novas regras para Imposto Seletivo sobre bebidas alcoólicas com vigência a partir de 2027. Alíquotas e critérios impactarão empresas do setor.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77679/imposto-seletivo-e-bebidas-novas-regras-e-impactos-da-rt/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "SPED 2024: confira as alterações",
+      "resumo": "Sistema Público de Escrituração Digital sofre atualizações em 2024. Mudanças incluem novas obrigações de transmissão de informações para fisco.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em SP",
+      "resumo": "Contribuintes do ICMS estabelecidos em outros Estados serão dispensados de apresentar Guia de Informação e Apuração do ICMS-ST. Mudança entra em vigor em julho de 2025.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa Futuro recua com pressão externa e dados nacionais",
+      "resumo": "Índices futuros retraem em sessão carregada de dados econômicos nacionais. Preocupações com impacto inflacionário dos gastos em tecnologia pressionam mercados globais.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-futuro-recua-com-pressao-externa-em-dia-carregado-de-dados-nacionais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "JGP vende área de crédito para executivos que lançam gestora Leto Capital",
+      "resumo": "Executivos da JGP lançam gestora Leto Capital herdando R$ 22 bilhões em ativos. Nova casa é comandada por Alexandre Muller.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/jgp-vende-area-de-credito-para-executivos-que-lancam-gestora-leto-capital/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Governo obriga propagandas de bets a incluírem avisos sobre danos na Copa do Mundo",
+      "resumo": "Ministério da Fazenda vai impor regras para publicidade de casas de aposta durante transmissões da Copa 2026. Avisos de danos serão obrigatórios como em propagandas de bebidas alcoólicas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/politica/noticia/2026/06/26/governo-pretende-limitar-propagandas-de-bets-durante-jogos-da-copa-do-mundo-diz-ministro.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "CNJ cria regras para trabalho de crianças e adolescentes nas redes sociais",
+      "resumo": "Conselho Nacional de Justiça estabelece normas para atuação de menores em redes sociais e exige alvará para conteúdos recorrentes e monetizados. Regulação busca proteger direitos trabalhistas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77690/cnj-cria-regras-para-trabalho-de-criancas-nas-redes-sociais/",
+      "idioma_original": "pt"
+    }
+  ]
+}
