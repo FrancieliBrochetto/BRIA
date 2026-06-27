@@ -3,9 +3,18 @@
   "noticias": [
     {
       "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Fundador da Wikipedia é banido da plataforma após campanha para mudanças",
+      "resumo": "Larry Sanger, cofundador da Wikipedia, foi banido da plataforma que ajudou a criar. Ele acusa falta de processo justo após tentar promover alterações em páginas da enciclopédia.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/cofundador-da-wikipedia-esta-banido-da-wikipedia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "OpenAI limita lançamento do GPT-5.6 após pedido do governo",
-      "resumo": "OpenAI restringiu o rollout do GPT-5.6 a pedido do governo dos EUA. A empresa afirma que esse tipo de processo de acesso governamental não deveria se tornar a norma, pois limita o acesso às melhores ferramentas para usuários, desenvolvedores e empresas.",
+      "titulo": "Casa Branca limita distribuição do GPT-5.6 da OpenAI; empresa critica restrições",
+      "resumo": "O governo dos EUA solicitou limitação na distribuição do GPT-5.6. OpenAI argumenta que esse tipo de restrição governamental não deveria ser padrão e impede que ferramentas cheguem a desenvolvedores e defensores de segurança.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
       "idioma_original": "en"
@@ -13,136 +22,100 @@
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "OpenAI desenvolve chip de IA customizado chamado Jalapeño",
-      "resumo": "OpenAI anunciou seu chip de inferência customizado Jalapeño, desenvolvido com a Broadcom. O movimento faz parte de uma tendência maior de empresas como Google, Apple e SpaceX criarem seus próprios chips para reduzir dependência única da Nvidia.",
+      "titulo": "OpenAI contrata ex-chefe da Uber India para liderar mercado indiano",
+      "resumo": "OpenAI expande operações na Índia com a contratação de um executivo sênior. A medida marca intensificação dos esforços da empresa em seu segundo maior mercado fora dos EUA.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "url_original": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Antropic acusa Alibaba de infrações e Claude integra-se ao Slack",
-      "resumo": "Claude agora está disponível como colega de trabalho no Slack, trazendo capacidades de IA para colaboração em equipe. Simultaneamente, Antropic acusou Alibaba de infrações em relação ao uso de seus modelos.",
-      "fonte": "TLDR AI / The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/meet-your-new-slack-coworker-claude",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Gemini adiciona funcionalidade de uso em computador",
-      "resumo": "O Google expandiu as capacidades do Gemini com novo recurso de uso em computador, permitindo que o modelo interaja com interfaces e aplicativos de forma mais integrada ao fluxo de trabalho do usuário.",
-      "fonte": "TLDR AI",
-      "url_original": "https://tldr.tech/ai/2026-06-25",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "OpenAI contrata ex-chefe da Uber Índia para liderar principal mercado fora dos EUA",
-      "resumo": "OpenAI reforça sua expansão na Índia contratando o ex-presidente da Uber Índia. O movimento marca o comprometimento da empresa em expandir escritórios, parcerias e equipes no mercado indiano.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Governo Trump autoriza mais de 100 empresas e agências a usar Anthropic Mythos",
-      "resumo": "Governo Trump liberou o modelo Anthropic Mythos 5 para uso por mais de 100 empresas e agências governamentais, incluindo acesso para colaboradores não-americanos.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Python",
-      "titulo": "Prêmio Nobel do Google muda para Anthropic",
-      "resumo": "Um pesquisador premiado com Nobel Prize pelo Google deixou a empresa para se juntar à Anthropic, marcando movimento significativo de talento entre as lideranças das empresas de IA.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Inteligência artificial pode destravar infraestrutura no Brasil",
-      "resumo": "Ex-presidente do BNDES afirma que IA pode contribuir para solucionar problemas de infraestrutura no Brasil, considerando que juros altos, déficit de projetos e escassez de mão de obra ampliam o impacto da tecnologia no país.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/economia/ia-pode-destravar-infraestrutura-no-brasil-diz-ex-presidente-do-bndes",
+      "titulo": "Governo dos EUA autoriza modelo Mythos da Anthropic para mais de 100 empresas e agências",
+      "resumo": "Após bloqueio de duas semanas, o governo americano reautorizou o modelo Mythos 5 da Anthropic. Autorização é restrita a pequeno círculo de parceiros exclusivamente americanos, incluindo seus funcionários não-americanos.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/06/27/anthropic-eua.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Startups asiáticas lançam modelos rivais enquanto proibição de exportação da Anthropic persiste",
+      "resumo": "Novas empresas de IA na Ásia desenvolvem modelos com capacidades semelhantes ao Mythos, sem risco de restrições de exportação. Movimento pode resultar em perda permanente de mercado para laboratórios de IA americanos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "IA auxilia fundador diagnosticado com câncer no combate à doença",
+      "resumo": "Empreendedor usou Claude para analisar dados médicos pessoais, incluindo exames de sangue, tomografias e registros de wearables. A IA ajudou a processar e interpretar informações críticas para seu tratamento.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "EUA criam fundo de US$ 500 milhões para preparar trabalhadores para IA",
-      "resumo": "Grupo nos EUA lança fundo de US$ 500 milhões para preparar trabalhadores diante do avanço acelerado de inteligência artificial no mercado de trabalho, buscando evitar perdas massivas de empregos.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/27/ia-avanca-no-mercado-de-trabalho-grupo-cria-fundo-de-us-500-milhoes-para-preparar-trabalhadores",
+      "titulo": "Próximo passo da IA é compreender e interagir com o mundo físico",
+      "resumo": "Especialistas apontam que a evolução da IA além de interfaces digitais, com capacidade de compreensão e interação com ambientes físicos, marca a próxima fase da corrida tecnológica.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/06/27/colunistas/o-proximo-passo-da-ia-nao-esta-nas-telas/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Reforma Tributária é regulamentada com vetos presidenciais",
-      "resumo": "Presidente Lula sanciona Lei Complementar regulamentando a Reforma Tributária aprovada pela Emenda Constitucional, com vetos específicos ao PLP 68 de 2024, definindo regras para implementação.",
+      "titulo": "Reforma Tributária é regulamentada com vetos do presidente",
+      "resumo": "Presidente Lula sanciona Lei Complementar que regulamenta a Reforma Tributária aprovada por Emenda Constitucional. Lei inclui vetos ao PLP 68 de 2024.",
       "fonte": "Siga o Fisco",
       "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em São Paulo",
-      "resumo": "Contribuintes do ICMS estabelecidos em outros Estados serão dispensados da GIA-ST (Guia de Informação e Apuração do Substituto Tributário) a partir de julho de 2025 em São Paulo.",
-      "fonte": "Siga o Fisco",
-      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Adesão ao Simples Nacional passa para setembro de 2026",
-      "resumo": "Sefin-RO orienta empresas sobre novo prazo de adesão ao Simples Nacional, agora marcado para setembro de 2026, alinhando-se com regras definidas pela Reforma Tributária.",
+      "subtema": "Nota Fiscal",
+      "titulo": "Empresas devem revisar NCM e cClassTrib para evitar rejeição de notas fiscais",
+      "resumo": "Novo campo cClassTrib na Reforma Tributária requer atualização cadastral. Revisão adequada evita rejeição 1024 na emissão de NF-e e garante conformidade com IBS e CBS.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77709/simples-nacional-adesao-passa-a-ser-feita-em-setembro-de-2026/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Governo adia projeto de ampliação do teto do MEI",
-      "resumo": "Governo adia envio do projeto que ampliaria o teto do MEI para R$ 140 mil após impasse na Câmara sobre mudanças no Simples Nacional relacionadas à Reforma Tributária.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77713/governo-adia-projeto-do-mei-apos-impasse-na-camara/",
+      "url_original": "https://www.contabeis.com.br/noticias/77672/empresas-devem-revisar-ncm-e-cclasstrib-para-evitar-rejeicao-de-nf/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "SPED",
-      "titulo": "SPED 2024 apresenta alterações importantes",
-      "resumo": "Sistema de escrituração digital SPED 2024 trouxe alterações que contadores e empresas precisam conhecer para manter conformidade com obrigações acessórias.",
+      "titulo": "Alterações no SPED 2024",
+      "resumo": "Confira as principais mudanças implementadas no SPED 2024 que afetam a transmissão de dados das empresas.",
       "fonte": "Siga o Fisco",
       "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Simples Nacional e cálculo correto do ICMS-ST em alimentos",
-      "resumo": "Análise técnica mostra que redução tributária do art. 39 do Anexo II do RICMS/00 não alcança ICMS-ST. Contribuintes devem verificar se cálculos estão corretos no Simples Nacional.",
-      "fonte": "Siga o Fisco",
-      "url_original": "https://sigaofisco.com.br/simples-nacional-e-o-calculo-do-icms-st-sobre-produtos-alimenticios-em-sp/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Selic",
       "titulo": "Renda Fixa se consolida com alta da inflação e Selic",
-      "resumo": "Com elevação da inflação e taxa Selic, investimentos em renda fixa ganham força como opção de proteção patrimonial. Especialista detalha estratégias com IPCA, pré-fixados e crédito privado.",
+      "resumo": "Aumento da inflação e elevação da Selic fortalecem investimentos em renda fixa. Especialista orienta sobre estratégias com IPCA, pré-fixados e crédito privado para proteger patrimônio.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/77710/renda-fixa-inflacao-e-selic-fortalecem-investimentos-seguros/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "FGTS pode ser usado como garantia no Consignado CLT",
+      "resumo": "Comitê Gestor regulamentou uso de parte do FGTS como garantia em empréstimos consignados para trabalhadores CLT. Modalidade permite desconto direto na folha de pagamento.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/06/27/entenda-consignado-clt-credito-fgts-garantia-emprestimo.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Austrália dobra multa para plataformas que violarem proibição de redes sociais para menores",
+      "resumo": "Governo australiano aumentará multas para US$ 68 milhões contra plataformas que desrespeitarem restrição de acesso a redes sociais para menores de 16 anos. Medida combate evasão das proibições impostas no final de 2025.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/06/27/australia-multa-plataformas-redes-sociais-para-menores.ghtml",
       "idioma_original": "pt"
     }
   ]
