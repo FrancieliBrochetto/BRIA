@@ -1,0 +1,149 @@
+{
+  "data": "2026-06-27",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI limita lançamento do GPT-5.6 após pedido do governo",
+      "resumo": "OpenAI restringiu o rollout do GPT-5.6 a pedido do governo dos EUA. A empresa afirma que esse tipo de processo de acesso governamental não deveria se tornar a norma, pois limita o acesso às melhores ferramentas para usuários, desenvolvedores e empresas.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI desenvolve chip de IA customizado chamado Jalapeño",
+      "resumo": "OpenAI anunciou seu chip de inferência customizado Jalapeño, desenvolvido com a Broadcom. O movimento faz parte de uma tendência maior de empresas como Google, Apple e SpaceX criarem seus próprios chips para reduzir dependência única da Nvidia.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Antropic acusa Alibaba de infrações e Claude integra-se ao Slack",
+      "resumo": "Claude agora está disponível como colega de trabalho no Slack, trazendo capacidades de IA para colaboração em equipe. Simultaneamente, Antropic acusou Alibaba de infrações em relação ao uso de seus modelos.",
+      "fonte": "TLDR AI / The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/meet-your-new-slack-coworker-claude",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Gemini adiciona funcionalidade de uso em computador",
+      "resumo": "O Google expandiu as capacidades do Gemini com novo recurso de uso em computador, permitindo que o modelo interaja com interfaces e aplicativos de forma mais integrada ao fluxo de trabalho do usuário.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-06-25",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "OpenAI contrata ex-chefe da Uber Índia para liderar principal mercado fora dos EUA",
+      "resumo": "OpenAI reforça sua expansão na Índia contratando o ex-presidente da Uber Índia. O movimento marca o comprometimento da empresa em expandir escritórios, parcerias e equipes no mercado indiano.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Governo Trump autoriza mais de 100 empresas e agências a usar Anthropic Mythos",
+      "resumo": "Governo Trump liberou o modelo Anthropic Mythos 5 para uso por mais de 100 empresas e agências governamentais, incluindo acesso para colaboradores não-americanos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Python",
+      "titulo": "Prêmio Nobel do Google muda para Anthropic",
+      "resumo": "Um pesquisador premiado com Nobel Prize pelo Google deixou a empresa para se juntar à Anthropic, marcando movimento significativo de talento entre as lideranças das empresas de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Inteligência artificial pode destravar infraestrutura no Brasil",
+      "resumo": "Ex-presidente do BNDES afirma que IA pode contribuir para solucionar problemas de infraestrutura no Brasil, considerando que juros altos, déficit de projetos e escassez de mão de obra ampliam o impacto da tecnologia no país.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/economia/ia-pode-destravar-infraestrutura-no-brasil-diz-ex-presidente-do-bndes",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "EUA criam fundo de US$ 500 milhões para preparar trabalhadores para IA",
+      "resumo": "Grupo nos EUA lança fundo de US$ 500 milhões para preparar trabalhadores diante do avanço acelerado de inteligência artificial no mercado de trabalho, buscando evitar perdas massivas de empregos.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/27/ia-avanca-no-mercado-de-trabalho-grupo-cria-fundo-de-us-500-milhoes-para-preparar-trabalhadores",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária é regulamentada com vetos presidenciais",
+      "resumo": "Presidente Lula sanciona Lei Complementar regulamentando a Reforma Tributária aprovada pela Emenda Constitucional, com vetos específicos ao PLP 68 de 2024, definindo regras para implementação.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em São Paulo",
+      "resumo": "Contribuintes do ICMS estabelecidos em outros Estados serão dispensados da GIA-ST (Guia de Informação e Apuração do Substituto Tributário) a partir de julho de 2025 em São Paulo.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Adesão ao Simples Nacional passa para setembro de 2026",
+      "resumo": "Sefin-RO orienta empresas sobre novo prazo de adesão ao Simples Nacional, agora marcado para setembro de 2026, alinhando-se com regras definidas pela Reforma Tributária.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77709/simples-nacional-adesao-passa-a-ser-feita-em-setembro-de-2026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Governo adia projeto de ampliação do teto do MEI",
+      "resumo": "Governo adia envio do projeto que ampliaria o teto do MEI para R$ 140 mil após impasse na Câmara sobre mudanças no Simples Nacional relacionadas à Reforma Tributária.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77713/governo-adia-projeto-do-mei-apos-impasse-na-camara/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "SPED 2024 apresenta alterações importantes",
+      "resumo": "Sistema de escrituração digital SPED 2024 trouxe alterações que contadores e empresas precisam conhecer para manter conformidade com obrigações acessórias.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Simples Nacional e cálculo correto do ICMS-ST em alimentos",
+      "resumo": "Análise técnica mostra que redução tributária do art. 39 do Anexo II do RICMS/00 não alcança ICMS-ST. Contribuintes devem verificar se cálculos estão corretos no Simples Nacional.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/simples-nacional-e-o-calculo-do-icms-st-sobre-produtos-alimenticios-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Renda Fixa se consolida com alta da inflação e Selic",
+      "resumo": "Com elevação da inflação e taxa Selic, investimentos em renda fixa ganham força como opção de proteção patrimonial. Especialista detalha estratégias com IPCA, pré-fixados e crédito privado.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77710/renda-fixa-inflacao-e-selic-fortalecem-investimentos-seguros/",
+      "idioma_original": "pt"
+    }
+  ]
+}
