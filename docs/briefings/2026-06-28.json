@@ -4,8 +4,8 @@
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Executivo da Apple Vision Pro se muda para OpenAI",
-      "resumo": "Paul Meade, vice-presidente responsável pelo Vision Pro, deixa Apple para integrar equipe de hardware da OpenAI. Movimento reforça competição entre gigantes tech no segmento de dispositivos de IA.",
+      "titulo": "Executivo do Apple Vision Pro se muda para OpenAI",
+      "resumo": "Paul Meade, vice-presidente responsável pelo headset Vision Pro da Apple, está deixando a empresa para ingressar no time de hardware da OpenAI.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
       "idioma_original": "en"
@@ -13,8 +13,8 @@
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Fundador usa Claude para combater câncer com análise de dados de saúde",
-      "resumo": "Connor Christou alimentou resultados de sangue, imagens médicas e dados de wearables no Claude para estratégia de tratamento personalizado. Caso demonstra aplicação prática de IA em medicina.",
+      "titulo": "Fundador usa Claude para ajudar no tratamento de câncer",
+      "resumo": "Empreendedor Connor Christou alimentou dados de saúde — exames de sangue, scanners, dados de wearables e diários — no Claude para combater sua doença.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
       "idioma_original": "en"
@@ -22,26 +22,44 @@
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Casa Branca autoriza Anthropic Mythos para mais de 100 empresas e agências dos EUA",
-      "resumo": "Administração Trump libera Mythos 5 para uso por companhias e órgãos governamentais, incluindo funcionários estrangeiros. Decisão marca shift na política de exportação de modelos de IA.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Startups asiáticas lançam modelos similares ao Mythos evitando restrições de exportação",
-      "resumo": "Novas empresas de IA da Ásia criam alternativas ao Mythos para fugir de embargos de exportação. Movimento pode resultar em perda de mercado imenso para laboratórios americanos.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "titulo": "Casa Branca limita GPT-5.6 da OpenAI",
+      "resumo": "Governo americano implementa restrições ao modelo GPT-5.6 da OpenAI como parte de novas regulações sobre IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Pesquisa Datafolha: uso de IA no trabalho cresce, mas medo de substituição diminui",
-      "resumo": "Levantamento mostra que 48% dos brasileiros familiarizados com IA temem menos perda de emprego, apesar de maior adoção de ferramentas como ChatGPT e Claude. Tendência indica maior confiança na tecnologia.",
+      "titulo": "OpenAI lança chip customizado para IA",
+      "resumo": "Empresa apresenta novo chip próprio desenvolvido para otimizar o treinamento e operação de seus modelos de inteligência artificial.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Claude integrado ao Slack como colega de trabalho",
+      "resumo": "Claude agora está disponível no Slack como um assistente integrado para automatizar tarefas e facilitar colaboração entre times.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/meet-your-new-slack-coworker-claude",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Gemini agora oferece recurso de automação de computador",
+      "resumo": "Google integra capacidade de usar computadores e aplicativos ao Gemini, expandindo capacidades de automação da IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/27/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Python",
+      "titulo": "Pesquisa mostra crescimento no uso de IA no trabalho",
+      "resumo": "Datafolha revela que brasileiros aumentaram o uso de ferramentas como ChatGPT e Claude no trabalho, enquanto medo de substituição diminuiu.",
       "fonte": "G1 Economia",
       "url_original": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/28/datafolha-cresce-uso-de-ia-no-trabalho-enquanto-cai-medo-de-substituicao.ghtml",
       "idioma_original": "pt"
@@ -49,89 +67,62 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Figma CEO discute IA como vantagem competitiva para design",
-      "resumo": "Dylan Field vê IA como tailwind para Figma em entrevista sobre o futuro do design. Empresa aposta em integração de inteligência artificial aos seus produtos.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Pesquisador premiado pelo Nobel deixa Google para Anthropic",
-      "resumo": "Cientista vencedor de Nobel de Física muda-se de Google para Anthropic. Movimento indica atratividade crescente da startup de IA para talentos de elite.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Casa Branca restringe GPT-5.6 da OpenAI",
-      "resumo": "Administração impõe controles sobre versão mais recente do modelo de IA da OpenAI. Movimento reflete preocupações governamentais com capacidades de modelos avançados.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Claude integrado ao Slack como assistente de trabalho",
-      "resumo": "Anthropic anuncia disponibilidade de Claude como coworker bot no Slack. Integração facilita acesso a IA para usuários de plataforma de comunicação corporativa.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/meet-your-new-slack-coworker-claude/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI desenvolve chip de IA personalizado",
-      "resumo": "Empresa lança novo chip customizado para acelerar modelos de IA. Movimento visa reduzir dependência de fornecedores externos de semiconductores.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip/",
-      "idioma_original": "en"
+      "titulo": "Apenas 13% dos trabalhadores dominam IA avançada no trabalho",
+      "resumo": "Estudo inédito mostra que a maioria dos profissionais ainda tem baixo domínio de inteligência artificial no cotidiano empresarial.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77708/estudo-expoe-falta-de-dominio-de-ia-no-cotidiano-empresarial/",
+      "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Cofundador da Wikipedia banido da plataforma por tentar alterar páginas",
-      "resumo": "Larry Sanger é punido pela Wikipedia após campanha para modificar conteúdo da enciclopédia. Cofundador acusa plataforma de falta de processo justo.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/cofundador-da-wikipedia-esta-banido-da-wikipedia/",
+      "titulo": "Atraso na implementação de IA coloca US$ 143 bilhões em risco",
+      "resumo": "Pesquisa aponta que ineficiência na adoção de IA pode custar bilhões às empresas e afastar talentos nas áreas de direito e contabilidade.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77619/atraso-na-implementacao-de-ia-pode-custar-talentos-e-bilhoes-as-empresas-aponta-pesquisa/",
       "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Startups asiáticas lançam modelos de IA sem restrições de exportação",
+      "resumo": "Empresas asiáticas desenvolvem modelos com capacidades similares ao Anthropic para contornar bancos de exportação dos EUA e conquistar mercado regional.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Pesquisador vencedor do Nobel deixa Google para Anthropic",
+      "resumo": "Cientista premiado com Nobel abandona Google e se junta à Anthropic para trabalhar em desenvolvimento de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Wall Street aposta em Micron como próxima Nvidia",
+      "resumo": "Investidores acreditam que fabricante de memória Micron pode replicar o sucesso explosivo da Nvidia no mercado de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "idioma_original": "en"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Reforma Tributária é regulamentada por Lei Complementar",
-      "resumo": "Presidente Lula sanciona Lei Complementar que regulamenta Reforma Tributária aprovada por Emenda Constitucional. Norma entra em vigor e estabelece regras definitivas do novo sistema.",
-      "fonte": "Siga o Fisco",
-      "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Reforma Tributária sancionada com vetos ao PLP 68 de 2024",
-      "resumo": "Presidente sanciona Lei regulamentadora da Reforma Tributária com vetos a dispositivos do PLP 68. Mudanças refletem negociações finais sobre implementação do novo sistema.",
+      "titulo": "Reforma Tributária é regulamentada com vetos do presidente",
+      "resumo": "Presidente Lula sanciona Lei Complementar que regulamenta a Reforma Tributária com alguns vetos ao PLP 68 de 2024.",
       "fonte": "Siga o Fisco",
       "url_original": "https://sigaofisco.com.br/reforma-tributaria-x-vetos-ao-plp-68-de-2024/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Nota Fiscal",
-      "titulo": "Empresas devem revisar NCM e cClassTrib para evitar rejeição de NF-e",
-      "resumo": "Reforma Tributária requer atualização de classificação fiscal nas notas. Rejeição 1024 ocorre quando NCM e cClassTrib não estão alinhados; cadastro correto é essencial para IBS e CBS.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77672/empresas-devem-revisar-ncm-e-cclasstrib-para-evitar-rejeicao-de-nf/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
       "subtema": "SPED",
       "titulo": "GIA-ST será eliminada a partir de julho de 2025 em SP",
-      "resumo": "Contribuintes do ICMS localizados em outros estados serão dispensados da Guia de Informação e Apuração de ICMS-ST a partir de julho de 2025. Simplificação reduz obrigações acessórias.",
+      "resumo": "Contribuintes do ICMS estabelecidos em outros estados serão dispensados da apresentação da GIA-ST no Estado de São Paulo.",
       "fonte": "Siga o Fisco",
       "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
       "idioma_original": "pt"
@@ -139,19 +130,19 @@
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "SPED",
-      "titulo": "Confira as alterações do SPED 2024",
-      "resumo": "Sistema Público de Escrituração Digital sofre atualizações em 2024. Mudanças incluem novos campos e regras de validação que afetam obrigações dos contribuintes.",
+      "titulo": "Alterações no SPED 2024 para atenção",
+      "resumo": "Conheça as principais alterações implementadas no SPED 2024 e atualizações que afetam sua obrigação fiscal.",
       "fonte": "Siga o Fisco",
       "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
       "idioma_original": "pt"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Selic",
-      "titulo": "Renda fixa se consolida com alta da inflação e Selic",
-      "resumo": "Especialista destaca fortalecimento de investimentos em renda fixa com elevação da Selic. Instrumentos como IPCA, pré-fixados e crédito privado oferecem proteção patrimonial.",
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Comunicação de Não Ocorrência (CNO) ao Coaf: importância e prazos",
+      "resumo": "Entenda a importância de enviar a Declaração de Não Ocorrência ao Coaf e quais são as consequências da falta de cumprimento.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77710/renda-fixa-inflacao-e-selic-fortalecem-investimentos-seguros/",
+      "url_original": "https://www.contabeis.com.br/noticias/77674/coaf-entenda-a-importancia-da-declaracao-de-nao-ocorrencia/",
       "idioma_original": "pt"
     }
   ]
