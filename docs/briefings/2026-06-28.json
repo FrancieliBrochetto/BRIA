@@ -1,0 +1,158 @@
+{
+  "data": "2026-06-28",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Executivo da Apple Vision Pro se muda para OpenAI",
+      "resumo": "Paul Meade, vice-presidente responsável pelo Vision Pro, deixa Apple para integrar equipe de hardware da OpenAI. Movimento reforça competição entre gigantes tech no segmento de dispositivos de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Fundador usa Claude para combater câncer com análise de dados de saúde",
+      "resumo": "Connor Christou alimentou resultados de sangue, imagens médicas e dados de wearables no Claude para estratégia de tratamento personalizado. Caso demonstra aplicação prática de IA em medicina.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Casa Branca autoriza Anthropic Mythos para mais de 100 empresas e agências dos EUA",
+      "resumo": "Administração Trump libera Mythos 5 para uso por companhias e órgãos governamentais, incluindo funcionários estrangeiros. Decisão marca shift na política de exportação de modelos de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Startups asiáticas lançam modelos similares ao Mythos evitando restrições de exportação",
+      "resumo": "Novas empresas de IA da Ásia criam alternativas ao Mythos para fugir de embargos de exportação. Movimento pode resultar em perda de mercado imenso para laboratórios americanos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Pesquisa Datafolha: uso de IA no trabalho cresce, mas medo de substituição diminui",
+      "resumo": "Levantamento mostra que 48% dos brasileiros familiarizados com IA temem menos perda de emprego, apesar de maior adoção de ferramentas como ChatGPT e Claude. Tendência indica maior confiança na tecnologia.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/28/datafolha-cresce-uso-de-ia-no-trabalho-enquanto-cai-medo-de-substituicao.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Figma CEO discute IA como vantagem competitiva para design",
+      "resumo": "Dylan Field vê IA como tailwind para Figma em entrevista sobre o futuro do design. Empresa aposta em integração de inteligência artificial aos seus produtos.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Pesquisador premiado pelo Nobel deixa Google para Anthropic",
+      "resumo": "Cientista vencedor de Nobel de Física muda-se de Google para Anthropic. Movimento indica atratividade crescente da startup de IA para talentos de elite.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Casa Branca restringe GPT-5.6 da OpenAI",
+      "resumo": "Administração impõe controles sobre versão mais recente do modelo de IA da OpenAI. Movimento reflete preocupações governamentais com capacidades de modelos avançados.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Claude integrado ao Slack como assistente de trabalho",
+      "resumo": "Anthropic anuncia disponibilidade de Claude como coworker bot no Slack. Integração facilita acesso a IA para usuários de plataforma de comunicação corporativa.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/meet-your-new-slack-coworker-claude/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI desenvolve chip de IA personalizado",
+      "resumo": "Empresa lança novo chip customizado para acelerar modelos de IA. Movimento visa reduzir dependência de fornecedores externos de semiconductores.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Cofundador da Wikipedia banido da plataforma por tentar alterar páginas",
+      "resumo": "Larry Sanger é punido pela Wikipedia após campanha para modificar conteúdo da enciclopédia. Cofundador acusa plataforma de falta de processo justo.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/cofundador-da-wikipedia-esta-banido-da-wikipedia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária é regulamentada por Lei Complementar",
+      "resumo": "Presidente Lula sanciona Lei Complementar que regulamenta Reforma Tributária aprovada por Emenda Constitucional. Norma entra em vigor e estabelece regras definitivas do novo sistema.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária sancionada com vetos ao PLP 68 de 2024",
+      "resumo": "Presidente sanciona Lei regulamentadora da Reforma Tributária com vetos a dispositivos do PLP 68. Mudanças refletem negociações finais sobre implementação do novo sistema.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-x-vetos-ao-plp-68-de-2024/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Empresas devem revisar NCM e cClassTrib para evitar rejeição de NF-e",
+      "resumo": "Reforma Tributária requer atualização de classificação fiscal nas notas. Rejeição 1024 ocorre quando NCM e cClassTrib não estão alinhados; cadastro correto é essencial para IBS e CBS.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77672/empresas-devem-revisar-ncm-e-cclasstrib-para-evitar-rejeicao-de-nf/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em SP",
+      "resumo": "Contribuintes do ICMS localizados em outros estados serão dispensados da Guia de Informação e Apuração de ICMS-ST a partir de julho de 2025. Simplificação reduz obrigações acessórias.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Confira as alterações do SPED 2024",
+      "resumo": "Sistema Público de Escrituração Digital sofre atualizações em 2024. Mudanças incluem novos campos e regras de validação que afetam obrigações dos contribuintes.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Renda fixa se consolida com alta da inflação e Selic",
+      "resumo": "Especialista destaca fortalecimento de investimentos em renda fixa com elevação da Selic. Instrumentos como IPCA, pré-fixados e crédito privado oferecem proteção patrimonial.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77710/renda-fixa-inflacao-e-selic-fortalecem-investimentos-seguros/",
+      "idioma_original": "pt"
+    }
+  ]
+}
