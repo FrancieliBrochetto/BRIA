@@ -1,0 +1,185 @@
+{
+  "data": "2026-06-29",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google limita acesso de funcionários da Meta ao Gemini",
+      "resumo": "Google restringiu o acesso de colaboradores da Meta à plataforma Gemini após a empresa ultrapassar os limites contratuais para uso em tarefas internas.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/google-limita-acesso-de-funcionarios-da-meta-ao-gemini/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Cursor lança app mobile para supervisão remota de agentes de código",
+      "resumo": "Cursor disponibilizou novo app mobile que permite monitorar remotamente agentes de codificação, facilitando orientação em tempo real.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Casa Branca restringe GPT-5.6 da OpenAI",
+      "resumo": "Governo americano anunciou medidas para regular o acesso ao modelo mais poderoso da OpenAI, ainda não disponível para todos os usuários.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Ford recontrata engenheiros experientes após IA não atender expectativas",
+      "resumo": "Ford reconheceu que depender exclusivamente de IA não produziu qualidade esperada e recontratou engenheiros sênior para complementar o desenvolvimento.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "TIDAL bloqueia monetização de músicas geradas por IA",
+      "resumo": "Plataforma de streaming TIDAL implementou política que proíbe música gerada por IA de gerar receita em seu serviço.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Startup de mão robótica levanta US$ 11 mi após acordo com Tesla",
+      "resumo": "Proception resolveu disputa sobre segredos comerciais com Tesla e anunciou aporte de US$ 11 milhões para desenvolver mãos robóticas com dados de treinamento inovadores.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Omen AI levanta US$ 31 mi para otimizar data centers com IA",
+      "resumo": "Empresa captou US$ 31 milhões em Série A para monitorar refrigerante de chips e prevenir surtos bacterianos em data centers através de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI lança chip de IA próprio e modelo mais poderoso",
+      "resumo": "OpenAI apresentou seu novo chip customizado de IA e liberou seu modelo mais potente, ampliando capacidades computacionais internas.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude integrado ao Slack como novo colega de trabalho",
+      "resumo": "Anthropic disponibilizou Claude nativamente no Slack, permitindo que usuários acessem assistente de IA diretamente na plataforma de comunicação.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/meet-your-new-slack-coworker-claude",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Figma CEO: IA oferece vantagem competitiva à empresa de design",
+      "resumo": "Dylan Field, CEO do Figma, concede entrevista sobre como inteligência artificial impulsiona o produto e oferece oportunidade de crescimento.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Alphabet entra no Dow Jones substituindo Verizon",
+      "resumo": "Alphabet (Google) foi incluída no índice Dow Jones 30 após substituir Verizon, consolidando domínio das big techs no índice mais tradicional de Wall Street.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/06/29/pro/big-techs-dominam-de-vez-o-dow-jones-com-nova-entrada-da-alphabet/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Cosan avalia vender participação na Rumo para reduzir dívida",
+      "resumo": "Cosan está analisando venda de fatia na empresa de logística Rumo como estratégia para diminuir seu endividamento, ainda em fase inicial de avaliação.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/06/29/cosan-dona-da-rumo-e-socia-da-raizen-avalia-vender-fatia-na-rumo-para-reduzir-divida.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Suprema Corte dos EUA proíbe Trump de demitir diretora do Fed",
+      "resumo": "Tribunal americano impediu que Trump demitisse Lisa Cook, diretora do Federal Reserve, preservando independência do banco central.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/06/29/suprema-corte-eua-trump-fed.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária é regulamentada pelo Presidente Lula",
+      "resumo": "Presidente sanciona Lei Complementar que regulamenta a Reforma Tributária aprovada por Emenda Constitucional, com alguns vetos ao PLP 68 de 2024.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Alterações do SPED 2024 — confira as novidades",
+      "resumo": "Principais mudanças implementadas no SPED 2024 que contadores e empresas precisam conhecer para adequação.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "SEFAZ-SP desativa código Sem cBenef para NF-e e NFC-e",
+      "resumo": "São Paulo eliminará opção Sem cBenef em Notas Fiscais eletrônicas a partir de julho de 2026, exigindo adequação dos sistemas de emissão.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77721/sefaz-sp-desativa-opcao-sem-cbenef-ja-em-julho-deste-ano/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em SP",
+      "resumo": "Contribuintes do ICMS de outros Estados serão dispensados da obrigação de enviar GIA-ST em São Paulo a partir de julho de 2025.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "STJ definirá se descontos e bonificações integram cálculo de PIS/Cofins",
+      "resumo": "Superior Tribunal de Justiça julga caso importante que pode afetar milhares de empresas quanto à inclusão de descontos comerciais e bonificações na base de PIS/Cofins.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77723/stj-vai-definir-se-descontos-bonificacoes-integram-calculo-do-pis-cofins/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Receita Atende: novo canal digital inicia em 6 de julho",
+      "resumo": "Receita Federal lança novo canal de atendimento digital centralizado que substitui Fale Conosco para cidadãos e empresas a partir de 6 de julho.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77722/receita-atende-novo-canal-digital-de-atendimento-inicia-em-6-de-julho/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Governo avalia compensação para empresas em caso de PEC da escala 6x1",
+      "resumo": "Governo estuda compensações tributárias caso PEC da escala 6x1 avance no Senado, reduzindo jornada para 40 horas sem corte salarial.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77727/governo-avalia-compensacao-por-pec-da-escala-6x1/",
+      "idioma_original": "pt"
+    }
+  ]
+}
