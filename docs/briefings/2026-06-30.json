@@ -3,119 +3,155 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Gemini amplia geração de imagens personalizadas gratuitamente para usuários nos EUA",
-      "resumo": "Google expande a geração de imagens com IA do Gemini para usuários gratuitos nos EUA. O recurso cria imagens baseadas em seus interesses e dados de apps Google conectados.",
+      "subtema": "Automação",
+      "titulo": "X lança servidor MCP para integração com ferramentas de IA",
+      "resumo": "A plataforma X disponibilizou um servidor MCP hospedado que facilita a conexão de aplicações de IA com sua API. O objetivo é tornar mais simples para desenvolvedores integrar sistemas de inteligência artificial à plataforma.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Anthropic firma acordo com governo da Califórnia para usar Claude com 50% de desconto",
-      "resumo": "Anthropic estabelece parceria com o governador Newsom, oferecendo acesso ao Claude para órgãos do governo californiano com desconto de 50% nos preços.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "url_original": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Plataforma Base44 de vibe coding lança seu próprio modelo de IA",
-      "resumo": "A plataforma Base44, de propriedade da Wix, lança seu próprio modelo de IA com esperança de superar modelos frontier no futuro. Busca ganhar defensibilidade no mercado.",
+      "titulo": "Amazon investe US$ 1 bilhão em organização de IA para deployments rápidos",
+      "resumo": "Amazon lança nova unidade de FDE (Field Deployment Engineering) com investimento de US$ 1 bilhão, seguindo modelo de OpenAI e Anthropic. Time irá embutir engenheiros em empresas para implantar agentes de IA sob medida com foco em auto-suficiência do cliente.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "url_original": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Adoção intensiva de IA gera aumento de 10,2% em contratações, incluindo postos juniores",
-      "resumo": "Novo relatório mostra que empresas com alta adoção de IA aumentaram headcount em 10,2%, com crescimento de 12% em postos entry-level, contradizendo narrativa de eliminar empregos juniores.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "titulo": "Casa Branca restringe lançamento do GPT-5.6 da OpenAI",
+      "resumo": "O governo norte-americano impôs limitações ao GPT-5.6, o modelo de IA mais poderoso da OpenAI. A restrição representa intervenção regulatória no desenvolvimento de modelos avançados de inteligência artificial.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "OKX cria marketplace para agentes de IA contratarem e pagarem uns aos outros",
-      "resumo": "Exchange de cripto OKX integra pagamentos, identidade e reputação em um marketplace onde agentes de IA podem contratar e pagar um ao outro automaticamente.",
+      "titulo": "Lumo 2.0 (chatbot com privacidade da Proton) ganha novas capacidades",
+      "resumo": "O chatbot focado em privacidade Lumo da Proton receberá atualização da versão 2.0 esta semana. A versão melhorada oferecerá uma amplitude maior de funcionalidades aos usuários.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Meta desenvolve IA capaz de ler pensamentos com maior precisão",
+      "resumo": "A IA de leitura cerebral da Meta demonstra progresso significativo, deixando menos letras de fora em sua interpretação de sinais neurais. Avanço aponta direção promissora para interfaces cérebro-computador.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/meta-brain-reading-ai-leaves-letters-behind",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Plataforma Riverside lança recurso de publicação de newsletters com IA",
+      "resumo": "Riverside, plataforma de podcasting, entra no mercado de newsletters permitindo que usuários criem conteúdo com IA baseado em suas gravações. Integração expande possibilidades de monetização para criadores de áudio.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "OKX cria marketplace onde agentes de IA contratam e pagam uns aos outros",
+      "resumo": "Corretora de cripto OKX integra pagamentos, identidade e reputação em um marketplace para agentes de IA. Plataforma permite que agentes autônomos funcionem como entidades econômicas independentes.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
       "idioma_original": "en"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Dólar abre com volatilidade; Ibovespa aguarda dados de emprego do Brasil e EUA",
-      "resumo": "Dólar abriu com volatilidade em 30 de junho, cotado a R$ 5,1767 (+0,04%). Mercado aguarda divulgação de dados de emprego do Brasil e Estados Unidos.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/06/30/dolar-ibovespa.ghtml",
-      "idioma_original": "pt"
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude agora disponível como coworker no Slack",
+      "resumo": "Integração torna Claude acessível diretamente dentro do Slack como assistente de trabalho colaborativo. Funcionalidade permite que times utilizem modelo de IA sem sair da plataforma de comunicação.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/meet-your-new-slack-coworker-claude",
+      "idioma_original": "en"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Câmbio",
-      "titulo": "Dívida pública bruta do Brasil sobe para 81,1% do PIB em maio, acima do esperado",
-      "resumo": "Dívida pública bruta brasileira atingiu 81,1% do PIB em maio, superando expectativas de 80,7%. Contas públicas registraram déficit primário de R$ 56,1 bilhões.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/06/30/contas-publicas-tem-deficit-de-r-561-bilhoes-em-maio-divida-sobe-para-811percent-do-pib.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "União Europeia confirma tarifa de 50% sobre importações de aço para proteger indústria",
-      "resumo": "Comissão Europeia anunciou novas regras de importação de aço na UE com tarifa de 50% em parte das importações. Objetivo é proteger siderurgia local e elevar utilização de capacidade para 80%.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/06/30/uniao-europeia-tarifa-importacoes-de-aco.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Governo encaminha PL ampliando limite do MEI para R$ 140 mil até 2028",
-      "resumo": "Governo envia à Câmara projeto que amplia o faturamento máximo do MEI para R$ 140 mil até 2028 e permite contratação de até dois funcionários.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77751/governo-entrega-pl-que-amplia-limite-do-mei-para-r-140-mil/",
-      "idioma_original": "pt"
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "OpenAI apresenta novo chip customizado para IA",
+      "resumo": "OpenAI revelou seu chip de IA customizado desenvolvido internamente. O novo hardware representa avanço da empresa em direção à verticalização tecnológica e independência de fornecedores.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip",
+      "idioma_original": "en"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Presidente Lula sanciona Lei que regulamenta Reforma Tributária",
-      "resumo": "Presidente Lula edita Lei Complementar regulamentando a Reforma Tributária aprovada por Emenda Constitucional, com vetos a itens do PLP 68 de 2024.",
+      "titulo": "Reforma Tributária é regulamentada com vetos do Presidente",
+      "resumo": "Presidente Lula sanciona Lei Complementar regulamentando a Reforma Tributária com vetos específicos ao PLP 68 de 2024. Normativa define detalhes de implementação do novo sistema tributário.",
       "fonte": "Siga o Fisco",
       "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "ECF 2026: erros em registros podem travar entrega no SPED",
-      "resumo": "Registros concentram principais inconsistências na ECF 2026, exigindo atenção ao cruzamento com EFD-Reinf, eSocial e ECD para evitar travamento da entrega.",
+      "subtema": "Imposto de Renda",
+      "titulo": "CNC questiona aumento de IRPJ e CSLL para lucro presumido no STF",
+      "resumo": "Confederação Nacional do Comércio acionou STF contra aumento de 10% na base de cálculo de IRPJ e CSLL para empresas em regime de lucro presumido. Ação busca anular medida considerada prejudicial a pequenos negócios.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77736/ecf-2026-erros-em-registros-podem-travar-sua-entrega-no-sped/",
+      "url_original": "https://www.contabeis.com.br/noticias/77748/cnc-questiona-no-stf-aumento-do-irpj-e-csll-para-lucro-presumido/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "TJSP derruba decreto de atualização do IPTU baseado na Reforma Tributária",
+      "resumo": "Tribunal de Justiça de São Paulo declarou inconstitucional decreto da prefeitura de Bragança Paulista que atualizava IPTU conforme Reforma Tributária. Decisão questiona aplicação da normativa ao imposto municipal.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77753/tjsp-derruba-atualizacao-do-iptu-baseada-na-reforma-tributaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Conheça as alterações do SPED 2024",
+      "resumo": "Atualizações relevantes no SPED 2024 precisam ser conhecidas por contribuintes e contadores. Mudanças afetam rotinas de transmissão de informações fiscais e contábeis.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em São Paulo",
+      "resumo": "Contribuintes do ICMS estabelecidos em outros estados serão dispensados de apresentar GIA-ST a partir de julho de 2025 em São Paulo. Medida simplifica obrigações acessórias para contribuintes interestadualistas.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Novo CNPJ com letras entra em vigor em julho de 2026",
-      "resumo": "Novo CNPJ com letras entra em vigor em julho de 2026. Empresas afetadas devem se preparar para as mudanças no sistema de identificação cadastral.",
+      "titulo": "Novas regras do Crédito do Trabalhador para rescisão entram em vigor",
+      "resumo": "Alterações nas regras do Crédito do Trabalhador modificam empréstimo consignado em rescisões. Mudanças afetam registros no eSocial, cálculos de FGTS e tratamento de verbas trabalhistas no departamento pessoal.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77737/cnpj-com-letras-quem-sera-afetado-e-o-que-muda/",
+      "url_original": "https://www.contabeis.com.br/noticias/77750/credito-do-trabalhador-novas-regras-para-rescisao-entram-em-vigor/",
       "idioma_original": "pt"
     },
     {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "Receita Federal reduz incentivo de PIS/Cofins na Zona Franca de Manaus",
-      "resumo": "Receita Federal reverte entendimento anterior sobre PIS/Cofins na Zona Franca de Manaus, impactando custos de empresas beneficiárias do regime.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77729/receita-federal-reduz-incentivo-a-zona-franca-de-manaus/",
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Tesouro Direto oferece juros históricos com guia gratuito de investimento",
+      "resumo": "Títulos públicos alcançam patamares de juros históricos em contexto de taxa Selic elevada. Ebook explica funcionamento dos títulos e estratégias de investimento para aproveitar este momento.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/tesouro-direto-paga-juros-historicos-veja-como-aproveitar-com-guia-gratuito/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "JPMorgan recomenda comprar ações de farmacêuticas após queda por Ozempic",
+      "resumo": "Fabricante de Ozempic abre loja no Mercado Livre do México, impactando ações de farmacêuticas na B3. JPMorgan considera reação exagerada e sugere aproveitar baixa, especialmente em RD Saúde.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/canetas-emagrecedoras-dona-do-ozempic-abre-loja-no-mercado-livre-do-mexico-e-afeta-farmaceuticas-da-b3/",
       "idioma_original": "pt"
     }
   ]
