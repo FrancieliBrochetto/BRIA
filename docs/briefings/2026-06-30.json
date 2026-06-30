@@ -1,0 +1,122 @@
+{
+  "data": "2026-06-30",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Gemini amplia geração de imagens personalizadas gratuitamente para usuários nos EUA",
+      "resumo": "Google expande a geração de imagens com IA do Gemini para usuários gratuitos nos EUA. O recurso cria imagens baseadas em seus interesses e dados de apps Google conectados.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic firma acordo com governo da Califórnia para usar Claude com 50% de desconto",
+      "resumo": "Anthropic estabelece parceria com o governador Newsom, oferecendo acesso ao Claude para órgãos do governo californiano com desconto de 50% nos preços.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Plataforma Base44 de vibe coding lança seu próprio modelo de IA",
+      "resumo": "A plataforma Base44, de propriedade da Wix, lança seu próprio modelo de IA com esperança de superar modelos frontier no futuro. Busca ganhar defensibilidade no mercado.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Adoção intensiva de IA gera aumento de 10,2% em contratações, incluindo postos juniores",
+      "resumo": "Novo relatório mostra que empresas com alta adoção de IA aumentaram headcount em 10,2%, com crescimento de 12% em postos entry-level, contradizendo narrativa de eliminar empregos juniores.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "OKX cria marketplace para agentes de IA contratarem e pagarem uns aos outros",
+      "resumo": "Exchange de cripto OKX integra pagamentos, identidade e reputação em um marketplace onde agentes de IA podem contratar e pagar um ao outro automaticamente.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Dólar abre com volatilidade; Ibovespa aguarda dados de emprego do Brasil e EUA",
+      "resumo": "Dólar abriu com volatilidade em 30 de junho, cotado a R$ 5,1767 (+0,04%). Mercado aguarda divulgação de dados de emprego do Brasil e Estados Unidos.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/06/30/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dívida pública bruta do Brasil sobe para 81,1% do PIB em maio, acima do esperado",
+      "resumo": "Dívida pública bruta brasileira atingiu 81,1% do PIB em maio, superando expectativas de 80,7%. Contas públicas registraram déficit primário de R$ 56,1 bilhões.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/06/30/contas-publicas-tem-deficit-de-r-561-bilhoes-em-maio-divida-sobe-para-811percent-do-pib.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "União Europeia confirma tarifa de 50% sobre importações de aço para proteger indústria",
+      "resumo": "Comissão Europeia anunciou novas regras de importação de aço na UE com tarifa de 50% em parte das importações. Objetivo é proteger siderurgia local e elevar utilização de capacidade para 80%.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/06/30/uniao-europeia-tarifa-importacoes-de-aco.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Governo encaminha PL ampliando limite do MEI para R$ 140 mil até 2028",
+      "resumo": "Governo envia à Câmara projeto que amplia o faturamento máximo do MEI para R$ 140 mil até 2028 e permite contratação de até dois funcionários.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77751/governo-entrega-pl-que-amplia-limite-do-mei-para-r-140-mil/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Presidente Lula sanciona Lei que regulamenta Reforma Tributária",
+      "resumo": "Presidente Lula edita Lei Complementar regulamentando a Reforma Tributária aprovada por Emenda Constitucional, com vetos a itens do PLP 68 de 2024.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "ECF 2026: erros em registros podem travar entrega no SPED",
+      "resumo": "Registros concentram principais inconsistências na ECF 2026, exigindo atenção ao cruzamento com EFD-Reinf, eSocial e ECD para evitar travamento da entrega.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77736/ecf-2026-erros-em-registros-podem-travar-sua-entrega-no-sped/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Novo CNPJ com letras entra em vigor em julho de 2026",
+      "resumo": "Novo CNPJ com letras entra em vigor em julho de 2026. Empresas afetadas devem se preparar para as mudanças no sistema de identificação cadastral.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77737/cnpj-com-letras-quem-sera-afetado-e-o-que-muda/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Federal reduz incentivo de PIS/Cofins na Zona Franca de Manaus",
+      "resumo": "Receita Federal reverte entendimento anterior sobre PIS/Cofins na Zona Franca de Manaus, impactando custos de empresas beneficiárias do regime.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77729/receita-federal-reduz-incentivo-a-zona-franca-de-manaus/",
+      "idioma_original": "pt"
+    }
+  ]
+}
