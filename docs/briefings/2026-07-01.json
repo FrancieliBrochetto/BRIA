@@ -1,0 +1,158 @@
+{
+  "data": "2026-07-01",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança e Regulação",
+      "titulo": "PF deflagra operação contra anúncios falsos que imitam governo",
+      "resumo": "A Operação Ad Phishing cumpriu mandados de busca em quatro estados para combater fraudes com anúncios online que se passam pelo Governo Federal. A ação visa desmantelar esquemas de golpes financeiros através de publicidades maliciosas na internet.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/pf-deflagra-operacao-contra-anuncios-falsos-online-que-imitam-o-governo/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança e Regulação",
+      "titulo": "Google adverte sobre risco maior de cibercrimes após mudanças na UE",
+      "resumo": "Vice-presidente de segurança do Google alerta que as determinações europeias de liberar dados de busca e sistema Android podem facilitar ataques de hackers. A empresa questiona o impacto das regulações comunitárias na proteção de usuários.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/google-adverte-sobre-risco-maior-de-cibercrimes-apos-mudancas-na-ue/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Microsoft prepara nova onda de demissões sob pressão de custos com IA",
+      "resumo": "Microsoft planeja cortes de pessoal que podem atingir milhares de funcionários como resposta aos custos crescentes relacionados à inteligência artificial. A medida reflete ajustes no setor de tecnologia motivados pela adoção massiva de IA.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/01/inteligencia-artificial/ia-pressiona-custos-e-microsoft-prepara-nova-onda-de-demissoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Regulação e Políticas",
+      "titulo": "Anthropic consegue liberar modelos de IA após reforçar segurança",
+      "resumo": "EUA suspendem restrições e liberam os modelos Fable 5 e Mythos 5 da Anthropic após adoção de novas salvaguardas de segurança. A aprovação marca avanço na liberação de modelos de IA sob supervisão regulatória mais rigorosa.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/01/inteligencia-artificial/apos-reforcar-a-seguranca-anthropic-consegue-liberar-seus-modelos-de-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "ONU alerta sobre avanço acelerado da IA e riscos à governança",
+      "resumo": "Relatório da ONU reconhece benefícios da inteligência artificial mas destaca riscos crescentes e desafios na governança da tecnologia. O documento aborda a necessidade urgente de marcos regulatórios globais para lidar com consequências graves do desenvolvimento acelerado.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/01/inteligencia-artificial/onu-alerta-que-avanco-acelerado-da-ia-pode-trazer-consequencias-graves/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude Science: Anthropic lança versão para pesquisa científica",
+      "resumo": "A Anthropic lançou o Claude Science, ferramenta especializada para auxiliar pesquisadores em diferentes etapas do trabalho científico. A solução integra recursos desenvolvidos desde 2025 para o público acadêmico e de pesquisa.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/07/01/claude-ia-da-anthropic-ganha-versao-voltada-a-pesquisa-cientifica-veja-como-funciona.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA em Contabilidade",
+      "titulo": "Receita Federal institui Política de Inteligência Artificial",
+      "resumo": "A Receita Federal publicou sua Política de IA que impactará fiscalização, arrecadação e gestão de riscos. A medida estabelece diretrizes para uso de inteligência artificial nas operações da autarquia tributária.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77746/receita-federal-e-ia-entenda-a-nova-politica-de-inteligencia-artificial/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar abre em alta com foco em dados econômicos globais",
+      "resumo": "O dólar abriu a sessão em alta de 0,32%, cotado a R$ 5,1794, impulsionado pelo acompanhamento de indicadores econômicos internacionais. Os mercados monitoram sinais sobre a política de juros das principais economias.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/01/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Setor privado dos EUA cria 98 mil vagas em junho, abaixo do esperado",
+      "resumo": "Dados do ADP mostram que o setor privado americano criou apenas 98 mil postos em junho, ficando abaixo das expectativas. Queda nas demissões planejadas indica estabilidade relativa no mercado de trabalho americano.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/economia/adp-setor-privado-dos-eua-cria-98-mil-vagas-de-trabalho-em-junho-abaixo-do-esperado/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Commodities",
+      "titulo": "Petróleo estabelece novo patamar em US$ 75, diz CEO da Petrobras",
+      "resumo": "A CEO da Petrobras, Magda Chambriard, afirma que o mercado de petróleo estabeleceu novo patamar entre US$ 72-75 por barril, mesmo sob incertezas. O valor representa estabilização em nível superior ao observado em períodos anteriores.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/petroleo-entrou-em-novo-patamar-de-us-75-mesmo-sob-incertezas-diz-ceo-da-petrobras/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ação da Nike recua com problemas na China e cautela de mercado",
+      "resumo": "A Nike enfrenta queda na cotação das ações devido a dificuldades em recuperar impulso na China e perda de participação de mercado para concorrentes. A cautela dos investidores atenuam perspectivas de recuperação da empresa.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/acao-da-nike-recua-com-problemas-na-china-e-cautela-atenuando-visao-de-recuperacao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Crédito",
+      "titulo": "Inadimplência bate recorde de 4,7% em maio no Brasil",
+      "resumo": "Taxa de inadimplência média nas operações de crédito atingiu 4,7% em maio, maior patamar histórico, representando aumento de 0,1 ponto percentual em relação a abril. Endividamento segue elevado mesmo com lançamento do Desenrola 2.0.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/01/inadimplencia-bate-recorde-maio-mes-de-lancamento-do-desenrola-20-endividamento-segue-alto.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Schemas da NT 2026.002 sobre Reforma Tributária publicados",
+      "resumo": "Comitê Gestor publica schemas da Nota Técnica 2026.002 sobre documentos fiscais eletrônicos da Reforma Tributária. Empresas e desenvolvedoras devem se adequar aos novos padrões de documentação digital.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77775/reforma-tributaria-publicacao-dos-schemas-da-nt-2026-002/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "DANFSE: prazo para novo leiaute é prorrogado até 15 de julho",
+      "resumo": "Comitê Gestor adia para 15 de julho a descontinuação da API atual e amplia prazo para adequação ao novo DANFSE. A prorrogação permite que empresas tenham mais tempo para implementar as mudanças técnicas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77778/danfse-prazo-para-novo-leiaute-e-prorrogado/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária regulamentada com vetos presidenciais ao PLP 68",
+      "resumo": "Presidente Lula sanciona Lei Complementar regulamentando a Reforma Tributária com vetos ao PLP 68 de 2024. A regulamentação estabelece regras definitivas para implementação da reforma tributária do consumo.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária: BP-e, IBS e CBS com novas regras",
+      "resumo": "Reforma Tributária traz novas adequações para Bilhete de Passagem Eletrônico (BP-e), incluindo regras para IBS, CBS e cashback. Empresas devem se preparar para implementar as modificações nos sistemas de faturamento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77767/reforma-tributaria-bp-e-ibs-e-cbs-com-novas-regras/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Tributária",
+      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em São Paulo",
+      "resumo": "Contribuintes do ICMS estabelecidos em outros estados serão dispensados da apresentação da GIA-ST a partir de julho de 2025 em São Paulo. A eliminação simplifica obrigações acessórias para contribuintes interestaduals.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
+      "idioma_original": "pt"
+    }
+  ]
+}
