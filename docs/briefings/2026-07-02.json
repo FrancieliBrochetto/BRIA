@@ -1,0 +1,185 @@
+{
+  "data": "2026-07-02",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude Sonnet 5 lançado com novas capacidades",
+      "resumo": "Anthropic lança Claude Sonnet 5 com melhorias em capacidades de processamento e raciocínio. Modelo continua expandindo o portfólio de IA generativa do mercado.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/sonnet-5-ships-as-washington-frees-fable",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Casa Branca limita GPT-5.6 da OpenAI",
+      "resumo": "Governo dos EUA anuncia restrições ao modelo GPT-5.6 mais poderoso da OpenAI. Decisão reflete preocupações regulatórias com tecnologias de IA avançadas.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI propõe doar 5% de ações para fundo soberano dos EUA",
+      "resumo": "CEO Sam Altman sugere que OpenAI doe 5% de sua participação acionária a um fundo soberano americano. Proposta busca compartilhar ganhos financeiros do boom de IA com o público.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Microsoft lança empresa própria de deployment de IA com investimento de $2,5 bilhões",
+      "resumo": "Microsoft cria nova divisão dedicada ao deployment de soluções de IA, seguindo estratégia de Amazon, OpenAI e Anthropic. Investimento reforça compromisso com infraestrutura de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "IA de leitura de pensamento da Meta apresenta progresso",
+      "resumo": "Meta demonstra avanço em tecnologia de interface cérebro-computador com sistema de leitura de pensamento. Desenvolvimento marca passo importante em comunicação neuronal assistida.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/meta-brain-reading-ai-leaves-letters-behind",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google lança atualização Gemini Flash",
+      "resumo": "Google apresenta versão melhorada do Gemini Flash com desempenho otimizado. Atualização busca aumentar eficiência e velocidade do modelo.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-07-02",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Tecnólogo indiano investe $30M em alternativa de IA ao Microsoft Office",
+      "resumo": "Bhavin Turakhia investe $30 milhões em startup Neo para competir com Microsoft Office e Google Workspace usando IA. Projeto é seu quinto empreendimento em software empresarial.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "SpaceX desenvolve protótipo de dispositivo de IA portátil",
+      "resumo": "SpaceX mostrou a investidores protótipo de dispositivo de IA que se assemelha a um handset. Movimento pode indicar expansão da empresa para setor de wireless.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Python",
+      "titulo": "Entrevista com CEO da Figma sobre Design e IA",
+      "resumo": "Dylan Field, CEO da Figma, discute como IA oferece vantagem competitiva para a plataforma de design. Empresa aposta em integração de tecnologias generativas.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Bolsas europeias sobem com dados de emprego dos EUA em foco",
+      "resumo": "Mercados europeus fecharam em alta após fraco desempenho do emprego americano reduzir apostas de novos aumentos de juros pelo Fed. Movimento favorece ativos defensivos.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/bolsas-europeias-fecham-em-alta-impulsionadas-por-acoes-defensivas-e-dados-dos-eua/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "JPMorgan vê entrada da Advent na Natura como positiva",
+      "resumo": "Advent adquiriu posição equivalente a 6,6% do capital da Natura. JPMorgan mantém recomendação de compra para o papel.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/natura-jpmorgan-ve-entrada-da-advent-como-positiva-e-mantem-recomendacao-de-compra/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa reduz ganhos com foco em dados de emprego americano",
+      "resumo": "Bolsa brasileira retrocede parcialmente após abertura em alta, acompanhando o desempenho dos mercados globais frente aos dados de emprego dos EUA.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-02072026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária é regulamentada com vetos do Presidente",
+      "resumo": "Presidente Lula sanciona Lei Complementar que regulamenta a Reforma Tributária aprovada por Emenda Constitucional, com alguns vetos ao PLP 68 de 2024.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-x-vetos-ao-plp-68-de-2024/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "RFB avança no cronograma das Notas Fiscais da Reforma Tributária",
+      "resumo": "Receita Federal e Comitê Gestor finalizam cronograma de obrigatoriedade dos novos documentos fiscais (IBS e CBS). Mudanças entram em vigor conforme calendário definido.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77824/rfb-e-cgibs-avancam-em-ato-com-cronograma-das-nfs-da-reforma-tributaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "CBS tributará compras internacionais a partir de 2027",
+      "resumo": "A partir de 2027, compras internacionais de até US$ 50 sofrerão incidência da CBS. Medida integra implementação da Reforma Tributária.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77821/cbs-vai-tributar-compras-internacionais-em-2027/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Alterações no SPED 2024 devem ser observadas",
+      "resumo": "Contribuintes precisam estar atentos às mudanças implementadas no SPED 2024. Alterações afetam obrigações de informações de entidades.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Comitê da NFS-e discute tributação do setor funerário e regras do IBS",
+      "resumo": "Reunião abordou enquadramento fiscal de serviços funerários e definição do local de incidência do IBS na Nota Fiscal de Serviço Eletrônica.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77825/comite-da-nfs-e-discute-tributacao-do-setor-funerario-e-regras-do-ibs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "SP exclui 174 itens da substituição tributária a partir de outubro",
+      "resumo": "São Paulo remove 174 itens do regime de substituição tributária com vigência em outubro. Mudança impacta operações fiscais e contábeis de empresas no estado.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77830/sp-exclui-mais-de-174-itens-da-substituicao-tributaria-a-partir-de-outubro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em SP",
+      "resumo": "Contribuintes do ICMS estabelecidos fora de São Paulo ficarão dispensados da GIA-ST a partir de julho de 2025. Simplificação reduz obrigações acessórias.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Governo eleva projeção de inflação para 2026 por impacto do El Niño",
+      "resumo": "Ministério da Fazenda deve aumentar previsão de inflação 2026 de 4,5% due a efeitos do El Niño, especialmente no sul do Brasil. Fenômeno climático pressiona custos agrícolas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/02/governo-deve-elevar-projecao-de-inflacao-em-2026-sob-impacto-do-el-nino.ghtml",
+      "idioma_original": "pt"
+    }
+  ]
+}
