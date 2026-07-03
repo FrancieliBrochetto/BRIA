@@ -2,118 +2,37 @@
   "data": "2026-07-03",
   "noticias": [
     {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "Contribuintes podem consultar pagamento do lote especial do IRPF",
-      "resumo": "Receita Federal libera consulta ao lote especial de restituição automática do Imposto de Renda em 8 de julho. Contribuintes com direito ao cashback do IR podem consultar o pagamento em 15 de julho de 2026.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77852/contribuintes-podem-consultar-pagamento-do-lote-especial-do-irpf-dia-8-de-julho/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "CNPJ Alfanumérico entra em vigor em 31 de julho",
-      "resumo": "Receita Federal implementa CNPJ alfanumérico em 31/07/2026 para novas inscrições. Mudança não afeta CNPJs existentes, mas empresas devem preparar sistemas para o impacto.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77835/cnpj-alfanumerico-o-que-muda-e-como-preparar-sua-empresa/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "TST reconhece estabilidade gestante em contrato temporário",
-      "resumo": "Tribunal Superior do Trabalho alinha decisão ao STF e reconhece direito à estabilidade gestante mesmo em contratos temporários. Empresas devem revisar desligamentos para evitar riscos trabalhistas.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77786/estabilidade-gestante-em-contrato-temporario-nova-regra-tst/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Receita Federal intensifica fiscalização de devedores contumazes",
-      "resumo": "Receita Federal publica lista de devedores contumazes e inicia fiscalização severa. Empresas com inadimplência tributária estruturada enfrentam restrições severas.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77787/devedor-contumaz-receita-federal-inicia-fiscalizacao-severa/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "Malha Fiscal Digital: Prazo para correção de IRPJ/CSLL em ECF",
-      "resumo": "Receita Federal inicia Malha Fiscal Digital focada em IRPJ/CSLL. Empresas têm até 31/07/2026 para corrigir inconsistências entre ECF, DCTF e DCOMP.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77785/malha-fiscal-digital-prazo-para-correcao-de-irpj-csll-em-ecf/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Reforma Tributária regulamentada com vetos do Presidente",
-      "resumo": "Presidente Lula sanciona Lei Complementar que regulamenta a Reforma Tributária aprovada pela Emenda Constitucional com vetos ao PLP 68 de 2024.",
-      "fonte": "Siga o Fisco",
-      "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em SP",
-      "resumo": "Contribuintes do ICMS estabelecidos em outros estados serão dispensados da obrigatoriedade de apresentar GIA-ST a partir de julho de 2025 em São Paulo.",
-      "fonte": "Siga o Fisco",
-      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Simples Nacional: cálculo do ICMS-ST sobre produtos alimentícios em SP",
-      "resumo": "Análise da redução da carga tributária em SP e seu impacto no cálculo do ICMS-ST para contribuintes do Simples Nacional em produtos alimentícios.",
-      "fonte": "Siga o Fisco",
-      "url_original": "https://sigaofisco.com.br/simples-nacional-e-o-calculo-do-icms-st-sobre-produtos-alimenticios-em-sp/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "SPED 2024 - Alterações",
-      "resumo": "Confira as principais alterações implementadas no SPED 2024 que impactam a entrega de informações fiscais e contábeis.",
-      "fonte": "Siga o Fisco",
-      "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Câmbio",
-      "titulo": "Dólar abre em queda com foco em dados econômicos",
-      "resumo": "Dólar abriu em queda de 0,23%, cotado a R$ 5,1959 nesta sexta-feira. Volume reduzido devido ao feriado antecipado do Dia da Independência nos EUA.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/07/03/dolar-ibovespa.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Ibovespa hoje ao vivo: Confira o que movimenta Bolsa nesta sexta",
-      "resumo": "Índices futuros dos EUA operam mistos. Sessão deve ter volume reduzido devido ao feriado nos EUA. Ibovespa abre às 10h.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-03072026/",
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Alibaba proíbe uso interno do Claude Code",
+      "resumo": "Alibaba vetou o uso interno do Claude Code da Anthropic entre seus funcionários e orientou migração para a plataforma própria Qoder, alegando preocupações com rastreamento de dados.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/alibaba-manda-funcionarios-abandonarem-ia-da-anthropic/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI propõe doar 5% de seu patrimônio a fundo soberano dos EUA",
-      "resumo": "CEO Sam Altman propõe contribuir com 5% da equity da OpenAI a um fundo soberano americano. Iniciativa busca permitir que o público compartilhe dos ganhos da revolução da IA.",
+      "subtema": "Modelos IA Gerais",
+      "titulo": "Mark Zuckerberg admite desaceleração no progresso de agentes de IA",
+      "resumo": "CEO da Meta informou internamente que o desenvolvimento de agentes de IA não está avançando no ritmo esperado, indicando desafios técnicos significativos na área.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "url_original": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Claude",
+      "subtema": "Modelos IA Gerais",
+      "titulo": "Meta lança app experimental Pocket para gerar mini-games com IA",
+      "resumo": "Meta apresentou Pocket, aplicativo que permite gerar e compartilhar mini-games interativos a partir de prompts de texto, explorando possibilidades do vibe coding.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Hardware IA",
       "titulo": "Anthropic discute desenvolvimento de chip customizado com Samsung",
-      "resumo": "Anthropic está em negociações com Samsung para criar um chip de IA customizado. Movimento ocorre uma semana após OpenAI anunciar sua própria solução com Broadcom.",
+      "resumo": "Anthropic negocia com Samsung a criação de um chip IA customizado, movimento que ocorre semanas após OpenAI anunciar sua própria solução com Broadcom.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
       "idioma_original": "en"
@@ -121,38 +40,119 @@
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Mark Zuckerberg admite que desenvolvimento de agentes IA ficou aquém das expectativas",
-      "resumo": "CEO da Meta informou internamente que os esforços de desenvolvimento de IA não avançaram com a velocidade esperada. Declaração foi feita em reunião interna.",
+      "titulo": "OpenAI propõe doação de 5% de equity para fundo soberano dos EUA",
+      "resumo": "Sam Altman sugeriu transferir 5% do equity da OpenAI para fundo soberano dos EUA, permitindo que o público participe dos ganhos financeiros do boom de IA.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "url_original": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Meta lança app experimental de geração de jogos Pocket",
-      "resumo": "Meta lançou Pocket, app experimental com IA que permite aos usuários gerar e compartilhar mini games interativos usando prompts de texto.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "subtema": "Figma e Design",
+      "titulo": "Figma CEO acredita que IA oferece aceleração para a empresa",
+      "resumo": "Dylan Field, CEO da Figma, concede entrevista explicando como IA representa um catalisador importante para o crescimento futuro da plataforma de design.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
       "idioma_original": "en"
     },
     {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Assinatura digital via Gov.br ultrapassa 548 milhões de usos",
-      "resumo": "Serviço de assinatura digital oferecido desde 2022 registrou boom de usuários desde o início de 2026, chegando a mais de 548 milhões de utilizações.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/assinatura-digital-via-gov-br-ultrapassa-548-milhoes-de-usos/",
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa sobe para 174 mil pontos sem referência dos EUA",
+      "resumo": "Bolsa brasileira avança sem sinais dos mercados americanos em feriado, com índices futuros dos EUA operando de forma mista.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-03072026/",
       "idioma_original": "pt"
     },
     {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Sam Altman convida Washington para dentro da indústria de IA",
-      "resumo": "CEO da OpenAI propõe maior envolvimento do governo americano na regulamentação e desenvolvimento da indústria de inteligência artificial.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/altman-invites-washington-inside-the-ai-industry",
-      "idioma_original": "en"
+      "tema": "Mercado Financeiro",
+      "subtema": "Análise Econômica",
+      "titulo": "52% dos brasileiros avaliam economia como ruim, mas confiança cresce",
+      "resumo": "Pesquisa Atlas mostra percepção negativa sobre economia atual, porém indicadores de confiança para emprego, renda e cenário econômico apresentam avanço.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/politica/atlas-52-avaliam-economia-do-brasil-como-ruim-mas-expectativa-de-melhora-cresce/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Análise Econômica",
+      "titulo": "BBI vê Bolsa brasileira em fase de 'escuridão antes do amanhecer'",
+      "resumo": "Bank of America identifica ativos brasileiros como baratos, mas aponta falta de catalisadores suficientes para impulsionar recuperação consistente do mercado.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/bbi-ve-bolsa-do-brasil-em-momento-de-escuridao-antes-do-amanhecer-e-aponta-gatilhos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Commodities",
+      "titulo": "Exportações de petróleo do Golfo Pérsico se recuperam em junho",
+      "resumo": "Vendas de petróleo do Golfo ultrapassaram 10 milhões de barris/dia em junho, mas ainda estão 40% abaixo dos níveis pré-guerra.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/03/exportacoes-petroleo.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária é regulamentada com vetos presidenciais",
+      "resumo": "Presidente Lula sanciona Lei Complementar regulamentando Reforma Tributária, com aplicação de vetos ao PLP 68 de 2024.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Fiscal",
+      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em SP",
+      "resumo": "Contribuintes do ICMS de outros Estados serão dispensados da Guia de Informação e Apuração de ICMS-ST a partir de julho de 2025 em São Paulo.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "SPED 2024 apresenta alterações significativas",
+      "resumo": "Confira as principais alterações implementadas no Sistema Público de Escrituração Digital para 2024.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Fiscal",
+      "titulo": "Receita regulamenta monitoramento contínuo de benefícios fiscais",
+      "resumo": "Receita Federal publica IN 2.332/2026 estabelecendo regras de monitoramento contínuo de benefícios fiscais com período de auto regularização, vigência em setembro de 2026.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77854/receita-regulamenta-monitoramento-continuo-de-beneficios-fiscais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Federal esclarece que previdência estrangeira não é dedutível no IRPF",
+      "resumo": "Receita Federal confirma que contribuições para previdência no exterior não podem ser deduzidas da base de cálculo do Imposto de Renda de Pessoa Física.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77855/irpf-previdencia-estrangeira-nao-e-deducivel-diz-receita-federal/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Cartorários lideram ranking de patrimônio declarado no IRPF 2026",
+      "resumo": "Receita Federal divulga que titulares de cartório apresentam maior patrimônio declarado entre as profissões no IRPF 2026.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77862/receita-divulga-ranking-das-profissoes-com-maior-patrimonio-declarado-no-ir/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "eSocial",
+      "titulo": "eSocial orienta empresas sobre Crédito do Trabalhador",
+      "resumo": "Plataforma eSocial publica orientações sobre garantias no Crédito do Trabalhador, impactando processos de RH e Departamento Pessoal.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77851/esocial-orienta-empresas-sobre-credito-do-trabalhador/",
+      "idioma_original": "pt"
     }
   ]
 }
