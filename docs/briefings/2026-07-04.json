@@ -3,99 +3,81 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "IA - Agentes e Modelos",
-      "titulo": "Zuckerberg insatisfeito com progresso de agentes de IA da Meta",
-      "resumo": "Mark Zuckerberg afirmou em reunião interna que a reestruturação da Meta para o mercado de IA ainda não trouxe os resultados esperados. O executivo revelou descontentamento com o avanço dos agentes de inteligência artificial da empresa.",
+      "subtema": "Modelos e Plataformas IA",
+      "titulo": "Mark Zuckerberg insatisfeito com progresso de agentes de IA da Meta",
+      "resumo": "O CEO da Meta afirmou em reunião interna que a reestruturação da empresa para o mercado de IA ainda não produziu os resultados esperados. O desenvolvimento de agentes de IA está progredindo mais lentamente do que o desejado.",
       "fonte": "Tecnoblog",
       "url_original": "https://tecnoblog.net/noticias/mark-zuckerberg-esta-insatisfeito-com-progresso-de-agentes-de-ia-da-meta/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA - Aplicações",
-      "titulo": "Meta lança aplicativo experimental Pocket para criar jogos com IA",
-      "resumo": "Meta lançou o Pocket, um app experimental que permite aos usuários gerar e compartilhar mini-games interativos usando prompts de texto. A ferramenta utiliza inteligência artificial para criar jogos de forma simplificada.",
+      "subtema": "Modelos e Plataformas IA",
+      "titulo": "Mistral AI: concorrente open source do OpenAI levanta financiamento robusto",
+      "resumo": "Mistral AI, fundada em 2023, oferece modelos de IA open source e já conquistou investimentos significativos com objetivo de democratizar acesso à IA de ponta.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "url_original": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Anthropic lança Claude Sonnet 5 e libera Fable globalmente",
-      "resumo": "Anthropic lançou o Claude Sonnet 5 e liberou sua ferramenta Fable em escala global após restrições anteriores. As atualizações ampliam a disponibilidade de ferramentas de IA generativa da empresa.",
+      "titulo": "Anthropic lança Claude Sonnet 5 com novas capacidades",
+      "resumo": "Claude Sonnet 5 foi lançado com melhorias em desempenho e funcionalidades. Ferramenta Fable da Anthropic também foi liberada globalmente após restrições anteriores.",
       "fonte": "The Rundown AI",
       "url_original": "https://www.therundown.ai/p/sonnet-5-ships-as-washington-frees-fable",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI lança modelo mais poderoso, mas com acesso limitado",
+      "resumo": "OpenAI disponibilizou sua IA mais potente, porém com restrições de acesso. Lançamento indica avanço nas capacidades, mas com controles sobre distribuição.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/openai-most-powerful-ai-is-here-but-not-for-everyone",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "Gemini",
-      "titulo": "Google lança atualização Gemini Flash com melhorias de desempenho",
-      "resumo": "Google atualizou o Gemini Flash com melhorias de velocidade e eficiência. A versão aprimorada oferece melhor desempenho para tarefas de IA generativa.",
+      "titulo": "Google atualiza Gemini Flash com melhorias de desempenho",
+      "resumo": "Gemini Flash recebeu upgrade focado em velocidade e eficiência. Atualização reforça competição do Google no mercado de modelos de IA rápidos.",
       "fonte": "TLDR AI",
       "url_original": "https://tldr.tech/ai/2026-07-02",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI apresenta GPT-5.6 em versão preview",
-      "resumo": "OpenAI anunciou a versão preview do GPT-5.6, sua versão mais poderosa até o momento. Modelo oferece capacidades avançadas mas acesso ainda limitado.",
-      "fonte": "TLDR AI",
-      "url_original": "https://tldr.tech/ai/2026-06-29",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Negócios e Regulação",
-      "titulo": "Sam Altman convida governo americano para integração com indústria de IA",
-      "resumo": "Sam Altman, CEO da OpenAI, convida autoridades de Washington para maior integração com a indústria de IA. Movimento busca maior envolvimento governamental no desenvolvimento de políticas para setor.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/altman-invites-washington-inside-the-ai-industry",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Ferramentas de automação avançam: Record & Replay e Design.md",
-      "resumo": "Emergem novas ferramentas de automação como Record & Replay para tarefas manuais e Google Design.md para desenvolvimento web. Tecnologias facilitam automação de processos rotineiros.",
+      "titulo": "Meta desenvolve IA capaz de ler pensamentos com melhor precisão",
+      "resumo": "Pesquisadores da Meta apresentam avanço em interface cérebro-computador que traduz pensamentos em texto com menos erros. Tecnologia promete futuro da interação humano-máquina.",
       "fonte": "The Rundown AI",
       "url_original": "https://www.therundown.ai/p/meta-brain-reading-ai-leaves-letters-behind",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
+      "subtema": "Integração IA em Aplicações",
+      "titulo": "Meta integra IA em nuvem com infraestrutura robusta",
+      "resumo": "Meta expande sua oferta de computação em nuvem com capacidades de IA integradas. Movimento visa competir com provedores tradicionais e ampliar receitas.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-07-03",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "Segurança e Privacidade",
-      "titulo": "Instagram permitiu anúncios de abuso infantil, revela investigação da BBC",
-      "resumo": "Investigação da BBC encontrou cerca de 30 anúncios oferecendo vídeos de abuso infantil no Instagram na Índia. Denúncias no app não resultaram em ação, expondo falha grave de moderação.",
+      "titulo": "Instagram permitiu anúncios de material de abuso infantil",
+      "resumo": "Investigação da BBC encontrou aproximadamente 30 propagandas oferecendo vídeos envolvendo crianças na plataforma da Índia. Denúncias no app não receberam ação rápida.",
       "fonte": "Tecnoblog",
       "url_original": "https://tecnoblog.net/noticias/instagram-permitiu-anuncios-de-material-de-abuso-infantil-diz-investigacao/",
       "idioma_original": "pt"
     },
     {
-      "tema": "IA & Tech",
-      "subtema": "Negócios e Regulação",
-      "titulo": "Data centers no Brasil atraem bilhões mas geram debate sobre soberania",
-      "resumo": "Megaprojetos de data centers no Brasil pressionam recursos naturais e dividem opiniões entre mercado e sociedade. Corrida bilionária levanta questões sobre soberania digital versus colonialismo econômico.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/07/04/pro/soberania-ou-colonialismo-a-corrida-bilionaria-por-tras-dos-data-centers-no-brasil/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Design e Criação",
-      "titulo": "Figma CEO Dylan Field vê IA como catalisador de crescimento",
-      "resumo": "Em entrevista, Dylan Field, CEO da Figma, discute como a inteligência artificial oferece vantagem competitiva para a plataforma de design. Field vê IA como oportunidade de inovação no setor.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
-      "idioma_original": "en"
-    },
-    {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Reforma Tributária é regulamentada com vetos presidenciais",
-      "resumo": "Presidente Lula sanciona Lei Complementar regulamentando a Reforma Tributária aprovada pela Emenda Constitucional. Lei inclui vetos ao PLP 68 de 2024, afetando estrutura tributária brasileira.",
+      "titulo": "Reforma Tributária é regulamentada pelo Presidente Lula",
+      "resumo": "Lei Complementar regulamenta Reforma Tributária aprovada por Emenda Constitucional. Regulamentação inclui vetos presidenciais ao PLP 68 de 2024.",
       "fonte": "Siga o Fisco",
       "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
       "idioma_original": "pt"
@@ -103,91 +85,37 @@
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "SPED",
-      "titulo": "SPED 2024 apresenta alterações importantes para contribuintes",
-      "resumo": "Alterações no SPED 2024 modificam obrigações fiscais de contribuintes. Empresas devem revisar procedimentos de escrituração digital para adequação.",
-      "fonte": "Siga o Fisco",
-      "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação Fiscal",
-      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em SP",
-      "resumo": "Contribuintes do ICMS estabelecidos em outros Estados serão dispensados da GIA-ST (Guia de Informação e Apuração) a partir de julho de 2025. Mudança simplifica obrigações acessórias em São Paulo.",
+      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em São Paulo",
+      "resumo": "Contribuintes do ICMS estabelecidos em outros estados serão dispensados da GIA-ST a partir de julho de 2025. Simplificação reduz obrigações administrativas.",
       "fonte": "Siga o Fisco",
       "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda e Tributação",
-      "titulo": "Simples Nacional congelado há 8 anos ameaça pequenas empresas",
-      "resumo": "Limites do Simples Nacional não são atualizados desde 2018, criando defasagem que amplia tributação indireta de pequenas empresas. Contadores alertam sobre impacto negativo da falta de reajuste.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/minhas-financas/simples-nacional-congelado-ha-8-anos-ameaca-pequenas-empresas-com-tributacao-indireta/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Receita Federal alerta: usar créditos de terceiros é risco fiscal",
-      "resumo": "Receita Federal adverte empresas sobre ilegalidade de utilizar créditos de terceiros para quitar débitos federais. Prática expõe empresas a penalidades e sanções.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77818/receita-federal-alerta-usar-creditos-de-terceiros-e-risco-fiscal/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação Contábil",
-      "titulo": "Resolução CVM 242 impacta demonstrações contábeis de companhias abertas",
-      "resumo": "Resolução CVM 242 e revisão CPC 29 afetam Demonstração de Fluxo de Caixa, provisões e outras demonstrações contábeis. Companhias abertas devem se adequar aos novos critérios.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77816/resolucao-cvm-242-impacto-nas-demonstracoes-contabeis/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação Aduaneira",
-      "titulo": "Brasil e Paraguai assinam protocolo para cargas menores na fronteira",
-      "resumo": "Brasil e Paraguai firmam novo protocolo regulando transporte de cargas menores na tríplice fronteira. Mudança afeta procedimentos de controle aduaneiro e operações de empresas.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77817/protocolo-brasil-paraguai-novas-regras-para-cargas-na-fronteira/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "PEC da jornada 6x1 pode alterar investimentos de 46% das empresas",
-      "resumo": "Pesquisa da CNI aponta que metade das empresas reveria investimentos se PEC da jornada 6x1 avançar. Proposta geraria impactos significativos em custos operacionais.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77872/pec-da-6x1-pode-alterar-investimentos-de-46-das-empresas/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Selic e Taxas",
-      "titulo": "Ministro da Fazenda identifica juros altos como gargalo da economia",
-      "resumo": "Dario Durigan aponta que juros altos (14,25% ao ano) são o principal obstáculo econômico, prejudicando investimentos privados e elevando dívida pública para 81,4% do PIB. Governo buscará reversão da taxa.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/07/04/durigan-diz-que-gargalo-da-economia-sao-os-juros-altos-quem-e-menos-culpado-e-o-ministerio-da-fazenda.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Imposto de Renda e Reforma Tributária",
-      "titulo": "Ministro defende aumentar tributação dos ricos e cortar benefícios fiscais",
-      "resumo": "Dario Durigan propõe aumentar carga tributária sobre renda de pessoas físicas, revisar programas sociais e eliminar benefícios fiscais. Medidas buscam melhorar finanças públicas nos próximos anos.",
+      "subtema": "Impostos e Tributos",
+      "titulo": "Ministro da Fazenda defende tributação progressiva e revisão de gastos",
+      "resumo": "Ministro Dario Durigan propõe aumentar tributação sobre renda alta, revisar programas sociais e cortar benefícios fiscais. Objetivo é melhorar economia nos próximos anos.",
       "fonte": "G1 Economia",
       "url_original": "https://g1.globo.com/economia/noticia/2026/07/04/ministro-da-fazenda-defende-tributar-mais-os-ricos-rever-programas-sociais-e-cortar-beneficios-fiscais-nos-proximos-anos.ghtml",
       "idioma_original": "pt"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Investimentos e Negócios",
-      "titulo": "Zona Franca de Manaus recebe R$ 126,8 mi para produção de smartphones",
-      "resumo": "Jovi investe R$ 126,8 milhões na Zona Franca de Manaus para fabricação de smartphones. V Tech amplia operações, reforçando polo industrial e tecnológico da região.",
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Tributária",
+      "titulo": "Juros altos são gargalo da economia brasileira, diz ministro",
+      "resumo": "Ministro da Fazenda identifica taxa de juros em 14,25% ao ano como principal obstáculo para investimentos privados e pressão da dívida pública em 81,4% do PIB.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/04/durigan-diz-que-gargalo-da-economia-sao-os-juros-altos-quem-e-menos-culpado-e-o-ministerio-da-fazenda.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Obrigações Contábeis",
+      "titulo": "Simples Nacional: entenda as principais obrigações fiscais",
+      "resumo": "Empresas no Simples Nacional devem cumprir obrigações como pagamento do DAS, DEFIS, emissão de notas fiscais e exigências trabalhistas. Guia essencial para compliance.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77829/investimento-na-zona-franca-de-manaus-r-126-8-mi-para-tech/",
+      "url_original": "https://www.contabeis.com.br/noticias/77797/obrigacoes-no-simples-nacional-o-que-as-empresas-devem-saber/",
       "idioma_original": "pt"
     }
   ]
