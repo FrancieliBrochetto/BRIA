@@ -1,0 +1,95 @@
+{
+  "data": "2026-07-05",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Mark Zuckerberg insatisfeito com progresso de agentes de IA da Meta",
+      "resumo": "O executivo afirmou em reunião com funcionários que a reestruturação da Meta para se adaptar ao mercado de IA ainda não produziu os resultados esperados. Zuckerberg demonstra preocupação com o avanço dos agentes de inteligência artificial da empresa.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/mark-zuckerberg-esta-insatisfeito-com-progresso-de-agentes-de-ia-da-meta/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Instagram permitiu anúncios de material de abuso infantil, revela investigação",
+      "resumo": "Investigação da BBC encontrou aproximadamente 30 propagandas oferecendo venda de vídeos envolvendo crianças na Índia. As denúncias realizadas no app não tiveram resposta adequada da plataforma.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/instagram-permitiu-anuncios-de-material-de-abuso-infantil-diz-investigacao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Alibaba proíbe funcionários de usar Claude Code",
+      "resumo": "Alibaba classificou Claude Code como software de alto risco e baniu seu uso interno. A medida reflete preocupações da empresa com segurança e controle de dados.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Mistral AI: concorrente OpenAI que busca democratizar IA de fronteira",
+      "resumo": "Fundada em 2023, a Mistral AI oferece modelos de IA em código aberto e levantou financiamento significativo com objetivo de colocar IA avançada ao alcance de todos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Entrevista com CEO da Figma sobre Design e IA",
+      "resumo": "Dylan Field discute como a IA oferece vantagens significativas para o Figma e sua estratégia de integração de inteligência artificial na plataforma de design.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "SPED 2024: principais alterações implementadas",
+      "resumo": "Resumo das alterações no SPED 2024 que contadores e empresas precisam conhecer para manter conformidade com obrigações fiscais.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Simples Nacional e cálculo do ICMS-ST sobre produtos alimentícios em SP",
+      "resumo": "Análise sobre como o Simples Nacional calcula o ICMS-ST em relação à redução da carga tributária para produtos alimentícios estabelecida no RICMS/00.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/simples-nacional-e-o-calculo-do-icms-st-sobre-produtos-alimenticios-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em SP",
+      "resumo": "Contribuintes do ICMS estabelecidos em outros estados serão dispensados da apresentação da Guia de Informação e Apuração do ICMS-ST a partir de julho de 2025.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária é regulamentada com vetos ao PLP 68/2024",
+      "resumo": "Presidente Lula sanciona Lei Complementar que regulamenta a Reforma Tributária aprovada pela Emenda Constitucional, incluindo vetos específicos ao PLP 68 de 2024.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Obrigações no Simples Nacional: guia completo para empresas",
+      "resumo": "Principais obrigações das empresas enquadradas no Simples Nacional, incluindo DAS, DEFIS, emissão de notas fiscais e exigências trabalhistas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77797/obrigacoes-no-simples-nacional-o-que-as-empresas-devem-saber/",
+      "idioma_original": "pt"
+    }
+  ]
+}
