@@ -3,92 +3,146 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Mark Zuckerberg insatisfeito com progresso de agentes de IA da Meta",
-      "resumo": "O executivo afirmou em reunião com funcionários que a reestruturação da Meta para se adaptar ao mercado de IA ainda não produziu os resultados esperados. Zuckerberg demonstra preocupação com o avanço dos agentes de inteligência artificial da empresa.",
+      "subtema": "IA em Empresas",
+      "titulo": "Meta enfrenta atrasos em desenvolvimento de agentes de IA",
+      "resumo": "Mark Zuckerberg expressou insatisfação com o progresso dos agentes de IA da Meta em reunião com funcionários. A reestruturação da empresa para se adaptar ao mercado de IA ainda não produziu os resultados esperados.",
       "fonte": "Tecnoblog",
       "url_original": "https://tecnoblog.net/noticias/mark-zuckerberg-esta-insatisfeito-com-progresso-de-agentes-de-ia-da-meta/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Instagram permitiu anúncios de material de abuso infantil, revela investigação",
-      "resumo": "Investigação da BBC encontrou aproximadamente 30 propagandas oferecendo venda de vídeos envolvendo crianças na Índia. As denúncias realizadas no app não tiveram resposta adequada da plataforma.",
+      "subtema": "IA em Segurança",
+      "titulo": "Investigação da BBC encontra anúncios de material de abuso infantil no Instagram",
+      "resumo": "A BBC descobriu aproximadamente 30 propagandas oferecendo venda de vídeos envolvendo crianças na Índia através do Instagram. Denúncias no aplicativo não resultaram em ações efetivas.",
       "fonte": "Tecnoblog",
       "url_original": "https://tecnoblog.net/noticias/instagram-permitiu-anuncios-de-material-de-abuso-infantil-diz-investigacao/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
+      "subtema": "Estratégia de Plataformas",
+      "titulo": "Threads aposta em comunidades e iguala alcance do X",
+      "resumo": "A plataforma da Meta amplia seu foco em comunidades e investe em novos recursos para se consolidar como espaço de conversas públicas, alcançando agora o mesmo alcance do X.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/05/internet-e-redes-sociais/threads-muda-de-estrategia-aposta-em-comunidades-e-iguala-alcance-do-x/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "Claude",
       "titulo": "Alibaba proíbe funcionários de usar Claude Code",
-      "resumo": "Alibaba classificou Claude Code como software de alto risco e baniu seu uso interno. A medida reflete preocupações da empresa com segurança e controle de dados.",
+      "resumo": "A empresa chinesa Alibaba classificou Claude Code como software de alto risco e proibiu seus funcionários de utilizá-lo.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Mistral AI: concorrente OpenAI que busca democratizar IA de fronteira",
-      "resumo": "Fundada em 2023, a Mistral AI oferece modelos de IA em código aberto e levantou financiamento significativo com objetivo de colocar IA avançada ao alcance de todos.",
+      "subtema": "Mistral AI",
+      "titulo": "Mistral AI busca democratizar acesso a modelos de IA avançados",
+      "resumo": "A startup francesa Mistral AI, que oferece modelos de IA open source, levantou financiamento significativo desde sua criação em 2023 com o objetivo de 'colocar IA de fronteira nas mãos de todos'.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Entrevista com CEO da Figma sobre Design e IA",
-      "resumo": "Dylan Field discute como a IA oferece vantagens significativas para o Figma e sua estratégia de integração de inteligência artificial na plataforma de design.",
+      "subtema": "Midjourney",
+      "titulo": "Midjourney busca compelir estúdios de Hollywood a revelar uso de IA",
+      "resumo": "Como parte de disputa legal em andamento, a Midjourney está buscando forçar três estúdios de Hollywood a revelar detalhes sobre como utilizam IA em seus próprios processos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Google Workspace",
+      "titulo": "Google lança comercial imaginando Declaração de Independência escrita com IA",
+      "resumo": "Novo comercial do Google questiona: 'E se os Pais Fundadores tivessem acesso ao Google Workspace?' celebrando o uso de IA em ferramentas de produtividade.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Figma",
+      "titulo": "CEO da Figma vê IA como diferencial competitivo para design",
+      "resumo": "Dylan Field, CEO da Figma, acredita que IA oferece um impulsionador importante para o crescimento e diferenciação da plataforma de design.",
       "fonte": "Stratechery",
       "url_original": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
       "idioma_original": "en"
     },
     {
+      "tema": "IA & Tech",
+      "subtema": "OpenAI",
+      "titulo": "OpenAI libera seu modelo de IA mais poderoso, mas com acesso limitado",
+      "resumo": "O modelo mais avançado da OpenAI foi lançado, porém não está disponível para todos os usuários, indicando distribuição seletiva.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/openai-most-powerful-ai-is-here-but-not-for-everyone",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Anthropic",
+      "titulo": "Fable da Anthropic retorna com disponibilidade global",
+      "resumo": "O serviço Fable da Anthropic foi autorizado para uso global após restrições, ampliando seu alcance de usuários.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/anthropic-fable-returns-worldwide",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Meta",
+      "titulo": "IA de leitura cerebral da Meta apresenta limitações em reconhecimento de letras",
+      "resumo": "A tecnologia de IA desenvolvida pela Meta para ler pensamentos deixa algumas letras de fora no processo de reconhecimento.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/meta-brain-reading-ai-leaves-letters-behind",
+      "idioma_original": "en"
+    },
+    {
       "tema": "Contabilidade & Legislação",
       "subtema": "SPED",
-      "titulo": "SPED 2024: principais alterações implementadas",
-      "resumo": "Resumo das alterações no SPED 2024 que contadores e empresas precisam conhecer para manter conformidade com obrigações fiscais.",
+      "titulo": "SPED 2024 – Principais alterações divulgadas",
+      "resumo": "Confira as alterações implementadas no SPED 2024 que impactam a entrega de informações fiscais.",
       "fonte": "Siga o Fisco",
       "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "Simples Nacional e cálculo do ICMS-ST sobre produtos alimentícios em SP",
-      "resumo": "Análise sobre como o Simples Nacional calcula o ICMS-ST em relação à redução da carga tributária para produtos alimentícios estabelecida no RICMS/00.",
-      "fonte": "Siga o Fisco",
-      "url_original": "https://sigaofisco.com.br/simples-nacional-e-o-calculo-do-icms-st-sobre-produtos-alimenticios-em-sp/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em SP",
-      "resumo": "Contribuintes do ICMS estabelecidos em outros estados serão dispensados da apresentação da Guia de Informação e Apuração do ICMS-ST a partir de julho de 2025.",
-      "fonte": "Siga o Fisco",
-      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Reforma Tributária é regulamentada com vetos ao PLP 68/2024",
-      "resumo": "Presidente Lula sanciona Lei Complementar que regulamenta a Reforma Tributária aprovada pela Emenda Constitucional, incluindo vetos específicos ao PLP 68 de 2024.",
+      "titulo": "Reforma Tributária regulamentada com vetos presidenciais",
+      "resumo": "Presidente Lula assina Lei Complementar regulamentando a Reforma Tributária aprovada pela Emenda Constitucional, com vetos ao PLP 68 de 2024.",
       "fonte": "Siga o Fisco",
       "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Obrigações no Simples Nacional: guia completo para empresas",
-      "resumo": "Principais obrigações das empresas enquadradas no Simples Nacional, incluindo DAS, DEFIS, emissão de notas fiscais e exigências trabalhistas.",
+      "subtema": "ICMS",
+      "titulo": "GIA-ST será eliminada em São Paulo a partir de julho de 2025",
+      "resumo": "Contribuintes do ICMS estabelecidos em outros Estados serão dispensados da obrigação de apresentar GIA-ST a partir de julho de 2025 em SP.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Receita Federal",
+      "titulo": "Como regularizar pendências com a Receita Federal",
+      "resumo": "Guia prático sobre consulta e regularização de pendências na Receita Federal para evitar multas, exclusão do Simples e bloqueios de CNPJ.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77797/obrigacoes-no-simples-nacional-o-que-as-empresas-devem-saber/",
+      "url_original": "https://www.contabeis.com.br/noticias/77811/como-regularizar-pendencias-com-a-receita-federal/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "IA exige validação em fontes oficiais na Reforma Tributária",
+      "resumo": "Especialistas alertam que, embora IA auxilie na análise da Reforma Tributária, a validação de informações em fontes oficiais é crucial para evitar erros fiscais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77850/reforma-tributaria-uso-de-ia-exige-fontes-oficiais-e-validacao/",
       "idioma_original": "pt"
     }
   ]
