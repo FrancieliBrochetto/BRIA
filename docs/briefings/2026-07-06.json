@@ -1,0 +1,176 @@
+{
+  "data": "2026-07-06",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Meta insatisfeita com progresso de agentes de IA",
+      "resumo": "Mark Zuckerberg afirmou em reunião com funcionários que a reestruturação da Meta para se adaptar ao mercado de IA ainda não produziu os resultados esperados. A empresa segue investindo em agentes de inteligência artificial, mas enfrenta desafios na entrega de soluções promissoras.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/mark-zuckerberg-esta-insatisfeito-com-progresso-de-agentes-de-ia-da-meta/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Alibaba proíbe uso de Claude Code para funcionários",
+      "resumo": "A empresa chinesa Alibaba classificou Claude Code como software de alto risco e determinou a proibição de seu uso por colaboradores. A decisão reflete preocupações com segurança e controle de dados em ferramentas de IA generativa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI prepara lançamento do GPT-5.6",
+      "resumo": "A OpenAI está em fase de preparação para o lançamento do GPT-5.6, continuando sua evolução em modelos de linguagem. O novo modelo integra melhorias em processamento e capacidades de raciocínio.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-07-06",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google Workspace destaca IA em novo comercial",
+      "resumo": "Google lançou comercial que imagina a Declaração de Independência sendo escrita com ajuda de ferramentas de IA. A campanha busca posicionar o Google Workspace como ferramenta essencial para criatividade assistida por IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Station F acelera programa de aceleração para startups de IA na Europa",
+      "resumo": "O hub Station F, baseado em Paris e fundado pelo bilionário francês Xavier Niel, está ampliando seu programa acelerador F/ai. A iniciativa visa consolidar a posição de Paris como polo de startups de IA na Europa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Midjourney exige que estúdios de Hollywood revelem detalhes de uso de IA",
+      "resumo": "No contexto de disputa judicial com três estúdios hollywoodianos, a Midjourney busca forçar a divulgação de como essas empresas utilizam IA em seus processos. A medida integra debate mais amplo sobre transparência no uso de inteligência artificial.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Amazon encerra aceitação de novos clientes no Mechanical Turk",
+      "resumo": "A Amazon anunciou o fim da aceitação de novos usuários na plataforma Mechanical Turk, que conecta trabalhadores com tarefas pequenas. A decisão marca possível transição ou encerramento da plataforma fundada em 2005.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar sobe ante pressões do tarifaço e dados econômicos",
+      "resumo": "O dólar operou em alta nesta segunda (6), avançando 0,10% e cotado a R$ 5,1734. O Ibovespa recuou 0,83% aos 172.621 pontos, com foco dos investidores nas audiências sobre o tarifaço americano contra produtos brasileiros.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/06/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "SK Hynix arrecada US$ 28 bilhões em estreia histórica no mercado americano",
+      "resumo": "A fabricante sul-coreana de chips SK Hynix fez sua primeira oferta de ADRs na Nasdaq, levantando cerca de US$ 28 bilhões. Os recursos financiarão plano de expansão da empresa em meio à alta demanda por chips para IA.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/06/pro/empresa-sk-hynix-almeja-us-28-bilhoes-em-estreia-historica-na-bolsa-de-valores-dos-eua/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Samsung prevê lucro recorde impulsionado pela demanda de IA",
+      "resumo": "A Samsung projeta lucro recorde não por smartphones, mas pela alta demanda de memória e chips para IA. Escassez de componentes e aumento de preços favorecem os resultados da empresa no setor semicondutor.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/06/pro/a-samsung-tera-um-lucro-recorde-e-nao-e-por-smartphones/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Recuperações extrajudiciais avançam com pressão de juros altos",
+      "resumo": "Impulsionadas pela reforma da lei e pela Selic em 14,25%, recuperações extrajudiciais crescem no Brasil com empresas como Raízen e GPA negociando diretamente com credores. Em 2026, foram mobilizados R$ 109 bilhões em dívidas.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/recuperacoes-extrajudiciais-avancam-no-brasil-com-pressao-de-juros-altos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Indústria estima 4,1 mil produtos brasileiros afetados por novo tarifaço",
+      "resumo": "A CNI divulgou estimativa mostrando que 4,1 mil produtos exportados pelo Brasil aos EUA podem ser prejudicados pelo novo tarifaço proposto pelo governo Trump. A indústria está nos EUA para barrar a medida em audiências públicas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/06/industria-estima-que-41-mil-produtos-exportados-para-os-eua-podem-ser-afetados-por-novo-tarifaco.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária é regulamentada por Lei Complementar",
+      "resumo": "O Presidente Lula sancionou Lei Complementar que regulamenta a Reforma Tributária aprovada pela Emenda Constitucional. A legislação implementa novas estruturas de tributação indireta e IBS.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Imposto Seletivo incidirá sobre bebidas alcoólicas",
+      "resumo": "A Reforma Tributária prevê Imposto Seletivo que onera bebidas alcoólicas, alinhado à tributação de bens prejudiciais à saúde. A medida impactará o setor produtivo e padrão de consumo de bebidas no Brasil.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77893/o-imposto-seletivo-e-as-bebidas-alcoolicas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Receita atualiza DF-e para CNPJ alfanumérico a partir de 8 de julho",
+      "resumo": "A Receita Federal atualizará o Distribuidor de DF-e (documentos fiscais eletrônicos) para reconhecer CNPJ alfanumérico. As alterações são estruturais nos leiautes de distribuição de notas fiscais eletrônicas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77886/nf-e-receita-atualiza-df-e-para-cnpj-alfanumerico-a-partir-desta-quarta-8/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "GIA-ST será eliminada em SP a partir de julho de 2025",
+      "resumo": "São Paulo dispensará contribuintes do ICMS estabelecidos em outros estados da obrigação de apresentar a Guia de Informação e Apuração do ICMS-ST (GIA-ST) a partir de julho de 2025. A medida simplifica processos de declaração.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Governo autoriza concursos para Receita Federal e Banco Central com 316 vagas",
+      "resumo": "O Ministério da Gestão autorizou dois concursos públicos federais com 316 vagas totais: um para a Receita Federal e outro para o Banco Central. As seleções abrangem cargos de níveis médio e superior.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/07/06/governo-autoriza-concursos-da-receita-federal-e-banco-central.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Desenrola MEI começa esta semana com descontos e parcelamento",
+      "resumo": "O programa Desenrola MEI iniciou esta semana oferecendo descontos e parcelamento para microempreendedores regularizarem débitos na Dívida Ativa. A iniciativa facilita a reabilitação de empresas com pendências.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77887/desenrola-mei-comeca-nesta-semana/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "MTE orienta sobre descontos do Crédito do Trabalhador em rescisões",
+      "resumo": "O Ministério do Trabalho divulgou novas orientações para aplicação de descontos referentes ao Crédito do Trabalhador em rescisões. As normas esclarecem procedimentos obrigatórios a serem adotados pelos empregadores.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77888/mte-orienta-empresas-sobre-descontos-do-credito-do-trabalhador/",
+      "idioma_original": "pt"
+    }
+  ]
+}
