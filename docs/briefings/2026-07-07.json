@@ -1,0 +1,203 @@
+{
+  "data": "2026-07-07",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança & Ataques",
+      "titulo": "Ransomware usa agente de IA para se adaptar a sistemas",
+      "resumo": "Operação JadePuffer utiliza agente de IA capaz de aprender com falhas e gerar correções em poucos segundos. O ataque não usa técnicas sofisticadas, mas a capacidade adaptativa do agente de IA torna-o mais eficaz.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/ataque-de-ransomware-usa-agente-de-ia-para-se-adaptar-a-sistemas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Modelos & Inovação",
+      "titulo": "Midjourney busca acesso a documentos de estúdios de Hollywood",
+      "resumo": "Startup tenta ampliar acesso a documentos internos de Disney, Universal e Warner em processo sobre personagens protegidos por direitos autorais. A ação visa compreender melhor como esses estúdios utilizam IA.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/midjourney-quer-que-estudios-de-hollywood-revelem-como-usam-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI prepara lançamento do GPT-5.6",
+      "resumo": "OpenAI trabalha no desenvolvimento da versão GPT-5.6. Informação faz parte de atualizações recentes na área de modelos de linguagem e inovações em IA.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-07-06",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic lança Claude Sonnet 5 e libera Fable globalmente",
+      "resumo": "Anthropic libera Claude Sonnet 5 e o serviço Fable retorna ao mercado global. Fable havia sido suspenso e agora é reaprovado para uso internacional.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-07-01",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google lança atualização do Gemini Flash com nova funcionalidade",
+      "resumo": "Google apresenta upgrade significativo no Gemini Flash. Atualização inclui melhorias de performance e novos recursos para usuários.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-07-02",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Figma integra IA para potencializar design e experiência do usuário",
+      "resumo": "CEO Dylan Field destaca como IA oferece vantagem competitiva para Figma. A integração de inteligência artificial na plataforma de design impulsiona a inovação e facilita o fluxo de trabalho.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Replit permite criar apps mobile em 15 minutos com IA",
+      "resumo": "Plataforma Replit utiliza IA para acelerar desenvolvimento de aplicações mobile. Usuários conseguem construir ideias de apps funcionales em apenas 15 minutos.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/the-part-of-claude-s-brain-nobody-built",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança & Ataques",
+      "titulo": "SETI atualiza protocolos para confirmar sinais extraterrestres com IA",
+      "resumo": "Organizadores do SETI definem protocolo 'manual alienígena' para validar descobertas extraterrestres. Sistema evita falsas descobertas em contexto de avanço da inteligência artificial.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/07/ciencia-e-espaco/encontramos-extraterrestres-e-agora-cientistas-definem-manual-alienigena/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Regulação",
+      "titulo": "Governo alerta sobre riscos de brinquedos com IA no Brasil",
+      "resumo": "Secretaria Nacional de Direitos Digitais identifica riscos de manipulação emocional e coleta indevida de dados em brinquedos inteligentes vendidos no Brasil. Nota técnica do MJSP aponta preocupações com proteção de crianças.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/07/07/governo-ve-riscos-de-manipulacao-emocional-e-coleta-de-dados-em-brinquedos-com-ia-vendidos-no-brasil.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Gigantes de tech perdem confiança dos investidores",
+      "resumo": "As 7 Magníficas estão perdendo força no mercado enquanto investidores focam em maiores beneficiários da onda de investimentos em IA. Mudança reflete preocupações sobre sustentabilidade dos ganhos com inteligência artificial.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/7-magnificas-perto-do-fim-por-que-essas-techs-estao-perdendo-confianca-dos-mercados/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar sobe com tensões no Oriente Médio em foco",
+      "resumo": "Dólar abre em alta com ganho de 0,14%, cotado a R$ 5,1391. Situação geopolítica no Oriente Médio e movimentos de juros pressionam a moeda norte-americana.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/07/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa futuro sobe, mas exterior negativo limita ganhos",
+      "resumo": "Ibovespa futuro recupera após queda anterior, mas ganhos são limitados por fraqueza dos mercados externos. Investidores questionam se crescimento de lucros com IA pode ser sustentado.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-futuro-sobe-apos-queda-na-vespera-mas-exterior-negativo-limita-ganhos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Commodities",
+      "titulo": "Minério de ferro recua com demanda fraca de siderúrgicas",
+      "resumo": "Contrato de minério de ferro para agosto cai 0,36% a US$97,85 por tonelada. Siderúrgicas registram prejuízos e demanda segue fraca no mercado.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/minerio-de-ferro-recua-com-siderurgicas-registrando-prejuizos-e-demanda-fraca/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Samsung pode bater lucro de 40 anos em 2026",
+      "resumo": "Samsung, uma das três maiores fabricantes de chips de memória RAM, praticamente dobrou vendas nos últimos meses. Empresa pode superar lucro acumulado de 40 anos em 2026.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/samsung-pode-bater-em-2026-o-lucro-de-40-anos-somados/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "SPED 2024 apresenta importantes alterações",
+      "resumo": "Sistema SPED sofre atualizações significativas em 2024. Contadores e empresas precisam se adequar às novas regras e procedimentos do sistema.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária é regulamentada com vetos do presidente",
+      "resumo": "Presidente Lula sanciona Lei Complementar que regulamenta Reforma Tributária aprovada por Emenda Constitucional, com vetos ao PLP 68 de 2024. Mudanças entram em vigor gradualmente até 2033.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Escritórios de contabilidade projetam carga tributária dos clientes até 2033",
+      "resumo": "Entre 2026 e 2033, sistema antigo e novo funcionarão simultaneamente, exigindo análise prática das mudanças. Contadores precisam oferecer leitura estratégica para clientes em Lucro Real e Presumido.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77895/reforma-tributaria-escritorios-ja-projetam-a-carga-dos-clientes-ate-2033/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em SP",
+      "resumo": "Contribuintes do ICMS estabelecidos em outros estados serão dispensados da Guia de Informação e Apuração (GIA-ST) a partir de julho de 2025. Mudança simplifica procedimentos fiscais.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "DeCripto muda declaração de criptoativos à Receita Federal",
+      "resumo": "Nova Declaração de Criptoativos (DeCripto) entra em vigor em julho de 2026. Mudanças afetam empresas e destacam importância das stablecoins no mercado de criptomoedas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77870/decripto-nova-declaracao-de-criptoativos-da-receita-federal/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "eSocial",
+      "titulo": "ECF exige contabilidade consistente para evitar erros fiscais",
+      "resumo": "Escrituração Contábil Fiscal (ECF) demanda contabilidade de qualidade. Erros no fechamento contábil afetam balanço, indicadores e gestão estratégica da empresa.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77914/ecf-contabilidade-consistente-evita-erros-e-salva-decisoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "STF autoriza retomada de processos de pejotização",
+      "resumo": "Supremo Tribunal Federal autoriza continuação de processos sobre pejotização. Empresas devem revisar contratos e relações com autônomos e PJs para evitar riscos trabalhistas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77819/stf-pejotizacao-volta-a-tramitar-na-justica-do-trabalho/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Receita alerta empresas com Selo Sintonia A+ sobre pendências",
+      "resumo": "Receita Federal envia comunicados a empresas com Selo Sintonia A+ para prevenir pendências fiscais. Alerta visa preservar os benefícios do programa para contribuintes em dia.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77922/receita-alerta-para-pendencias-de-empresas-com-selo-sintonia-a/",
+      "idioma_original": "pt"
+    }
+  ]
+}
