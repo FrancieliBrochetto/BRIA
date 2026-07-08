@@ -1,0 +1,176 @@
+{
+  "data": "2026-07-08",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Modelos e Ferramentas",
+      "titulo": "Meta lança Muse Image, novo modelo de IA para gerar imagens",
+      "resumo": "Meta disponibilizou o Muse Image em WhatsApp e Instagram, seu segundo modelo de IA desenvolvido pelo laboratório de superinteligência. O modelo é capaz de gerar imagens com aplicações em publicidade e design. Usuários já questionam o uso de fotos para treinamento.",
+      "fonte": "Tecnoblog / TechCrunch",
+      "url_original": "https://tecnoblog.net/noticias/meta-ai-whatsapp-e-instagram-ganham-novo-modelo-de-ia-para-gerar-imagens/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Infraestrutura e Hardware",
+      "titulo": "Startup francesa ZML lança ferramenta gratuita para acelerar inferência em chips de IA",
+      "resumo": "A startup ZML, respaldada pelo ganhador do Turing Award Yann LeCun, liberou o ZML/LLMD, software que reduz custos de execução de modelos de IA. A ferramenta funciona com múltiplos chips de IA.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Investimentos e Mercado",
+      "titulo": "SambaNova levanta US$ 1 bilhão em rodada Series F com avaliação de US$ 11 bilhões",
+      "resumo": "Fabricante de chips de IA SambaNova arrecadou US$ 1 bilhão meses após rumores de compra pela Intel por US$ 1,6 bilhão. A rodada reforça o mercado aquecido de startups de IA.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Estratégia Corporativa",
+      "titulo": "Microsoft reduz gastos com IA, apostando mais em seus próprios modelos",
+      "resumo": "Microsoft segue tendência de corte de custos em IA ao aumentar dependência de modelos internos. Movimento reflete estratégia de otimização entre gigantes de tecnologia.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Modelo Open Source",
+      "titulo": "Crescimento do open source em IA não prejudica Anthropic até o momento",
+      "resumo": "Análise aponta que modelos open source e labs de IA fronteira ocupam fases diferentes do ciclo de vida. Sucesso do open source não está canibalizando receita de empresas como Anthropic.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Segurança",
+      "titulo": "Indústria global de IA falha em combater ameaças existenciais, aponta relatório",
+      "resumo": "Future of Life Institute avaliou nove principais empresas de IA e constatou que setor não atende padrões de segurança para riscos existenciais. Anthropic obteve melhor pontuação entre analisadas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/08/industria-global-de-ia-nao-atende-padroes-de-seguranca-alerta-relatorio.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Design e Ferramentas",
+      "titulo": "Figma integra IA em plataforma de design, afirma CEO Dylan Field",
+      "resumo": "CEO da Figma discute como IA oferece tailwind para empresa de design colaborativo. Integração de IA é vista como diferencial competitivo para ferramenta.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Produtos de Tech",
+      "titulo": "Samsung anuncia Galaxy Unpacked para 22 de julho com novos dobradores e relógios",
+      "resumo": "Samsung marcou evento em Londres para apresentar novos Galaxy Z Fold, Z Flip e relógios inteligentes. Espera-se surpresa com possível design mais largo para tablets.",
+      "fonte": "Tecnoblog / Olhar Digital",
+      "url_original": "https://tecnoblog.net/noticias/samsung-marca-unpacked-em-22-de-julho-fold-wide-e-esperado/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio e Mercados Globais",
+      "titulo": "Mercados globais caem após Trump declarar fim de acordo de paz com Irã",
+      "resumo": "Trump afirmou que cessar-fogo com Irã acabou após troca de ataques, provocando queda em bolsas mundiais. Petróleo subiu mais de 5% com risco de escalada no Oriente Médio.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/08/mercados-globais-caem-apos-trump-declarar-fim-de-acordo-de-paz-com-o-ira-petroleo-sobe-mais-de-5percent.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Ex-diretor do BC aposta em continuidade dos cortes da Selic em agosto e setembro",
+      "resumo": "Bruno Serra, ex-diretor de Política Monetária do BC, posiciona fundo Itaú Janeiro para novas reduções da taxa básica. Projeção vai contra consenso do mercado.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/ex-diretor-do-bc-vai-contra-o-consenso-e-aposta-em-continuidade-dos-cortes-da-selic/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Cury tem queda de 9,5% nas vendas líquidas do 2º trimestre",
+      "resumo": "Construtora Cury registrou retração em vendas no segundo trimestre, enquanto lançamentos atingiram R$ 2,26 bilhões com alta de 1,4% na comparação anual.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/cury-tem-queda-de-95-nas-vendas-liquidas-do-2o-tri/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Presidente sanciona Lei que regulamenta Reforma Tributária com vetos ao PLP 68",
+      "resumo": "Lei Complementar regulamenta Reforma Tributária aprovada por Emenda Constitucional com pontos vetados. Mudanças impactam escolha de regimes tributários para empresas.",
+      "fonte": "Siga o Fisco / Contábeis",
+      "url_original": "https://sigaofisco.com.br/reforma-tributaria-e-regulamentada/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "STJ define 1ª Seção para julgar conflitos federativos da Reforma Tributária",
+      "resumo": "Superior Tribunal de Justiça estabeleceu competência para julgamento de conflitos sobre IBS e CBS entre Estados e União. Decisão importante para segurança jurídica da reforma.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77897/reforma-tributaria-stj-define-quem-julga-conflitos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Como escolher o regime mais econômico na Reforma Tributária",
+      "resumo": "Reforma Tributária altera critérios de escolha de regime tributário com impacto no crédito. Contadores devem orientar clientes para evitar aumento de carga fiscal.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77961/como-escolher-o-regime-mais-economico-na-reforma-tributaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "SPED 2024 sofre alterações; confira as principais mudanças",
+      "resumo": "SPED 2024 teve alterações em sua estrutura que empresas precisam conhecer. Atualização afeta obrigações de pessoas jurídicas na escrituração digital.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/sped-2023-alteracoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Tributária",
+      "titulo": "IN RFB 2332/26 exige acompanhamento contínuo de benefícios fiscais",
+      "resumo": "Receita Federal obriga pessoas jurídicas a acompanhar continuamente requisitos para manutenção de benefícios fiscais. Não conformidade pode gerar autuações da RF.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77903/in-rfb-2332-26-acompanhamento-continuo-de-beneficios-fiscais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Tributária",
+      "titulo": "GIA-ST será eliminada a partir de julho de 2025 em São Paulo",
+      "resumo": "Contribuintes do ICMS em outros Estados ficarão dispensados de apresentar GIA-ST a partir de julho de 2025 em SP. Simplificação das obrigações acessórias estaduais.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/gia-st-sera-eliminada-a-partir-de-julho-de-2025-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Tributária",
+      "titulo": "Simples Nacional: cálculo correto do ICMS-ST sobre alimentos em SP",
+      "resumo": "Redução tributária do RICMS/00 para produtos alimentícios não alcança ICMS-ST. Simples Nacional deve calcular corretamente esse imposto nas operações.",
+      "fonte": "Siga o Fisco",
+      "url_original": "https://sigaofisco.com.br/simples-nacional-e-o-calculo-do-icms-st-sobre-produtos-alimenticios-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação - Bancária",
+      "titulo": "Duplicata Escritural: novo ecossistema do BC e impactos contábeis",
+      "resumo": "Banco Central implementou novo ecossistema de duplicata escritural com impacto em crédito, capital de giro e controles financeiros. Contadores devem se preparar para mudanças.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77905/duplicata-escritural-novo-ecossistema-e-impactos-contabeis/",
+      "idioma_original": "pt"
+    }
+  ]
+}
