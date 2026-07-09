@@ -1,0 +1,149 @@
+{
+  "data": "2026-07-09",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Gastos e Adoção",
+      "titulo": "Gastos com IA confundem e assustam empresários",
+      "resumo": "Pesquisa da KPMG com 2,1 mil executivos em 20 países revela confusão e receio de empresários em relação aos investimentos em IA. Gastos ainda são pouco claros e previsíveis para muitos negócios.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/gastos-com-ia-confundem-e-assustam-empresarios/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Dashboard Reflect do Claude reforça dependência de IA no trabalho",
+      "resumo": "Anthropic lançou novo painel Reflect que visualiza o uso de Claude e subtilmente reforça quanto do trabalho diário depende do chatbot da empresa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Infraestrutura de IA",
+      "titulo": "Meta inicia produção de chips de IA próprios em setembro",
+      "resumo": "Meta começará a fabricar a versão mais recente de seus chips específicos para IA em setembro, reduzindo dependência de fornecedores como Nvidia.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Ferramentas de IA",
+      "titulo": "Ollama arrecada $65M e atinge 9 milhões de usuários",
+      "resumo": "Ferramenta open-source Ollama, apoiada por Benchmark, alcançou 9 milhões de usuários ao facilitar execução de IA em PCs pessoais. Arrecadou $65 milhões em financiamento.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Modelos de IA",
+      "titulo": "Anthropic, OpenAI e SpaceX valem mais que 25 anos de exits de tech",
+      "resumo": "Três IPOs de IA (Anthropic, OpenAI e SpaceX) devem gerar mais valor que todos os exits VC-backed dos EUA desde 2000, consolidando dominância do setor.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Modelos",
+      "titulo": "Nvidia enfrenta competição no mercado de compute que ajudou a criar",
+      "resumo": "Nvidia, que provou o valor do compute, agora compete em mercado que criou, onde competidores e tecnologias mais simples ganham espaço ao seu lado.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Imagens",
+      "titulo": "IA da Meta permite que terceiros criem deepfakes com fotos do Instagram",
+      "resumo": "Gerador de imagens por IA da Meta permite que outras pessoas usem fotos públicas do Instagram para criar deepfakes, mas há opção para impedir.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/07/09/ia-da-meta-permite-que-outras-pessoas-criem-deepfakes-com-fotos-do-seu-instagram-veja-como-impedir.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "New York Times pede sanções à OpenAI por direitos autorais",
+      "resumo": "Grupo de jornais americanos, liderado pelo New York Times, solicitou a tribunal federal sanções contra OpenAI alegando que a empresa mentiu sobre capacidade de buscar provas em seus sistemas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/07/09/new-york-times-e-outros-jornais-dos-eua-pedem-que-justica-puna-openai-em-disputa-sobre-direitos-autorais.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Rumo (RAIL3) transporta 23,8 bilhões de TKU no 2º trimestre",
+      "resumo": "Rumo registrou 23,8 bilhões de Toneladas-Quilômetro Útil no 2º trimestre, com destaque para soja (4 bilhões de toneladas) e produtos industriais (1,17 bilhão). Ação subiu.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/rumo-rail3-transporta-238-bilhoes-de-tku-no-2o-tri-acao-sobe/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Calendário de resultados Q2 2026 da Bolsa brasileira",
+      "resumo": "Temporada de resultados do 2º trimestre inicia com Bradesco em 30 de julho. Confira cronograma de divulgações dos principais bancos e empresas listadas.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/calendario-de-resultados-segundo-trimestre-2026-da-bolsa-brasileira/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto / Ações Tecnológicas",
+      "titulo": "SK Hynix testa fôlego do rali da IA com listagem na Nasdaq",
+      "resumo": "Sul-coreana SK Hynix chega à Nasdaq após alta de 770%, mas volatilidade já levanta dúvidas sobre sustentabilidade do boom de IA e demanda por chips.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/global/sk-hynix-conheca-a-empresa-de-chips-que-deve-testar-o-folego-do-rali-da-ia-nesta-6a/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Câmara debate impactos fiscais da pirataria",
+      "resumo": "Comissão da Câmara discute perdas tributárias geradas por pirataria e mercado ilegal, que causam arrecadação reduzida e concorrência desleal para empresas formais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77990/camara-debate-impactos-fiscais-da-pirataria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Calendário Fiscal",
+      "titulo": "Calendário fiscal 2026: organize obrigações do 2º semestre",
+      "resumo": "Guia para organizar prazos fiscais do segundo semestre de 2026 e evitar atrasos nas entregas de obrigações tributárias.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77969/calendario-fiscal-2026-organize-as-obrigacoes-do-semestre/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "PL cria Fundo de Crédito à Exportação para empresas brasileiras",
+      "resumo": "Projeto em análise na Câmara autoriza criação de fundo para ampliar acesso a financiamentos e fortalecer empresas exportadoras brasileiras.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77989/projeto-de-lei-cria-fundo-para-ampliar-credito-a-exportadores/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Calendário Fiscal",
+      "titulo": "Obrigações fiscais de julho: ECF, EFD-Reinf e DCTFWeb",
+      "resumo": "Confira vencimentos de entrgas obrigatórias em julho como ECF, EFD-Reinf e DCTFWeb conforme calendário da Receita Federal.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77968/pos-feriado-veja-obrigacoes-fiscais-de-julho-a-serem-entregues/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Funcionamento de Sefaz-SP, Receita Federal e INSS no feriado",
+      "resumo": "Confira alterações nos serviços públicos estaduais e federais em São Paulo no feriado de 9 de julho da Revolução Constitucionalista e impacto para empresas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77972/feriado-de-9-de-julho-veja-o-funcionamento-da-sefaz-sp-receita-e-inss/",
+      "idioma_original": "pt"
+    }
+  ]
+}
