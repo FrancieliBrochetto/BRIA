@@ -1,0 +1,122 @@
+{
+  "data": "2026-07-10",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI lança GPT-5.6 como modelo preferido para Microsoft Copilot 365",
+      "resumo": "OpenAI apresenta a nova família de modelos GPT-5.6, que continuará potencializando o Copilot 365 da Microsoft. O modelo promete melhorias em segurança cibernética e outras áreas. A escolha reforça a parceria entre as empresas em meio a rumores de possível rompimento.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Fidji Simo sai do cargo de vice-presidente da OpenAI",
+      "resumo": "Fidji Simo, número 2 executivo da OpenAI, deixa seu cargo em período integral após licença médica mais longa que o previsto. A saída ocorre em momento crítico com a empresa preparando possível IPO e acirrada competição com a Anthropic.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI encerra navegador Atlas mas mantém ambições de IA na web",
+      "resumo": "OpenAI descontinua seu navegador com IA após menos de um ano de operação. Porém, transfere funcionalidades de navegação com agentes IA para seu aplicativo desktop e extensão Chrome.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Startup Lyzr deixa agente IA gerenciar captação de $100 milhões",
+      "resumo": "Lyzr, desenvolvedora de agentes IA para empresas, permitiu que seu próprio agente IA conduzisse uma rodada de captação de $100 milhões. O experimento demonstra a eficácia prática da solução de automação da startup.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100m-fundraise",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "WhatsApp",
+      "titulo": "WhatsApp em desenvolvimento com notificações de aniversários de contatos",
+      "resumo": "Funcionalidade em testes permitirá cadastrar data de nascimento de contatos. O app gerará avisos automáticos e exibirá página com todos os aniversários da agenda.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/whatsapp-pode-ganhar-notificacoes-de-aniversarios-de-contatos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Meta avança no ranking de geração de imagens com IA",
+      "resumo": "Meta escala posições em benchmarks de qualidade de imagens geradas por inteligência artificial. Avanço reflete investimento contínuo em tecnologia de difusão e modelos de visão.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/meta-climbs-the-ai-image-leaderboard",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar recua com inflação brasileira abaixo do esperado",
+      "resumo": "Dólar abre em queda de 0,24% a R$ 5,1103 após divulgação do IPCA de junho (0,16%), abaixo das expectativas de mercado. Tensões no Oriente Médio também influenciam cotação.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/10/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa avança com IPCA abaixo do esperado em junho",
+      "resumo": "Índice futuro sobe com dados de inflação oficial (IPCA 0,16%) vindo menor que o esperado pelo mercado. Agenda econômica do dia inclui discussões sobre minerais críticos.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-futuro-avanca-com-foco-em-ipca-abaixo-do-esperado/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Selic alta exige ajustes de preços, crédito e capital de giro em 2026",
+      "resumo": "Apesar da queda projetada na inflação (IPCA), Selic permanece elevada. Empresas devem revisar estratégias de precificação, acesso a crédito e gestão de caixa. Boletim Focus aponta novas projeções.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77937/inflacao-cai-mas-selic-segue-alta-como-empresas-devem-ajustar-precos-credito-e-caixa-em-2026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma tributária: Split payment altera fluxo de caixa das empresas",
+      "resumo": "Retenção automática de IBS e CBS reduzirá recursos disponíveis em caixa. Empresas terão de replanejar financeiramente durante transição da reforma tributária.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77951/reforma-tributaria-split-payment-muda-fluxo-de-caixa/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Pesquisa Deloitte revela desafios da Reforma Tributária para empresas",
+      "resumo": "Estudo 2026 destaca dificuldades de implementação da reforma, incluindo convivência de sistemas tributários e necessidade de investimento em tecnologia para conformidade fiscal.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77932/impactos-da-reforma-tributaria-pesquisa-deloitte-2026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Carf reexamina tributação de incentivos fiscais de ICMS",
+      "resumo": "Conselho Administrativo de Recursos Fiscais analisa novamente tributação de benefícios estaduais de ICMS. Decisão impactará tratamento de IRPJ e CSLL para empresas que usam esses incentivos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77942/tributacao-de-incentivos-fiscais-de-icms-carf-reanalisa-tema/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Ministério da Fazenda lança painel de monitoramento de benefícios tributários",
+      "resumo": "Novo painel amplia transparência de benefícios tributários concedidos pelo governo. Ferramenta influenciará decisões fiscais futuras e aumento de controle sobre incentivos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77976/beneficios-tributarios-novo-painel-de-monitoramento-da-fazenda/",
+      "idioma_original": "pt"
+    }
+  ]
+}
