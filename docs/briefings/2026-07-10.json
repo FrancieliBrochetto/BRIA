@@ -5,79 +5,106 @@
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
       "titulo": "OpenAI lança GPT-5.6 como modelo preferido para Microsoft Copilot 365",
-      "resumo": "OpenAI apresenta a nova família de modelos GPT-5.6, que continuará potencializando o Copilot 365 da Microsoft. O modelo promete melhorias em segurança cibernética e outras áreas. A escolha reforça a parceria entre as empresas em meio a rumores de possível rompimento.",
+      "resumo": "OpenAI anunciou que o GPT-5.6 será o modelo preferido para alimentar o Copilot 365 do Microsoft, sua suite de apps de produtividade empresarial. A nova família de modelos promete melhorias em várias áreas, incluindo cibersegurança.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6",
+      "url_original": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Fidji Simo sai do cargo de vice-presidente da OpenAI",
-      "resumo": "Fidji Simo, número 2 executivo da OpenAI, deixa seu cargo em período integral após licença médica mais longa que o previsto. A saída ocorre em momento crítico com a empresa preparando possível IPO e acirrada competição com a Anthropic.",
+      "titulo": "OpenAI encerra navegador Atlas após menos de um ano",
+      "resumo": "OpenAI está descontinuando seu navegador com IA Atlas, mas transferindo funcionalidades de navegação com agentes para o app de desktop ChatGPT Work e uma extensão do Chrome. O navegador será encerrado em 9 de agosto.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role",
+      "url_original": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "OpenAI encerra navegador Atlas mas mantém ambições de IA na web",
-      "resumo": "OpenAI descontinua seu navegador com IA após menos de um ano de operação. Porém, transfere funcionalidades de navegação com agentes IA para seu aplicativo desktop e extensão Chrome.",
+      "titulo": "Fidji Simo, vice-presidente da OpenAI, deixa cargo em tempo integral",
+      "resumo": "A executiva Fidji Simo, segunda em comando na OpenAI, está se afastando de seu cargo em tempo integral após licença médica inesperadamente prolongada. O afastamento ocorre em momento crítico para a empresa, que planeja IPO e compete com a Anthropic no mercado empresarial.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing",
+      "url_original": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Startup Lyzr deixa agente IA gerenciar captação de $100 milhões",
-      "resumo": "Lyzr, desenvolvedora de agentes IA para empresas, permitiu que seu próprio agente IA conduzisse uma rodada de captação de $100 milhões. O experimento demonstra a eficácia prática da solução de automação da startup.",
+      "subtema": "Automação",
+      "titulo": "Startup de agentes de IA usa seu próprio sistema para captar US$100 milhões",
+      "resumo": "Lyzr, que cria agentes de IA para empresas, utilizou seu próprio agente de IA para executar uma rodada de captação de US$100 milhões, demonstrando viabilidade prática da tecnologia de agentes autônomos.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100m-fundraise",
+      "url_original": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100m-fundraise/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "WhatsApp",
-      "titulo": "WhatsApp em desenvolvimento com notificações de aniversários de contatos",
-      "resumo": "Funcionalidade em testes permitirá cadastrar data de nascimento de contatos. O app gerará avisos automáticos e exibirá página com todos os aniversários da agenda.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/whatsapp-pode-ganhar-notificacoes-de-aniversarios-de-contatos/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Meta avança no ranking de geração de imagens com IA",
-      "resumo": "Meta escala posições em benchmarks de qualidade de imagens geradas por inteligência artificial. Avanço reflete investimento contínuo em tecnologia de difusão e modelos de visão.",
+      "subtema": "Gemini",
+      "titulo": "Gemini API recebe recursos de agentes e novas capacidades",
+      "resumo": "Google expande a API do Gemini com novos recursos de agentes inteligentes, ampliando as capacidades de automação e integração disponíveis para desenvolvedores.",
       "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/meta-climbs-the-ai-image-leaderboard",
+      "url_original": "https://www.therundown.ai/p/openai-sends-gpt-5-6-to-work",
       "idioma_original": "en"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Câmbio",
-      "titulo": "Dólar recua com inflação brasileira abaixo do esperado",
-      "resumo": "Dólar abre em queda de 0,24% a R$ 5,1103 após divulgação do IPCA de junho (0,16%), abaixo das expectativas de mercado. Tensões no Oriente Médio também influenciam cotação.",
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic lança Claude Cowork mobile para colaboração em celulares",
+      "resumo": "Anthropic disponibiliza versão mobile do Claude Cowork, ferramenta que permite colaboração entre equipes usando o modelo Claude em dispositivos móveis.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/the-part-of-claude-s-brain-nobody-built",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Meta lança Muse Image e sobe no ranking de geração de imagens com IA",
+      "resumo": "Meta apresenta Muse Image, novo modelo de geração de imagens que posiciona a empresa de forma mais competitiva no mercado de IA generativa para criação visual.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Grok 4.5 é lançado com melhorias significativas em capacidades de raciocínio",
+      "resumo": "xAI e Cursor liberam Grok 4.5, versão aprimorada do modelo com desempenho mais forte em tarefas de raciocínio e processamento de código.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/spacexai-cursor-release-the-strongest-grok-yet",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "União Europeia acusa Meta de 'design viciante' no Facebook e Instagram",
+      "resumo": "Comissão Europeia notifica Meta que rolagem infinita, reprodução automática e notificações push causam dependência em usuários. Meta deve modificar o design ou enfrentará multas elevadas.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/07/10/dolar-ibovespa.ghtml",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/07/10/uniao-europeia-meta-facebook-instagram.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Ibovespa avança com IPCA abaixo do esperado em junho",
-      "resumo": "Índice futuro sobe com dados de inflação oficial (IPCA 0,16%) vindo menor que o esperado pelo mercado. Agenda econômica do dia inclui discussões sobre minerais críticos.",
+      "titulo": "Ibovespa salta 2% e retoma nível de 177 mil pontos",
+      "resumo": "Bolsa de Valores dispara 2% nesta sexta-feira, com mercado internacional em alta. Bolsas dos EUA também registram leves ganhos no encerramento da semana.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-futuro-avanca-com-foco-em-ipca-abaixo-do-esperado/",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-10072026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Fluxo de capital estrangeiro oscila entre céu e inferno no primeiro semestre",
+      "resumo": "Estudo da Elos Ayta mostra que praticamente toda entrada líquida de capital estrangeiro no 1º semestre ocorreu entre janeiro e março. Segundo trimestre registrou uma das maiores saídas da série histórica.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/depois-de-ceu-e-inferno-no-1o-semestre-fluxo-estrangeiro-se-recupera-em-julho/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Selic",
-      "titulo": "Selic alta exige ajustes de preços, crédito e capital de giro em 2026",
-      "resumo": "Apesar da queda projetada na inflação (IPCA), Selic permanece elevada. Empresas devem revisar estratégias de precificação, acesso a crédito e gestão de caixa. Boletim Focus aponta novas projeções.",
+      "titulo": "Selic segue alta em 2026; empresas devem ajustar preços e caixa",
+      "resumo": "Apesar de projeção de queda do IPCA em 2026, Selic continua elevada. Empresas precisam revisar estratégias de capital de giro, precificação e investimentos conforme Boletim Focus.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/77937/inflacao-cai-mas-selic-segue-alta-como-empresas-devem-ajustar-precos-credito-e-caixa-em-2026/",
       "idioma_original": "pt"
@@ -85,37 +112,37 @@
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Reforma tributária: Split payment altera fluxo de caixa das empresas",
-      "resumo": "Retenção automática de IBS e CBS reduzirá recursos disponíveis em caixa. Empresas terão de replanejar financeiramente durante transição da reforma tributária.",
+      "titulo": "Empresas aceleram adaptação à Reforma Tributária com testes de sistemas",
+      "resumo": "Fase de testes da Reforma Tributária exige atualização de sistemas, revisão de processos fiscais e preparação para CBS e IBS. Adaptação é crítica para conformidade operacional.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77956/empresas-aceleram-adaptacao-a-reforma-tributaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Split payment da Reforma Tributária reduzirá fluxo de caixa das empresas",
+      "resumo": "Retenção automática de IBS e CBS reduzirá recursos em caixa e exigirá novo planejamento financeiro. Mudança implementada a partir da transição da Reforma Tributária.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/77951/reforma-tributaria-split-payment-muda-fluxo-de-caixa/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Pesquisa Deloitte revela desafios da Reforma Tributária para empresas",
-      "resumo": "Estudo 2026 destaca dificuldades de implementação da reforma, incluindo convivência de sistemas tributários e necessidade de investimento em tecnologia para conformidade fiscal.",
+      "subtema": "Legislação",
+      "titulo": "Seguro-desemprego: saiba como reativar parcelas em 2026",
+      "resumo": "Veja os critérios, prazos, documentos exigidos e valores para retomada de parcelas do seguro-desemprego no Brasil em 2026.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77932/impactos-da-reforma-tributaria-pesquisa-deloitte-2026/",
+      "url_original": "https://www.contabeis.com.br/noticias/77952/retomada-do-seguro-desemprego-quem-tem-direito-e-como-solicitar-em-2026/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Legislação",
-      "titulo": "Carf reexamina tributação de incentivos fiscais de ICMS",
-      "resumo": "Conselho Administrativo de Recursos Fiscais analisa novamente tributação de benefícios estaduais de ICMS. Decisão impactará tratamento de IRPJ e CSLL para empresas que usam esses incentivos.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77942/tributacao-de-incentivos-fiscais-de-icms-carf-reanalisa-tema/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Ministério da Fazenda lança painel de monitoramento de benefícios tributários",
-      "resumo": "Novo painel amplia transparência de benefícios tributários concedidos pelo governo. Ferramenta influenciará decisões fiscais futuras e aumento de controle sobre incentivos.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77976/beneficios-tributarios-novo-painel-de-monitoramento-da-fazenda/",
+      "titulo": "Linha de crédito do Move Brasil para entregadores é adiada para 27 de julho",
+      "resumo": "Ministério do Desenvolvimento adia operações da linha de crédito em bancos públicos para mototaxistas e entregadores de app. Mudança permite conclusão de testes tecnológicos e operacionais.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/10/linha-de-credito-do-move-brasil-para-entregadores-e-motoristas-de-app-e-adiada-para-27-de-julho.ghtml",
       "idioma_original": "pt"
     }
   ]
