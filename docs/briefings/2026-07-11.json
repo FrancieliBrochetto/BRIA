@@ -1,0 +1,104 @@
+{
+  "data": "2026-07-11",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Samsung Health vai usar dados de usuários para treinar IA",
+      "resumo": "O app Samsung Health notifica usuários sobre o uso de seus dados para treinamento de inteligência artificial. Desativar a opção impede a sincronização do aplicativo com a conta do usuário.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/samsung-health-vai-usar-seus-dados-para-treinamento-de-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Meta remove recurso de IA controverso do Instagram após reações negativas",
+      "resumo": "Meta descontinuou ferramenta criativa de IA no Instagram após feedback dos usuários. A empresa alegou que a funcionalidade não atingiu os objetivos esperados.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Apple processa OpenAI por roubo de segredos comerciais",
+      "resumo": "Apple alega que a OpenAI cometeu roubo de propriedade intelectual sob direção da liderança sênior. O processo menciona envolvimento de ex-funcionários da Apple.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "IA de código aberto cresce: Hugging Face agora usada por metade da Fortune 500",
+      "resumo": "CEO da Hugging Face afirma que IA aberta está em expansão e a plataforma se tornou um GitHub para modelos de IA. Cerca de 50% das maiores empresas mundiais já utilizam seus modelos.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Material que muda de cor ao ser tocado pode dar sensação tátil a robôs",
+      "resumo": "Novo material que altera cor sob pressão permite que robôs detectem toques em tempo real com maior precisão e menor processamento computacional.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/11/robotica/material-que-muda-de-cor-ao-ser-tocado-pode-dar-tato-humano-a-robos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "XP mantém otimismo com PIB e prevê dólar a R$ 5,00",
+      "resumo": "Análise da XP aponta incertezas políticas e queda das commodities como fatores de pressão cambial. Expectativa é de dólar em R$ 5,00 apesar do otimismo com crescimento econômico.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/xp-mantem-otimismo-com-pib-e-preve-dolar-a-r-500-veja-os-destaques-da-semana/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "8 recomendações para ajustar portfólio no 2º semestre: de renda fixa à bolsa",
+      "resumo": "Analistas recomendam ajustes em portfólios considerando juro real elevado e eleições de outubro. Indicação inclui renda fixa, bolsa defensiva, dólar e proteção contra El Niño.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/recomendacos-investimentos-2-semestre-2026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Empresas aceleram adaptação à Reforma Tributária",
+      "resumo": "Fase de testes da Reforma Tributária exige atualização de sistemas e revisão de processos fiscais. Empresas se preparam para implantação da CBS e IBS.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77956/empresas-aceleram-adaptacao-a-reforma-tributaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Trabalho intermitente pode ganhar força com discussões sobre escala 5x2",
+      "resumo": "Contrato intermitente avança no Brasil e pode ser mais utilizado por empresas. Crescimento ocorre no contexto de debates sobre novas formas de organização da jornada de trabalho.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77970/trabalho-intermitente-pode-ganhar-forca-com-a-escala-5x2/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Bolsa Família: pagamentos iniciam em 20 de julho",
+      "resumo": "Ciclo de pagamentos começa em 20 de julho e segue até 31 de julho conforme o final do NIS dos beneficiários.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77957/bolsa-familia-pagamentos-iniciam-dia-20-de-julho/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Retomada do seguro-desemprego: direitos, prazos e valores em 2026",
+      "resumo": "Guia completo sobre reativação de parcelas do seguro-desemprego com informações sobre elegibilidade, documentos exigidos e valores do benefício em 2026.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77952/retomada-do-seguro-desemprego-quem-tem-direito-e-como-solicitar-em-2026/",
+      "idioma_original": "pt"
+    }
+  ]
+}
