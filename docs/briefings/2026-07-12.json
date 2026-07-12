@@ -3,101 +3,92 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI lança ChatGPT Work e expande para famílias",
-      "resumo": "OpenAI contrata gerente de produto dedicado para construir experiências de ChatGPT voltadas a famílias, cuidadores e idosos. A empresa busca ampliar a integração da ferramenta em ambientes domésticos e corporativos.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA - Geral",
-      "titulo": "Instagram cancela IA polêmica que acessava fotos de usuários",
-      "resumo": "Meta desativa ferramenta de inteligência artificial do Instagram após rejeição dos usuários. A empresa reconheceu que a função \"errou o alvo\" e foi descontinuada após poucos dias de operação.",
+      "subtema": "IA & Automação",
+      "titulo": "Instagram cancela IA que acessava fotos de usuários após polêmica",
+      "resumo": "Meta desativou função de IA que acessava fotos dos usuários no Instagram após backlash. A empresa admitiu que \"errou o alvo\" na implementação. Recurso durou apenas alguns dias.",
       "fonte": "Tecnoblog",
       "url_original": "https://tecnoblog.net/noticias/apos-polemica-instagram-desativa-ia-que-acessava-fotos-de-usuarios/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA - Geral",
-      "titulo": "Apple processa OpenAI por roubo de segredos comerciais",
-      "resumo": "Apple acusa OpenAI de conduta ilícita direcionada pela liderança sênior, incluindo ex-funcionário de longa data. A ação judicial envolve alegações de apropriação de propriedade intelectual.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA - Geral",
-      "titulo": "Hiperautomação emerge como nova fronteira de competitividade empresarial",
-      "resumo": "Evolução da IA, análise de dados e integração entre sistemas ampliam o alcance da automação nas empresas. Hiperautomação combina múltiplas tecnologias para otimizar processos organizacionais.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/07/12/colunistas/hiperautomacao-a-nova-fronteira-da-competitividade-empresarial/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA - Geral",
-      "titulo": "Sunrun planeja distribuir servidores de IA nas casas dos usuários",
-      "resumo": "Empresa quer espalhar computadores específicos para rodar inteligência artificial em residências. Modelo inclui possibilidade de remunerar usuários que aderirem ao projeto.",
+      "subtema": "IA & Automação",
+      "titulo": "Sunrun quer distribuir servidores de IA nas casas dos usuários",
+      "resumo": "Empresa planeja espalhar computadores específicos para rodar inteligência artificial nas residências de clientes. Projeto prevê possibilidade de pagar quem aderir à iniciativa.",
       "fonte": "Tecnoblog",
       "url_original": "https://tecnoblog.net/noticias/empresa-quer-espalhar-servidores-de-ia-pelas-casas-dos-usuarios/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA - Geral",
-      "titulo": "SK Hynix arrecada US$ 26,5 bilhões em maior IPO estrangeiro nos EUA",
-      "resumo": "Fabricante de chips de IA realiza maior oferta pública inicial estrangeira na história americana. Surge pressão para que SK Hynix e Samsung construam fábricas nos EUA.",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI contrata gerente de produto dedicado a famílias para ChatGPT",
+      "resumo": "ChatGPT está expandindo foco para famílias, cuidadores e idosos com nova posição de gerente de produto. Movimento indica estratégia da OpenAI de aprofundar presença em domicílios.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Automação",
+      "titulo": "Apple processa OpenAI por roubo alegado de segredos comerciais",
+      "resumo": "Apple move ação contra OpenAI alegando roubo de segredos comerciais supostamente dirigido pela liderança sênior. Processo inclui acusação contra ex-funcionário de longa data da empresa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Automação",
+      "titulo": "IA aberta em crescimento acelerado, diz CEO da Hugging Face",
+      "resumo": "Hugging Face consolidou-se como GitHub da IA, com modelos usados por aproximadamente metade da Fortune 500. CEO afirma que IA aberta é cada vez mais relevante no mercado.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Automação",
+      "titulo": "SK Hynix arrecada US$ 26,5 bi no maior IPO estrangeiro dos EUA",
+      "resumo": "Maior IPO estrangeiro da história dos EUA movido pelo boom de chips para IA. SK Hynix e Samsung são pressionadas a construir novas fábricas nos EUA.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA - Geral",
+      "subtema": "IA & Automação",
+      "titulo": "IA nas PMEs traz ganho principal em produtividade",
+      "resumo": "Pesquisa mostra como pequenas empresas adotam IA, destacando produtividade como principal benefício. Estudo aponta desafios para ampliar a adoção da tecnologia entre PMEs.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77965/ia-nas-empresas-produtividade-e-principal-ganho-para-pmes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Automação",
       "titulo": "IA reduz vagas para jovens em início de carreira no Brasil",
-      "resumo": "Estudo mostra que inteligência artificial já reduz oportunidades para profissionais jovens no mercado brasileiro. Resultado acende alerta sobre formação e futuro do mercado de trabalho.",
+      "resumo": "Estudo aponta que inteligência artificial já reduz oportunidades para profissionais jovens no Brasil. Dados acendem alerta sobre formação profissional e dinâmica do mercado de trabalho.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/77927/ia-reduz-vagas-para-jovens-em-inicio-de-carreira/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Nota Fiscal",
-      "titulo": "Erro no cClassTrib pode bloquear NF-e e gerar riscos fiscais",
-      "resumo": "Preenchimento incorreto do campo cClassTrib causa rejeição 1024 da NF-e e compromete dispensa de IBS e CBS na transição da reforma tributária. Empresas devem revisar configurações para evitar problemas.",
+      "subtema": "Legislação Trabalhista",
+      "titulo": "Jornada noturna: como funciona o adicional e a hora reduzida",
+      "resumo": "Explica direitos de quem trabalha à noite, cálculo do adicional noturno e por que a hora tem duração diferente. Guia prático sobre regulamentação da jornada noturna.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77954/erro-no-cclasstrib-pode-bloquear-nf-e-e-gerar-riscos-fiscais/",
+      "url_original": "https://www.contabeis.com.br/noticias/77955/jornada-noturna-veja-como-funciona-o-adicional-e-a-hora-reduzida/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Assinatura eletrônica: tipos, regras e validade no Brasil",
-      "resumo": "Guia explica os tipos de assinatura eletrônica, validade jurídica e quando certificado digital é necessário. Informação essencial para empresas que utilizam assinatura digital em processos.",
+      "subtema": "Compliance e Legislação Fiscal",
+      "titulo": "Por que empresas ainda erram no compliance fiscal",
+      "resumo": "Análise dos erros mais comuns em compliance fiscal das empresas e estratégias para reduzir riscos de multas. Explora falhas recorrentes na conformidade tributária.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77959/assinatura-eletronica-tipos-regras-e-validade-no-brasil/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "Como liberar créditos de ICMS via Justiça",
-      "resumo": "Empresas podem recorrer à Justiça para liberar créditos de ICMS bloqueados. Artigo detalha processo, requisitos e cuidados antes de solicitar compensação judicial.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77926/como-liberar-creditos-de-icms-via-justica/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Trabalho intermitente pode ganhar força com discussão sobre escala 5x2",
-      "resumo": "Contrato intermitente avança no Brasil e tende a ser mais utilizado conforme crescem discussões sobre jornada 5x2. Novo modelo pode oferecer flexibilidade para empresas e trabalhadores.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/77970/trabalho-intermitente-pode-ganhar-forca-com-a-escala-5x2/",
+      "url_original": "https://www.contabeis.com.br/noticias/77973/por-que-empresas-ainda-erram-no-compliance-fiscal/",
       "idioma_original": "pt"
     }
   ]
