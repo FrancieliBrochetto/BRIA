@@ -1,0 +1,104 @@
+{
+  "data": "2026-07-12",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI lança ChatGPT Work e expande para famílias",
+      "resumo": "OpenAI contrata gerente de produto dedicado para construir experiências de ChatGPT voltadas a famílias, cuidadores e idosos. A empresa busca ampliar a integração da ferramenta em ambientes domésticos e corporativos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Geral",
+      "titulo": "Instagram cancela IA polêmica que acessava fotos de usuários",
+      "resumo": "Meta desativa ferramenta de inteligência artificial do Instagram após rejeição dos usuários. A empresa reconheceu que a função \"errou o alvo\" e foi descontinuada após poucos dias de operação.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/apos-polemica-instagram-desativa-ia-que-acessava-fotos-de-usuarios/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Geral",
+      "titulo": "Apple processa OpenAI por roubo de segredos comerciais",
+      "resumo": "Apple acusa OpenAI de conduta ilícita direcionada pela liderança sênior, incluindo ex-funcionário de longa data. A ação judicial envolve alegações de apropriação de propriedade intelectual.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Geral",
+      "titulo": "Hiperautomação emerge como nova fronteira de competitividade empresarial",
+      "resumo": "Evolução da IA, análise de dados e integração entre sistemas ampliam o alcance da automação nas empresas. Hiperautomação combina múltiplas tecnologias para otimizar processos organizacionais.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/12/colunistas/hiperautomacao-a-nova-fronteira-da-competitividade-empresarial/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Geral",
+      "titulo": "Sunrun planeja distribuir servidores de IA nas casas dos usuários",
+      "resumo": "Empresa quer espalhar computadores específicos para rodar inteligência artificial em residências. Modelo inclui possibilidade de remunerar usuários que aderirem ao projeto.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/empresa-quer-espalhar-servidores-de-ia-pelas-casas-dos-usuarios/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Geral",
+      "titulo": "SK Hynix arrecada US$ 26,5 bilhões em maior IPO estrangeiro nos EUA",
+      "resumo": "Fabricante de chips de IA realiza maior oferta pública inicial estrangeira na história americana. Surge pressão para que SK Hynix e Samsung construam fábricas nos EUA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Geral",
+      "titulo": "IA reduz vagas para jovens em início de carreira no Brasil",
+      "resumo": "Estudo mostra que inteligência artificial já reduz oportunidades para profissionais jovens no mercado brasileiro. Resultado acende alerta sobre formação e futuro do mercado de trabalho.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77927/ia-reduz-vagas-para-jovens-em-inicio-de-carreira/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Erro no cClassTrib pode bloquear NF-e e gerar riscos fiscais",
+      "resumo": "Preenchimento incorreto do campo cClassTrib causa rejeição 1024 da NF-e e compromete dispensa de IBS e CBS na transição da reforma tributária. Empresas devem revisar configurações para evitar problemas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77954/erro-no-cclasstrib-pode-bloquear-nf-e-e-gerar-riscos-fiscais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Assinatura eletrônica: tipos, regras e validade no Brasil",
+      "resumo": "Guia explica os tipos de assinatura eletrônica, validade jurídica e quando certificado digital é necessário. Informação essencial para empresas que utilizam assinatura digital em processos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77959/assinatura-eletronica-tipos-regras-e-validade-no-brasil/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Como liberar créditos de ICMS via Justiça",
+      "resumo": "Empresas podem recorrer à Justiça para liberar créditos de ICMS bloqueados. Artigo detalha processo, requisitos e cuidados antes de solicitar compensação judicial.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77926/como-liberar-creditos-de-icms-via-justica/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Trabalho intermitente pode ganhar força com discussão sobre escala 5x2",
+      "resumo": "Contrato intermitente avança no Brasil e tende a ser mais utilizado conforme crescem discussões sobre jornada 5x2. Novo modelo pode oferecer flexibilidade para empresas e trabalhadores.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77970/trabalho-intermitente-pode-ganhar-forca-com-a-escala-5x2/",
+      "idioma_original": "pt"
+    }
+  ]
+}
