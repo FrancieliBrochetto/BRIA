@@ -1,0 +1,167 @@
+{
+  "data": "2026-07-13",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Waze integra navegação para motos e busca por voz com Gemini",
+      "resumo": "Waze recebe atualização com recursos para motociclistas, comandos de voz com IA do Google e rotas personalizadas. Brasil está entre os primeiros países a receber as novidades.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/waze-ganha-navegacao-para-motos-e-busca-por-voz-com-gemini/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Políticas e Regulação",
+      "titulo": "Meta cancela IA do Instagram que acessava fotos dos usuários",
+      "resumo": "Após polêmica, Meta desativou a função que havia sido lançada dias antes. A empresa admitiu que \"errou o alvo\" com a ferramenta.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/apos-polemica-instagram-desativa-ia-que-acessava-fotos-de-usuarios/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Empresa planeja distribuir servidores de IA para rodar em casas de usuários",
+      "resumo": "Sunrun quer instalar computadores específicos em residências para executar modelos de IA, oferecendo compensação aos participantes do programa.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/empresa-quer-espalhar-servidores-de-ia-pelas-casas-dos-usuarios/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Legislação e Regulação",
+      "titulo": "Brasil propõe lei para impedir que empresas desativem games online",
+      "resumo": "Projeto de lei obrigaria fornecedoras a oferecer atualização para modo offline, ferramentas para servidor comunitário ou reembolso aos consumidores.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/projeto-de-lei-no-brasil-quer-impedir-que-empresas-matem-games/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI contrata gerente de produto para experiências familiares no ChatGPT",
+      "resumo": "OpenAI busca dedicar recursos para desenvolver recursos do ChatGPT voltados a famílias, cuidadores e idosos, conforme divulgado em vaga de emprego.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Apple processa OpenAI por roubo de segredos comerciais",
+      "resumo": "Apple alega que a empresa de IA cometeu misconduct sob direção de líderes sênior, incluindo ex-funcionário de longa data. Ação marca escalada de conflito entre gigantes da tech.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Modelos Open Source",
+      "titulo": "IA open source cresce com Hugging Face consolidando posição de marketplace",
+      "resumo": "CEO da Hugging Face reafirma importância do open source na IA, com a plataforma usada por aproximadamente metade das Fortune 500 para compartilhar modelos e datasets.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Semicondutores e Hardware",
+      "titulo": "SK Hynix arrecada US$ 26,5 bi no maior IPO estrangeiro dos EUA",
+      "resumo": "Maior oferta pública de empresa estrangeira na história do mercado americano reflete boom de chips de IA. SK Hynix e Samsung recebem pressão para construir fábricas nos EUA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Políticas e Regulação",
+      "titulo": "União Europeia propõe acesso progressivo de menores às redes sociais",
+      "resumo": "UE busca estabelecer limite de acesso gradual para crianças e adolescentes em plataformas digitais, visando protegê-los de riscos, conforme recomendação de especialistas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/07/13/ue-quer-estabelecer-acesso-progressivo-e-gradual-de-menores-as-redes-sociais.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Produtividade",
+      "titulo": "IA em PMEs: produtividade é principal ganho na adoção da tecnologia",
+      "resumo": "Pesquisa mostra como pequenas empresas utilizam IA, apontando produtividade como principal benefício, mas identificando desafios para ampliar adoção da tecnologia.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77965/ia-nas-empresas-produtividade-e-principal-ganho-para-pmes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar sobe ante real com tensões no Oriente Médio em foco",
+      "resumo": "Moeda americana abriu em alta de 0,21% no início do pregão, cotada a R$ 5,12, com investidores atentos à escalada de conflitos entre EUA e Irã.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/13/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic e Taxa de Juros",
+      "titulo": "Mercado reduz estimativa de inflação em 2026 para 5,16%",
+      "resumo": "Estimativa média do mercado financeiro caiu de 5,30% para 5,16%, conforme Boletim Focus do BC baseado em pesquisa com mais de 100 instituições. Selic mantida em 14%.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/13/mercado-financeiro-reduz-para-516percent-estimativa-media-de-inflacao-em-2026.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "Trump ganhou US$ 1,4 bi com criptomoedas, diz agência",
+      "resumo": "Declarações financeiras mostram que Trump e filhos incentivavam investidores em projetos cripto que geraram grandes perdas. Valor foi parcialmente realocado para ações e títulos.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/13/trump-criptomoedas-investimentos.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Commodities",
+      "titulo": "Petróleo sobe 3% por escalada entre EUA e Irã e fechamento do Estreito de Ormuz",
+      "resumo": "Preços do petróleo avançaram refletindo intensificação de ataques entre os países e decisão do Irã de fechar o Estreito de Ormuz, rota crítica para transporte de óleo.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/13/ira-ataques-eua-petroleo.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Commodities",
+      "titulo": "Minério de ferro recua com perdas crescentes de siderúrgicas chinesas",
+      "resumo": "Referência de minério de ferro para agosto em Cingapura caiu 0,79%, chegando a US$ 98,50 por tonelada, em linha com piora nos resultados financeiros do setor.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/minerio-recua-conforme-perdas-financeiras-das-siderurgicas-chinesas-aumentam/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Receita Federal atualiza regras cadastrais do CNPJ",
+      "resumo": "Nova instrução normativa detalha critérios de inconsistência cadastral e moderniza as regras operacionais de manutenção do registro de CNPJ.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78031/receita-atualiza-regras-cadastrais-do-cnpj/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Trabalhista",
+      "titulo": "Entenda como funciona o adicional noturno e a hora reduzida",
+      "resumo": "Explicação sobre direitos de trabalhadores noturnos, cálculo do adicional e razão pela qual a hora noturna tem duração diferente da jornada diurna.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77955/jornada-noturna-veja-como-funciona-o-adicional-e-a-hora-reduzida/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Compliance e Tributação",
+      "titulo": "Por que empresas ainda erram no compliance fiscal",
+      "resumo": "Análise de falhas no compliance fiscal, erros mais frequentes e estratégias para reduzir riscos de multas e autuações por infrações tributárias.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/77973/por-que-empresas-ainda-erram-no-compliance-fiscal/",
+      "idioma_original": "pt"
+    }
+  ]
+}
