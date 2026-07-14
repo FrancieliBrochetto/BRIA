@@ -3,128 +3,146 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "41% dos artigos do LinkedIn são gerados por IA",
-      "resumo": "Levantamento de desenvolvedora de extensão anti-IA revela que quase metade dos artigos publicados no LinkedIn é gerada por inteligência artificial. Reddit mantém a maior proporção de conteúdo genuinamente humano entre as plataformas analisadas.",
+      "subtema": "Regulação de IA",
+      "titulo": "EUA deveriam liderar fiscalização global de IA, diz chefe do Google DeepMind",
+      "resumo": "Demis Hassabis defende que os EUA liderem uma entidade internacional capaz de avaliar modelos avançados de IA antes do lançamento. Proposta busca estabelecer padrão global de segurança e conformidade em inteligência artificial.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/41-dos-artigos-do-linkedin-sao-gerados-por-ia-aponta-levantamento/",
+      "url_original": "https://tecnoblog.net/noticias/eua-deveriam-fiscalizar-ia-no-mundo-todo-diz-chefe-do-google-deepmind/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
+      "subtema": "Modelos de IA Abertos",
+      "titulo": "Empresas preferem modelos abertos de IA por custo e controle de dados",
+      "resumo": "CEO da Hugging Face aponta que empresas estão migrando para modelos open-source devido aos benefícios de custo, acessibilidade e propriedade dos dados. Tendência questiona se modelos de ponta ainda são prioritários para produção em IA.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "OpenAI refashiona Codex como novo ChatGPT",
-      "resumo": "OpenAI transformou o Codex na plataforma central, integrando funcionalidades avançadas ao ChatGPT. A mudança questiona se a empresa está abandonando a categoria de chat que pioneirou no mercado.",
+      "titulo": "OpenAI refashiona ChatGPT como super-app integrado com Codex",
+      "resumo": "OpenAI transforma ChatGPT absorvendo funcionalidades do Codex em uma plataforma única. Movimento questiona se a empresa está abandonando o modelo de chat que revolucionou o mercado.",
       "fonte": "Stratechery",
       "url_original": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Apple processa OpenAI por roubo de segredos comerciais",
-      "resumo": "Apple entrou com ação judicial contra OpenAI acusando roubo de propriedade intelectual. Análise sugere que o movimento reflete frustração da Apple com sua incapacidade competitiva no mercado de IA.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "PixVerse levanta US$ 439M com avaliação de US$ 2B",
-      "resumo": "Startup de geração de vídeos PixVerse fecha rodada de financiamento significativa para expandir sua oferta de world models. Capital será utilizado para alcançar clientes em novas geografias.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Nous Research levanta US$ 75M a avaliação de US$ 1,5B",
-      "resumo": "Empresa desenvolvedora do agente Hermes fecha rodada de financiamento liderada por Robot Ventures. Investimento reforça tendência de capital fluindo para startups de AI agents.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Satya Nadella alerta sobre riscos de modelos proprietários de IA",
-      "resumo": "CEO da Microsoft avisa que gigantes de IA que vendem modelos proprietários podem atuar como cavalos de Troia. Preocupação reflete debate crescente sobre segurança e dependência tecnológica.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Pesquisa Stanford: mesma IA rejeitou seu currículo em várias empresas",
-      "resumo": "Estudo da Universidade Stanford sugere que a mesma ferramenta de IA está avaliando candidatos em múltiplas empresas, causando rejeições em massa padronizadas. Explica o fenômeno de currículos ignorados simultaneamente.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/14/a-mesma-ia-pode-ter-te-avaliado-mal-e-rejeitado-seu-curriculo-em-varias-empresas-diz-pesquisa.ghtml",
+      "subtema": "Segurança em IA",
+      "titulo": "CEO da Microsoft alerta sobre risco oculto de segurança em uso empresarial de IA",
+      "resumo": "Executivo defende que empresas mantenham controle rigoroso sobre dados, prompts e aprendizados gerados durante uso de ferramentas de IA. Preocupação centra-se em vazamento de informações sensíveis nas operações com IA.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/14/seguranca/sua-empresa-usa-ia-ceo-da-microsoft-revela-risco-oculto-que-prejudica-seguranca/",
       "idioma_original": "pt"
     },
     {
+      "tema": "IA & Tech",
+      "subtema": "IA em RH",
+      "titulo": "Meta enfrenta processo por uso de IA em demissões discriminatórias",
+      "resumo": "26 ex-funcionários acusam Meta de usar sistema de IA que prejudicava trabalhadores com deficiência ou em licença médica durante demissões em massa. Caso reacende debate sobre ética e responsabilidade na automação de decisões de RH.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/07/14/ex-funcionarios-acusam-meta-de-usar-ia-para-escolher-trabalhadores-com-problemas-de-saude-em-demissoes.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Infraestrutura de IA",
+      "titulo": "Nova York paralisa aprovação de novos data centers para frear demanda de IA",
+      "resumo": "Estado se torna primeiro a suspender temporariamente construção de grandes data centers, argumentando que boom impulsionado por IA prejudica custos de eletricidade, reservas de água e controle local. Medida reflete preocupações crescentes sobre impacto ambiental e infraestrutura.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Investimentos em IA",
+      "titulo": "Reflection AI fecha acordo de US$ 1 bilhão com Nebius para acesso a computação",
+      "resumo": "Startup fundada em 2024 fecha parceria para acessar recursos de infraestrutura de IA. Acordo evidencia consolidação de investimentos em empresas de tecnologia aberta de IA.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Assistentes de IA",
+      "titulo": "Spotify lança assistente conversacional estilo ChatGPT para descoberta de conteúdo",
+      "resumo": "Plataforma de streaming expande estratégia de IA com recurso que permite assinantes Premium conversar para descobrir músicas, podcasts e audiolivros. Feature exemplifica integração de IA em aplicativos de consumo.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Google",
+      "titulo": "Google Images recebe redesenho focado em descoberta com galeria personalizada",
+      "resumo": "Plataforma agora exibe galeria 'For You' com imagens tailorizadas aos interesses e histórico de navegação do usuário. Redesenho inspira-se em padrões de interfaces como Pinterest.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+      "idioma_original": "en"
+    },
+    {
       "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "JPMorgan supera projeções no 2T; Dimon alerta para geopolítica",
-      "resumo": "JPMorgan apresentou resultados acima das expectativas no segundo trimestre, com receita de Commercial & Investment Bank crescendo 27% para US$ 24,85 bilhões. CEO Jamie Dimon alertou para riscos geopolíticos e inflacionários.",
+      "subtema": "FIIs",
+      "titulo": "FII JSRE11 adquire duas torres do WTorre Nações Unidas por R$ 580 milhões",
+      "resumo": "Operação envolve torres I e II com 38,3 mil metros quadrados de área bruta locável. Transação reforça movimento de consolidação imobiliária por fundos de investimento.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/jpmorgan-supera-projecoes-no-2t-mas-jamie-dimon-alerta-para-geopolitica-e-inflacao/",
+      "url_original": "https://www.infomoney.com.br/onde-investir/fii-jsre11-compra-duas-torres-do-wtorre-nacoes-unidas-em-operacao-de-r-580-milhoes/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Wells Fargo supera lucro e receita no 2º trimestre",
-      "resumo": "Wells Fargo apresentou desempenho financeiro melhor do que esperado no Q2, com provisões para perdas de crédito em US$ 914 milhões, abaixo do US$ 1 bilhão do período anterior. Ação subiu no pré-mercado.",
+      "subtema": "Câmbio e Bolsas",
+      "titulo": "Bolsas europeias fecham estáveis apesar de tensão no Irã e CPI fraco dos EUA",
+      "resumo": "Dados fracos de inflação americana ajudaram a conter temores de novos aumentos de juros pelo Fed, compensando tensões geopolíticas entre Washington e Irã. Movimento reflete busca por equilíbrio em cenário incerto.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/wells-fargo-supera-previsoes-de-lucro-e-receita-no-2o-tri-acao-sobe-no-pre-mercado/",
+      "url_original": "https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-perto-da-estabilidade-com-tensoes-no-ira-e-cpi-fraco-nos-eua/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
-      "subtema": "Commodities",
-      "titulo": "Petróleo atinge maior nível em um mês com tensão em Ormuz",
-      "resumo": "Preços do petróleo subiram e atingiram máxima de quatro semanas após nova escalada de tensão entre EUA e Irã no Estreito de Ormuz. Mercado teme impacto no transporte de uma das principais rotas energéticas mundiais.",
+      "subtema": "Recursos Esquecidos",
+      "titulo": "Banco Central atualiza balanço: R$ 6,2 bilhões em recursos esquecidos podem ser resgatados",
+      "resumo": "BC divulga que existem R$ 6,241 bilhões em valores esquecidos em instituições financeiras: R$ 4,4 bi de pessoas físicas (24 milhões) e R$ 1,8 bi de empresas (2,2 milhões). Consulta pode ser feita no portal do BC.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/07/14/petroleo-alta-tensao-eua-ira.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Geopolitica",
-      "titulo": "Irã busca transformar conflito militar em guerra econômica",
-      "resumo": "Especialista em relações internacionais aponta que Irã usa o Estreito de Ormuz como principal fonte de influência estratégica para converter o conflito militar com EUA em guerra econômica. Responde ao anúncio de bloqueio naval e pedágio.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/07/14/ira-quer-transformar-conflito-militar-com-eua-em-guerra-economica-diz-especialista.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Novo teto MEI: limite sobe para R$ 140 mil e permite 2 empregados",
-      "resumo": "Proposta do governo aumenta o faturamento máximo do MEI para R$ 140 mil e autoriza até 2 funcionários. Transição para microempresa ainda gera preocupações entre empreendedores sobre impactos tributários.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78054/novo-teto-mei-mudancas-preocupam-transicao-de-negocios/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Senado cria frente parlamentar sobre IA e proteção de dados",
-      "resumo": "Congresso Nacional institui Frente Parlamentar Mista de Inteligência Artificial, Proteção de Dados e Segurança Digital para acompanhar agenda regulatória do setor. Iniciativa reflete importância crescente do tema legislativo.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78048/senado-cria-frente-parlamentar-sobre-ia-e-protecao-de-dados/",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/14/dinheiro-esquecido-banco-central-atualiza-balanco-e-diz-que-r-62-bilhoes-podem-ser-resgatados.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "Inscrições para EQT 2/2026 abrem nesta terça-feira",
-      "resumo": "Período de inscrição para auditores e peritos contábeis no Exame de Qualificação Técnica começa em 14 de julho e segue até 12 de agosto. Profissionais podem se registrar na plataforma oficial.",
+      "titulo": "Receita Federal esclarece tributação de IR em venda de participação societária",
+      "resumo": "Solução de consulta define como tributar parcelas complementares recebidas após venda de participação societária. Orientação visa padronizar tratamento fiscal dessas operações.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78050/inscricao-para-o-eqt-2-2026-abrira-nesta-terca-feira-14/",
+      "url_original": "https://www.contabeis.com.br/noticias/78070/receita-esclarece-ir-em-venda-de-participacao-societaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "PIS/Cofins",
+      "titulo": "Justiça garante direito a crédito de PIS/Cofins para empresa do agro",
+      "resumo": "Decisão da Justiça Federal reconhece direito ao crédito de PIS e Cofins após mudanças da LC 224/2025. Precedente pode influenciar novos processos de agronegócios.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78065/justica-garante-credito-de-pis-cofins-para-empresa-do-agro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "NF-e passa a ser obrigatória em vendas com direito a crédito de ICMS",
+      "resumo": "Ajuste SINIEF 23/2026 exige que varejistas emitam NF-e, em vez de NFC-e, em operações que permitam ao adquirente aproveitar crédito de ICMS. Mudança afeta processos de faturamento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78064/icms-nf-e-sera-obrigatoria-em-vendas-com-direito-a-credito/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "FGTS",
+      "titulo": "Empresas já podem solicitar restituição de estornos no FGTS Digital",
+      "resumo": "Após aprovação de estorno pelo MTE, valores ficam disponíveis na Conta Virtual do Empregador para transferência bancária. Facilita processo de reembolso de saldos contestados.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78059/fgts-digital-empresas-ja-podem-pedir-restituicao-de-estornos/",
       "idioma_original": "pt"
     }
   ]
