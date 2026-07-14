@@ -1,0 +1,131 @@
+{
+  "data": "2026-07-14",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "41% dos artigos do LinkedIn são gerados por IA",
+      "resumo": "Levantamento de desenvolvedora de extensão anti-IA revela que quase metade dos artigos publicados no LinkedIn é gerada por inteligência artificial. Reddit mantém a maior proporção de conteúdo genuinamente humano entre as plataformas analisadas.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/41-dos-artigos-do-linkedin-sao-gerados-por-ia-aponta-levantamento/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI refashiona Codex como novo ChatGPT",
+      "resumo": "OpenAI transformou o Codex na plataforma central, integrando funcionalidades avançadas ao ChatGPT. A mudança questiona se a empresa está abandonando a categoria de chat que pioneirou no mercado.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Apple processa OpenAI por roubo de segredos comerciais",
+      "resumo": "Apple entrou com ação judicial contra OpenAI acusando roubo de propriedade intelectual. Análise sugere que o movimento reflete frustração da Apple com sua incapacidade competitiva no mercado de IA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "PixVerse levanta US$ 439M com avaliação de US$ 2B",
+      "resumo": "Startup de geração de vídeos PixVerse fecha rodada de financiamento significativa para expandir sua oferta de world models. Capital será utilizado para alcançar clientes em novas geografias.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Nous Research levanta US$ 75M a avaliação de US$ 1,5B",
+      "resumo": "Empresa desenvolvedora do agente Hermes fecha rodada de financiamento liderada por Robot Ventures. Investimento reforça tendência de capital fluindo para startups de AI agents.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Satya Nadella alerta sobre riscos de modelos proprietários de IA",
+      "resumo": "CEO da Microsoft avisa que gigantes de IA que vendem modelos proprietários podem atuar como cavalos de Troia. Preocupação reflete debate crescente sobre segurança e dependência tecnológica.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Pesquisa Stanford: mesma IA rejeitou seu currículo em várias empresas",
+      "resumo": "Estudo da Universidade Stanford sugere que a mesma ferramenta de IA está avaliando candidatos em múltiplas empresas, causando rejeições em massa padronizadas. Explica o fenômeno de currículos ignorados simultaneamente.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/14/a-mesma-ia-pode-ter-te-avaliado-mal-e-rejeitado-seu-curriculo-em-varias-empresas-diz-pesquisa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "JPMorgan supera projeções no 2T; Dimon alerta para geopolítica",
+      "resumo": "JPMorgan apresentou resultados acima das expectativas no segundo trimestre, com receita de Commercial & Investment Bank crescendo 27% para US$ 24,85 bilhões. CEO Jamie Dimon alertou para riscos geopolíticos e inflacionários.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/jpmorgan-supera-projecoes-no-2t-mas-jamie-dimon-alerta-para-geopolitica-e-inflacao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Wells Fargo supera lucro e receita no 2º trimestre",
+      "resumo": "Wells Fargo apresentou desempenho financeiro melhor do que esperado no Q2, com provisões para perdas de crédito em US$ 914 milhões, abaixo do US$ 1 bilhão do período anterior. Ação subiu no pré-mercado.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/wells-fargo-supera-previsoes-de-lucro-e-receita-no-2o-tri-acao-sobe-no-pre-mercado/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Commodities",
+      "titulo": "Petróleo atinge maior nível em um mês com tensão em Ormuz",
+      "resumo": "Preços do petróleo subiram e atingiram máxima de quatro semanas após nova escalada de tensão entre EUA e Irã no Estreito de Ormuz. Mercado teme impacto no transporte de uma das principais rotas energéticas mundiais.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/14/petroleo-alta-tensao-eua-ira.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Geopolitica",
+      "titulo": "Irã busca transformar conflito militar em guerra econômica",
+      "resumo": "Especialista em relações internacionais aponta que Irã usa o Estreito de Ormuz como principal fonte de influência estratégica para converter o conflito militar com EUA em guerra econômica. Responde ao anúncio de bloqueio naval e pedágio.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/14/ira-quer-transformar-conflito-militar-com-eua-em-guerra-economica-diz-especialista.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Novo teto MEI: limite sobe para R$ 140 mil e permite 2 empregados",
+      "resumo": "Proposta do governo aumenta o faturamento máximo do MEI para R$ 140 mil e autoriza até 2 funcionários. Transição para microempresa ainda gera preocupações entre empreendedores sobre impactos tributários.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78054/novo-teto-mei-mudancas-preocupam-transicao-de-negocios/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Senado cria frente parlamentar sobre IA e proteção de dados",
+      "resumo": "Congresso Nacional institui Frente Parlamentar Mista de Inteligência Artificial, Proteção de Dados e Segurança Digital para acompanhar agenda regulatória do setor. Iniciativa reflete importância crescente do tema legislativo.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78048/senado-cria-frente-parlamentar-sobre-ia-e-protecao-de-dados/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Inscrições para EQT 2/2026 abrem nesta terça-feira",
+      "resumo": "Período de inscrição para auditores e peritos contábeis no Exame de Qualificação Técnica começa em 14 de julho e segue até 12 de agosto. Profissionais podem se registrar na plataforma oficial.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78050/inscricao-para-o-eqt-2-2026-abrira-nesta-terca-feira-14/",
+      "idioma_original": "pt"
+    }
+  ]
+}
