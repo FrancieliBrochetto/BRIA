@@ -1,0 +1,203 @@
+{
+  "data": "2026-07-15",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI refashiona Codex como novo ChatGPT",
+      "resumo": "OpenAI transformou o Codex em sua nova plataforma ChatGPT, posicionando-a como um super app. A mudança levanta questões sobre o futuro da categoria de chat que a empresa pionerou.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "GPT-5.6 deleta arquivos automaticamente; OpenAI já havia alertado em junho",
+      "resumo": "Usuários relatam que o novo modelo GPT-5.6 delete arquivos e dados sem aviso prévio. OpenAI havia divulgado o problema anteriormente, mas avisos continuam circulando nas redes sociais.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI lança GPT-5.6 Work para plataforma profissional",
+      "resumo": "OpenAI disponibiliza GPT-5.6 para a plataforma de trabalho, integrando capacidades avançadas em ambiente corporativo. Recurso permite transição de ideias para websites com integração Codex.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/openai-sends-gpt-5-6-to-work",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Apple processa OpenAI por roubo de segredos comerciais",
+      "resumo": "Apple ajuizou ação contra OpenAI acusando roubo de propriedade intelectual. OpenAI respondeu que a acusação carece de mérito e sugere possível motivação emocional da empresa.",
+      "fonte": "TechCrunch AI / Stratechery",
+      "url_original": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Gemini API recebe capacidades de agentes autônomos",
+      "resumo": "Google expande a API do Gemini com funcionalidades de agentes, permitindo automação e decisões mais sofisticadas. Desenvolvimento alinha-se à estratégia de IA corporativa da empresa.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude ganha navegador Code e extensão Fable para economia de tokens",
+      "resumo": "Anthropic lança Claude Code com navegação web e Fable extension que reduz uso de tokens em 60%. Atualizações expandem capacidades de processamento e eficiência da plataforma.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-07-13",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude Cowork mobile disponível para dispositivos móveis",
+      "resumo": "Anthropic lança versão mobile do Claude Cowork, expandindo acesso à plataforma colaborativa. Ferramenta permite trabalho em equipe via smartphones e tablets.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Generativa",
+      "titulo": "Pesquisador da OpenAI em negociações para startup de descoberta de fármacos com IA",
+      "resumo": "Miles Wang, pesquisador da OpenAI, discute lançamento de startup focada em IA para descoberta de medicamentos, avaliada em US$ 2 bilhões. Movimento reflete crescente interesse em aplicar IA às ciências da vida.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Hardware",
+      "titulo": "OpenAI prepara primeiro dispositivo de hardware: alto-falante sem tela com elementos móveis",
+      "resumo": "OpenAI desenvolve speaker screenless que pode se mover fisicamente, projeta servir como 'companheiro' e extensão do ChatGPT. Dispositivo inclui elementos mecânicos que se movem autonomamente.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Generativa",
+      "titulo": "xAI publica codebases; Sakana AI avança em modelos compostos",
+      "resumo": "xAI disponibiliza seus codebases publicamente e Prime Intellect expande verificadores. Sakana AI inova em 'smart bricks' para modelos de IA compostos e modulares.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-07-14",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Generativa",
+      "titulo": "Grok 4.5 lançado por xAI/SpaceX; Cursor libera agente geral",
+      "resumo": "xAI/SpaceX lança Grok 4.5, versão mais forte do modelo. Cursor simultaneamente lança agente geral e integra a ferramenta com os mais recentes avanços em IA verificável.",
+      "fonte": "The Rundown AI / TLDR AI",
+      "url_original": "https://www.therundown.ai/p/spacexai-cursor-release-the-strongest-grok-yet",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Generativa",
+      "titulo": "Demis Hassabis estabelece prazo para supervisão de IA",
+      "resumo": "Líder da DeepMind/Google propõe marcos temporais para implementação de supervisão em sistemas de IA. Iniciativa busca equilibrar inovação com segurança e transparência.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/demis-hassabis-puts-a-clock-on-ai-oversight",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Generativa",
+      "titulo": "Economistas alertam sobre impacto do desemprego causado por IA",
+      "resumo": "Pesquisadores e economistas apontam cronograma específico para impacto do desemprego causado por IA. Estudos indicam deslocamento significativo de empregos em curto prazo.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/economists-researchers-put-ai-job-shock-on-the-clock",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Generativa",
+      "titulo": "Meta lança Muse Image com dados verificáveis; Grok 4.5 amplia disputa por dados confiáveis",
+      "resumo": "Meta apresenta Muse Image com foco em dados confiáveis. Grok 4.5 e outros modelos fronteiras intensificam disputa por dados verificáveis como diferencial competitivo em IA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Generativa",
+      "titulo": "IBM sofre queda nos resultados; mainframe divide atenção com problemas em IA",
+      "resumo": "IBM divulga resultados preliminares abaixo do esperado, afetando mercado de software. Empresa enfrenta pressão simultânea em sua franquia mainframe e desafios na integração de IA corporativa.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "CSN Mineração realiza lucros após 8 pregões de alta consecutivos",
+      "resumo": "Ação CMIN3 entra em fase de realização de lucros após rali sustentado. Mercado acompanha se correção é pontual ou início de movimento mais amplo de queda.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/csn-mineracao-cmin3-corrige-apos-rali-acao-pode-voltar-a-subir/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Vale, Ânima, Romi, Camil e Melnick em foco no mercado hoje",
+      "resumo": "Principais destaques do noticiário de mercado incluem movimentação em ações de setores variados. Investidores acompanham impactos de notícias corporativas nessas empresas.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/vale-anima-romi-camil-melnick-e-mais-acoes-para-acompanhar-hoje/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária exige planejamento estratégico imediato das empresas",
+      "resumo": "Empresas precisam revisar processos, aprimorar controles internos e fortalecer gestão para transição segura. Planejamento estratégico é essencial para competitividade pós-reforma.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78020/reforma-tributaria-planejamento-estrategico-essencial-para-empresas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Alerta: 64,4% das NF-e chegam com campos de IBS/CBS vazios",
+      "resumo": "Estudo da V360 revela que maioria das notas fiscais eletrônicas está com campos de IBS e CBS sem preenchimento. Falha compromete adaptação à Reforma Tributária e pode resultar em perda de crédito.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78085/reforma-tributaria-alerta-sobre-campos-vazios-de-ibs-cbs-em-nf-e/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Pagamento do abono salarial PIS/Pasep libera saque hoje",
+      "resumo": "Beneficiários do PIS/Pasep podem sacar abono de até um salário mínimo. Trabalhadores que atendem aos critérios do programa têm acesso liberado ao benefício.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/minhas-financas/pagamento-do-abono-salarial-pis-pasep/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "TIT-SP reconhece crédito de ICMS sobre materiais intermediários",
+      "resumo": "Câmara Superior do TIT-SP concede direito a créditos de ICMS sobre insumos desgastados na produção, alinhando-se ao STJ. Decisão abre expectativa de confirmação pelo STF.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78079/tit-sp-creditos-de-icms-sobre-materiais-intermediarios/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "PEM 2025: municípios têm até 31 de agosto para aderir a parcelamento de débitos",
+      "resumo": "Programa de Estabilização Municipal permite parcelamento de débitos previdenciários com redução de encargos. Prazo final para adesão é 31 de agosto de 2025.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78077/pem-2025-municipios-tem-ate-31-de-agosto-para-aderir/",
+      "idioma_original": "pt"
+    }
+  ]
+}
