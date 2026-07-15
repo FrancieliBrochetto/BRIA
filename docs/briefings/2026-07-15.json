@@ -3,135 +3,90 @@
   "noticias": [
     {
       "tema": "IA & Tech",
+      "subtema": "Regulação & Governança",
+      "titulo": "China proíbe IAs de namoro que criam dependência emocional",
+      "resumo": "Nova lei chinesa obriga assistentes virtuais a interromper vínculos emocionais com usuários. ByteDance e Alibaba desligaram recursos de IA nesta quarta-feira (15).",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/china-proibe-ias-de-namoro-que-criam-dependencia-emocional/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "OpenAI refashiona Codex como novo ChatGPT",
-      "resumo": "OpenAI transformou o Codex em sua nova plataforma ChatGPT, posicionando-a como um super app. A mudança levanta questões sobre o futuro da categoria de chat que a empresa pionerou.",
+      "titulo": "OpenAI refashiona ChatGPT baseado em Codex como super app",
+      "resumo": "OpenAI está transformando ChatGPT usando a base do Codex para criar um super aplicativo. A mudança questiona o futuro da categoria chat que a empresa pioneirizou.",
       "fonte": "Stratechery",
       "url_original": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "GPT-5.6 deleta arquivos automaticamente; OpenAI já havia alertado em junho",
-      "resumo": "Usuários relatam que o novo modelo GPT-5.6 delete arquivos e dados sem aviso prévio. OpenAI havia divulgado o problema anteriormente, mas avisos continuam circulando nas redes sociais.",
+      "subtema": "Automação",
+      "titulo": "Apple Intelligence aprovada na China com parceria Alibaba-Qwen",
+      "resumo": "Reguladores chineses aprovaram lançamento do Apple Intelligence através de parceria com Alibaba. Os modelos Qwen da Alibaba serão integrados aos sistemas operacionais da Apple.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "url_original": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI lança GPT-5.6 Work para plataforma profissional",
-      "resumo": "OpenAI disponibiliza GPT-5.6 para a plataforma de trabalho, integrando capacidades avançadas em ambiente corporativo. Recurso permite transição de ideias para websites com integração Codex.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/openai-sends-gpt-5-6-to-work",
+      "subtema": "Automação",
+      "titulo": "Anthropic e Blackstone apostam em implementação de IA em empresas",
+      "resumo": "Anthropic-backed Ode lança novo modelo focado em engenheiros de IA implantados nas empresas. Aposta é que implementação, não apenas modelos, é o próximo negócio trilionário.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
+      "subtema": "Automação",
+      "titulo": "Rime levanta $24M para IA de atendimento ao cliente",
+      "resumo": "Startup Rime captou $24M em Series A para ajudar empresas a gerir chamadas de clientes. Plataforma processa mais de 100 milhões de ligações mensais.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Startup indiana de IA para código Emergent se torna unicórnio",
+      "resumo": "Emergent atingiu status de unicórnio com rodada Series C de $130M. Empresa conta com 200 mil clientes pagos e $120M em receita anualizada.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Regulação & Governança",
       "titulo": "Apple processa OpenAI por roubo de segredos comerciais",
-      "resumo": "Apple ajuizou ação contra OpenAI acusando roubo de propriedade intelectual. OpenAI respondeu que a acusação carece de mérito e sugere possível motivação emocional da empresa.",
-      "fonte": "TechCrunch AI / Stratechery",
-      "url_original": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "resumo": "Apple entrou com processo contra OpenAI acusando roubo de segredos comerciais. Estratégia aparenta ser mais uma reação emocional com base em culpa de único funcionário.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Gemini API recebe capacidades de agentes autônomos",
-      "resumo": "Google expande a API do Gemini com funcionalidades de agentes, permitindo automação e decisões mais sofisticadas. Desenvolvimento alinha-se à estratégia de IA corporativa da empresa.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Claude ganha navegador Code e extensão Fable para economia de tokens",
-      "resumo": "Anthropic lança Claude Code com navegação web e Fable extension que reduz uso de tokens em 60%. Atualizações expandem capacidades de processamento e eficiência da plataforma.",
-      "fonte": "TLDR AI",
-      "url_original": "https://tldr.tech/ai/2026-07-13",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Claude Cowork mobile disponível para dispositivos móveis",
-      "resumo": "Anthropic lança versão mobile do Claude Cowork, expandindo acesso à plataforma colaborativa. Ferramenta permite trabalho em equipe via smartphones e tablets.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Generativa",
-      "titulo": "Pesquisador da OpenAI em negociações para startup de descoberta de fármacos com IA",
-      "resumo": "Miles Wang, pesquisador da OpenAI, discute lançamento de startup focada em IA para descoberta de medicamentos, avaliada em US$ 2 bilhões. Movimento reflete crescente interesse em aplicar IA às ciências da vida.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Hardware",
-      "titulo": "OpenAI prepara primeiro dispositivo de hardware: alto-falante sem tela com elementos móveis",
-      "resumo": "OpenAI desenvolve speaker screenless que pode se mover fisicamente, projeta servir como 'companheiro' e extensão do ChatGPT. Dispositivo inclui elementos mecânicos que se movem autonomamente.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Generativa",
-      "titulo": "xAI publica codebases; Sakana AI avança em modelos compostos",
-      "resumo": "xAI disponibiliza seus codebases publicamente e Prime Intellect expande verificadores. Sakana AI inova em 'smart bricks' para modelos de IA compostos e modulares.",
-      "fonte": "TLDR AI",
-      "url_original": "https://tldr.tech/ai/2026-07-14",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Generativa",
-      "titulo": "Grok 4.5 lançado por xAI/SpaceX; Cursor libera agente geral",
-      "resumo": "xAI/SpaceX lança Grok 4.5, versão mais forte do modelo. Cursor simultaneamente lança agente geral e integra a ferramenta com os mais recentes avanços em IA verificável.",
-      "fonte": "The Rundown AI / TLDR AI",
-      "url_original": "https://www.therundown.ai/p/spacexai-cursor-release-the-strongest-grok-yet",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Generativa",
-      "titulo": "Demis Hassabis estabelece prazo para supervisão de IA",
-      "resumo": "Líder da DeepMind/Google propõe marcos temporais para implementação de supervisão em sistemas de IA. Iniciativa busca equilibrar inovação com segurança e transparência.",
+      "subtema": "Regulação & Governança",
+      "titulo": "Demis Hassabis estabelece cronograma para supervisão de IA",
+      "resumo": "Demis Hassabis, da DeepMind, propõe horizonte de tempo para supervisão de sistemas de IA. Medida busca acelerar implementação de mecanismos de controle.",
       "fonte": "The Rundown AI",
       "url_original": "https://www.therundown.ai/p/demis-hassabis-puts-a-clock-on-ai-oversight",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Generativa",
-      "titulo": "Economistas alertam sobre impacto do desemprego causado por IA",
-      "resumo": "Pesquisadores e economistas apontam cronograma específico para impacto do desemprego causado por IA. Estudos indicam deslocamento significativo de empregos em curto prazo.",
+      "subtema": "Regulação & Governança",
+      "titulo": "Economistas estabelecem cronograma para impacto de IA no emprego",
+      "resumo": "Pesquisadores e economistas quantificam o choque de IA no mercado de trabalho com projeções temporizadas. Estudo ajuda a entender velocidade de deslocamento de funções.",
       "fonte": "The Rundown AI",
       "url_original": "https://www.therundown.ai/p/economists-researchers-put-ai-job-shock-on-the-clock",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Generativa",
-      "titulo": "Meta lança Muse Image com dados verificáveis; Grok 4.5 amplia disputa por dados confiáveis",
-      "resumo": "Meta apresenta Muse Image com foco em dados confiáveis. Grok 4.5 e outros modelos fronteiras intensificam disputa por dados verificáveis como diferencial competitivo em IA.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Generativa",
-      "titulo": "IBM sofre queda nos resultados; mainframe divide atenção com problemas em IA",
-      "resumo": "IBM divulga resultados preliminares abaixo do esperado, afetando mercado de software. Empresa enfrenta pressão simultânea em sua franquia mainframe e desafios na integração de IA corporativa.",
+      "subtema": "Automação",
+      "titulo": "IBM enfrenta desafios múltiplos em IA e mainframes",
+      "resumo": "IBM divulgou resultados preliminares que assustaram mercado de software. Problema central: empresa não consegue capitalizar presença em mainframes para crescimento em IA.",
       "fonte": "Stratechery",
       "url_original": "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
       "idioma_original": "en"
@@ -139,64 +94,91 @@
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "CSN Mineração realiza lucros após 8 pregões de alta consecutivos",
-      "resumo": "Ação CMIN3 entra em fase de realização de lucros após rali sustentado. Mercado acompanha se correção é pontual ou início de movimento mais amplo de queda.",
+      "titulo": "BofA eleva B3 para compra com potencial de alta de 40%",
+      "resumo": "Bank of America iniciou cobertura de B3 em compra, citando subestimação do mercado sobre capacidade da empresa atravessar ciclos econômicos. Ação sobe após recomendação.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/csn-mineracao-cmin3-corrige-apos-rali-acao-pode-voltar-a-subir/",
+      "url_original": "https://www.infomoney.com.br/mercados/bofa-eleva-b3-para-compra-e-ve-potencial-de-alta-de-40-apos-queda-recente-acao-sobe/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Vale, Ânima, Romi, Camil e Melnick em foco no mercado hoje",
-      "resumo": "Principais destaques do noticiário de mercado incluem movimentação em ações de setores variados. Investidores acompanham impactos de notícias corporativas nessas empresas.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/vale-anima-romi-camil-melnick-e-mais-acoes-para-acompanhar-hoje/",
+      "subtema": "Câmbio",
+      "titulo": "Dólar oscila com tarifas de Trump e tensões no Oriente Médio",
+      "resumo": "Dólar opera com volatilidade a R$ 5,08. Ibovespa cai 0,54% a 175.684 pontos. Mercado segue atento a decisão dos EUA sobre novas tarifas ao Brasil.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/15/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Política Fiscal",
+      "titulo": "Durigan critica possível tarifaço dos EUA como desproporcional",
+      "resumo": "Ministro da Fazenda Dario Durigan afirma que aumento de tarifas americanas seria injusto. Brasil promete agir para proteger economia se medida for concretizada.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/15/durigan-diz-que-possivel-tarifaco-dos-eua-seria-injusto-e-desproporcional-e-diz-que-empresarios-e-familias-nao-podem-ser-prejudicados.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Política Fiscal",
+      "titulo": "Fazenda e Câmara fecham acordo sobre renegociação de dívidas rurais",
+      "resumo": "Ministro Durigan e presidente da Câmara Hugo Motta anunciam acordo sobre renegociação de dívidas de produtores rurais. Acordo prevê prazo de até 10 anos para afetados por eventos climáticos.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/15/fazenda-e-camara-anunciam-acordo-sobre-projeto-de-renegociacao-de-dividas-rurais.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Comércio Internacional",
+      "titulo": "Tarifas americanas empurram Brasil para parceiros, mas China preocupa",
+      "resumo": "Tarifas dos EUA forçaram Brasil a diversificar parceiros comerciais, principalmente para China. Mudança afeta setores de metais, madeira e manufaturas que dependiam do mercado americano.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/15/tarifas-dos-eua-empurraram-brasil-para-outros-parceiros-comerciais-mas-dependencia-chinesa-preocupa.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Reforma Tributária exige planejamento estratégico imediato das empresas",
-      "resumo": "Empresas precisam revisar processos, aprimorar controles internos e fortalecer gestão para transição segura. Planejamento estratégico é essencial para competitividade pós-reforma.",
+      "subtema": "Legislação Tributária",
+      "titulo": "Tributário: Receita identifica e barra planejamentos abusivos",
+      "resumo": "Receita Federal utiliza cruzamentos de dados para identificar planejamento tributário abusivo. Decisões do CARF reforçam práticas de combate à malha fina.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78020/reforma-tributaria-planejamento-estrategico-essencial-para-empresas/",
+      "url_original": "https://www.contabeis.com.br/noticias/78076/tributario-cruzamentos-planejamentos-abusivos-e-outros-riscos/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Alerta: 64,4% das NF-e chegam com campos de IBS/CBS vazios",
-      "resumo": "Estudo da V360 revela que maioria das notas fiscais eletrônicas está com campos de IBS e CBS sem preenchimento. Falha compromete adaptação à Reforma Tributária e pode resultar em perda de crédito.",
+      "subtema": "Legislação Tributária",
+      "titulo": "STJ confirma tributação monofásica sobre combustíveis",
+      "resumo": "STJ reforça entendimento de que postos de combustíveis não têm direito a créditos de PIS e Cofins no regime monofásico. Decisão alinha-se ao posicionamento da Receita Federal.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78085/reforma-tributaria-alerta-sobre-campos-vazios-de-ibs-cbs-em-nf-e/",
+      "url_original": "https://www.contabeis.com.br/noticias/78095/stj-confirma-tributacao-monofasica-sobre-combustiveis/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "Pagamento do abono salarial PIS/Pasep libera saque hoje",
-      "resumo": "Beneficiários do PIS/Pasep podem sacar abono de até um salário mínimo. Trabalhadores que atendem aos critérios do programa têm acesso liberado ao benefício.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/minhas-financas/pagamento-do-abono-salarial-pis-pasep/",
+      "titulo": "Receita libera painéis com dados consolidados do IRPF",
+      "resumo": "Receita Federal disponibiliza ferramentas para consultar estatísticas do IRPF por renda, idade, ocupação e região. Dados estão consolidados e acessíveis ao público.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78096/receita-libera-paineis-com-dados-das-declaracoes-do-ir/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "TIT-SP reconhece crédito de ICMS sobre materiais intermediários",
-      "resumo": "Câmara Superior do TIT-SP concede direito a créditos de ICMS sobre insumos desgastados na produção, alinhando-se ao STJ. Decisão abre expectativa de confirmação pelo STF.",
+      "subtema": "Legislação Tributária",
+      "titulo": "Senado adia votação de novas regras para conflitos tributários",
+      "resumo": "PLP 124/2022, que altera regras para disputas entre Fisco e contribuintes, foi retirado da pauta. Questionamentos da Receita e PGFN motivaram adiamento.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78079/tit-sp-creditos-de-icms-sobre-materiais-intermediarios/",
+      "url_original": "https://www.contabeis.com.br/noticias/78091/senado-adia-votacao-de-novas-regras-para-conflitos-tributarios/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "PEM 2025: municípios têm até 31 de agosto para aderir a parcelamento de débitos",
-      "resumo": "Programa de Estabilização Municipal permite parcelamento de débitos previdenciários com redução de encargos. Prazo final para adesão é 31 de agosto de 2025.",
+      "subtema": "Leis Novas",
+      "titulo": "Lei 15.455/2026: empregadores domésticos enfrentam novas regras",
+      "resumo": "Lei nº 15.455/2026 traz mudanças nas obrigações de empregadores domésticos e direitos de trabalhadores. Empregadores devem redobrar atenção às novas exigências trabalhistas.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78077/pem-2025-municipios-tem-ate-31-de-agosto-para-aderir/",
+      "url_original": "https://www.contabeis.com.br/noticias/78098/nova-lei-15-455-2026-empregadores-domesticos-precisam-redobrar-a-atencao/",
       "idioma_original": "pt"
     }
   ]
