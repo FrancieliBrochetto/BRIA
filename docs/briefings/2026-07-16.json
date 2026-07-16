@@ -1,0 +1,149 @@
+{
+  "data": "2026-07-16",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI refashiona Codex como novo ChatGPT",
+      "resumo": "OpenAI transformou o Codex na nova versão do ChatGPT, movendo-se para um modelo de super app focado em agentes de IA. A mudança levanta questões sobre o futuro da categoria de chat que a empresa pionerou.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI lança controle por voz e lança teclado de IA a $230",
+      "resumo": "OpenAI apresentou novo teclado de $230 para seu app Codex durante disputa legal com Apple sobre roubo de segredos comerciais. O dispositivo inclui elementos de controle avançado para agentes de IA.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "OpenAI planeja caixa de som com IA que simula movimentos naturais",
+      "resumo": "Rumores indicam lançamento de dispositivo com elementos mecânicos que reagem e simulam movimentos de forma natural, transformando a interação com IA. Lançamento esperado para 2027.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/openai-pode-lancar-caixa-de-som-que-conversa-e-parece-viva/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude ganha recurso de navegação Code e extensão Fable",
+      "resumo": "Anthropic expandiu capacidades do Claude com novo navegador Code para interações web e extensão Fable para processamento temporal em workflows.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-07-13",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Thinking Machines lança modelo aberto Inkling contra IA genérica",
+      "resumo": "Startup apresenta seu primeiro modelo público após 18 meses desenvolvendo infraestrutura de IA. Estratégia desafia a abordagem one-size-fits-all dos grandes players.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Applied Computing arrecada $20M para modelo IA na indústria de petróleo",
+      "resumo": "Startup recebeu financiamento Série A para desenvolver modelo de IA específico para operadores de petróleo, gás e petroquímica, focado em otimização de plantas inteiras.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Microsoft treina vendedores para deslocar OpenAI e Anthropic",
+      "resumo": "Microsoft está equipando força de vendas para promover seus modelos IA internos como mais eficientes e custo-efetivos comparado aos concorrentes OpenAI e Anthropic.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Apple processa OpenAI por roubo de segredos comerciais",
+      "resumo": "Apple entrou com ação contra OpenAI acusando-a de roubar segredos comerciais. Análise indica que há um funcionário culpado, mas ação parece mais como reação defensiva.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "B3 registra alta de 16,8% no volume negociado em junho",
+      "resumo": "Bolsa brasileira cresceu 16,8% em volume negociado em junho, com receita média por contrato atingindo R$ 1,172 e alta anual de 1,3%.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/b3-b3sa3-registra-alta-de-168-no-volume-negociado-em-junho/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Cogna testa suporte crítico em tendência de baixa",
+      "resumo": "Ação Cogna (COGN3) segue em tendência de baixa testando importante região de suporte que pode definir reação ou continuidade do movimento corretivo.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/cogna-cogn3-testa-suporte-critico-veja-os-proximos-niveis-da-acao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "SpaceX cai para preço IPO de $135 antes do lançamento Starship",
+      "resumo": "Ação da SpaceX caiu consistentemente do pico pós-IPO, indicando que mercado está reavaliando as promessas do CEO Elon Musk anteriores ao lançamento público.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "EUA aplicam tarifa de 25% sobre produtos brasileiros a partir de 22 de julho",
+      "resumo": "Governo Trump confirmou cobrança de 25% sobre produtos brasileiros, afetando US$ 11 bilhões em exportações do agro e indústria. Brasil acionará Lei de Reciprocidade em resposta.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/tarifaco-dos-eua-governo-brasileiro-vai-acionar-lei-de-reciprocidade/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Receita Federal anuncia CNPJ alfanumérico a partir de 2026",
+      "resumo": "Receita Federal emitirá CNPJ em novo formato alfanumérico para novas inscrições a partir de 2026. CNPJs atuais mantêm validade; empresas precisam adaptar sistemas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78088/cnpj-alfanumerico-receita-federal-anuncia-novo-formato/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Receita Federal esclarece legislação tributária com novas soluções de consulta",
+      "resumo": "Receita Federal lança novas ferramentas para consulta que trazem clareza à legislação tributária em temas como Simples Nacional, PIS/Cofins e Perse, reduzindo riscos fiscais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78102/receita-federal-esclarece-legislacao-tributaria-federal/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Projeto reduz tributação de resseguradoras nacionais",
+      "resumo": "Câmara analisa projeto que reduz CSLL de resseguradoras e flexibiliza compensação de prejuízos fiscais para aumentar competitividade do setor.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78101/projeto-reduz-tributacao-de-resseguradoras-nacionais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "CRPS muda regra de análise para salário-maternidade no INSS",
+      "resumo": "Nova resolução mantém dispensa de carência mas reforça comprovação da qualidade de segurada para receber o benefício de salário-maternidade.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78106/salario-maternidade-crps-muda-regra-de-analise-do-inss/",
+      "idioma_original": "pt"
+    }
+  ]
+}
