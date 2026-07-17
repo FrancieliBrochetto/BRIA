@@ -1,0 +1,149 @@
+{
+  "data": "2026-07-17",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google Vids permite criar vídeos com avatares de IA personalizados",
+      "resumo": "Google adicionou avatares de IA personalizados ao Vids, permitindo que usuários criem vídeos estrelando uma versão digital de si mesmos. A ferramenta integra capacidades do Gemini Omni para gerar e editar vídeos a partir de prompts e imagens de referência.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "AI Mode do Google permite interagir com aplicativos selecionados",
+      "resumo": "Google expande seu AI Mode além de respostas a perguntas para completar tarefas em aplicativos que os usuários usam regularmente. A atualização marca um avanço na integração de IA com ferramentas do dia a dia.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI lança teclado Codex Micro que esgota em 24 horas",
+      "resumo": "O Codex Micro é o primeiro produto de hardware da OpenAI, lançado em edição limitada por cerca de R$ 1.200. O teclado para programadores se esgotou em 24 horas.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/teclado-da-openai-para-programadores-esgota-em-24-horas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI refashiona Codex como novo ChatGPT, questionando futuro do chat",
+      "resumo": "OpenAI reformulou o Codex como o novo ChatGPT. Análise questiona se a empresa está abandonando a categoria de chat que ajudou a pioneerar.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "DoorDash abre beta de ferramenta CLI para agentes de IA fazerem pedidos",
+      "resumo": "DoorDash lançou dd-cli, uma ferramenta de linha de comando que permite desenvolvedores e agentes de IA buscar lojas, montar carrinhos e fazer pedidos pelo terminal. Marca evolução no software projetado para agentes de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Roblox lança recurso de criação de jogos com IA em aplicativo móvel",
+      "resumo": "O novo recurso 'Build' do Roblox permite gerar jogos básicos usando apenas um prompt de texto. Democratiza a criação de games para usuários sem conhecimento técnico.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "China lança Kimi K3, maior modelo de IA aberto do mundo",
+      "resumo": "Startup chinesa Moonshot apresentou o Kimi K3, o maior modelo de IA aberto do mundo. A realização reduz a distância tecnológica entre China e principais empresas de IA dos EUA.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/17/inteligencia-artificial/o-maior-modelo-aberto-de-ia-do-mundo-acaba-de-ser-lancado/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Apple processa OpenAI por roubo de segredos comerciais",
+      "resumo": "Apple entrou em ação judicial contra OpenAI acusando-a de roubo de segredos comerciais. Análise sugere que há um funcionário culpado específico, mas a ação parece mais uma reação geral.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "IPO de fabricante de chips causa pânico em ações de IA",
+      "resumo": "O IPO da CXMT gerou temores de problemas de liquidez em mercado já frágil devido às valorizações exageradas do setor de tecnologia. Ações de IA desabaram após o evento.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/cxmt-como-ipo-da-fabricante-de-chips-levou-a-novo-temor-em-ia-e-fez-acoes-desabarem/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Grupo Vamos registra receita de R$ 1,55 bi no segundo trimestre",
+      "resumo": "Grupo Vamos (VAMO3) reportou receita de R$ 1,55 bilhão no segundo trimestre, alta anual de 10,1%. No segmento de locação, receita avançou 7,5% para R$ 1,08 bilhão.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/grupo-vamos-vamo3-registra-receita-de-r-155-bi-no-2o-tri-alta-anual-de-101/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "FIIs",
+      "titulo": "Telefônica Brasil anuncia R$ 500 milhões em proventos",
+      "resumo": "Telefônica Brasil (VIVT3) anunciou distribuição de R$ 500 milhões em proventos, com pagamento previsto até 30 de abril de 2027.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/telefonica-brasil-vivt3-anuncia-r-500-mi-em-proventos-veja-quem-tem-direito/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "EUA confirmam tarifa de 25% sobre produtos brasileiros",
+      "resumo": "Governo americano oficializou tarifa adicional de 25% sobre importações do Brasil após investigação comercial. Medida traz exceções e preocupa exportadores brasileiros.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78136/eua-confirmam-tarifa-de-25-sobre-produtos-brasileiros/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "MEIs representam 78% das novas empresas abertas no Brasil em 2026",
+      "resumo": "Dados do Sebrae e Receita Federal revelam que Microempreendedores Individuais (MEIs) representaram 78% das empresas abertas em 2026. Dados mostram força do empreendedorismo brasileiro.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78127/meis-78-das-novas-empresas-no-brasil-em-2026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "eSocial",
+      "titulo": "FGTS Digital amplia fiscalização com DET; empresas devem monitorar notificações",
+      "resumo": "FGTS Digital expandiu fiscalização via Domicílio Eletrônico Trabalhista (DET). Empresas precisam monitorar notificações para evitar perda de prazos e penalidades.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78123/fgts-digital-e-det-nao-ignore-notificacoes-evite-riscos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Federal alerta sobre compensações tributárias irregulares",
+      "resumo": "Receita Federal alertou contribuintes sobre créditos irregulares em compensações tributárias. Recomenda retificação de pedidos para evitar autuações fiscais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78126/receita-federal-corrija-compensacoes-tributarias-irregulares/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "BC lança sistema de duplicatas escriturais para baratear antecipação de recebíveis",
+      "resumo": "Banco Central lançou sistema para registrar duplicatas escriturais, documento digital que comprova valores a receber. Medida busca ampliar concorrência e reduzir custos em mercado trilionário.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/17/bc-lanca-sistema-que-pode-baratear-juros-em-mercado-trilionario-de-antecipacao-de-vendas-a-prazo-para-empresas/",
+      "idioma_original": "pt"
+    }
+  ]
+}
