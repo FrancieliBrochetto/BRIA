@@ -4,35 +4,17 @@
     {
       "tema": "IA & Tech",
       "subtema": "Gemini",
-      "titulo": "Google Vids permite criar vídeos com avatares de IA personalizados",
-      "resumo": "Google adicionou avatares de IA personalizados ao Vids, permitindo que usuários criem vídeos estrelando uma versão digital de si mesmos. A ferramenta integra capacidades do Gemini Omni para gerar e editar vídeos a partir de prompts e imagens de referência.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "AI Mode do Google permite interagir com aplicativos selecionados",
-      "resumo": "Google expande seu AI Mode além de respostas a perguntas para completar tarefas em aplicativos que os usuários usam regularmente. A atualização marca um avanço na integração de IA com ferramentas do dia a dia.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI lança teclado Codex Micro que esgota em 24 horas",
-      "resumo": "O Codex Micro é o primeiro produto de hardware da OpenAI, lançado em edição limitada por cerca de R$ 1.200. O teclado para programadores se esgotou em 24 horas.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/teclado-da-openai-para-programadores-esgota-em-24-horas/",
+      "titulo": "Google enfrenta dificuldades para superar rivais com novo Gemini",
+      "resumo": "Novo modelo de IA do Google demora a ser lançado, revelando desafios internos da empresa para competir com rivais cada vez mais avançados no mercado de inteligência artificial.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/17/inteligencia-artificial/google-tem-dificuldades-para-superar-rivais-com-novo-gemini/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "OpenAI refashiona Codex como novo ChatGPT, questionando futuro do chat",
-      "resumo": "OpenAI reformulou o Codex como o novo ChatGPT. Análise questiona se a empresa está abandonando a categoria de chat que ajudou a pioneerar.",
+      "titulo": "OpenAI transforma ChatGPT na nova versão do Codex",
+      "resumo": "OpenAI reformulou o Codex como o novo ChatGPT, marcando uma mudança estratégica sobre o posicionamento da empresa na categoria de chat que ajudou a pioneir.",
       "fonte": "Stratechery",
       "url_original": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
       "idioma_original": "en"
@@ -40,35 +22,53 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "DoorDash abre beta de ferramenta CLI para agentes de IA fazerem pedidos",
-      "resumo": "DoorDash lançou dd-cli, uma ferramenta de linha de comando que permite desenvolvedores e agentes de IA buscar lojas, montar carrinhos e fazer pedidos pelo terminal. Marca evolução no software projetado para agentes de IA.",
+      "titulo": "Google AI Mode passa a interagir com aplicativos selecionados",
+      "resumo": "Google expande seu AI Mode além de respostas a perguntas, permitindo que os usuários completem tarefas através de integração com aplicativos que usam regularmente.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "url_original": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Roblox lança recurso de criação de jogos com IA em aplicativo móvel",
-      "resumo": "O novo recurso 'Build' do Roblox permite gerar jogos básicos usando apenas um prompt de texto. Democratiza a criação de games para usuários sem conhecimento técnico.",
+      "titulo": "Google Vids adiciona avatares de IA personalizados para criação de vídeos",
+      "resumo": "Google lança avatares de IA personalizados no Google Vids que permitem usuários criar vídeos estrelados por uma versão digital de si mesmos, com ferramentas alimentadas por Gemini Omni.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Roblox lança recurso de criação de games com IA em aplicativo mobile",
+      "resumo": "Novo recurso 'Build' do Roblox permite usuários gerar games básicos usando apenas um prompt de texto, democratizando a criação de jogos.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "China lança Kimi K3, maior modelo de IA aberto do mundo",
-      "resumo": "Startup chinesa Moonshot apresentou o Kimi K3, o maior modelo de IA aberto do mundo. A realização reduz a distância tecnológica entre China e principais empresas de IA dos EUA.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/07/17/inteligencia-artificial/o-maior-modelo-aberto-de-ia-do-mundo-acaba-de-ser-lancado/",
+      "subtema": "Automação",
+      "titulo": "Patreon bloqueia ativamente bots de IA em vez de apenas solicitar",
+      "resumo": "Patreon reforça defesas contra scraping de IA ao trabalhar com Cloudflare para bloquear bots que treinam modelos de IA no conteúdo dos criadores sem permissão.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Moonshot lança Kimi K3, maior modelo de IA de código aberto do mundo",
+      "resumo": "Startup chinesa Moonshot lançou o Kimi K3 com 2,8 trilhões de parâmetros, apresentado como o maior modelo de IA de código aberto do mundo, aumentando pressão sobre OpenAI e Anthropic.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/07/17/china-lanca-maior-ia-china-lanca-maior-ia-de-codigo-aberto-do-mundo-e-aumenta-pressao-sobre-openai-e-anthropic.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Claude",
+      "subtema": "ChatGPT",
       "titulo": "Apple processa OpenAI por roubo de segredos comerciais",
-      "resumo": "Apple entrou em ação judicial contra OpenAI acusando-a de roubo de segredos comerciais. Análise sugere que há um funcionário culpado específico, mas a ação parece mais uma reação geral.",
+      "resumo": "Apple entrou com ação judicial contra OpenAI acusando roubo de segredos comerciais, embora a empresa aparentemente esteja canalizando frustração maior com questões mais amplas.",
       "fonte": "Stratechery",
       "url_original": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
       "idioma_original": "en"
@@ -76,73 +76,73 @@
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "IPO de fabricante de chips causa pânico em ações de IA",
-      "resumo": "O IPO da CXMT gerou temores de problemas de liquidez em mercado já frágil devido às valorizações exageradas do setor de tecnologia. Ações de IA desabaram após o evento.",
+      "titulo": "Ações da Netflix caem após resultado com projeção de desaceleração",
+      "resumo": "Netflix divulgou receita projetada de US$ 12,9 bilhões para o trimestre atual e lucro de 82 centavos por ação, ambos abaixo das expectativas de analistas, desencadeando queda nos papéis.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/cxmt-como-ipo-da-fabricante-de-chips-levou-a-novo-temor-em-ia-e-fez-acoes-desabarem/",
+      "url_original": "https://www.infomoney.com.br/mercados/acoes-da-netflix-tombam-apos-resultado-com-cenario-de-desaceleracao-do-crescimento/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Grupo Vamos registra receita de R$ 1,55 bi no segundo trimestre",
-      "resumo": "Grupo Vamos (VAMO3) reportou receita de R$ 1,55 bilhão no segundo trimestre, alta anual de 10,1%. No segmento de locação, receita avançou 7,5% para R$ 1,08 bilhão.",
+      "titulo": "Volvo abandona metas de crescimento em vendas pela desaceleração na China",
+      "resumo": "Montadora sueca Volvo cancelou metas de crescimento em vendas devido à retração na China, impactando lucro do segundo trimestre com margens menores e descontos agressivos.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/grupo-vamos-vamo3-registra-receita-de-r-155-bi-no-2o-tri-alta-anual-de-101/",
+      "url_original": "https://www.infomoney.com.br/mercados/volvo-abandona-metas-de-crescimento-em-vendas-devido-a-desaceleracao-na-china/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
-      "subtema": "FIIs",
-      "titulo": "Telefônica Brasil anuncia R$ 500 milhões em proventos",
-      "resumo": "Telefônica Brasil (VIVT3) anunciou distribuição de R$ 500 milhões em proventos, com pagamento previsto até 30 de abril de 2027.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/telefonica-brasil-vivt3-anuncia-r-500-mi-em-proventos-veja-quem-tem-direito/",
+      "subtema": "Commodities",
+      "titulo": "Petróleo sobe e registra maior alta semanal desde abril por tensões no Oriente Médio",
+      "resumo": "Barril Brent avança 2,86% e cotava US$ 86,64, acumulando ganhos significativos na semana em razão das tensões geopolíticas no Oriente Médio.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/17/precos-petroleo.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
-      "subtema": "Câmbio",
-      "titulo": "EUA confirmam tarifa de 25% sobre produtos brasileiros",
-      "resumo": "Governo americano oficializou tarifa adicional de 25% sobre importações do Brasil após investigação comercial. Medida traz exceções e preocupa exportadores brasileiros.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78136/eua-confirmam-tarifa-de-25-sobre-produtos-brasileiros/",
+      "subtema": "Ações",
+      "titulo": "Índice de Atividade Econômica (IBC-Br) cresce marginalmente 0,1% em maio",
+      "resumo": "IBC-Br divulgado pelo Banco Central mostrou expansão marginal de 0,1% em maio na comparação mensal com ajuste sazonal, indicando atividade econômica praticamente estável.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/17/previa-do-pib-do-banco-central-mostra-crescimento-marginal-de-01percent-em-maio.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "MEIs representam 78% das novas empresas abertas no Brasil em 2026",
-      "resumo": "Dados do Sebrae e Receita Federal revelam que Microempreendedores Individuais (MEIs) representaram 78% das empresas abertas em 2026. Dados mostram força do empreendedorismo brasileiro.",
+      "subtema": "ICMS",
+      "titulo": "ICMS: 8 sinais de alerta antes de utilizar créditos tributários",
+      "resumo": "Operação que investiga esquema de R$ 3,8 bilhões reforça importância de verificar origem e legalidade dos créditos de ICMS antes de utilizá-los nas operações.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78127/meis-78-das-novas-empresas-no-brasil-em-2026/",
+      "url_original": "https://www.contabeis.com.br/noticias/78155/icms-veja-8-sinais-de-alerta-antes-de-utilizar-creditos-tributarios/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "eSocial",
-      "titulo": "FGTS Digital amplia fiscalização com DET; empresas devem monitorar notificações",
-      "resumo": "FGTS Digital expandiu fiscalização via Domicílio Eletrônico Trabalhista (DET). Empresas precisam monitorar notificações para evitar perda de prazos e penalidades.",
+      "subtema": "Nota Fiscal",
+      "titulo": "NFSe: novas regras para imóveis são adiadas",
+      "resumo": "Comitê Gestor da NFSe adiou mudanças da NT 009 para locação e arrendamento de imóveis que não entrarão em vigor em agosto conforme previamente previsto.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78123/fgts-digital-e-det-nao-ignore-notificacoes-evite-riscos/",
+      "url_original": "https://www.contabeis.com.br/noticias/78156/nfse-novas-regras-para-imoveis-sao-adiadas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "CVM e Receita Federal integrarão cadastros de CNPJ",
+      "resumo": "Acordo de cooperação permite compartilhamento de dados cadastrais e integração de procedimentos relacionados ao CNPJ de participantes registrados na CVM.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78153/cvm-e-receita-federal-integrarao-cadastros-de-cnpj/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "Receita Federal alerta sobre compensações tributárias irregulares",
-      "resumo": "Receita Federal alertou contribuintes sobre créditos irregulares em compensações tributárias. Recomenda retificação de pedidos para evitar autuações fiscais.",
+      "titulo": "Receita Federal divulga nova classificação do Receita Sintonia",
+      "resumo": "Novo ciclo trimestral do Programa Receita Sintonia atualiza classificação de mais de 10,8 milhões de empresas e pode garantir benefícios fiscais aos contribuintes melhor avaliados.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78126/receita-federal-corrija-compensacoes-tributarias-irregulares/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "BC lança sistema de duplicatas escriturais para baratear antecipação de recebíveis",
-      "resumo": "Banco Central lançou sistema para registrar duplicatas escriturais, documento digital que comprova valores a receber. Medida busca ampliar concorrência e reduzir custos em mercado trilionário.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/07/17/bc-lanca-sistema-que-pode-baratear-juros-em-mercado-trilionario-de-antecipacao-de-vendas-a-prazo-para-empresas/",
+      "url_original": "https://www.contabeis.com.br/noticias/78151/receita-federal-divulga-nova-classificacao-do-receita-sintonia/",
       "idioma_original": "pt"
     }
   ]
