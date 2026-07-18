@@ -1,0 +1,176 @@
+{
+  "data": "2026-07-18",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Evoto AI acelera edição profissional de imagens com inteligência artificial",
+      "resumo": "Ferramenta baseada em IA automatiza retoques de pele, correções de cor e seleção de fotos em software de edição profissional. Reduz significativamente o tempo de pós-processamento em fotografia.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/publieditoriais/evoto-ai-usa-ia-para-agilizar-edicao-profissional-de-imagens/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI refashiona ChatGPT como super app, integrando funcionalidades do Codex",
+      "resumo": "OpenAI transforma ChatGPT ao incorporar capacidades do Codex, questionando o futuro da categoria de chat que a empresa pioneirou. Movimento estratégico redefine o posicionamento do produto no mercado.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Apple processa OpenAI por roubo de segredos comerciais",
+      "resumo": "Apple entrou com ação judicial contra OpenAI acusando roubo de propriedade intelectual. Ação envolve pelo menos um funcionário da Apple que teria sido responsável pela divulgação.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Gemini 3.5 tem lançamento adiado",
+      "resumo": "Versão 3.5 do Gemini, modelo de IA do Google, tem sua liberação postergada. Informação faz parte das atualizações semanais sobre avanços em modelos de linguagem.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-07-17",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude ganha extensão Fable e nova funcionalidade Code Browser",
+      "resumo": "Anthropic expande capacidades do Claude com navegador de código integrado e extensão Fable. Atualizações melhoram produtividade em tarefas de programação e análise de código.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-07-13",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Moonshot Kimi K3 reduz lacuna com modelos de fronteira",
+      "resumo": "Novo modelo chinês Kimi K3, da Moonshot AI, oferece eficiência, baixo custo e forte desempenho, intensificando competição sino-americana no setor de IA. Batizado em homenagem ao Pink Floyd.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/global/ia-batizada-em-homenagem-ao-pink-floyd-faz-mercado-viver-novo-choque-deepseek/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Databricks atinge avaliação de US$ 188 bilhões consolidando liderança em IA",
+      "resumo": "Startup de dados reforça posição como empresa favorita para segunda onda de IA. Publicou pesquisa sobre economia de custos com modelos open-weight para programação.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Governo Trump amplia controle sobre lançamento de modelos de IA de fronteira",
+      "resumo": "Casa Branca toma medidas para supervisionar e autorizar lançamento de modelos avançados de inteligência artificial. Movimento centraliza decisões sobre quais empresas podem disponibilizar IA de ponta.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/17/pro/casa-branca-passa-a-controlar-acesso-a-modelos-de-ia-de-ponta/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Capitalista de risco Neil Rimer prevê redistribuição de riqueza gerada por IA",
+      "resumo": "Co-fundador da Index Ventures prognóstica que a riqueza histórica gerada por IA em Silicon Valley precisará ser redistribuída, voluntária ou involuntariamente. Reflexão sobre sustentabilidade do modelo econômico.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Agility Robotics abre novo centro de treinamento de robôs em Fremont",
+      "resumo": "Empresa de robótica estabelece instalação de pesquisa e desenvolvimento em Fremont, Califórnia, perto da Tesla. Reforça presença estratégica no vale do Silício para robôs humanoides Digit.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Tarifaço perde força e mercado volta atenção para balanços trimestrais",
+      "resumo": "Produtos brasileiros principais — petróleo, café, carne, aviões e celulose — ficaram fora da cobrança de tarifas adicionais dos EUA. Mercado refoca em resultados corporativos como direcionador de investimentos.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/tarifaco-perde-forca-e-balancos-assumem-o-foco-vejam-os-destaques-da-semana/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Guerra EUA-Irã intensifica com petróleo atingindo maior nível em mais de um mês",
+      "resumo": "Sétima noite consecutiva de bombardeios americanos contra alvos militares iranianos após rompimento de cessar-fogo. Confronto reduz oferta global e eleva preço do crude.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/mundo/noticia/2026/07/18/guerra-eua-ira-ataques-golfo-petroleo.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Economia brasileira deve crescer 2,3% mas custos e crédito seguem pressionados",
+      "resumo": "Ministério da Fazenda mantém projeção de PIB em 2,3% para 2026 com inflação em alta. Cenário desafiador para empresas com custos elevados e acesso restrito a crédito.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78165/economia-deve-crescer-2-3-mas-custos-e-credito-seguem-pressionados/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Poupança perde recursos em contas de R$ 10 mil a R$ 50 mil em 2026",
+      "resumo": "Resgates nos primeiros quatro meses do ano concentraram-se em contas de médio porte enquanto faixas de maior patrimônio continuaram recebendo aportes. Sinal de esvaziamento da poupança entre classe média.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/quem-esta-fugindo-da-poupanca-em-2026-nao-sao-as-contas-mais-gordas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária: impacto em incentivos fiscais regionais e competitividade",
+      "resumo": "Substituição do ICMS pelo IBS na reforma pode afetar competitividade de regiões com incentivos fiscais. Mudança impacta desenvolvimento regional e dinâmica de atração de investimentos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78172/reforma-tributaria-impacto-em-incentivos-fiscais-regionais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Federal atualiza declarações para entidades beneficentes e sem fins lucrativos",
+      "resumo": "Novos modelos de declarações sobre doações e dispensa de IRPJ, CSLL, Cofins e PIS/Pasep publicados para organizações filantrópicas. Simplifica compliance de entidades do terceiro setor.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78171/receita-atualiza-declaracoes-para-entidades-beneficentes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Senado amplia crédito FGTS para Santas Casas até 2030",
+      "resumo": "Projeto aprovado prorroga acesso a recursos do FGTS para financiamentos em hospitais filantrópicos e entidades do SUS. Medida amplia disponibilidade de capital para setor de saúde.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78170/fgts-senado-amplia-credito-para-santas-casas-ate-2030/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "BNDES lança ferramenta para comparar bancos e taxas de crédito a pequenas empresas",
+      "resumo": "Plataforma permite comparação de instituições, juros e aprovações do BNDES Crédito Pequenas Empresas. Ferramenta facilita acesso a financiamento de capital de giro para MPEs.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78163/bndes-credito-pequenas-empresas-compare-bancos-e-taxas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Brasil analisa adoção de Lei de Reciprocidade tarifária contra EUA",
+      "resumo": "Governo estuda resposta à tarifa adicional de 25% dos EUA sobre produtos brasileiros. Lei de Reciprocidade traz riscos e ganhos potenciais para economia brasileira que precisam ser avaliados.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/18/tarifaco-os-riscos-e-ganhos-de-o-brasil-adotar-a-reciprocidade.ghtml",
+      "idioma_original": "pt"
+    }
+  ]
+}
