@@ -4,53 +4,89 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Hiperautomação: ganhos de eficiência em processos integrados",
-      "resumo": "Os principais ganhos de hiperautomação surgem quando organizações eliminam silos entre áreas e implementam processos integrados. A tecnologia amplia a eficiência operacional ao conectar diferentes departamentos.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/07/19/colunistas/hiperautomacao-onde-estao-os-maiores-ganhos-de-eficiencia/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Generativa - Modelos",
-      "titulo": "Moonshot Kimi K3 reduz distância com modelos de fronteira",
-      "resumo": "A empresa chinesa Moonshot AI lançou nova versão do modelo Kimi, fechando a lacuna com modelos de IA frontier. O avanço reforça competição global em IA generativa.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/moonshot-kimi-k3-closes-the-frontier-gap",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI refashiona Codex como novo ChatGPT",
-      "resumo": "OpenAI transformou Codex no novo ChatGPT, consolidando uma 'super app'. A mudança representa uma possível reorientação estratégica da empresa na categoria chat que ajudou a criar.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Generativa - Modelos",
-      "titulo": "Databricks atinge avaliação de $188 bilhões",
-      "resumo": "Databricks consolidou posição como empresa favorita de IA ao atingir valuation de $188 bilhões. Publicou pesquisa mostrando economia de custos com modelos de IA de peso aberto para codificação.",
-      "fonte": "TechCrunch",
-      "url_original": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Generativa - Modelos",
-      "titulo": "Evoto AI acelera edição profissional com inteligência artificial",
-      "resumo": "Software de fotografia Evoto AI usa IA para agilizar retoques de pele, correções de cor e seleção de fotos. Ferramentas inteligentes tornam processos de edição profissional significativamente mais rápidos.",
+      "titulo": "Evoto AI acelera edição profissional de imagens com inteligência artificial",
+      "resumo": "Software de fotografia com IA automatiza retoques de pele, correções de cor e seleção de fotos, tornando a edição profissional mais rápida e eficiente.",
       "fonte": "Tecnoblog",
       "url_original": "https://tecnoblog.net/publieditoriais/evoto-ai-usa-ia-para-agilizar-edicao-profissional-de-imagens/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Generativa - Modelos",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI reformula ChatGPT como super app baseado em Codex",
+      "resumo": "OpenAI transformou o Codex em novo ChatGPT, sinalizando possível mudança de foco da empresa no segmento de chat que pioneirou.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Moonshot lança Kimi K3 e reduz diferença com modelos de IA de fronteira",
+      "resumo": "Empresa chinesa Moonshot AI lançou nova versão do modelo Kimi K3, fechando a lacuna com modelos de ponta do mercado.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/moonshot-kimi-k3-closes-the-frontier-gap",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude lança ferramenta de navegador de código e extensão Fable",
+      "resumo": "Anthropic expandiu capacidades do Claude com novo navegador de código e extensão Fable para melhorar fluxos de trabalho.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-07-13",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "OpenAI lança controlador de agentes IA por US$ 230",
+      "resumo": "Novo controlador de agentes IA da OpenAI oferece interface física para controle de tarefas automatizadas com preço de US$ 230.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/openai-new-230-ai-agent-control-pad",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "DeepSeek planeja IPO e amplia oferta de mercados de computação",
+      "resumo": "Startup de IA DeepSeek anuncia planos de IPO enquanto Kalshi expande mercados de computação para usuários de IA.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-07-15",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Nonprofit Current AI constrói web descentralizada de IA acessível para todos",
+      "resumo": "Organização sem fins lucrativos Current AI trabalha em infraestrutura de IA inclusiva que busca deixar nenhuma cultura para trás.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Dell migra foco para infraestrutura de IA como principal negócio",
+      "resumo": "Dell transformou infraestrutura de IA em seu principal negócio, aproveitando demanda crescente e vantagem da manufatura local no Brasil.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/alem-do-pc-como-a-dell-fez-da-infraestrutura-de-ia-seu-principal-negocio/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "IA transforma contabilidade automatizando tarefas mas mantém papel do contador",
+      "resumo": "Inteligência artificial redefine profissão contábil automatizando operações e fortalecendo consultoria estratégica, especialmente na Reforma Tributária.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78146/ia-transforma-a-contabilidade-mas-nao-substitui-o-contador/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
       "titulo": "Apple processa OpenAI por roubo de segredos comerciais",
-      "resumo": "Apple moveu ação judicial contra OpenAI acusando roubo de segredos comerciais. Analistas apontam que ação parece represália, com um funcionário culpado identificado.",
+      "resumo": "Apple entra com processo contra OpenAI acusando roubo de propriedade intelectual; especialistas apontam possível reação emocional da empresa.",
       "fonte": "Stratechery",
       "url_original": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
       "idioma_original": "en"
@@ -58,46 +94,73 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Metade das startups que demitiram por IA planeja recontratar até 2027",
-      "resumo": "Consultoria relata que IA ainda não está madura para substituir experiência humana. Empresas que cortaram cargos antecipadamente estão recontrando talentos e arcando com custos.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/business/startups-metade-das-empresas-que-demitiram-por-ia-vai-recontratar-ate-2027/",
+      "titulo": "IBM enfrenta problemas com mainframe e integração de IA",
+      "resumo": "IBM apresenta resultados preliminares que impactaram mercado de software; empresa enfrenta desafios para integrar IA à franquia de mainframe.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Demis Hassabis estabelece cronograma para supervisão de IA",
+      "resumo": "CEO do DeepMind propõe relógio para implementação de supervisão em sistemas de IA conforme tecnologia avança.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/demis-hassabis-puts-a-clock-on-ai-oversight",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Economistas e pesquisadores calculam impacto de IA no mercado de trabalho",
+      "resumo": "Estudos analisam cronograma de deslocamento de empregos causado pela inteligência artificial, mapeando setores e períodos críticos.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/economists-researchers-put-ai-job-shock-on-the-clock",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Venture capitalist Neil Rimer prevê redistribuição de riqueza gerada por IA",
+      "resumo": "Co-fundador da Index Ventures acredita que riqueza histórica gerada por IA em Silicon Valley terá que ser redistribuída.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária já impacta escritórios, mas 56% dos contadores sem plano",
+      "resumo": "Clientes já cobram orientação sobre reforma, mas maioria dos profissionais está em fase inicial de preparação para mudanças.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78144/reforma-tributaria-ja-impacta-escritorios-mas-56-dos-contadores-ainda-nao-tem-plano/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Reforma tributária transforma gestão na Construção Civil",
-      "resumo": "Novas regras tributárias alteram profundamente a forma como empresas de construção civil gerenciam negócios. Mudança técnica impactará operações e compliance de todo setor.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/business/mais-notas-menos-improviso-tributaria-faz-verdadeira-reforma-na-construcao-civil/",
+      "titulo": "Reforma Tributária exige adaptação além do setor fiscal",
+      "resumo": "41% das empresas brasileiras ainda têm dúvidas sobre adequação à reforma; mudanças exigem revisão de processos e sistemas corporativos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78134/reforma-tributaria-exige-adaptacao-alem-do-setor-fiscal/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "IA e Contabilidade",
-      "titulo": "IA transforma contabilidade mas não substitui contador",
-      "resumo": "IA redefine papel do contador no Brasil ao automatizar tarefas operacionais. Profissão evolui para consultoria estratégica, essencial na Reforma Tributária em implementação.",
+      "subtema": "INSS",
+      "titulo": "INSS permite contribuição reduzida de 5% para categorias específicas",
+      "resumo": "Modalidades simplificadas permitem recolhimento reduzido para MEIs, facultativos e pessoas de baixa renda.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78146/ia-transforma-a-contabilidade-mas-nao-substitui-o-contador/",
+      "url_original": "https://www.contabeis.com.br/noticias/78145/inss-permite-contribuicao-de-5-veja-quem-pode-pagar-menos/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Imposto Seletivo: produtos tributados e impactos industriais",
-      "resumo": "Governo federal anuncia uso de Lei de Reciprocidade após tarifa americana de 25%. Norma afetará estrutura de importações e estratégia de empresas nacionais.",
+      "subtema": "Leis Novas",
+      "titulo": "Burnout gera mais de 22 mil ações trabalhistas em 10 anos",
+      "resumo": "Levantamento mostra crescimento de processos por esgotamento profissional, impactando empresas financeira e reputacionalmente.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78157/imposto-seletivo-produtos-tributados-e-impactos-para-a-industria/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação Fiscal",
-      "titulo": "Receita Federal intensifica fiscalização eletrônica em 2026",
-      "resumo": "Cruzamento automático de dados amplia risco de autuações fiscais. Erros comuns em conformidade aumentam vulnerabilidade de empresas à fiscalização eletrônica.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78133/receita-intensifica-fiscalizacao-eletronica-em-2026/",
+      "url_original": "https://www.contabeis.com.br/noticias/78159/burnout-gera-mais-de-22-mil-acoes-trabalhistas-em-10-anos/",
       "idioma_original": "pt"
     }
   ]
