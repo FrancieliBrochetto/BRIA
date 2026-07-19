@@ -1,0 +1,104 @@
+{
+  "data": "2026-07-19",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Hiperautomação: ganhos de eficiência em processos integrados",
+      "resumo": "Os principais ganhos de hiperautomação surgem quando organizações eliminam silos entre áreas e implementam processos integrados. A tecnologia amplia a eficiência operacional ao conectar diferentes departamentos.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/19/colunistas/hiperautomacao-onde-estao-os-maiores-ganhos-de-eficiencia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Generativa - Modelos",
+      "titulo": "Moonshot Kimi K3 reduz distância com modelos de fronteira",
+      "resumo": "A empresa chinesa Moonshot AI lançou nova versão do modelo Kimi, fechando a lacuna com modelos de IA frontier. O avanço reforça competição global em IA generativa.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/moonshot-kimi-k3-closes-the-frontier-gap",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI refashiona Codex como novo ChatGPT",
+      "resumo": "OpenAI transformou Codex no novo ChatGPT, consolidando uma 'super app'. A mudança representa uma possível reorientação estratégica da empresa na categoria chat que ajudou a criar.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Generativa - Modelos",
+      "titulo": "Databricks atinge avaliação de $188 bilhões",
+      "resumo": "Databricks consolidou posição como empresa favorita de IA ao atingir valuation de $188 bilhões. Publicou pesquisa mostrando economia de custos com modelos de IA de peso aberto para codificação.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Generativa - Modelos",
+      "titulo": "Evoto AI acelera edição profissional com inteligência artificial",
+      "resumo": "Software de fotografia Evoto AI usa IA para agilizar retoques de pele, correções de cor e seleção de fotos. Ferramentas inteligentes tornam processos de edição profissional significativamente mais rápidos.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/publieditoriais/evoto-ai-usa-ia-para-agilizar-edicao-profissional-de-imagens/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Generativa - Modelos",
+      "titulo": "Apple processa OpenAI por roubo de segredos comerciais",
+      "resumo": "Apple moveu ação judicial contra OpenAI acusando roubo de segredos comerciais. Analistas apontam que ação parece represália, com um funcionário culpado identificado.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Metade das startups que demitiram por IA planeja recontratar até 2027",
+      "resumo": "Consultoria relata que IA ainda não está madura para substituir experiência humana. Empresas que cortaram cargos antecipadamente estão recontrando talentos e arcando com custos.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/startups-metade-das-empresas-que-demitiram-por-ia-vai-recontratar-ate-2027/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma tributária transforma gestão na Construção Civil",
+      "resumo": "Novas regras tributárias alteram profundamente a forma como empresas de construção civil gerenciam negócios. Mudança técnica impactará operações e compliance de todo setor.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/mais-notas-menos-improviso-tributaria-faz-verdadeira-reforma-na-construcao-civil/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "IA e Contabilidade",
+      "titulo": "IA transforma contabilidade mas não substitui contador",
+      "resumo": "IA redefine papel do contador no Brasil ao automatizar tarefas operacionais. Profissão evolui para consultoria estratégica, essencial na Reforma Tributária em implementação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78146/ia-transforma-a-contabilidade-mas-nao-substitui-o-contador/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Imposto Seletivo: produtos tributados e impactos industriais",
+      "resumo": "Governo federal anuncia uso de Lei de Reciprocidade após tarifa americana de 25%. Norma afetará estrutura de importações e estratégia de empresas nacionais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78157/imposto-seletivo-produtos-tributados-e-impactos-para-a-industria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Fiscal",
+      "titulo": "Receita Federal intensifica fiscalização eletrônica em 2026",
+      "resumo": "Cruzamento automático de dados amplia risco de autuações fiscais. Erros comuns em conformidade aumentam vulnerabilidade de empresas à fiscalização eletrônica.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78133/receita-intensifica-fiscalizacao-eletronica-em-2026/",
+      "idioma_original": "pt"
+    }
+  ]
+}
