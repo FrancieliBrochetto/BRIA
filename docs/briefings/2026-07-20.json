@@ -1,0 +1,185 @@
+{
+  "data": "2026-07-20",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google cria chip de IA secreto para potencializar Gemini",
+      "resumo": "Google desenvolveu novo hardware de IA integrado que promete ampliar o desempenho dos modelos Gemini. Chip secreto visa aumentar capacidades de processamento e eficiência da plataforma.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/20/inteligencia-artificial/google-cria-chip-de-ia-secreto-para-deixar-gemini-mais-poderoso/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI refashiona Codex como novo ChatGPT",
+      "resumo": "OpenAI transformou Codex em base para a nova versão do ChatGPT, gerando questões sobre abandono da categoria chat. Movimento sinaliza evolução estratégica da plataforma de IA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Ação judicial da Apple desafia planos de hardware do OpenAI",
+      "resumo": "Apple processou OpenAI por roubo de segredos comerciais, levantando questões sobre impacto nos planos de hardware e IPO da empresa. Disputa jurídica pode frear expansão da startup.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "YouTube restringe monetização de vídeos com IA de baixa qualidade",
+      "resumo": "YouTube atualizou políticas de monetização para bloquear ad revenue em vídeos AI-gerados de baixa qualidade. Medida busca melhorar qualidade do conteúdo na plataforma.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Organização sem fins lucrativos busca criar 'Web da IA' acessível para todos",
+      "resumo": "Current AI, nonprofit, desenvolve infraestrutura de IA inclusiva sem deixar culturas para trás. Avanços cobrem dispositivos, chat de IA e foco em democratização tecnológica.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Diretor Christopher Nolan critica IA como 'Cavalo de Troia' óbvio",
+      "resumo": "Cineasta compara IA a estratégia grega de Troia, alertando sobre riscos da tecnologia. Crítica reflete preocupações crescentes na indústria criativa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "IA detecta mosquitos perigosos pelo som das asas",
+      "resumo": "Dispositivo portátil criado na Austrália usa IA para identificar mosquitos transmissores de doenças. Tecnologia pode ampliar vigilância e controle antecipado em áreas remotas.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/20/ciencia-e-espaco/esta-ia-detecta-mosquitos-perigosos-pelo-som-de-suas-asas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Economistas e pesquisadores estimam impacto do desemprego causado por IA",
+      "resumo": "Estudo de economistas quantifica risco de perda de empregos pela IA em timeline específico. Pesquisa contribui para debate sobre transição trabalhista.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/economists-researchers-put-ai-job-shock-on-the-clock",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Demis Hassabis estabelece prazo para supervisão e governança de IA",
+      "resumo": "Líder de DeepMind propõe cronograma para implementação de mecanismos de oversight de IA. Movimento sinaliza preocupação com regulamentação responsável.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/demis-hassabis-puts-a-clock-on-ai-oversight",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Estratégia de política da IA frente a modelos chineses em ascensão",
+      "resumo": "Análise aponta que laboratorios norte-americanos mantêm vantagem apesar da concorrência chinesa. Sugere foco em fortalecer alternativas abertas dos EUA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "IBM enfrenta desafios em resultados e modernização de mainframes",
+      "resumo": "IBM divulgou resultados preliminares abaixo do esperado impactando mercado de software. Empresa enfrenta pressão na franquia de mainframes e integração de IA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Modelo Kimi K3 de Moonshot reduz lacuna com sistemas frontier",
+      "resumo": "Kimi K3 demonstra avanço significativo em capacidades de IA competindo com modelos frontier leaders. Progresso sinaliza competição crescente no mercado.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/moonshot-kimi-k3-closes-the-frontier-gap",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "OpenAI lança controle pad de agentes de IA por $230",
+      "resumo": "Novo dispositivo da OpenAI permite controle avançado de agentes de IA. Ferramenta de $230 visa facilitar interação com sistemas de IA complexos.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/openai-new-230-ai-agent-control-pad",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Anthropic mantém Fable após descontinuar modelo de assinatura",
+      "resumo": "Plataforma Fable de Anthropic sobrevive a reestruturação de modelos de subscriçao. Serviço continua disponível mesmo após mudanças estratégicas.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/anthropic-fable-survives-the-subscription-axe",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "STF vai decidir sobre manutenção de qualidade de segurado do INSS",
+      "resumo": "Supremo reconheceu repercussão geral e suspendeu processos sobre manutenção de qualidade para contribuições inferiores. Decisão afetará todo o país.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78186/inss-stf-vai-decidir-se-contribuicao-abaixo-mantem-qualidade-do-segurado/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "RFB muda regra de julgamento de recursos de devedores contumazes",
+      "resumo": "Portaria 702 altera análise de recursos de devedores contumazes eliminando envio ao Carf. Mudança centraliza análise na DRJ-R.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78185/devedor-contumaz-rfb-muda-regra-de-julgamento-de-recursos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Nova regra do EPEC altera emissão de NF-e em contingência",
+      "resumo": "Nota Técnica 2014.001 v.1.40 restringe autorização de EPEC para contribuintes de PR e PB a partir de outubro. Mudança afeta validação em emissão contingencial.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78184/nf-e-nova-regra-do-epec-muda-emissao-em-contingencia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Contencioso e obrigações acessórias no novo Imposto Seletivo",
+      "resumo": "Análise detalha desafios tributários e contratuais do Imposto Seletivo. Documento explora impactos para empresas e órgãos fiscalizadores.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78189/contencioso-e-obrigacoes-acessorias-no-imposto-seletivo/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Escalada no Oriente Médio eleva petróleo; inflação menor alivia juros",
+      "resumo": "Tensão geopolítica pressiona preços de energia enquanto desaceleração inflacionária nos EUA reduz temor com aumentos de juros. Efeitos contrapostos definem cenário.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/economia/escalada-no-oriente-medio-eleva-petroleo-mas-inflacao-menor-reduz-temor-com-juros/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Varejo: Track&Field, Smart Fit e RD Saúde em foco para 2T26",
+      "resumo": "Bancos apontam empresas que devem brilhar ou decepcionar no varejo no segundo trimestre de 2026. Análise considera balanços e desempenho setorial.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/quem-deve-brilhar-e-decepcionar-no-varejo-no-2t26-veja-apostas-dos-bancos/",
+      "idioma_original": "pt"
+    }
+  ]
+}
