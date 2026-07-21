@@ -1,0 +1,131 @@
+{
+  "data": "2026-07-21",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google desenvolve novo chip para tornar Gemini mais eficiente",
+      "resumo": "Alphabet está desenvolvendo um novo chip dedicado para melhorar a eficiência dos modelos Gemini. O hardware visa reduzir custos operacionais e acelerar a execução da IA. Parte da estratégia de otimização tecnológica da empresa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI reformula ChatGPT como super app com foco em codificação",
+      "resumo": "OpenAI transformou o Codex em novo ChatGPT, indicando mudança estratégica do chat tradicional. Plataforma agora prioriza capacidades de programação e automação de tarefas. Sinaliza possível abandono da categoria chat que a empresa pioneirou.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude refuta problema matemático de 87 anos",
+      "resumo": "IA Claude resolveu com sucesso um problema matemático não solucionado há 87 anos. Demonstra capacidade avançada de raciocínio lógico-matemático. Marco importante para validação de capacidades de modelos de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Gritt levanta US$ 34 milhões para robotizar construção de usinas solares",
+      "resumo": "Startup Gritt saiu do sigilo com $34 milhões em funding para desenvolver robôs que automatizam tarefas difíceis em canteiros de obra. Foco inicial em construção de plantas solares, expandindo depois para outros setores. Representa tendência de automação industrial acelerada.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Meta abre programa no Brasil para desenvolver apps em óculos inteligentes com IA",
+      "resumo": "Meta lança iniciativa no Brasil com capacitação, hackathon e prêmios para criar aplicativos de IA em óculos inteligentes. Programa busca impulsionar ecossistema de desenvolvedores locais. Oportunidade para startups brasileiras participarem de tecnologia emergente.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/21/inteligencia-artificial/meta-abre-vagas-no-brasil-para-desenvolver-apps-de-oculos-inteligentes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Protocolo de IA ganha interface mais amigável e estateless",
+      "resumo": "Importante protocolo de IA recebe atualização para maior usabilidade com sistema stateless em IDs de sessão. Abordagem similar a websites convencionais facilita adoção. Melhoria infraestrutural que reduz complexidade técnica.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Anthropic aprova acordo histórico de US$ 1,5 bi sobre direitos autorais",
+      "resumo": "Accord de direitos autorais de $1,5 bilhão da Anthropic recebe aprovação final do tribunal. Resolvida uma ação judicial, mas questão maior sobre uso de obras para treinar IA permanece em aberto. Indica crescimento de litígios sobre propriedade intelectual em IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "T4F atinge quórum em OPA e avança para fechamento de capital",
+      "resumo": "T4F (SHOW3) conseguiu quórum necessário em sua oferta pública de aquisição ao preço de R$ 6,02 por ação. Empresa avança para etapa final de fechamento de capital. Movimento consolida saída da companhia do mercado de ações.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/t4f-show3-atinge-quorum-em-opa-e-avanca-para-fechamento-de-capital/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Cogna elege novo membro para Diretoria Estatutária",
+      "resumo": "Cogna (COGN3) escolheu Guilherme Mélega para integrar sua Diretoria Estatutária. Executivo vinha de cargo como Diretor Presidente da Vasta Platform Limited. Mudança reforça reestruturação interna da companhia de educação.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/cogna-cogn3-elege-guilherme-melega-como-membro-da-diretoria-estatutaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Trump anuncia novas tarifas contra dezenas de países nesta semana",
+      "resumo": "Presidente americano Donald Trump deve anunciar novas tarifas sobre dezenas de países já esta semana. A taxa global temporária de 10% expira na sexta-feira (24). Movimento pode impactar câmbio e mercados globais de forma significativa.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/21/trump-prepara-novas-tarifas-contra-dezenas-de-paises-diz-financial-times.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária: deadline de 31 de julho exige adequação urgente de notas fiscais",
+      "resumo": "Encerramento do prazo de adaptação da Reforma Tributária em 31 de julho exigirá conformidade fiscal imediata. Empresas devem se adequar para evitar rejeição de notas fiscais após data limite. Período crítico para implementação tecnológica começa.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78200/reforma-tributaria-como-reduzir-rejeicoes-de-notas-fiscais-apos-31-de-julho/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária exige transformação tecnológica urgente em ERPs",
+      "resumo": "Implementação da Reforma Tributária demanda transformação digital em sistemas como SAP e Split Payment. Empresas precisam se preparar para mudanças que se estenderão até 2033. Urgência técnica crescente para adequação operacional e financeira.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78192/reforma-tributaria-preparacao-tecnologica-essencial-para-erps/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "STF julga critérios de créditos de ICMS e impacta empresas",
+      "resumo": "STF vai julgar Tema 1.465 sobre aproveitamento de créditos de ICMS em produtos intermediários. Decisão estabelecerá novos critérios e afetará planejamento tributário empresarial. Julgamento tem potencial de impacto significativo em fluxo de caixa de indústrias.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78193/creditos-de-icms-stf-define-criterios-e-impacta-empresas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Desenrola MEI oferece desconto até 70% e parcelamento em 145x",
+      "resumo": "Programa Desenrola MEI disponibiliza até 70% de desconto e parcelamento em 145x para MEIs com dívidas na Dívida Ativa. Adesão online até 30 de setembro. Alívio significativo para microempreendedores com débitos acumulados.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78175/desenrola-mei-desconto-de-ate-70-e-parcelamento-da-divida/",
+      "idioma_original": "pt"
+    }
+  ]
+}
