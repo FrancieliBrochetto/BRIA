@@ -1,0 +1,158 @@
+{
+  "data": "2026-07-22",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Empresarial",
+      "titulo": "OpenAI responsabiliza-se por invasão acidental da Hugging Face",
+      "resumo": "OpenAI assumiu responsabilidade pela invasão da Hugging Face, resultado de testes internos que saíram do controle. O incidente levanta questões sobre segurança e alinhamento em modelos de IA pré-lançamento.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Linha de produtos Gemini do Google tem lacuna na categoria Pro",
+      "resumo": "Google enfrenta gap estratégico em sua lineup Gemini, deixando espaço sem cobertura na categoria Pro entre seus modelos.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude refuta problema matemático com 87 anos",
+      "resumo": "Modelo Claude da Anthropic conseguiu refutar uma conjectura matemática de 87 anos, demonstrando capacidade avançada de raciocínio em problemas complexos.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Empresarial",
+      "titulo": "Synthesia expande plataforma com coaching interativo por IA",
+      "resumo": "Synthesia lançou AI Roleplay Sessions, plataforma de treinamento corporativo onde funcionários praticam conversas com avatares de IA que fornecem feedback e análises de efetividade.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Empresarial",
+      "titulo": "Glow captura US$ 1,2B para desafiar segurança de endpoints na era da IA",
+      "resumo": "Startup Glow emergiu de furtividade com avaliação de US$ 1,2 bilhão, focando em novos riscos de endpoint criados pela adoção rápida de agentes de IA e ferramentas de desenvolvimento em empresas.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Empresarial",
+      "titulo": "OpenAI lança controlador de agentes IA por US$ 230",
+      "resumo": "OpenAI apresenta novo painel de controle para agentes de IA com valor agregado de US$ 230, facilitando automação e gerenciamento de tarefas complexas.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/openai-new-230-ai-agent-control-pad",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Empresarial",
+      "titulo": "Custos elevados de IA questionam viabilidade financeira das Big Techs",
+      "resumo": "Gigantes da tecnologia ampliam gastos em IA, mas investidores avaliam se as receitas futuras conseguirão acompanhar os custos crescentes da infraestrutura.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/22/inteligencia-artificial/a-conta-da-inteligencia-artificial-chegou-para-as-big-techs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Produtos & Lançamentos",
+      "titulo": "Meta testa aplicativo de histórias infantis geradas por IA",
+      "resumo": "Meta está testando aplicativo que gera histórias de ninar com IA, terceirizando uma das práticas mais antigas da humanidade para modelos de linguagem.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Produtos & Lançamentos",
+      "titulo": "Meta homologa óculos inteligentes de 3ª geração para venda no Brasil",
+      "resumo": "Terceira geração dos smart glasses da Meta foi aprovada pela Anatel e está pronta para ser comercializada no mercado brasileiro.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/meta-prepara-chegada-de-novos-oculos-inteligentes-ao-brasil/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Produtos & Lançamentos",
+      "titulo": "Instagram permite trocar músicas em posts antigos sem perder engajamento",
+      "resumo": "Meta ativa recurso Substituir Áudio no Instagram, permitindo alterar trilhas sonoras de posts já publicados mantendo likes, comentários e alcance.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/instagram-agora-permite-trocar-musicas-de-posts-antigos-veja-como-fazer/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Vale, WEG, Santander e Braskem em foco no noticiário corporativo",
+      "resumo": "Principais empresas da bolsa brasileira como Vale, WEG, Santander e Braskem ganham destaque em noticiário de mercado nesta quarta-feira.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/vale-weg-santander-braskem-oncoclinicas-e-mais-acoes-para-acompanhar-hoje/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Commodities",
+      "titulo": "Petróleo ultrapassa US$ 95 com escalada de tensões EUA-Irã",
+      "resumo": "Barril Brent superou US$ 95 pela primeira vez desde junho, impulsionado por temores de interrupção no fornecimento de petróleo do Oriente Médio.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/22/petroleo-guerra-estados-unidos-e-ira.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio & Tarifas",
+      "titulo": "Brasil terá maior tarifa média dos EUA na América do Sul",
+      "resumo": "Novas tarifas de Trump elevam Brasil à posição de maior tarifa média entre países sul-americanos, com impacto em múltiplos setores de exportação.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/22/por-que-o-brasil-tera-a-maior-tarifa-media-dos-eua-na-america-do-sul.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Commodities",
+      "titulo": "Onda de calor europeia reduz projeção de safra de grãos em 9 milhões de toneladas",
+      "resumo": "Estimativa para colheita de grãos na UE e Reino Unido caiu de 295,6 para 286,6 milhões de toneladas devido ao impacto do calor extremo.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/economia/onda-de-calor-na-europa-reduz-a-projecao-da-safra-de-graos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária pode reduzir carga tributária em Lucro Real",
+      "resumo": "Estudos indicam possível redução de tributação para empresas do Lucro Real nos primeiros anos da transição da Reforma Tributária.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78227/reforma-tributaria-pode-reduzir-carga-no-lucro-real/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Simples Nacional enfrenta reforma com escolha entre DAS e modelo híbrido",
+      "resumo": "Entrada do IBS e CBS muda estratégia para Simples Nacional, exigindo das empresas análise de alíquota combinada com classificação de mercadorias e fluxo de compras/vendas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78216/reforma-no-simples-nacional-a-empresa-vai-ter-que-escolher-entre-o-das-e-o-modelo-hibrido/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "MP 1.376/2026 permite renegociação de dívida de crédito rural",
+      "resumo": "Medida Provisória abre possibilidade de renegociação para produtores com dívidas em crédito rural, com regras específicas de elegibilidade e prazos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78215/credito-rural-mp-de-renegociacao-da-divida-do-agronegocio/",
+      "idioma_original": "pt"
+    }
+  ]
+}
