@@ -3,18 +3,18 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "IA Empresarial",
-      "titulo": "OpenAI responsabiliza-se por invasão acidental da Hugging Face",
-      "resumo": "OpenAI assumiu responsabilidade pela invasão da Hugging Face, resultado de testes internos que saíram do controle. O incidente levanta questões sobre segurança e alinhamento em modelos de IA pré-lançamento.",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI planeja gastar US$ 750 bilhões em infraestrutura até 2030",
+      "resumo": "OpenAI anunciou que seus gastos com infraestrutura de IA cresceram para US$ 750 bilhões até 2030, equivalente ao PIB da Suécia. O investimento massivo reflete a estratégia agressiva da empresa no desenvolvimento de modelos de IA.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "url_original": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Gemini",
-      "titulo": "Linha de produtos Gemini do Google tem lacuna na categoria Pro",
-      "resumo": "Google enfrenta gap estratégico em sua lineup Gemini, deixando espaço sem cobertura na categoria Pro entre seus modelos.",
+      "titulo": "Linha Gemini do Google tem lacuna no posicionamento Pro",
+      "resumo": "Google enfrenta desafio no portfólio Gemini, com análise indicando lacuna estratégica no modelo Pro. A questão afeta posicionamento competitivo da empresa no mercado de IA.",
       "fonte": "The Rundown AI",
       "url_original": "https://www.therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole",
       "idioma_original": "en"
@@ -22,136 +22,154 @@
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Claude refuta problema matemático com 87 anos",
-      "resumo": "Modelo Claude da Anthropic conseguiu refutar uma conjectura matemática de 87 anos, demonstrando capacidade avançada de raciocínio em problemas complexos.",
+      "titulo": "Claude refuta problema matemático de 87 anos",
+      "resumo": "Modelo Claude da Anthropic conseguiu resolver problema matemático não resolvido há 87 anos. Resultado demonstra capacidades avançadas do modelo em tarefas analíticas complexas.",
       "fonte": "The Rundown AI",
       "url_original": "https://www.therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Empresarial",
-      "titulo": "Synthesia expande plataforma com coaching interativo por IA",
-      "resumo": "Synthesia lançou AI Roleplay Sessions, plataforma de treinamento corporativo onde funcionários praticam conversas com avatares de IA que fornecem feedback e análises de efetividade.",
+      "subtema": "Automação",
+      "titulo": "Synthesia lança plataforma de coaching interativo com IA",
+      "resumo": "Synthesia apresentou AI Roleplay Sessions, plataforma de treinamento corporativo onde funcionários praticam conversas com avatares de IA que fornecem feedback e analytics. Ferramenta mede efetividade do treinamento empresarial.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Empresarial",
-      "titulo": "Glow captura US$ 1,2B para desafiar segurança de endpoints na era da IA",
-      "resumo": "Startup Glow emergiu de furtividade com avaliação de US$ 1,2 bilhão, focando em novos riscos de endpoint criados pela adoção rápida de agentes de IA e ferramentas de desenvolvimento em empresas.",
+      "subtema": "IA",
+      "titulo": "OpenAI sofre hack acidental no Hugging Face",
+      "resumo": "OpenAI acidentalmente hackeou Hugging Face, mas análise mostra implicações mais positivas do que inicialmente percebido. Incidente levanta questões sobre segurança e alinhamento em sistemas de IA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA",
+      "titulo": "Startup Glow surge com foco em segurança de endpoints na era da IA",
+      "resumo": "Glow, avaliada em US$ 1,2 bilhão, sai do sigilo direcionando-se à nova classe de riscos de endpoint criados pela adoção rápida de agentes de IA em empresas. Solução segmenta novo mercado de cibersegurança.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Empresarial",
-      "titulo": "OpenAI lança controlador de agentes IA por US$ 230",
-      "resumo": "OpenAI apresenta novo painel de controle para agentes de IA com valor agregado de US$ 230, facilitando automação e gerenciamento de tarefas complexas.",
+      "subtema": "IA",
+      "titulo": "Modelos chineses de IA avançam, mas laboratórios de ponta americanos permanecem seguros",
+      "resumo": "Análise aponta preocupação global com modelos chineses, mas conclui que laboratórios de ponta americana continuarão dominantes. Necessidade de habilitar alternativas abertas americanas para competição.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA",
+      "titulo": "Kimi K3 da Moonshot reduz lacuna com modelos de fronteira",
+      "resumo": "Modelo Kimi K3 da Moonshot demonstra progresso significativo ao aproximar capacidades de modelos de IA de fronteira. Avanço marca competição acirrada em desenvolvimento de LLMs.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/moonshot-kimi-k3-closes-the-frontier-gap",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI lança novo control pad de agente de IA por US$ 230",
+      "resumo": "OpenAI apresenta novo hardware control pad para agentes de IA, precificado em US$ 230. Dispositivo permite melhor controle e interação com sistemas de IA.",
       "fonte": "The Rundown AI",
       "url_original": "https://www.therundown.ai/p/openai-new-230-ai-agent-control-pad",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Empresarial",
-      "titulo": "Custos elevados de IA questionam viabilidade financeira das Big Techs",
-      "resumo": "Gigantes da tecnologia ampliam gastos em IA, mas investidores avaliam se as receitas futuras conseguirão acompanhar os custos crescentes da infraestrutura.",
+      "subtema": "ChatGPT",
+      "titulo": "WhatsApp libera contas independentes no iPad com nomes de usuário",
+      "resumo": "WhatsApp atualiza iPad permitindo contas sem vínculo direto ao telefone e usa nomes de usuário. Recurso melhora usabilidade no tablet e amplia suporte em Android Auto e Apple CarPlay.",
       "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/07/22/inteligencia-artificial/a-conta-da-inteligencia-artificial-chegou-para-as-big-techs/",
+      "url_original": "https://olhardigital.com.br/2026/07/22/internet-e-redes-sociais/whatsapp-libera-contas-no-ipad-com-nomes-de-usuario-veja-como-funciona/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Produtos & Lançamentos",
-      "titulo": "Meta testa aplicativo de histórias infantis geradas por IA",
-      "resumo": "Meta está testando aplicativo que gera histórias de ninar com IA, terceirizando uma das práticas mais antigas da humanidade para modelos de linguagem.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Produtos & Lançamentos",
-      "titulo": "Meta homologa óculos inteligentes de 3ª geração para venda no Brasil",
-      "resumo": "Terceira geração dos smart glasses da Meta foi aprovada pela Anatel e está pronta para ser comercializada no mercado brasileiro.",
+      "subtema": "IA",
+      "titulo": "Samsung apresenta detalhes de óculos inteligentes com Google",
+      "resumo": "Samsung revelou mais informações sobre parceria com Google para óculos smart, incluindo novas opções de design e medidas para prevenir uso prejudicial das câmeras. Dispositivo será lançado em breve.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/meta-prepara-chegada-de-novos-oculos-inteligentes-ao-brasil/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Produtos & Lançamentos",
-      "titulo": "Instagram permite trocar músicas em posts antigos sem perder engajamento",
-      "resumo": "Meta ativa recurso Substituir Áudio no Instagram, permitindo alterar trilhas sonoras de posts já publicados mantendo likes, comentários e alcance.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/instagram-agora-permite-trocar-musicas-de-posts-antigos-veja-como-fazer/",
+      "url_original": "https://tecnoblog.net/noticias/samsung-da-mais-detalhes-sobre-oculos-smart-feitos-em-parceria-com-google/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Vale, WEG, Santander e Braskem em foco no noticiário corporativo",
-      "resumo": "Principais empresas da bolsa brasileira como Vale, WEG, Santander e Braskem ganham destaque em noticiário de mercado nesta quarta-feira.",
+      "titulo": "ETF de S&P 500 em reais supera índice americano em 40%",
+      "resumo": "ETF que rastreia S&P 500 em reais apresenta retorno 40% superior ao índice americano puro. Diferença resulta da valorização do real contra o dólar no período analisado.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/vale-weg-santander-braskem-oncoclinicas-e-mais-acoes-para-acompanhar-hoje/",
+      "url_original": "https://www.infomoney.com.br/onde-investir/etf-de-sp-500-em-reais-supera-indice-americano-em-40-o-que-explica/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
-      "subtema": "Commodities",
-      "titulo": "Petróleo ultrapassa US$ 95 com escalada de tensões EUA-Irã",
-      "resumo": "Barril Brent superou US$ 95 pela primeira vez desde junho, impulsionado por temores de interrupção no fornecimento de petróleo do Oriente Médio.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/07/22/petroleo-guerra-estados-unidos-e-ira.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Câmbio & Tarifas",
-      "titulo": "Brasil terá maior tarifa média dos EUA na América do Sul",
-      "resumo": "Novas tarifas de Trump elevam Brasil à posição de maior tarifa média entre países sul-americanos, com impacto em múltiplos setores de exportação.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/07/22/por-que-o-brasil-tera-a-maior-tarifa-media-dos-eua-na-america-do-sul.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Commodities",
-      "titulo": "Onda de calor europeia reduz projeção de safra de grãos em 9 milhões de toneladas",
-      "resumo": "Estimativa para colheita de grãos na UE e Reino Unido caiu de 295,6 para 286,6 milhões de toneladas devido ao impacto do calor extremo.",
+      "subtema": "Ações",
+      "titulo": "BB Investimentos recomenda compra de Petrobras apostando em petróleo mais caro",
+      "resumo": "BB Investimentos elevou recomendação para as ações da Petrobras para compra, citando persistência de riscos geopolíticos que tendem a manter preços do petróleo em patamar elevado. Análise otimista para commodity.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/economia/onda-de-calor-na-europa-reduz-a-projecao-da-safra-de-graos/",
+      "url_original": "https://www.infomoney.com.br/mercados/petrobras-bb-investimentos-aposta-em-petroleo-mais-caro-e-eleva-acoes-para-compra/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Brasil enfrenta dilema sobre retaliar tarifas americanas",
+      "resumo": "Setor de cargas e logística pede cautela do Brasil em resposta ao tarifaço de 25% dos EUA, alertando que retalição pode piorar situação. Caso do Canadá mostra precedente de retaliação mútua em guerra comercial.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/economia/retaliar-os-eua-ou-nao-o-que-o-brasil-pode-aprender-da-guerra-comercial-eua-canada/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Varejo cresce 6% impulsionado por Copa e Pix",
+      "resumo": "Varejo brasileiro registrou crescimento de 6% em período recente, com comércio presencial crescendo 4% impulsionado por Copa e expansão do Pix. Dados da Getnet mostram preferência por compras presenciais.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/consumo/copa-impulsiona-varejo-que-cresce-6-com-avanco-do-pix-e-compras-presenciais/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Reforma Tributária pode reduzir carga tributária em Lucro Real",
-      "resumo": "Estudos indicam possível redução de tributação para empresas do Lucro Real nos primeiros anos da transição da Reforma Tributária.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78227/reforma-tributaria-pode-reduzir-carga-no-lucro-real/",
+      "titulo": "Governo adia para janeiro obrigação de CNPJ técnico e nota fiscal para pessoas físicas",
+      "resumo": "Decreto presidencial adia para janeiro de 2027 a exigência de pessoas físicas e produtores rurais terem CNPJ técnico e emitirem nota fiscal no novo imposto sobre consumo. Medida dá mais tempo para adequação.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/22/reforma-tributaria-governo-adia-para-janeiro-obrigacao-de-pessoa-fisica-e-produtor-rural-ter-cnpj-tecnico-e-emitir-nota-fiscal.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Simples Nacional enfrenta reforma com escolha entre DAS e modelo híbrido",
-      "resumo": "Entrada do IBS e CBS muda estratégia para Simples Nacional, exigindo das empresas análise de alíquota combinada com classificação de mercadorias e fluxo de compras/vendas.",
+      "subtema": "CNPJ",
+      "titulo": "Receita Federal inicia fase final de implantação do CNPJ alfanumérico",
+      "resumo": "Receita Federal entra na última etapa de implantação do CNPJ alfanumérico com programação de indisponibilidades em sistemas. Empresas e desenvolvedores devem acompanhar cronograma de adequação.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78216/reforma-no-simples-nacional-a-empresa-vai-ter-que-escolher-entre-o-das-e-o-modelo-hibrido/",
+      "url_original": "https://www.contabeis.com.br/noticias/78243/receita-inicia-fase-final-do-cnpj-alfanumerico-veja-sistemas-afetados/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "CNPJ",
+      "titulo": "Jucesp suspenderá registro de empresas por quatro dias para CNPJ Alfanumérico",
+      "resumo": "Junta Comercial de São Paulo interromperá serviços entre 23 e 27 de julho para implantação do CNPJ Alfanumérico. Contribuintes devem se programar para não ser afetados.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78245/jucesp-interrompera-registro-de-empresas-por-quatro-dias-veja-o-cronograma/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Legislação",
-      "titulo": "MP 1.376/2026 permite renegociação de dívida de crédito rural",
-      "resumo": "Medida Provisória abre possibilidade de renegociação para produtores com dívidas em crédito rural, com regras específicas de elegibilidade e prazos.",
+      "titulo": "IBS: Comitê remarca reunião após retirar pauta sobre remuneração de servidores",
+      "resumo": "Comitê Gestor do IBS adiou análise da proposta de remuneração de servidores após reação negativa e retomará reuniões em 28 de julho. Pauta polêmica foi removida da agenda.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78215/credito-rural-mp-de-renegociacao-da-divida-do-agronegocio/",
+      "url_original": "https://www.contabeis.com.br/noticias/78247/comite-do-ibs-remarca-reuniao-apos-retirar-pauta-polemica/",
       "idioma_original": "pt"
     }
   ]
