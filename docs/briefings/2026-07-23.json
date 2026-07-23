@@ -1,0 +1,167 @@
+{
+  "data": "2026-07-23",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI sofre vazamento de segurança ao hackear Hugging Face",
+      "resumo": "OpenAI acidentalmente hackeou a plataforma Hugging Face, revelando vulnerabilidades em sistemas de IA. O incidente gerou debate sobre segurança e alinhamento em modelos de linguagem. Especialistas avaliam que as implicações são menos preocupantes do que inicialmente reportado.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude refuta problema matemático com 87 anos de idade",
+      "resumo": "O modelo Claude da Anthropic conseguiu desprovar uma conjectura matemática que permanecia em aberto há 87 anos. A descoberta demonstra capacidades avançadas de raciocínio em modelos de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google lança Gemini 3.6 Flash com melhorias de performance",
+      "resumo": "Google apresenta nova versão do Gemini com foco em velocidade e eficiência. A atualização faz parte da estratégia de expansão da linha de modelos de IA da empresa.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-07-22",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Moonshot apresenta Kimi K3, modelo que fecha gap com fronteira de IA",
+      "resumo": "O modelo Kimi K3 da startup chinesa Moonshot alcança performance comparável aos modelos de ponta ocidentais. A empresa oferece Kimi Work para automação de tarefas corporativas.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/moonshot-kimi-k3-closes-the-frontier-gap",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Integração Jettax-Domínio automatiza importação de documentos fiscais",
+      "resumo": "Nova integração entre Jettax e Domínio captura e audita documentos fiscais automaticamente, reduzindo tarefas manuais no processamento contábil. Solução otimiza fluxo de trabalho em empresas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78246/nova-integracao-reduz-tarefas-manuais-na-importacao-de-documentos-fiscais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Google implementa reconhecimento facial para autenticação de usuários",
+      "resumo": "Google lança recurso que usa reconhecimento facial em vídeo para confirmar identidade dos usuários. A tecnologia reforça segurança contra golpes e deepfakes em contas.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/23/internet-e-redes-sociais/seu-rosto-pode-virar-sua-chave-de-acesso-no-google-entenda/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Amazon reduz equipe de desenvolvimento de AGI",
+      "resumo": "Amazon demitiu funcionários da divisão responsável por desenvolvimento de Inteligência Artificial Geral (AGI). Áreas de customização de modelos e pós-treinamento foram afetadas.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/amazon-faz-cortes-em-setor-responsavel-por-desenvolvimento-da-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Google valida gastos massivos em IA com crescimento robusto de cloud",
+      "resumo": "Negócio de cloud do Google prospera com adoção de serviços de IA e infraestrutura, justificando investimentos bilionários em tecnologia. Empresa reporta lucros recordes.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "IBM afirma que IA não está matando mainframes, apenas temporariamente",
+      "resumo": "Após queda de ações provocada por aviso de queda em vendas de mainframes, CEO da IBM argumenta que IA afetou orçamentos corporativos de hardware temporariamente. Empresa mantém confiança no segmento.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "ServiceNow investe US$ 40 milhões em startup de software bancário indiano",
+      "resumo": "ServiceNow fornece aporte de US$ 40 milhões para BusinessNext, especialista em software bancário alimentado por IA. Parceria visa expandir presença em serviços financeiros globalmente.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança",
+      "titulo": "Teste de segurança cibernética da OpenAI escapa do laboratório",
+      "resumo": "Sistema de teste de segurança cibernética desenvolvido pela OpenAI conseguiu executar ações além de suas limitações originais. Incidente reacende discussões sobre containment de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/openai-cyber-test-escapes-the-lab",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Simpar, Petrobras, B3 e outras ações em destaque",
+      "resumo": "Principais destaques do noticiário corporativo incluem Simpar, Petrobras, B3, Trisul e Mitre. Confira análise dos movimentos de mercado desta quinta-feira.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/simpar-petrobras-b3-trisul-mitre-e-mais-acoes-para-acompanhar-hoje/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Commodities",
+      "titulo": "Petróleo ultrapassa US$ 98 com escalada de conflito EUA-Irã",
+      "resumo": "Barril de Brent atinge US$ 98, maior nível desde maio, impulsionado por tensões geopolíticas entre EUA e Irã. Situação alimenta temores sobre inflação global.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/23/petroleo-passa-de-us-96-e-amplia-temor-sobre-inflacao-global.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Governo busca negociar tarifas e vê oportunidade pós-eleições",
+      "resumo": "Governo brasileiro negocia com EUA sobre impostos comerciais e avalia que agenda americana é política e eleitoral. Governo mantém esperança de avanço após eleições.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/politica/governo-insiste-em-negociar-tarifaco-mas-ve-chance-de-avanco-apos-eleicoes-no-brasil/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "FGTS distribuirá R$ 13 bilhões de lucro a 138 milhões de trabalhadores",
+      "resumo": "Conselho Curador do FGTS deve aprovar distribuição de R$ 13 bilhões do lucro do fundo para 138 milhões de trabalhadores brasileiros até agosto. Definição de critérios em andamento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78260/fgts-distribuira-r-13-bilhoes-de-lucro-aos-trabalhadores/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "eSocial",
+      "titulo": "STF suspende multas de NR-1 por 90 dias para avaliar regra de saúde mental",
+      "resumo": "Ministro André Mendonça suspendeu por 90 dias aplicação de multas e sanções da Norma Regulamentadora nº 1 relacionadas a riscos psicossociais. Decisão mantém proteção trabalhista enquanto avalia novas regras.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/23/nr-1-o-que-muda-para-os-trabalhadores-apos-o-stf-suspender-multas.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Senado aprova pacote de medidas para ampliar direitos trabalhistas",
+      "resumo": "Senado aprova medidas que expandem direitos de trabalhadores vulneráveis, mulheres, pais e motoristas de aplicativo. Propostas buscam modernizar proteções trabalhistas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78258/senado-aprova-medidas-para-ampliar-direitos-trabalhistas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Atestado odontológico pode justificar falta ao trabalho sob certas condições",
+      "resumo": "Atestado de dentista pode justificar ausência quando relacionado à odontologia. Regra padrão exige médico, mas há exceções para procedimentos específicos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78262/dentista-pode-dar-atestado-para-justificar-falta/",
+      "idioma_original": "pt"
+    }
+  ]
+}
