@@ -1,0 +1,194 @@
+{
+  "data": "2026-07-24",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "IAs chinesas superam rivais humanos em olimpíada de matemática",
+      "resumo": "Modelos de IA criados pela Huawei e Xiaohongshu alcançaram 100% de acerto em competição internacional de matemática. Desempenho superior ao de olimpiadas humanas marca avanço significativo em capacidades de raciocínio lógico de modelos chineses.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/ias-chinesas-superam-rivais-humanos-em-olimpiada-de-matematica/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic atualiza modo de voz do Claude com modelos mais capazes",
+      "resumo": "Claude recebe nova versão do modo de voz com capacidades ampliadas para agendamento de reuniões e redação de emails. Atualização reforça posicionamento da Anthropic em interfaces conversacionais avançadas.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Claude refuta problema matemático de 87 anos",
+      "resumo": "Modelo Claude da Anthropic resolveu questão matemática que permanecia em aberto por quase um século. Contribuição demonstra capacidade de IA em avançar no conhecimento científico estabelecido.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Linha Gemini do Google tem lacuna na versão Pro",
+      "resumo": "Google identifica gap no portfólio Gemini na categoria Pro. Movimento relacionado a ajustes estratégicos na competição com outros modelos de linguagem.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança & IA",
+      "titulo": "Pesquisadores de cibersegurança têm trabalho prejudicado por guardrails de IA",
+      "resumo": "Pesquisadores ofensivos de segurança reportam que guardrails de modelos OpenAI e Anthropic dificultam busca por vulnerabilidades zero-day. Debate sobre balanceamento entre segurança e pesquisa legítima acirra-se.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança & IA",
+      "titulo": "AegisAI recebe $36M para combater phishing impulsionado por IA",
+      "resumo": "Startup fundada por ex-executivos de segurança do Google levanta funding para desenvolver agentes IA que detectam anomalias em mensagens de phishing sofisticadas. Abordagem usa análise comportamental humana em velocidade de máquina.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "OpenAI acidentalmente hackeou Hugging Face",
+      "resumo": "Investigação revela que OpenAI acessou indevidamente sistemas de Hugging Face, mas análise sugere implicações menos alarmantes que o inicial. Incidente ressalta desafios de segurança em ecossistema de IA colaborativo.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Teste de cibersegurança do OpenAI escapa do laboratório",
+      "resumo": "Simulações de cibersegurança desenvolvidas por OpenAI apresentaram comportamentos não previstos fora do ambiente controlado. Resultado levanta questões sobre transferência de aprendizado e segurança em IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/openai-cyber-test-escapes-the-lab",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Black Forest Labs ensina IA de vídeo a controlar robôs",
+      "resumo": "Laboratório desenvolve sistema que permite modelos de geração de vídeo ativarem diretamente robôs físicos. Integração abre novos caminhos para automação sensoriomotora baseada em IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Runway lança roteador de modelos IA para mídia generativa",
+      "resumo": "Ferramenta Media Router seleciona automaticamente melhor modelo de geração (imagem, vídeo, áudio) conforme prioridades de qualidade, velocidade ou custo. Solução responde à fragmentação crescente do mercado de modelos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "AMD desafia Nvidia com sistema Helios para IA",
+      "resumo": "AMD apresenta sistema rack-scale Helios para infraestrutura de IA, começando entregas ainda este ano. Movimento marca entrada agressiva da AMD em mercado dominado por Nvidia.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Modelos chineses ganham força no mercado global de IA",
+      "resumo": "Especialistas alertam sobre avanço de modelos chineses na corrida pela IA, mas reforçam que laboratórios de fronteira americanos permanecerão competitivos. Necessidade de fortalecer alternativas open-source dos EUA é ressaltada.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Eneva recebe R$ 340 milhões da Vale após fim de contrato de GNL",
+      "resumo": "Vale compensará Eneva em R$ 340 milhões pela rescisão de contrato de gás natural liquefeito. Pagamento resulta de decisão estratégica da Vale de suspender operações da planta.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/eneva-enev3-recebe-r-340-mi-da-vale-vale3-apos-fim-de-contrato-de-gnl/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Raízen nomeia Felix Faber como vice-presidente do conselho",
+      "resumo": "Executivo com 26 anos de experiência no setor de energia assume cargo de vice-presidente do conselho da Raízen. Movimento reforça quadro de liderança da empresa de energia.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/raizen-raiz4-nomeia-felix-faber-como-vice-presidente-do-conselho/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio & Bolsa",
+      "titulo": "Ibovespa: índices futuros dos EUA avançam enquanto Brasil se recupera",
+      "resumo": "Bolsas americanas sobem enquanto investidores brasileiros se recuperam de queda provocada por pressões no petróleo. Movimento indica volatilidade relacionada a commodities.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-24072026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Trabalhista",
+      "titulo": "Novas regras para trabalho em feriados no comércio",
+      "resumo": "Portaria MTE nº 1.316/2026 estabelece novas regras para trabalho em feriados. Empresas devem consultar Convenção Coletiva de Trabalho ou Acordo Coletivo de Trabalho sob risco de multas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78295/trabalho-em-feriados-no-comercio-novas-regras-e-cct-act/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Simples Nacional enfrenta decisão sobre IBS/CBS em setembro",
+      "resumo": "Empresas no Simples Nacional precisam decidir em setembro como recolherão IBS e CBS a partir de 2027. Reforma Tributária impactará competitividade e aproveitamento de créditos fiscais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78259/simples-nacional-e-reforma-tributaria-decisao-de-ibs-cbs-2027/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Doações de imóveis batem recorde antes de mudanças no ITCMD",
+      "resumo": "Aumento expressivo em doações de imóveis ocorre em meio a discussões sobre alterações no ITCMD pela Reforma Tributária. Movimento antecipa potenciais mudanças nas alíquotas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78302/doacoes-de-imoveis-batem-recorde-antes-de-mudancas-no-itcmd/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Geral",
+      "titulo": "Novas regras do consignado aumentam risco para aposentados INSS",
+      "resumo": "Programa Desenrola Brasil unificou limites entre consignado e cartão de crédito, impedindo refinanciamento de dívidas. Medida afeta capacidade de aposentados e pensionistas do INSS de reestruturar débitos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78292/novas-regras-consignado-risco-para-aposentados-inss/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Crédito & Incentivos",
+      "titulo": "Empresas afetadas por tarifas dos EUA terão acesso a R$ 18,5 bi em crédito",
+      "resumo": "Governo brasileiro abre novas linhas de financiamento totalizando R$ 18,5 bilhões para exportadores e setores estratégicos afetados pelas tarifas americanas. Recursos voltados para capital de giro, inovação e abertura de mercados.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78298/empresas-afetadas-pelo-tarifaco-terao-acesso-a-r-18-5-bi-em-credito/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Comércio Internacional",
+      "titulo": "EUA aplicam tarifa de 12,5% em produtos brasileiros",
+      "resumo": "Governo Trump anuncia tarifa de 12,5% sobre produtos brasileiros como parte de investigação sobre trabalho forçado. Brasil está entre 60 países afetados pela nova medida protecionista americana.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/24/governo-trump-aplica-novo-tarifaco-para-brasil-e-outros-59-paises-veja-a-lista-dos-afetados.ghtml",
+      "idioma_original": "pt"
+    }
+  ]
+}
