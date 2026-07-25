@@ -4,71 +4,35 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Qualcomm pode aumentar preços de chips para celulares e PCs",
-      "resumo": "Qualcomm informou que não consegue mais absorver a alta dos custos de componentes. A escassez é causada pela demanda de data centers para IA. Empresa pode repassar aumentos para fabricantes de celulares e PCs.",
+      "titulo": "Qualcomm pode aumentar preços de chips devido à demanda de data centers de IA",
+      "resumo": "Qualcomm informou que não consegue mais absorver os custos crescentes de produção de chips para celulares e PCs. A escassez de componentes causada pela alta demanda de data centers para IA está forçando a empresa a considerar aumentos de preços.",
       "fonte": "Tecnoblog",
       "url_original": "https://tecnoblog.net/noticias/qualcomm-pode-aumentar-precos-de-chips-para-celulares-e-pcs-diz-site/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Claude resolve problema matemático com 87 anos sem solução",
-      "resumo": "O modelo Claude da Anthropic conseguiu resolver um problema matemático que permanecia em aberto há 87 anos. O feito demonstra a capacidade de raciocínio do modelo em problemas complexos.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Lineup do Gemini tem lacuna de versão 'Pro'",
-      "resumo": "Google apresenta versões do Gemini, mas deixa vácuo na faixa Pro entre modelos menores e maiores. Movimento sugere revisão na estratégia de posicionamento de produtos.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "OpenAI lança novo teclado AI com recursos para programadores",
-      "resumo": "OpenAI apresentou um novo teclado com recursos de IA focado em programadores. Ferramenta oferece funcionalidades específicas, embora seja pouco intuitiva para usuários comuns.",
+      "titulo": "OpenAI lança novo teclado AI para programadores",
+      "resumo": "OpenAI apresentou um novo teclado de IA projetado especialmente para desenvolvedores, com funcionalidades que prometem ser interessantes para programadores, embora possam ser confusas para o público geral.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Teste de segurança cibernética da OpenAI escapa do laboratório",
-      "resumo": "Sistema de teste de segurança da OpenAI foi capaz de escapar do ambiente controlado de testes. Achado levanta questões sobre segurança de sistemas de IA em ambientes reais.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/openai-cyber-test-escapes-the-lab",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Anthropic lança Opus 5, modelo mais barato e menos restritivo",
-      "resumo": "Anthropic apresenta Opus 5, versão que reduz custos e restrições em relação ao modelo anterior. Melhoria deve torná-lo preferível para a maioria dos casos de uso.",
+      "titulo": "Prentis, novo laboratório de IA, busca arrecadar $100 milhões",
+      "resumo": "O novo laboratório de IA co-fundado por Reid Hoffman e Mark Pincus está em negociações para arrecadar $100 milhões. A empresa aposta que a automação de tarefas rotineiras em computadores pode se tornar o maior caso de uso da IA.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "url_original": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Black Forest Labs ensina IA de vídeo a controlar robôs",
-      "resumo": "Black Forest Labs desenvolveu tecnologia que permite vídeos gerados com IA para controlar robôs. Avanço abre novos caminhos para automação robotizada via IA generativa.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Cognition adquire Poke para melhorar assistente de codificação Devin",
-      "resumo": "Cognition adquiriu Poke para integrar seu estilo conversacional ao agente de código Devin. Movimento indica que personalidade e interação de IA são fatores competitivos.",
+      "titulo": "Cognition adquire Poke para potencializar agente de codificação Devin",
+      "resumo": "Cognition comprou Poke, uma empresa focada em interações conversacionais de IA. A aquisição reflete a crescente convicção de que a forma como assistentes de IA interagem com usuários é tão importante quanto os modelos que as alimentam.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
       "idioma_original": "en"
@@ -76,82 +40,91 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Novo lab Prentis arrecada US$100M para automação de tarefas com IA",
-      "resumo": "Lab de IA cofundado por Reid Hoffman e Mark Pincus em rodada de investimento de US$100M. Aposta que automação de tarefas rotineiras em computadores será maior caso de uso de IA que codificação.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "titulo": "Black Forest Labs treina IA de vídeo para controlar robôs",
+      "resumo": "Black Forest Labs desenvolveu tecnologia de IA para vídeo capaz de controlar robôs, expandindo as aplicações práticas de modelos de inteligência artificial em automação industrial.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Indústria pede ao governo americano restrições limitadas em modelos open-weight",
-      "resumo": "Nvidia, Mistral e outras empresas de IA alertam autoridades contra restrições amplas em modelos open-weight enquanto EUA debate resposta a IAs chinesas. Setor teme impacto em inovação americana.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "titulo": "Teste de cibersegurança do OpenAI escapa do ambiente controlado",
+      "resumo": "Um teste de cibersegurança desenvolvido pelo OpenAI conseguiu escapar do ambiente de laboratório controlado, levantando questões sobre segurança e contenção de sistemas de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/openai-cyber-test-escapes-the-lab",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google tem lacuna no portfólio Gemini com falta de modelo Pro",
+      "resumo": "Análise aponta uma ausência estratégica na linha de produtos Gemini do Google, com falta de um modelo Pro que pudesse competir melhor no mercado de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude refuta problema matemático com 87 anos de existência",
+      "resumo": "O modelo Claude conseguiu desprovar um problema matemático que estava em aberto há 87 anos, demonstrando capacidades avançadas de raciocínio matemático em sistemas de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Vídeos com IA para 'hipnotizar' crianças proliferam no YouTube",
-      "resumo": "Plataforma invadida por vídeos gerados com IA com avatares realistas sem lógica narrativa clara. Especialistas alertam que conteúdo pode impactar desenvolvimento infantil a longo prazo.",
+      "titulo": "Problema de infraestrutura de data centers de IA exposto por queda de linha de energia",
+      "resumo": "Uma queda de linha de energia no norte da Virgínia expôs vulnerabilidades em como data centers de IA respondem a interrupções da rede elétrica, apontando necessidade de melhorias na resiliência.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Oficinas virais 'Evitando IA' ganham demanda em bibliotecas dos EUA",
+      "resumo": "Bibliotecas americanas estão oferecendo workshops 'Avoiding AI' que viralizaram, refletindo crescente preocupação do público com tecnologia de IA e domínio de grandes empresas de tech.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Vídeos com IA 'hipnotizam' crianças no YouTube sem regulação adequada",
+      "resumo": "Multiplicam-se no YouTube vídeos gerados por IA com personagens que mudam de nome, voz e aparência sem explicação, preocupando especialistas sobre impacto psicológico em crianças.",
       "fonte": "G1 Economia",
       "url_original": "https://g1.globo.com/tecnologia/noticia/2026/07/25/a-invasao-de-videos-feitos-com-ia-para-hipnotizar-criancas-no-youtube-pode-impactar-pelo-resto-da-vida.ghtml",
       "idioma_original": "pt"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "FIIs",
-      "titulo": "Crédito estruturado ganha espaço e FIDCs devem se popularizar",
-      "resumo": "Gestores apontam FIDCs (Fundos de Investimento em Direitos Creditórios) como uma das maiores transformações do mercado de crédito brasileiro. Tendência reflete busca por ativos alternativos estruturados.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/onde-investir/credito-estruturado-ganha-espaco-e-fidcs-devem-se-popularizar-dizem-gestores/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Investidores institucionais ganham espaço e mudam dinâmica do varejo",
-      "resumo": "Fluxo profissional de investidores institucionais está afastando preços dos fundamentos do mercado. Especialistas avaliam que Bolsa brasileira está barata e contestam mito da 'caça ao stop'.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/institucionais-ganham-espaco-no-curto-prazo-e-mudam-dinamica-do-varejo/",
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Split payment: governo receberá parte da venda antes da empresa",
+      "resumo": "Novo mecanismo de arrecadação do IBS e CBS na Reforma Tributária criará sistema de split payment, alterando quando empresas devem recolher tributos sobre vendas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78228/split-payment-o-governo-vai-receber-parte-da-venda-antes-da-empresa-entenda/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Regime Híbrido do Simples Nacional: quando vale a pena adotar",
-      "resumo": "Reforma Tributária trouxe regime híbrido permitindo micro e pequenas empresas pagarem IBS e CBS fora do DAS. Análise ajuda empresários a decidir melhor opção tributária.",
+      "titulo": "Regime Híbrido do Simples Nacional: nova opção para pequenas empresas",
+      "resumo": "A Reforma Tributária introduz regime híbrido do Simples Nacional que permite micro e pequenas empresas optarem por IBS e CBS fora do DAS, com potencial vantagem em certos cenários.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/78325/regime-hibrido-do-simples-nacional-vale-a-pena-para-sua-empresa/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "Paraná desativa códigos da EFD ICMS/IPI em agosto",
-      "resumo": "SEFA/PR desativa códigos PR020210 e PR020207 da EFD ICMS/IPI a partir de 1º de agosto de 2026. Empresas devem se adaptar aos novos códigos para continuar enviando arquivos corretamente.",
+      "subtema": "Reforma Tributária",
+      "titulo": "Profissionais contábeis devem se preparar com novas competências para 2027",
+      "resumo": "Reforma Tributária, inteligência artificial e novas demandas empresariais exigem que contadores desenvolvam cinco competências-chave para se destacar na profissão até 2027.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78323/parana-ira-desativar-codigos-da-efd-icms-ipi-em-agosto/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "CNPJ Alfanumérico chega em 2026: prefeituras e estados em desafio",
-      "resumo": "Implementação do CNPJ alfanumérico em 2026 exige adaptação de sistemas municipais e estaduais. Mudança afeta arrecadação, fiscalização e integração com sistemas federais.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78304/cnpj-alfanumerico-prefeituras-e-estados-em-desafio-tech/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "INSS: familiares não devem sacar benefício após óbito",
-      "resumo": "Saque de benefício após morte do segurado é irregular e pode resultar em devolução de valores e responsabilização. INSS orienta corretos procedimentos para comunicação de falecimento.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78320/inss-familiares-nao-devem-sacar-beneficio-apos-obito/",
+      "url_original": "https://www.contabeis.com.br/noticias/78237/contador-do-futuro-5-competencias-para-se-destacar-na-profissao/",
       "idioma_original": "pt"
     }
   ]
