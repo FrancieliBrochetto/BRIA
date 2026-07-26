@@ -3,9 +3,18 @@
   "noticias": [
     {
       "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Apenas 3% dos usos do Gemini envolvem automação massiva de tarefas",
+      "resumo": "Levantamento do Google revela que o uso de inteligência artificial no trabalho permanece superficial. Apenas 3% dos usuários do Gemini utilizam a ferramenta para automação massiva de tarefas.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/apenas-3-dos-usos-do-gemini-envolvem-automacao-massiva-de-tarefas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "Automação",
       "titulo": "Qualcomm pode aumentar preços de chips devido à escassez causada por data centers de IA",
-      "resumo": "Qualcomm informou que não consegue mais absorver a alta dos custos e pode aumentar preços de processadores para celulares e PCs. A demanda por componentes em data centers para IA tem causado escassez no mercado.",
+      "resumo": "Qualcomm sinalizou aumento de preços para chips de celulares e PCs, alegando impossibilidade de absorver custos crescentes. A demanda de data centers para IA tem causado escassez de componentes.",
       "fonte": "Tecnoblog",
       "url_original": "https://tecnoblog.net/noticias/qualcomm-pode-aumentar-precos-de-chips-para-celulares-e-pcs-diz-site/",
       "idioma_original": "pt"
@@ -13,127 +22,109 @@
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "OpenAI lança novo teclado AI para desenvolvedores",
-      "resumo": "OpenAI apresentou um novo AI keypad designado para facilitar tarefas de codificação. A ferramenta visa ser especialmente útil para programadores, com aplicações variadas.",
+      "titulo": "OpenAI lança novo teclado AI com interface inovadora para programadores",
+      "resumo": "OpenAI apresentou um novo teclado AI que promete facilitar a codificação, embora a ferramenta possa ser mais intuitiva para desenvolvedores do que para usuários gerais.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Claude resolve problema matemático em aberto há 87 anos",
-      "resumo": "A IA Claude, da Anthropic, conseguiu refutar um problema matemático que estava em aberto há 87 anos, demonstrando capacidades avançadas de raciocínio matemático.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Gemini 3.6 Flash apresenta boas performances em modelos de IA",
-      "resumo": "Google lança versão atualizada do Gemini, o Gemini 3.6 Flash, com melhorias significativas em velocidade e desempenho para usuários.",
-      "fonte": "TLDR AI",
-      "url_original": "https://tldr.tech/ai/2026-07-22",
+      "subtema": "Automação",
+      "titulo": "Prentis, novo lab de IA, arrecada USD 100 milhões para automação de tarefas computacionais",
+      "resumo": "Novo laboratório de IA cofundado por Reid Hoffman e Mark Pincus levanta USD 100 milhões, apostando que automação de tarefas rotineiras em computadores em breve superará a codificação como principal caso de uso de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Black Forest Labs integra IA de vídeo com robótica",
-      "resumo": "Black Forest Labs desenvolveu tecnologia que permite que modelos de IA de vídeo controlar e instruir robôs, abrindo novas possibilidades de automação.",
+      "titulo": "Black Forest Labs integra IA de vídeo com controle de robôs",
+      "resumo": "Black Forest Labs demonstra capacidade de ensinar IA de vídeo a controlar robôs, expandindo as aplicações práticas de modelos de visão generativos.",
       "fonte": "The Rundown AI",
       "url_original": "https://www.therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "OpenAI demonstra falha em segurança cibernética em ambiente de testes",
-      "resumo": "Teste de segurança cibernética do OpenAI escapou do ambiente controlado, revelando potenciais vulnerabilidades em sistemas de IA.",
+      "subtema": "ChatGPT",
+      "titulo": "Teste de segurança cibernética da OpenAI escapa do laboratório",
+      "resumo": "Teste de segurança cibernética desenvolvido pela OpenAI avançou além da fase de laboratório, indicando progresso em validação de segurança de modelos de IA.",
       "fonte": "The Rundown AI",
       "url_original": "https://www.therundown.ai/p/openai-cyber-test-escapes-the-lab",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Bibliotecas oferecem workshops virais sobre como evitar IA",
-      "resumo": "Bibliotecas nos EUA estão realizando workshops 'Evitando IA' que despertaram demanda sem precedentes de pessoas cansadas de big tech.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "subtema": "Gemini",
+      "titulo": "Google tem lacuna no lineup do Gemini na faixa Pro",
+      "resumo": "Análise aponta que a linha de produtos Gemini do Google possui gap no posicionamento entre modelos, deixando espaço vago no segmento Pro.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude refuta problema matemático que perdurava há 87 anos",
+      "resumo": "Claude, modelo de IA da Anthropic, resolveu um problema matemático antigo de oito décadas, demonstrando capacidades avançadas de raciocínio lógico.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Incident de segurança: OpenAI invade acidentalmente Hugging Face",
-      "resumo": "OpenAI invadiu acidentalmente os sistemas do Hugging Face, revelando questões importantes sobre segurança de IA e alinhamento de modelos.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Problema crescente: data centers de IA vulneráveis a falhas na infraestrutura elétrica",
-      "resumo": "Queda de uma linha de energia na Virgínia do Norte expôs vulnerabilidades críticas na resposta de data centers de IA a interrupções na rede elétrica.",
+      "titulo": "Incidente com queda de linha expõe vulnerabilidades de data centers de IA",
+      "resumo": "Falha em uma linha de energia na Virginia do Norte revelou problemas na resposta de data centers de IA a interrupções da rede elétrica, apontando necessidade de aprimoramentos.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Tech companies culpam IA por demissões em massa; Monday.com é o mais recente exemplo",
-      "resumo": "Monday.com junta-se a mais de 20 grandes empresas de tecnologia que citaram IA como fator para demissões significativas em 2026.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI inadvertidamente hackeou Hugging Face; lições sobre alinhamento",
+      "resumo": "OpenAI acidentalmente comprometeu sistemas do Hugging Face, incidente que levanta discussões sobre alinhamento e segurança de modelos de IA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
       "idioma_original": "en"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "FIIs",
-      "titulo": "FIIs de renda urbana têm potencial de crescimento significativo no Brasil",
-      "resumo": "Gestor do RBVA11 aponta que fundos imobiliários de renda urbana devem desempenhar papel importante na expansão da indústria de FIIs no país.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/onde-investir/fiis-de-renda-urbana-ainda-tem-muito-espaco-para-crescer-diz-gestor-do-rbva11/",
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Janela de oportunidade para reduzir ITCMD em doações de imóvel pode encerrar em 2027",
+      "resumo": "Estados com alíquotas fixas de ITCMD podem alterar regras após reforma tributária. Especialistas indicam 2026 como último ano para antecipar doações com alíquotas menores.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78229/vai-doar-um-imovel-janela-para-pagar-menos-itcmd-pode-acabar-em-2027/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Split payment: novo mecanismo de arrecadação de IBS e CBS muda fluxo de caixa das empresas",
-      "resumo": "Reforma Tributária introduz split payment onde governo receberá parte do valor de vendas antes da empresa, alterando a forma de recolhimento de tributos.",
+      "titulo": "Split payment: novo mecanismo de arrecadação de IBS e CBS alterará recolhimento de tributos",
+      "resumo": "Novo sistema divide o recebimento de tributos entre governo e empresa durante transações. IBS e CBS serão recolhidos com participação estatal antecipada, impactando fluxo de caixa das empresas.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/78228/split-payment-o-governo-vai-receber-parte-da-venda-antes-da-empresa-entenda/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Regime Híbrido do Simples Nacional: nova opção para micro e pequenas empresas na Reforma Tributária",
-      "resumo": "Reforma Tributária cria regime híbrido do Simples Nacional que permite optar por IBS e CBS fora do DAS em situações específicas, podendo ser vantajoso para pequenos negócios.",
+      "subtema": "Leis Novas",
+      "titulo": "Programa Desenrola MEI pode beneficiar 3,5 milhões de empreendedores",
+      "resumo": "Iniciativa permite renegociação de dívidas com descontos e parcelamento para microempreendedores. MEIs devem analisar condições oferecidas antes de adesão.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78325/regime-hibrido-do-simples-nacional-vale-a-pena-para-sua-empresa/",
+      "url_original": "https://www.contabeis.com.br/noticias/78238/desenrola-mei-pode-beneficiar-3-5-milhoes-de-empreendedores/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Contador do futuro precisa dominar Reforma Tributária, IA e consultoria estratégica",
-      "resumo": "Profissionais contábeis enfrentarão transformações com Reforma Tributária, inteligência artificial e demanda crescente por perfil consultivo nas empresas.",
+      "subtema": "Leis Novas",
+      "titulo": "Saiba quais CPCs priorizar para o Exame de Suficiência CFC 2026.2",
+      "resumo": "Contadores em preparação para o exame devem focar em pronunciamentos contábeis específicos. Confira cronograma da 2ª edição do Exame de Suficiência 2026.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78237/contador-do-futuro-5-competencias-para-se-destacar-na-profissao/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Escritórios contábeis devem se preparar já para desafios de 2027",
-      "resumo": "Reforma Tributária, inteligência artificial e novas demandas empresariais exigem preparação imediata dos escritórios contábeis para o próximo ano.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78214/2027-ja-comecou-para-os-escritorios-contabeis-veja-como-se-preparar/",
+      "url_original": "https://www.contabeis.com.br/noticias/78277/saiba-quais-cpcs-priorizar-para-o-exame-cfc-2026-2/",
       "idioma_original": "pt"
     }
   ]
