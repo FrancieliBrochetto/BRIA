@@ -1,0 +1,104 @@
+{
+  "data": "2026-07-27",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic lança Claude Opus 5 com novo recurso de automação",
+      "resumo": "Anthropic surpreendeu com o lançamento do Claude Opus 5. O modelo inclui recurso 'Record a Skill' que permite automatizar tarefas. Claude também resolveu um problema matemático em aberto há 87 anos.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/anthropic-opus-5-surprise",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google AI Overviews presente em 43% das buscas",
+      "resumo": "Dados mostram que o AI Overviews do Google está em 43% das buscas, consolidando respostas geradas por IA como forma padrão de descobrir informações online. A adoção acelerada reflete mudança significativa no comportamento de busca.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Meta AI agora acessível via DMs do Threads",
+      "resumo": "Meta lançou seu chatbot de IA nos DMs do Threads, permitindo que usuários conversem com o assistente na plataforma. Integração amplia acesso ao Meta AI entre usuários do social network.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Professor usa IA como armadilha em avaliação digital",
+      "resumo": "Professor Jason Gibson reprovou 32 de 35 alunos usando técnica de 'prompt injection' para detectar uso de IA nos trabalhos. Método funciona como código secreto que obriga o modelo a revelar se foi utilizado na resposta.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/07/27/prompt-injection.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Black Forest Labs integra IA de vídeo para controlar robôs",
+      "resumo": "Black Forest Labs treinou sua IA de vídeo para controlar robôs, expandindo aplicações práticas além de edição. Tecnologia abre possibilidades em automação industrial e robótica.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Safe Superintelligence se associa com Nvidia para expansão",
+      "resumo": "Safe Superintelligence (fundada por Ilya Sutskever) anunciou parceria de longo prazo com Nvidia após sair do stealth. Parceria visa escalar pesquisa de IA de forma segura com infraestrutura Nvidia.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Amazon planeja constelação de 5 mil satélites para internet móvel",
+      "resumo": "Amazon Leo propôs rede de até 5.105 satélites para conectividade direta em smartphones sem intermediários. Sistema visa oferecer chamadas de voz e transmissão de dados diretamente via satélite.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/07/27/amazon-quer-lancar-mais-de-5-mil-satelites-para-levar-sinal-de-internet-direto-a-celulares.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Fabricante chinesa CXMT estreia na bolsa com valorização forte",
+      "resumo": "CXMT estreou na bolsa de Xangai com ganhos expressivos refletindo escassez global de memória DRAM. Forte demanda por chips de memória impulsiona valuation da fabricante chinesa.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/cxmt-fabricante-chinesa-de-memoria-dispara-na-bolsa/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Opções",
+      "titulo": "Reforma tributária afeta tributação de imóveis em holdings",
+      "resumo": "Lei Complementar 214/2025 prevê que cessão gratuita de imóveis em holdings pode gerar incidência de IBS e CBS, dependendo da origem do bem. Mudanças na reforma tributária afetam planejamento imobiliário.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78332/imovel-em-holding-podera-gerar-tributacao-com-a-reforma-tributaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Indenizações trabalhistas: regras de deductibilidade no IRPJ",
+      "resumo": "Guia esclarece quando indenizações trabalhistas são dedutíveis no IRPJ e tratamento contábil diferenciado para Lucro Real, Presumido e Simples Nacional. Regras variam conforme regime de tributação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78337/indenizacoes-trabalhistas-quando-sao-despesas-dedutiveis/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Gestação de alto risco isenta carência para benefícios do INSS",
+      "resumo": "Portaria dos Ministérios da Previdência e Saúde inclui gestação de alto risco na lista de condições que dispensam cumprimento de carência para benefícios por incapacidade. Medida amplia proteção a gestantes.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78333/gestacao-de-alto-risco-passa-a-dispensar-carencia-para-beneficio-do-inss/",
+      "idioma_original": "pt"
+    }
+  ]
+}
