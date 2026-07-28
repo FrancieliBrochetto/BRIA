@@ -3,45 +3,90 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Conversas privadas com Claude expostas publicamente",
-      "resumo": "Centenas de conversas de usuários com o chatbot Claude da Anthropic foram encontradas acessíveis publicamente online. Os links compartilhados incluíam informações pessoais e profissionais que deveriam ser privadas. O problema originou-se do recurso \"share chat\" da plataforma.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/07/28/como-centenas-de-conversas-privadas-com-chat-de-ia-claude-acabaram-disponiveis-publicamente.ghtml",
+      "subtema": "Automação",
+      "titulo": "WhatsApp Web libera chamadas de áudio e vídeo pelo navegador",
+      "resumo": "WhatsApp Web agora permite realizar chamadas de áudio e vídeo diretamente no navegador, com compartilhamento de tela e transferência de chamadas. Novidade está sendo liberada progressivamente para todos os usuários.",
+      "fonte": "Tecnoblog / Olhar Digital",
+      "url_original": "https://tecnoblog.net/noticias/whatsapp-web-finalmente-ganha-chamadas-de-video-e-audio/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Chats compartilhados do Claude podem ter sido indexados pelo Google",
-      "resumo": "Chats compartilhados e artefatos do Claude podem ter acabado nos resultados de busca do Google. O problema está relacionado ao recurso de compartilhamento que cria links públicos para conversas.",
+      "subtema": "ChatGPT",
+      "titulo": "Fish Audio levanta US$ 52 milhões para modelos de voz com IA",
+      "resumo": "Startup Fish Audio arrecadou US$ 52 milhões em financiamento seed para desenvolver modelos de IA de voz. Plataforma já possui 8 milhões de usuários e gera US$ 21 milhões em receita anual recorrente.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "url_original": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic lança Claude Opus 5 com novos recursos de automação",
+      "resumo": "Anthropic divulgou Claude Opus 5, novo modelo com recurso 'Record a Skill' para automação de tarefas. Atualização amplia capacidades da plataforma para usuários e empresas.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/anthropic-opus-5-surprise",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Microsoft lança seu primeiro modelo de segurança cibernética com IA",
-      "resumo": "Microsoft lançou seu primeiro modelo de IA para segurança cibernética e uma nova plataforma de segurança com recursos de automação. A empresa reforça suas ofertas de cibersegurança impulsionadas por inteligência artificial.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI acidentalmente faz hack em Hugging Face",
-      "resumo": "OpenAI acidentalmente invadiu a Hugging Face, mas os aprendizados são mais encorajadores do que parecem. O incidente gerou debate sobre segurança e alinhamento de modelos de IA.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
+      "titulo": "OpenAI demonstra teste de segurança cibernética com IA",
+      "resumo": "OpenAI apresentou teste de escape de laboratório em ambiente de segurança cibernética. Resultado demonstra progresso em avaliação de capacidades autônomas de modelos de IA.",
+      "fonte": "The Rundown AI / Stratechery",
+      "url_original": "https://www.therundown.ai/p/openai-cyber-test-escapes-the-lab",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Gemini",
-      "titulo": "Dario Amodei da Anthropic não se opõe a modelos de peso aberto, mas teme IA chinesa",
-      "resumo": "O fundador e CEO da Anthropic esclareceu sua posição sobre modelos de peso aberto e as crescentes capacidades de IA da China. A empresa vê os modelos abertos como aceitáveis, mas se preocupa com a concorrência chinesa.",
+      "titulo": "Google Gemini apresenta lacunas na linha Pro de modelos",
+      "resumo": "Análise aponta deficiências no posicionamento da versão Pro do Gemini dentro da estratégia de modelos do Google. Marca impacto na competição com outras plataformas de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Moonshot libera maior modelo de código aberto até o momento",
+      "resumo": "Moonshot lança maior modelo de linguagem de código aberto já desenvolvido. Anúncio marca progresso significativo na democratização de tecnologia de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/moonshot-lets-history-largest-open-model-loose",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Black Forest Labs integra vídeo com IA para controle de robôs",
+      "resumo": "Black Forest Labs desenvolve tecnologia que permite modelos de IA de vídeo controlarem robôs. Avanço abre novas aplicações práticas de automação no campo físico.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Recursive Superintelligence firma acordo de US$ 410 milhões com Amazon para computação",
+      "resumo": "Startup Recursive Superintelligence assina contrato de US$ 410 milhões para acesso a infraestrutura de computação da Amazon. Investimento representa maior parte do total levantado pela empresa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Cursor expande operações na Índia e prepara venda para SpaceX",
+      "resumo": "Editor de código Cursor intensifica presença na Índia com preços localizados e contratações. Mercado indiano é agora terceiro maior para a plataforma globalmente.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Dario Amodei defende modelos de peso aberto, mas alerta sobre IA chinesa",
+      "resumo": "CEO da Anthropic não se opõe a modelos de código aberto, mas expressa preocupação com avanço das capacidades de IA na China. Posição reflete debate interno sobre segurança versus democratização.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
       "idioma_original": "en"
@@ -49,64 +94,91 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Satya Nadella: empresas que confiam em uma única IA podem não sobreviver",
-      "resumo": "O CEO da Microsoft alertou que empresas sem seus próprios modelos ou sem camadas de infraestrutura de IA (AI gateways) podem enfrentar dificuldades. Recomenda diversificação de soluções de IA.",
+      "titulo": "Centros de dados podem enfrentar cortes de energia para evitar blackouts",
+      "resumo": "Operadores da maior rede elétrica dos EUA consideram cortes temporários em data centers para prevenir apagões. Medida reflete pressão de infraestrutura causada por construção acelerada.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "url_original": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
       "idioma_original": "en"
     },
     {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Simples Nacional: prepare clientes para decisão de setembro sobre modelo da Reforma Tributária",
-      "resumo": "Contadores devem preparar clientes para decisão crítica em setembro de 2026 sobre qual modelo adotar (Integrado ou Híbrido) na Reforma Tributária. Impacto significativo nas obrigações tributárias.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78324/simples-nacional-como-preparar-seus-clientes-para-a-decisao-de-setembro/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Zona Franca de Manaus ganha força com reforma tributária",
-      "resumo": "A Reforma Tributária preserva incentivos da Zona Franca de Manaus e cria novos mecanismos para manter competitividade do polo industrial. Medidas ampliam proteção aos benefícios da região.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78343/zona-franca-de-manaus-ganha-forca-com-reforma-tributaria/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Contabilidade pública ganha papel estratégico com sustentabilidade",
-      "resumo": "Relatórios de sustentabilidade passam a integrar a contabilidade pública com dados sobre riscos climáticos, gestão de recursos e impactos fiscais. Nova exigência regulatória para órgãos públicos.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78344/contabilidade-publica-ganha-papel-estrategico-com-sustentabilidade/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "STJ mantém ISS sobre sucumbência para advocacia no Simples Nacional",
-      "resumo": "O STJ decidiu que escritórios de advocacia no Simples Nacional devem incluir honorários sucumbenciais no cálculo do ISS. Decisão reforça tributação sobre valores ganhos em ações judiciais.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78342/stj-mantem-iss-sobre-sucumbencia-no-simples-nacional/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Contador pode ampliar atuação em 2027 com tecnologia e novas demandas",
-      "resumo": "Tecnologia, Reforma Tributária e novas demandas empresariais abrem oportunidades para contadores expandirem serviços além de obrigações fiscais tradicionais. Profissão ganha destaque estratégico.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78341/alem-das-obrigacoes-fiscais-como-o-contador-pode-ampliar-sua-atuacao-em-2027/",
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar opera estável com foco em inflação e decisão do Federal Reserve",
+      "resumo": "Dólar se mantém em estabilidade enquanto investidores acompanham dados de inflação e se preparam para decisão sobre juros na quarta-feira.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-28072026/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Goldman Sachs eleva recomendação da WEG para neutra",
-      "resumo": "Goldman Sachs fez upgrade na recomendação das ações da WEG de venda para neutra. Movimento indica melhora na visão do banco sobre a empresa, embora mantenha cautela.",
+      "titulo": "Apple ultrapassa Nvidia e atinge avaliação de US$ 5 trilhões",
+      "resumo": "Apple brevemente superou Nvidia durante pregão desta terça, atingindo pico de US$ 342,89 por ação. Movimento reflete oscilação entre gigantes de tecnologia no mercado.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/28/apple-nvidia-trilhoes.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Visa planeja demitir 2.600 funcionários para ganhar eficiência",
+      "resumo": "Visa anuncia corte de 7% da força de trabalho como parte de programa de eficiência. Medida segue decisão semelhante de sua concorrente há seis meses.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/28/visa-planeja-demitir-mais-de-2-mil-funcionarios-com-aprofundamento-de-pressao-por-eficiencia.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "FGTS distribui R$ 13,04 bilhões em lucro a partir de sexta-feira",
+      "resumo": "Caixa Econômica Federal iniciará distribuição de R$ 13,04 bilhões (89% do lucro) do FGTS de 2025 na sexta-feira. Repasse beneficiará 138,2 milhões de trabalhadores.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/28/calculadora-lucro-do-fgts-quanto-voce-vai-receber.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Brasil avalia acionamento na OMC contra veto de carnes pela União Europeia",
+      "resumo": "Governo brasileiro estuda recurso à Organização Mundial do Comércio contra embargo de carnes pela UE. Perdas estimadas chegam a US$ 2,4 bilhões anuais para o setor.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/politica/noticia/2026/07/28/brasil-avalia-acionar-omc-contra-veto-da-uniao-europeia-a-carne-brasileira-e-ve-motivacao-politica.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Petrobras sob holofote com dados de produção no 2º trimestre",
+      "resumo": "Mercado acompanha dados de produção da Petrobras como termômetro para resultados do 2T, a serem divulgados em 6 de agosto. Indicadores servem como prévia de desempenho.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/weg-wege3-tem-mais-uma-elevacao-de-recomendacao-goldman-faz-upgrade-mas-mantem-cautela/",
+      "url_original": "https://www.infomoney.com.br/mercados/petrobras-sera-destaque-no-2t-dado-de-producao-hoje-pode-dar-mais-sinais-sobre-isso/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Receita propõe período de adaptação sem multas para implantação da reforma tributária",
+      "resumo": "Receita Federal sugere programa de conformidade com tratamento orientador para empresas durante implantação da CBS e IBS em 2026. Medida aguarda aprovação do Comitê Gestor.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78364/receita-propoe-periodo-de-adaptacao-sem-multas-durante-implantacao-da-reforma-tributaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "EPEC será bloqueado para contribuintes do Paraná e Paraíba a partir de outubro",
+      "resumo": "Nova regra impedirá autorização de EPEC para emitentes do Paraná e da Paraíba a partir de outubro. Medida faz parte de novas normas de conformidade fiscal.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78363/epec-sera-bloqueado-para-contribuintes-do-pr-e-pb/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "PVA da EFD ICMS IPI é atualizado para versão 6.1.1",
+      "resumo": "Receita Federal disponibiliza atualização do programa validador de arquivos EFD ICMS IPI com correção para falha de validação. Nova versão 6.1.1 está disponível.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78361/pva-da-efd-icms-ipi-e-atualizado-para-a-versao-6-1-1/",
       "idioma_original": "pt"
     }
   ]
