@@ -1,0 +1,113 @@
+{
+  "data": "2026-07-28",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Conversas privadas com Claude expostas publicamente",
+      "resumo": "Centenas de conversas de usuários com o chatbot Claude da Anthropic foram encontradas acessíveis publicamente online. Os links compartilhados incluíam informações pessoais e profissionais que deveriam ser privadas. O problema originou-se do recurso \"share chat\" da plataforma.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/07/28/como-centenas-de-conversas-privadas-com-chat-de-ia-claude-acabaram-disponiveis-publicamente.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Chats compartilhados do Claude podem ter sido indexados pelo Google",
+      "resumo": "Chats compartilhados e artefatos do Claude podem ter acabado nos resultados de busca do Google. O problema está relacionado ao recurso de compartilhamento que cria links públicos para conversas.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Microsoft lança seu primeiro modelo de segurança cibernética com IA",
+      "resumo": "Microsoft lançou seu primeiro modelo de IA para segurança cibernética e uma nova plataforma de segurança com recursos de automação. A empresa reforça suas ofertas de cibersegurança impulsionadas por inteligência artificial.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI acidentalmente faz hack em Hugging Face",
+      "resumo": "OpenAI acidentalmente invadiu a Hugging Face, mas os aprendizados são mais encorajadores do que parecem. O incidente gerou debate sobre segurança e alinhamento de modelos de IA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Dario Amodei da Anthropic não se opõe a modelos de peso aberto, mas teme IA chinesa",
+      "resumo": "O fundador e CEO da Anthropic esclareceu sua posição sobre modelos de peso aberto e as crescentes capacidades de IA da China. A empresa vê os modelos abertos como aceitáveis, mas se preocupa com a concorrência chinesa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Satya Nadella: empresas que confiam em uma única IA podem não sobreviver",
+      "resumo": "O CEO da Microsoft alertou que empresas sem seus próprios modelos ou sem camadas de infraestrutura de IA (AI gateways) podem enfrentar dificuldades. Recomenda diversificação de soluções de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Simples Nacional: prepare clientes para decisão de setembro sobre modelo da Reforma Tributária",
+      "resumo": "Contadores devem preparar clientes para decisão crítica em setembro de 2026 sobre qual modelo adotar (Integrado ou Híbrido) na Reforma Tributária. Impacto significativo nas obrigações tributárias.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78324/simples-nacional-como-preparar-seus-clientes-para-a-decisao-de-setembro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Zona Franca de Manaus ganha força com reforma tributária",
+      "resumo": "A Reforma Tributária preserva incentivos da Zona Franca de Manaus e cria novos mecanismos para manter competitividade do polo industrial. Medidas ampliam proteção aos benefícios da região.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78343/zona-franca-de-manaus-ganha-forca-com-reforma-tributaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Contabilidade pública ganha papel estratégico com sustentabilidade",
+      "resumo": "Relatórios de sustentabilidade passam a integrar a contabilidade pública com dados sobre riscos climáticos, gestão de recursos e impactos fiscais. Nova exigência regulatória para órgãos públicos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78344/contabilidade-publica-ganha-papel-estrategico-com-sustentabilidade/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "STJ mantém ISS sobre sucumbência para advocacia no Simples Nacional",
+      "resumo": "O STJ decidiu que escritórios de advocacia no Simples Nacional devem incluir honorários sucumbenciais no cálculo do ISS. Decisão reforça tributação sobre valores ganhos em ações judiciais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78342/stj-mantem-iss-sobre-sucumbencia-no-simples-nacional/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Contador pode ampliar atuação em 2027 com tecnologia e novas demandas",
+      "resumo": "Tecnologia, Reforma Tributária e novas demandas empresariais abrem oportunidades para contadores expandirem serviços além de obrigações fiscais tradicionais. Profissão ganha destaque estratégico.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78341/alem-das-obrigacoes-fiscais-como-o-contador-pode-ampliar-sua-atuacao-em-2027/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Goldman Sachs eleva recomendação da WEG para neutra",
+      "resumo": "Goldman Sachs fez upgrade na recomendação das ações da WEG de venda para neutra. Movimento indica melhora na visão do banco sobre a empresa, embora mantenha cautela.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/weg-wege3-tem-mais-uma-elevacao-de-recomendacao-goldman-faz-upgrade-mas-mantem-cautela/",
+      "idioma_original": "pt"
+    }
+  ]
+}
