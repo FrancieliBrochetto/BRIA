@@ -1,0 +1,113 @@
+{
+  "data": "2026-07-29",
+  "noticias": [
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Reforma Tributária: 95% das empresas correm risco de rejeição de notas fiscais",
+      "resumo": "Estudo da IOB com 967 empresas revela que a maioria das organizações tem baixo nível de preparação para as novas exigências da Reforma Tributária. O não cumprimento pode resultar em rejeição de notas fiscais e demanda por soluções automatizadas de controle fiscal.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78388/reforma-tributaria-95-das-empresas-correm-risco-de-ter-notas-fiscais-rejeitadas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Federal amplia lista de devedores contumazes",
+      "resumo": "A Receita Federal publica novos atos declaratórios reconhecendo mais empresas como devedoras contumazes. O enquadramento ocorre após processo administrativo e pode trazer restrições fiscais significativas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78392/receita-amplia-lista-de-devedores-contumazes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "CFC realiza módulo sobre regimes diferenciados da Reforma Tributária",
+      "resumo": "O Conselho Federal de Contabilidade ofereceu curso abordando regimes diferenciados e específicos da Reforma Tributária do Consumo. A capacitação é essencial para preparar profissionais para as novas exigências fiscais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78383/cfc-realiza-modulo-sobre-regimes-diferenciados-da-reforma-tributaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Antropic lança Claude Opus 5 com capacidades aprimoradas",
+      "resumo": "A Antropic surpreendeu ao lançar o Claude Opus 5, seu novo modelo de IA de ponta. A empresa também divulgou posicionamento sobre modelos de pesos abertos (open weights) no mercado de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/anthropic-opus-5-surprise",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI sofre incidente de segurança que afeta diretiva de desaceleração",
+      "resumo": "Sam Altman, CEO da OpenAI, afirmou estar pronto para desacelerar desenvolvimento de IA. A mudança de posição ocorre após o primeiro incidente de segurança que o impactou visceralmente.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Pangram arrecada $9M para detectar conteúdo gerado por IA",
+      "resumo": "A startup Pangram levantou $9 milhões para escalar seu software de detecção de IA. Lançou o modelo Pangram 4 para detecção de textos e modelo para imagens em fase de pesquisa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Cyera adquire Oasis Security por $1 bilhão para proteger agentes de IA",
+      "resumo": "A Cyera concordou em adquirir a Oasis Security por $1 bilhão como terceira aquisição do ano. O objetivo é fortalecer segurança para proliferação de agentes de IA nas empresas.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Startup de detecção de bots Spur levanta $200M do Insight Partners",
+      "resumo": "A Spur Intelligence conquistou investimento de $200 milhões da Insight Partners para sua tecnologia de identificação de tráfego legítimo versus bots. Reforça crescimento do mercado de segurança cibernética em IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "OpenAI invadiu Hugging Face acidentalmente e gera reflexões sobre alinhamento de IA",
+      "resumo": "OpenAI hackeou acidentalmente a Hugging Face, incidente que levanta questões sobre alinhamento de IA e segurança. Especialistas indicam conclusões mais encorajadoras que o cenário inicial sugeria.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Petrobras registra produção recorde e reforça dividendo de US$ 3 bilhões",
+      "resumo": "Petrobras atingiu recorde de produção no pré-sal e refino em máxima histórica. Com petróleo mais caro, reforça projeção de forte trimestre e sustenta dividendos em torno de US$ 3 bilhões.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/petrobras-petr4-producao-2t26-recorde-reforca-projecao-de-forte-tri-e-dividendo-de-us-3-bi/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Commodities",
+      "titulo": "Minério de ferro sobe 0,06% com demanda fraca em agosto",
+      "resumo": "A referência de minério de ferro para agosto na Bolsa de Cingapura subiu para US$ 97,9 por tonelada. Demanda fraca ofusca riscos de interrupção na oferta australiana.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/minerio-de-ferro-cai-com-demanda-fraca-ofuscando-riscos-na-oferta-australiana/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Vacas monitoradas por IA viram garantia de empréstimo no Brasil pela primeira vez",
+      "resumo": "Brasil realizou primeira operação de crédito registrada na B3 usando vacas leiteiras monitoradas por IA como garantia de empréstimo. Tecnologia torna modelo mais atrativo para instituições financeiras.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/29/brasil-faz-primeira-operacao-usando-vacas-monitoradas-por-ia-como-garantia-para-emprestimos.ghtml",
+      "idioma_original": "pt"
+    }
+  ]
+}
