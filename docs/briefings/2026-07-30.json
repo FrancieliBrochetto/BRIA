@@ -3,164 +3,155 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Microsoft compete abertamente com OpenAI e Anthropic com modelos próprios",
-      "resumo": "Microsoft apresentou seus modelos de IA homegrown, ferramentas e competidores diretos, sinalizando crescimento contínuo no setor. A empresa busca competir mais agressivamente com OpenAI e Anthropic no mercado de IA.",
+      "subtema": "Automação",
+      "titulo": "Microsoft lança super app para unificar recursos do Copilot",
+      "resumo": "Microsoft integra agentes de IA, plataforma colaborativa de trabalho e gerador de códigos em um único aplicativo. O novo super app unifica todas as funcionalidades do Copilot em uma solução consolidada.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/microsoft-vai-lancar-super-app-para-unificar-recursos-do-copilot/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Google Earth permite recriar lugares com inteligência artificial",
+      "resumo": "Novo recurso combina imagens reais do mapa com geração visual por IA para criar reconstruções históricas, projetos urbanos e cenários futuristas. Ferramenta permite explorar transformações de lugares do mundo todo.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/30/inteligencia-artificial/google-earth-agora-permite-recriar-lugares-do-mundo-todo-com-inteligencia-artificial/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Okta adquire startup de segurança em IA por aproximadamente US$ 200 milhões",
+      "resumo": "Okta compra Permiso para fortalecer capacidades de detecção de ameaças de identidade. Aquisição permite que empresas protejam agentes de IA e identidades não-humanas em ambientes em nuvem.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Zuckerberg prevê bilhões de pessoas com agentes de IA pessoais em cinco anos",
-      "resumo": "Mark Zuckerberg projeta expansão massiva de agentes de IA pessoais conforme Meta investe bilhões em infraestrutura. CEO trabalha para convencer investidores sobre o retorno dos investimentos em IA.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Microsoft registra US$ 3,2 bi de ganhos com investimento em Anthropic",
-      "resumo": "Microsoft divulga ganhos substanciais de seu investimento em Anthropic durante fiscal 2026. Resultados contrastam com retorno misto de seu investimento em OpenAI.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Anthropic lança Opus 5 com capacidades aprimoradas",
-      "resumo": "Anthropic surpreende mercado com lançamento de Claude Opus 5, nova versão com melhorias em desempenho. Modelo inclui novo recurso 'Record a Skill' para automação de tarefas.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/anthropic-opus-5-surprise",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI acidentalmente invade Hugging Face; implicações para segurança e alinhamento",
-      "resumo": "OpenAI invadiu acidentalmente Hugging Face, revelando falhas críticas em segurança. Incidente levanta questões sobre alinhamento de IA e riscos operacionais em laboratórios de IA.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Mais de 1.000 funcionários de empresas de IA pedem pedal de freio no desenvolvimento",
-      "resumo": "Mais de mil funcionários de laboratórios de IA solicitam desaceleração no desenvolvimento de modelos fronteira. Movimento sinaliza preocupações internas sobre segurança e velocidade de inovação.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/1000-frontier-staffers-ask-for-an-ai-brake-pedal",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Moonshot libera maior modelo de código aberto da história",
-      "resumo": "Moonshot lança modelo de IA open-weight de escala recorde, democratizando acesso a tecnologia avançada. Movimento reforça tendência de modelos abertos concorrendo com soluções proprietárias.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/moonshot-lets-history-largest-open-model-loose",
+      "url_original": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Black Forest Labs ensina IA de vídeo a controlar robôs",
-      "resumo": "Black Forest Labs integra IA de vídeo com controle robótico, abrindo aplicações em automação industrial. Desenvolvimento marca progresso em visão computacional para robótica.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots",
+      "titulo": "Meta afirma que IA facilita construção de novos aplicativos",
+      "resumo": "CEO Mark Zuckerberg diz que IA torna dramaticamente mais fácil criar e lançar novos aplicativos de consumo. Meta anunciou produtos recentes para Facebook Groups, Marketplace, Instagram e gaming, com mais novidades a caminho.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "EUA proíbem robôs humanoides chineses e intensificam disputa tecnológica",
-      "resumo": "Estados Unidos anunciam proibição de importação de robôs humanoides e quadrúpedes fabricados no exterior. Medida exclui fabricantes chineses do mercado americano e aumenta tensões Washington-Pequim.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/07/30/eua-proibem-robos-humanoides-chineses-e-ampliam-disputa-tecnologica-com-pequim.ghtml",
-      "idioma_original": "pt"
+      "subtema": "Automação",
+      "titulo": "Nscale compra Anyscale para expandir pilha de computação em IA",
+      "resumo": "Startup britânica Nscale adquire Anyscale, que ajuda empresas a escalar cargas de trabalho em IA. Operação consolida controle sobre infraestrutura de computação em centros de dados e servidores.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Brasil e Coreia do Sul negociam tecnologia, carne e IA",
-      "resumo": "Brazil-Korea Business Roundtable reúne líderes empresariais para negociar em tecnologia e IA. Vice-presidente Geraldo Alckmin e presidente Lee Jae Myung mediam discussões sobre inovação.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/07/30/tecnologia-carne-e-ia-o-que-empresas-de-brasil-e-coreia-do-sul-negociaram-em-reuniao-fechada.ghtml",
-      "idioma_original": "pt"
+      "subtema": "Automação",
+      "titulo": "Engenheiros forward-deployed são a obsessão de talentos da indústria de IA",
+      "resumo": "Estudo estima apenas 2 mil engenheiros americanos com expertise para entregar ROI significativo em IA. Empresas competem para contratar especialistas em implementação de IA em escala.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Segurança",
-      "titulo": "Gigantes de tecnologia são as marcas mais usadas em golpes na internet",
-      "resumo": "Microsoft, LinkedIn, Google, Apple e Amazon lideram lista de marcas tecnológicas exploradas em fraudes cibernéticas. Check Point Software identifica tendência crescente de abuso de marcas para phishing.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/07/30/gigantes-de-tecnologia-sao-as-marcas-mais-usadas-para-aplicar-golpes-na-internet-veja-lista.ghtml",
+      "subtema": "Automação",
+      "titulo": "Invasor de OpenAI em Hugging Face foi barulhento e rápido, mas não foi invencível",
+      "resumo": "Especialistas em cibersegurança mostram que principal lição do hack do OpenAI em Hugging Face é sobre defesa cibernética tradicional, não IA. Atacante deixou rastros que poderiam ter sido detectados.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Amazon recebe aval para testar táxis autônomos sem volante nos EUA",
+      "resumo": "Amazon obtém aprovação regulatória para operar táxis sem volante nas ruas americanas. Movimento marca nova fase no desenvolvimento de veículos autônomos de passageiros.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/07/30/carros-e-tecnologia/amazon-libera-taxi-sem-volante-nos-eua-veja-como-funciona/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "FIIs",
+      "titulo": "FII PMLL11 conclui venda de participação no Shopping Park Sul por R$ 160,8 milhões",
+      "resumo": "Patria Malls finalizou venda de sua participação de 40% no Shopping Park Sul, localizado em Volta Redonda (RJ). Operação integra movimento de reorganização do portfólio do fundo.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/fii-pmll11-conclui-venda-do-shopping-park-sul-em-operacao-de-r-1608-milhoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "FIIs",
+      "titulo": "FIIs de papel têm retorno de até 17% em um ano; Selic pode mudar o jogo",
+      "resumo": "Fundos de investimento imobiliário em papéis apresentam bom desempenho com CDI favorável. Analistas discutem impacto potencial da queda da Selic no rendimento desses ativos.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/fiis-de-papel-obtem-retornos-acima-de-15-selic-pode-mudar-o-jogo-veja-os-campeoes/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Ambev frustra projeções no 2T apesar de lucro forte",
-      "resumo": "Ambev apresenta receita e Ebitda abaixo das expectativas no 2T26, embora lucro tenha sido impulsionado por efeitos financeiros. Analistas revisam impacto da Copa do Mundo como menor que o esperado.",
+      "titulo": "Vivo e TIM: o que esperar para as ações após queda no 2º trimestre de 2026",
+      "resumo": "Ações de Vivo e TIM caíram após resultados negativos do 2º trimestre. Analistas mantêm postura cautelosa diante da intensificação da concorrência no mercado de telefonia móvel.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/ambev-abev3-frustra-projecoes-no-2t-apesar-de-lucro-forte-mercado-olha-alem-do-efeito-copa-desempenho-acoes/",
+      "url_original": "https://www.infomoney.com.br/mercados/vivo-e-tim-o-que-esperar-para-as-acoes-das-teles-depois-do-tombo-com-2t26/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
-      "subtema": "Empréstimos",
-      "titulo": "Concessões de empréstimos no Brasil sobem 6,5% em junho",
-      "resumo": "Banco Central registra crescimento de 6,5% nas concessões de empréstimos em junho. Inadimplência em recursos livres permanece estável em 6,2%.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/concessoes-de-emprestimos-no-brasil-sobem-65-em-junho-diz-bc/",
+      "subtema": "Cripto",
+      "titulo": "Caixa deposita R$ 13 bilhões do lucro do FGTS a 138 milhões de trabalhadores",
+      "resumo": "Caixa Econômica Federal iniciou depósito de R$ 13,04 bilhões relativos ao lucro do FGTS em 2025. Benefício alcança 138,2 milhões de trabalhadores com saldo em conta vinculada.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/30/caixa-deposita-r-13-bilhoes-do-lucro-do-fgts-a-138-milhoes-de-trabalhadores-nesta-sexta.ghtml",
       "idioma_original": "pt"
     },
     {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Nota Fiscal",
-      "titulo": "cClassTrib na NF-e: Impacto da Reforma Tributária em cadastros",
-      "resumo": "Reforma Tributária gera rejeições de NF-e por problemas com cClassTrib. Contadores devem revisar cadastros para evitar problemas fiscais com novas validações.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78403/cclasstrib-na-nf-e-impacto-da-reforma-tributaria-em-cadastros/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "MT amplia prazo para cancelar CT-e para 24 horas",
-      "resumo": "SEFAZ-MT aumenta prazo de cancelamento do CT-e de 6 para 24 horas. Mudança altera regras de procedimento para contribuintes do estado.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78411/mt-amplia-prazo-para-cancelar-ct-e-para-24-horas/",
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "CNPE aprova venda direta de gás natural da União; governo prevê redução de 50% no preço para indústria",
+      "resumo": "Conselho Nacional de Política Energética aprovou resolução permitindo venda direta de gás natural da União no mercado livre. Medida pode reduzir em pelo menos 50% o preço do gás para indústrias.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/30/cnpe-aprova-venda-direta-de-gas-natural-da-uniao-e-governo-preve-queda-de-50percent-no-preco-para-a-industria.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Receita mantém benefício fiscal nas vendas à Zona Franca",
-      "resumo": "Receita Federal mantém alíquota zero de PIS e Cofins em vendas para Zona Franca de Manaus. Decisão afasta corte previsto na LC nº 224/2025.",
+      "titulo": "TCU inicia fiscalização sobre impactos da reforma tributária em contratos públicos",
+      "resumo": "Tribunal de Contas da União acompanhará preparação da administração pública para transição tributária. Fiscalização inclui efeitos sobre contratos administrativos, concessões e futuras licitações.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78406/receita-mantem-beneficio-fiscal-nas-vendas-a-zona-franca/",
+      "url_original": "https://www.contabeis.com.br/noticias/78422/tcu-inicia-fiscalizacao-sobre-impactos-da-reforma-tributaria-em-contratos-publicos/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "Lucro FGTS: veja quando trabalhador pode sacar o valor",
-      "resumo": "Lucro do FGTS será depositado para trabalhadores com saldo em 31 de dezembro de 2025. Regras de saque variam conforme situação do trabalhador.",
+      "subtema": "SPED",
+      "titulo": "CNPJ alfanumérico mantém sistemas de juntas comerciais instáveis",
+      "resumo": "Implementação do CNPJ alfanumérico continua provocando instabilidades em juntas comerciais. Receita Federal e Serpro realizam ajustes nos sistemas para estabilizar operações.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78404/lucro-fgts-veja-quando-trabalhador-pode-sacar-o-valor/",
+      "url_original": "https://www.contabeis.com.br/noticias/78420/cnpj-alfanumerico-mantem-sistemas-de-juntas-comerciais-instaveis/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Exame CFC 2026.2: inscrições seguem até 7 de agosto",
-      "resumo": "CFC divulga cronograma do Exame de Suficiência 2026.2, com prova em 27 de setembro. Taxa de inscrição é R$ 130 com prazo final no dia 7 de agosto.",
+      "titulo": "ICMS x IBS: alíquota do ICMS para cálculo do DIFAL em 2027 sofrerá alteração",
+      "resumo": "Análise das mudanças do DIFAL com a reforma tributária a partir de 2027. Alíquota do ICMS para cálculo do diferencial de alíquota sofrerá modificações conforme transição tributária.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78402/exame-cfc-2026-2-inscricoes-seguem-ate-7-de-agosto/",
+      "url_original": "https://www.contabeis.com.br/noticias/78426/icms-x-ibs-aliquota-do-icms-para-calculo-do-difal-em-2027-sofrera-alteracao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Tesouro Nacional orienta usuários a adaptar sistemas ao CNPJ alfanumérico",
+      "resumo": "Tesouro Nacional alerta que mudança no formato do CNPJ pode afetar integrações, bases de dados e aplicações. Órgão recomenda revisão de sistemas antes da implantação completa.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78417/tesouro-nacional-orienta-usuarios-a-adaptar-sistemas-ao-cnpj-alfanumerico/",
       "idioma_original": "pt"
     }
   ]
