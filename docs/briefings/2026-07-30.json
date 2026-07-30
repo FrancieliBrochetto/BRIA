@@ -1,0 +1,167 @@
+{
+  "data": "2026-07-30",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Microsoft compete abertamente com OpenAI e Anthropic com modelos próprios",
+      "resumo": "Microsoft apresentou seus modelos de IA homegrown, ferramentas e competidores diretos, sinalizando crescimento contínuo no setor. A empresa busca competir mais agressivamente com OpenAI e Anthropic no mercado de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Zuckerberg prevê bilhões de pessoas com agentes de IA pessoais em cinco anos",
+      "resumo": "Mark Zuckerberg projeta expansão massiva de agentes de IA pessoais conforme Meta investe bilhões em infraestrutura. CEO trabalha para convencer investidores sobre o retorno dos investimentos em IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Microsoft registra US$ 3,2 bi de ganhos com investimento em Anthropic",
+      "resumo": "Microsoft divulga ganhos substanciais de seu investimento em Anthropic durante fiscal 2026. Resultados contrastam com retorno misto de seu investimento em OpenAI.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic lança Opus 5 com capacidades aprimoradas",
+      "resumo": "Anthropic surpreende mercado com lançamento de Claude Opus 5, nova versão com melhorias em desempenho. Modelo inclui novo recurso 'Record a Skill' para automação de tarefas.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/anthropic-opus-5-surprise",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI acidentalmente invade Hugging Face; implicações para segurança e alinhamento",
+      "resumo": "OpenAI invadiu acidentalmente Hugging Face, revelando falhas críticas em segurança. Incidente levanta questões sobre alinhamento de IA e riscos operacionais em laboratórios de IA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Mais de 1.000 funcionários de empresas de IA pedem pedal de freio no desenvolvimento",
+      "resumo": "Mais de mil funcionários de laboratórios de IA solicitam desaceleração no desenvolvimento de modelos fronteira. Movimento sinaliza preocupações internas sobre segurança e velocidade de inovação.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/1000-frontier-staffers-ask-for-an-ai-brake-pedal",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Moonshot libera maior modelo de código aberto da história",
+      "resumo": "Moonshot lança modelo de IA open-weight de escala recorde, democratizando acesso a tecnologia avançada. Movimento reforça tendência de modelos abertos concorrendo com soluções proprietárias.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/moonshot-lets-history-largest-open-model-loose",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Black Forest Labs ensina IA de vídeo a controlar robôs",
+      "resumo": "Black Forest Labs integra IA de vídeo com controle robótico, abrindo aplicações em automação industrial. Desenvolvimento marca progresso em visão computacional para robótica.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "EUA proíbem robôs humanoides chineses e intensificam disputa tecnológica",
+      "resumo": "Estados Unidos anunciam proibição de importação de robôs humanoides e quadrúpedes fabricados no exterior. Medida exclui fabricantes chineses do mercado americano e aumenta tensões Washington-Pequim.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/07/30/eua-proibem-robos-humanoides-chineses-e-ampliam-disputa-tecnologica-com-pequim.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Brasil e Coreia do Sul negociam tecnologia, carne e IA",
+      "resumo": "Brazil-Korea Business Roundtable reúne líderes empresariais para negociar em tecnologia e IA. Vice-presidente Geraldo Alckmin e presidente Lee Jae Myung mediam discussões sobre inovação.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/07/30/tecnologia-carne-e-ia-o-que-empresas-de-brasil-e-coreia-do-sul-negociaram-em-reuniao-fechada.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança",
+      "titulo": "Gigantes de tecnologia são as marcas mais usadas em golpes na internet",
+      "resumo": "Microsoft, LinkedIn, Google, Apple e Amazon lideram lista de marcas tecnológicas exploradas em fraudes cibernéticas. Check Point Software identifica tendência crescente de abuso de marcas para phishing.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/07/30/gigantes-de-tecnologia-sao-as-marcas-mais-usadas-para-aplicar-golpes-na-internet-veja-lista.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ambev frustra projeções no 2T apesar de lucro forte",
+      "resumo": "Ambev apresenta receita e Ebitda abaixo das expectativas no 2T26, embora lucro tenha sido impulsionado por efeitos financeiros. Analistas revisam impacto da Copa do Mundo como menor que o esperado.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ambev-abev3-frustra-projecoes-no-2t-apesar-de-lucro-forte-mercado-olha-alem-do-efeito-copa-desempenho-acoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Empréstimos",
+      "titulo": "Concessões de empréstimos no Brasil sobem 6,5% em junho",
+      "resumo": "Banco Central registra crescimento de 6,5% nas concessões de empréstimos em junho. Inadimplência em recursos livres permanece estável em 6,2%.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/concessoes-de-emprestimos-no-brasil-sobem-65-em-junho-diz-bc/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "cClassTrib na NF-e: Impacto da Reforma Tributária em cadastros",
+      "resumo": "Reforma Tributária gera rejeições de NF-e por problemas com cClassTrib. Contadores devem revisar cadastros para evitar problemas fiscais com novas validações.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78403/cclasstrib-na-nf-e-impacto-da-reforma-tributaria-em-cadastros/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "MT amplia prazo para cancelar CT-e para 24 horas",
+      "resumo": "SEFAZ-MT aumenta prazo de cancelamento do CT-e de 6 para 24 horas. Mudança altera regras de procedimento para contribuintes do estado.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78411/mt-amplia-prazo-para-cancelar-ct-e-para-24-horas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Receita mantém benefício fiscal nas vendas à Zona Franca",
+      "resumo": "Receita Federal mantém alíquota zero de PIS e Cofins em vendas para Zona Franca de Manaus. Decisão afasta corte previsto na LC nº 224/2025.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78406/receita-mantem-beneficio-fiscal-nas-vendas-a-zona-franca/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Lucro FGTS: veja quando trabalhador pode sacar o valor",
+      "resumo": "Lucro do FGTS será depositado para trabalhadores com saldo em 31 de dezembro de 2025. Regras de saque variam conforme situação do trabalhador.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78404/lucro-fgts-veja-quando-trabalhador-pode-sacar-o-valor/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Exame CFC 2026.2: inscrições seguem até 7 de agosto",
+      "resumo": "CFC divulga cronograma do Exame de Suficiência 2026.2, com prova em 27 de setembro. Taxa de inscrição é R$ 130 com prazo final no dia 7 de agosto.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78402/exame-cfc-2026-2-inscricoes-seguem-ate-7-de-agosto/",
+      "idioma_original": "pt"
+    }
+  ]
+}
