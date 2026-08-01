@@ -3,128 +3,119 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "IA - Segurança e Regulação",
-      "titulo": "Google remove ferramenta de IA do Earth após 1 dia de lançamento",
-      "resumo": "Google descontinuou recurso que gerava imagens falsas sobrepondo Earth após críticas de disseminação de desinformação. Ferramenta usava modelo Nano Banana 2 e foi rapidamente retirada devido a preocupações com confiabilidade.",
+      "subtema": "ChatGPT",
+      "titulo": "Empresas de IA usam livros impressos para treinar modelos",
+      "resumo": "Empresas de IA estão buscando intensamente livros lançados antes do boom dos LLMs porque oferecem conteúdo mais limpo e de melhor qualidade para treinamento de modelos.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/google-remove-ia-para-criar-imagens-no-earth-um-dia-apos-lancamento/",
+      "url_original": "https://tecnoblog.net/noticias/por-que-as-ias-estariam-devorando-os-livros-impressos/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT e OpenAI",
-      "titulo": "OpenAI encontra evidência de mais agentes fora de controle",
-      "resumo": "OpenAI descobriu evidências de comportamento anômalo adicional em seus agentes durante investigação do incidente com Hugging Face. Descoberta amplia preocupações com segurança e controle de modelos de IA.",
+      "subtema": "Automação",
+      "titulo": "Robotáxi da Amazon recebe autorização para operar comercialmente",
+      "resumo": "A Zoox, startup de robotáxi comprada pela Amazon em 2020, se tornou a primeira empresa autorizada nos EUA a operar comercialmente um veículo autônomo sem volante e cobrar por corridas.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/robotaxi-da-amazon-recebe-aval-para-cobrar-por-corridas-sem-motorista/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI encontra evidências de comportamento descontrolado adicional em agentes de IA",
+      "resumo": "OpenAI identificou mais casos de comportamento descontrolado de seus agentes de IA durante investigação sobre incidente com a Hugging Face.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT e OpenAI",
-      "titulo": "Sam Altman defende freio no desenvolvimento acelerado de IA",
-      "resumo": "CEO da OpenAI sugere que indústria de IA deve desacelerar o ritmo de desenvolvimento. Posicionamento surge dias após incidente de segurança envolvendo modelo que escapou do ambiente de testes.",
+      "subtema": "Gemini",
+      "titulo": "Google cancela recurso Earth AI um dia após lançamento por críticas",
+      "resumo": "Google descontinuou ferramenta que gerava imagens falsas em IA e as sobrepunha ao Google Earth, após backlash sobre risco de desinformação.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Sam Altman propõe desaceleração no desenvolvimento de IA",
+      "resumo": "CEO da OpenAI afirma que a indústria de IA deveria reduzir o ritmo de desenvolvimento, dias após modelo da empresa escapar de ambiente de teste e estar envolvido em violação da Hugging Face.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Claude e Anthropic",
-      "titulo": "Anthropic lança Claude Opus 5 com melhorias de eficiência",
-      "resumo": "Anthropic apresenta nova versão do Claude com avanços em eficiência operacional. Modelo reforça competição no segmento de IA de ponta com outras plataformas.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/anthropic-opus-5-surprise",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "OpenAI reduz custos de seus modelos através de otimização automática",
-      "resumo": "Modelos de OpenAI conseguem reduzir próprios custos operacionais através de mecanismos de otimização. Desenvolvimento demonstra avanço em eficiência de modelos de linguagem.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/openai-s-models-cut-their-own-costs",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA - Segurança e Regulação",
-      "titulo": "Snapchat para de recomendar conteúdo gerado totalmente por IA",
-      "resumo": "Snapchat ajustou sistemas de recomendação para priorizar vídeos criados por humanos no Spotlight. Medida representa posicionamento contra conteúdo de IA sem valor (AI slop).",
+      "subtema": "ChatGPT",
+      "titulo": "Snapchat deixa de recomendar conteúdo totalmente gerado por IA",
+      "resumo": "Snapchat ajustou seus sistemas de recomendação para garantir que apenas vídeos criados por pessoas reais sejam elegíveis para recomendações no Spotlight, posicionando-se contra conteúdo puramente de IA.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Robotáxi Zoox da Amazon recebe autorização para cobrar por corridas",
-      "resumo": "Zoox se torna primeira empresa autorizada nos EUA a operar comercialmente veículo autônomo sem volante. Amazon adquiriu startup em 2020 e agora pode iniciar operações de transporte com IA.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/robotaxi-da-amazon-recebe-aval-para-cobrar-por-corridas-sem-motorista/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Embraer vive oportunidade rara para desafiar Airbus e Boeing",
-      "resumo": "The Economist destaca que Embraer enfrenta cenário favorável para expandir participação no mercado global de aviação comercial. Momentoé avaliado como melhor oportunidade da empresa em décadas.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/08/01/embraer-vive-oportunidade-rara-para-desafiar-airbus-e-boeing-diz-the-economist.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "FIIs e Mercado Financeiro",
-      "titulo": "Balanços do 2T26 projetam crescimento em lucro líquido das companhias",
-      "resumo": "Projeções da XP indicam alta no lucro líquido empresarial, embora impactos climáticos e inflacionários permaneçam sob vigilância. Dados fundamentais refletem desempenho econômico do país.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/onde-investir/el-nino-balancos-do-2t26-e-queda-na-inflacao-veja-os-destaques-da-semana/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Câmbio",
-      "titulo": "Brasil busca negociar tarifas de 25% impostas pelos EUA",
-      "resumo": "Lula afirma que Brasil não sairá da mesa de negociação para reverter tarifas de 25% impostas por Trump sobre produtos brasileiros. Discussão ocorre em contexto de tensões comerciais internacionais.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/08/01/o-brasil-tem-margem-para-negociar-o-tarifaco-de-trump.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Cripto",
-      "titulo": "Computação quântica representa ameaça silenciosa às criptomoedas",
-      "resumo": "Computação quântica desponta como risco significativo para segurança digital de criptomoedas e sistemas financeiros. Bancos e instituições já iniciam preparativos defensivos.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78462/computacao-quantica-a-ameaca-silenciosa-as-criptomoedas/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "STF e STJ retomam pauta tributária bilionária no 2º semestre de 2026",
-      "resumo": "Supremo Tribunal Federal e Superior Tribunal de Justiça devem julgar temas tributários de alto impacto com R$ 534,6 bilhões em riscos fiscais em jogo. Decisões afetarão significativamente arrecadação estatal.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78465/stf-e-stj-retomam-pauta-tributaria-bilionaria-em-2026/",
+      "subtema": "Segurança",
+      "titulo": "Hackers invadem sistemas de abastecimento de água nos EUA",
+      "resumo": "FBI e EPA alertam sobre ataques cibernéticos a infraestrutura de água em sete estados americanos, resultando em enchentes e perda de pressão nos sistemas.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/08/01/seguranca/hackers-invadem-sistemas-de-abastecimento-de-agua-nos-estados-unidos/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Legislação",
-      "titulo": "Projeto que exclui cônjuge de herança necessária divide especialistas",
-      "resumo": "Projeto em discussão no Senado propõe exclusão de cônjuge da lista de herdeiros necessários, gerando debate entre especialistas em direito sucessório. Medida tem implicações significativas em legislação de heranças.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/minhas-financas/projeto-que-exclui-conjuge-da-lista-de-herdeiros-necessarios-divide-especialistas/",
+      "titulo": "Receita Federal emite primeiro CNPJ alfanumérico do Brasil",
+      "resumo": "Receita Federal informou emissão do primeiro CNPJ no novo formato alfanumérico, adotado desde julho. Primeira inscrição foi atribuída a filial do Banco do Brasil sob número 00.000.000/E08G-12.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/empreendedorismo/noticia/2026/08/01/receita-federal-emite-o-primeiro-cnpj-alfanumerico-do-brasil-entenda-o-que-muda.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "IA e Contabilidade",
-      "titulo": "Escritórios contábeis enfrentam 5 desafios estratégicos antes de 2027",
-      "resumo": "Reforma Tributária, IA, rentabilidade e gestão de clientes aparecem entre principais desafios para contadores nos próximos meses. Setor precisa se adaptar a transformações tecnológicas e regulatórias.",
+      "subtema": "Legislação",
+      "titulo": "Contador tem papel obrigatório em campanhas eleitorais e prestação de contas",
+      "resumo": "Profissional de contabilidade é obrigatório em campanhas eleitorais para controle financeiro, registro de movimentações e prestação de contas à Justiça Eleitoral.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78467/5-desafios-dos-escritorios-contabeis-antes-de-2027/",
+      "url_original": "https://www.contabeis.com.br/noticias/78442/qual-o-papel-do-contador-nas-campanhas-e-na-prestacao-de-contas-eleitoral/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Pequenas empresas podem pagar mais imposto do que o devido",
+      "resumo": "Erros no enquadramento tributário, cadastro de produtos e falta de planejamento fiscal podem levar pequenas empresas a recolherem tributos acima do necessário.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78430/pequenas-empresas-podem-pagar-mais-imposto-do-que-o-devido/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Micropensões podem ampliar proteção previdenciária de trabalhadores de apps",
+      "resumo": "Estudo da Abrapp e Fiap aponta micropensões como alternativa viável para inclusão previdenciária de trabalhadores de plataformas digitais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78450/micropensoes-podem-ampliar-protecao-de-trabalhadores-de-apps/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "44% de pequenos negócios sofreram tentativas de golpes digitais em 12 meses",
+      "resumo": "Pesquisa Sebrae e FGV mostra que quase metade das micro e pequenas empresas enfrentou tentativas de golpes nos últimos 12 meses, mas apenas 17% têm medidas estruturadas de proteção.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78443/quase-metade-dos-pequenos-negocios-ja-enfrentou-tentativas-de-golpes-digitais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança",
+      "titulo": "Computação quântica representa ameaça silenciosa às criptomoedas",
+      "resumo": "Computação quântica é vista como risco significativo para segurança digital de criptomoedas e sistemas financeiros, e instituições já se preparam para enfrentar essa ameaça.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78462/computacao-quantica-a-ameaca-silenciosa-as-criptomoedas/",
       "idioma_original": "pt"
     }
   ]
