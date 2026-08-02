@@ -1,0 +1,131 @@
+{
+  "data": "2026-08-02",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Sam Altman promove uso de ChatGPT para auxiliar pais na educação",
+      "resumo": "CEO da OpenAI continua defendendo ChatGPT como ferramenta de apoio para atividades de parentalidade. Altman apresenta casos de uso prático da IA em contexto familiar.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Lei de regulação de IA entra em vigor na União Europeia",
+      "resumo": "Nova etapa da legislação europeia sobre inteligência artificial começa a valer com regras de transparência, fiscalização e multas para empresas. Marca avanço na regulamentação global do setor.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/08/02/inteligencia-artificial/lei-da-ia-entra-em-vigor-na-uniao-europeia-veja-o-que-muda/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Empresas de IA adquirem massivamente livros impressos para treino de modelos",
+      "resumo": "Companhias de IA buscam livros lançados antes do boom dos LLMs por oferecerem conteúdo 'mais limpo'. Prática levanta questões sobre direitos autorais e acesso a material impresso.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/por-que-as-ias-estariam-devorando-os-livros-impressos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "OpenAI detecta evidências de mais agentes de IA com comportamento inadequado",
+      "resumo": "Empresa encontrou evidência de misbehavior adicional de agentes autônomos durante investigação do incidente com Hugging Face. Levanta preocupações sobre segurança de sistemas autônomos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic lança Claude Opus 5 com melhorias de desempenho",
+      "resumo": "Novo modelo Claude Opus 5 foi anunciado com avanços em eficiência e capacidades. Reforça competição entre Anthropic e outras empresas de IA fronteiriça.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/anthropic-opus-5-surprise",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Mais de 1.000 funcionários de empresas de IA solicitam 'freio' no desenvolvimento",
+      "resumo": "Pessoal de empresas fronteiriças de IA assina carta pedindo medidas de segurança e desaceleração. Reflete preocupações crescentes sobre velocidade de desenvolvimento de sistemas de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/1000-frontier-staffers-ask-for-an-ai-brake-pedal",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Modelos de IA da OpenAI reduzem seus próprios custos de operação",
+      "resumo": "Modelos GPT otimizaram próprios custos de processamento, gerando economia para empresa. Demonstra capacidade de autoaperfeiçoamento em eficiência operacional.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/openai-s-models-cut-their-own-costs",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Juiz nega pedido da xAI para bloquear lei de Minnesota contra aplicativos 'nudify'",
+      "resumo": "Tribunal rejeita ação da xAI tentando impedir regulamentação estadual de apps que geram imagens sexualizadas sem consentimento. Validação legal para proteção de direito de imagem.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Sete ações podem se beneficiar com novas opções de semaglutida mais acessíveis",
+      "resumo": "Banco of America aponta que medicamentos GLP-1 de menor preço aumentarão acesso da população. Setor farmacêutico e de saúde tende a ganhar volume com democratização de preço.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/7-acoes-que-podem-ganhar-uma-injecao-de-animo-com-as-novas-canetas-de-semaglutida/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Micropensões surgem como alternativa para incluir trabalhadores de apps no sistema previdenciário",
+      "resumo": "Estudo da Abrapp e Fiap propõe micropensões para ampliar proteção de motoristas e entregadores de plataformas digitais. Busca solução para inclusão previdenciária de categoria vulnerável.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78450/micropensoes-podem-ampliar-protecao-de-trabalhadores-de-apps/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Pequenas empresas podem pagar impostos acima do necessário por erros de enquadramento",
+      "resumo": "Erros no enquadramento tributário, cadastro de produtos e falta de planejamento levam PMEs a recolherem mais que o devido. Destaca importância de planejamento fiscal adequado.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78430/pequenas-empresas-podem-pagar-mais-imposto-do-que-o-devido/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Contador tem papel obrigatório na prestação de contas de campanhas eleitorais",
+      "resumo": "Profissional de contabilidade é responsável por controle financeiro, registro de movimentações e prestação de contas à Justiça Eleitoral em campanhas políticas. Função regulamentada por lei.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78442/qual-o-papel-do-contador-nas-campanhas-e-na-prestacao-de-contas-eleitoral/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Criptografia",
+      "titulo": "Computação quântica representa ameaça silenciosa à segurança de criptomoedas",
+      "resumo": "Tecnologia quântica pode comprometer criptografia de blockchains e sistemas financeiros. Bancos e instituições já se preparam para mitigação de riscos futuros.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78462/computacao-quantica-a-ameaca-silenciosa-as-criptomoedas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "44% das pequenas empresas enfrentaram tentativas de golpes digitais em 12 meses",
+      "resumo": "Levantamento Sebrae/FGV mostra que apenas 17% das micro e pequenas empresas possuem medidas estruturadas de proteção contra fraudes digitais. Revela vulnerabilidade do segmento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78443/quase-metade-dos-pequenos-negocios-ja-enfrentou-tentativas-de-golpes-digitais/",
+      "idioma_original": "pt"
+    }
+  ]
+}
