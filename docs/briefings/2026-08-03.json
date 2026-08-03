@@ -1,0 +1,149 @@
+{
+  "data": "2026-08-03",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Empresas de IA adquirem massivamente livros impressos para treinamento",
+      "resumo": "Empresas de IA estão buscando intensamente livros lançados antes do boom dos LLMs, priorizando conteúdo \"mais limpo\" para treinamento de modelos. A estratégia reflete a qualidade superior dos textos publicados em formato impresso anterior ao período de proliferação de conteúdo gerado por IA.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/por-que-as-ias-estariam-devorando-os-livros-impressos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Startup apoiada por Marc Benioff busca simplificar adoção de IA",
+      "resumo": "A empresa June, apoiada pelo fundador da Salesforce, saiu do sigilo com US$ 20 milhões em funding pré-seed para resolver o problema da implementação e adoção de IA nas empresas. A solução visa tornar a implantação de modelos de IA mais acessível e simples.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Sam Altman defende desaceleração do desenvolvimento de IA",
+      "resumo": "O CEO da OpenAI vem pedindo ao setor que \"reduza o ritmo de desenvolvimento de IA\" em seu discurso público. A posição alimenta debate sobre a velocidade apropriada de avanço tecnológico na indústria.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "PSG e Google unem futebol com IA através de parceria Gemini e Pixel",
+      "resumo": "O Paris Saint-Germain e Google estabeleceram parceria integrando IA Gemini e Pixel para criar novas experiências aos torcedores. A colaboração explora aplicações práticas de IA no entretenimento esportivo.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/08/03/inteligencia-artificial/o-psg-agora-tem-um-novo-companheiro-de-equipe-a-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI resolve 10 problemas matemáticos históricos com modelo 'Astra'",
+      "resumo": "O modelo Astra da OpenAI conseguiu resolver 10 problemas matemáticos de longa data, demonstrando avanços significativos em capacidade de raciocínio computacional. A plataforma também permite executar tarefas diárias por comando de voz.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/openai-astra-solves-10-long-standing-math-problems",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Modelos OpenAI reduzem seus próprios custos operacionais",
+      "resumo": "Os modelos recentes da OpenAI conseguem reduzir significativamente seus próprios custos de operação através de melhorias de eficiência. A otimização reflete progresso em escalabilidade econômica de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/openai-s-models-cut-their-own-costs",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "1.000+ funcionários de empresas de IA pedem desaceleração do desenvolvimento",
+      "resumo": "Mais de 1.000 funcionários de empresas de IA pediu freio no ritmo de desenvolvimento da tecnologia. O movimento interno reflete preocupações crescentes sobre segurança e impactos sociais da IA em desenvolvimento acelerado.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/1000-frontier-staffers-ask-for-an-ai-brake-pedal",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Moonshot libera o maior modelo open-source de IA da história",
+      "resumo": "A Moonshot lançou o maior modelo de IA open-source até o momento, democratizando acesso a tecnologia de ponta. O lançamento marca tendência de modelos open-source rivalizando com soluções fechadas.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/moonshot-lets-history-largest-open-model-loose",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Juiz nega bloqueio da xAI contra lei de Minnesota sobre apps 'nudify'",
+      "resumo": "Apesar de ação legal da xAI, a proibição de Minnesota sobre apps que permitem \"nudificar\" imagens segue adiante. A decisão reforça regulação sobre usos prejudiciais de IA generativa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "Hackers desviam US$ 110 milhões de carteiras de Bitcoin",
+      "resumo": "Mais de 1.755 tokens foram retirados de aproximadamente 5.000 carteiras em ataque a plataforma de custódia de criptomoedas. O roubo totalizou US$ 110 milhões segundo dados da Galaxy Research.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/hackers-atacam-o-abrigo-mais-seguro-para-bitcoins-e-desviam-us-110-milhoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar abre em queda à espera de decisões de juros",
+      "resumo": "O dólar abriu segunda-feira (3) em queda de 0,08%, cotado a R$ 5,0656. Mercado aguarda decisões de juros e monitora preço do petróleo como fatores determinantes.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/03/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Mercado reduz estimativa de inflação 2026 e projeta maior corte de juros",
+      "resumo": "Estimativa de inflação para 2026 caiu para 5,03%, quinta semana seguida de recuo conforme Boletim Focus do BC. Mercado agora projeta corte maior de juros na próxima decisão Selic.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/03/mercado-reduz-pela-5a-semana-seguida-estimativa-de-inflacao-em-2026-e-projeta-corte-maior-de-juros.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "AstraZeneca e BMS discutem fusão de US$ 400 bilhões",
+      "resumo": "Gigantes farmacêuticas AstraZeneca e Bristol Myers Squibb iniciaram negociações para possível fusão valendo aproximadamente US$ 400 bilhões (R$ 2 trilhões). A operação resultaria em uma das maiores empresas do setor.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/03/gigantes-da-industria-farmaceutica-astrazeneca-e-bms-avaliam-fusao-de-r-2-trilhoes.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Emissão de notas fiscais com IBS e CBS começa hoje sem rejeição",
+      "resumo": "Primeira fase da adaptação dos documentos fiscais entra em vigor para empresas de lucro real e presumido. Emissão de notas começa sem sistema de rejeição; Simples Nacional segue cronograma próprio.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78481/reforma-tributaria-emissao-de-notas-comeca-hoje-3-sem-rejeicao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Simples Nacional define em setembro como recolher IBS e CBS em 2027",
+      "resumo": "Empresas do Simples Nacional terão entre 1º e 30 de setembro para decidir como recolher IBS e CBS em 2027. Prazo permite que negócios preparem estrutura para novos tributos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78482/simples-nacional-decisao-sobre-ibs-e-cbs-ja-em-setembro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Automação",
+      "titulo": "Automação transforma rotina de escritórios contábeis e amplia competitividade",
+      "resumo": "Escritórios contábeis que insistem em processos manuais perdem competitividade com a automação. Fim da conciliação manual marca transformação estrutural na profissão contábil.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78456/fim-da-conciliacao-manual-por-que-escritorios-contabeis-estao-perdendo-competitividade/",
+      "idioma_original": "pt"
+    }
+  ]
+}
