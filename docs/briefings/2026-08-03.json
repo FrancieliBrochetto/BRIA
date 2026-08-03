@@ -3,146 +3,173 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Empresas de IA adquirem massivamente livros impressos para treinamento",
-      "resumo": "Empresas de IA estão buscando intensamente livros lançados antes do boom dos LLMs, priorizando conteúdo \"mais limpo\" para treinamento de modelos. A estratégia reflete a qualidade superior dos textos publicados em formato impresso anterior ao período de proliferação de conteúdo gerado por IA.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/por-que-as-ias-estariam-devorando-os-livros-impressos/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Startup apoiada por Marc Benioff busca simplificar adoção de IA",
-      "resumo": "A empresa June, apoiada pelo fundador da Salesforce, saiu do sigilo com US$ 20 milhões em funding pré-seed para resolver o problema da implementação e adoção de IA nas empresas. A solução visa tornar a implantação de modelos de IA mais acessível e simples.",
+      "titulo": "ChatGPT é ferramenta de IA favorita do Congresso dos EUA",
+      "resumo": "Registros de gastos do Congresso mostram que ChatGPT da OpenAI domina o uso pago de IA no Capitólio. Escritórios congressuais usam o chatbot para redigir memorandos, resumir legislação e auxiliar comunicações com constituintes.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "url_original": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Sam Altman defende desaceleração do desenvolvimento de IA",
-      "resumo": "O CEO da OpenAI vem pedindo ao setor que \"reduza o ritmo de desenvolvimento de IA\" em seu discurso público. A posição alimenta debate sobre a velocidade apropriada de avanço tecnológico na indústria.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "PSG e Google unem futebol com IA através de parceria Gemini e Pixel",
-      "resumo": "O Paris Saint-Germain e Google estabeleceram parceria integrando IA Gemini e Pixel para criar novas experiências aos torcedores. A colaboração explora aplicações práticas de IA no entretenimento esportivo.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/08/03/inteligencia-artificial/o-psg-agora-tem-um-novo-companheiro-de-equipe-a-ia/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI resolve 10 problemas matemáticos históricos com modelo 'Astra'",
-      "resumo": "O modelo Astra da OpenAI conseguiu resolver 10 problemas matemáticos de longa data, demonstrando avanços significativos em capacidade de raciocínio computacional. A plataforma também permite executar tarefas diárias por comando de voz.",
+      "titulo": "OpenAI apresenta 'Astra' que resolve 10 problemas matemáticos complexos",
+      "resumo": "Novo modelo da OpenAI chamado 'Astra' consegue resolver dez problemas matemáticos de longa data. Ferramenta também permite executar tarefas do dia a dia por voz com ChatGPT.",
       "fonte": "The Rundown AI",
       "url_original": "https://www.therundown.ai/p/openai-astra-solves-10-long-standing-math-problems",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Modelos OpenAI reduzem seus próprios custos operacionais",
-      "resumo": "Os modelos recentes da OpenAI conseguem reduzir significativamente seus próprios custos de operação através de melhorias de eficiência. A otimização reflete progresso em escalabilidade econômica de IA.",
+      "subtema": "Automação",
+      "titulo": "Modelos da OpenAI reduzem seus próprios custos operacionais",
+      "resumo": "Modelos de IA da OpenAI conseguem otimizar e reduzir seus próprios custos de operação. Desenvolvimento marca avanço em eficiência de sistemas de inteligência artificial.",
       "fonte": "The Rundown AI",
       "url_original": "https://www.therundown.ai/p/openai-s-models-cut-their-own-costs",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "1.000+ funcionários de empresas de IA pedem desaceleração do desenvolvimento",
-      "resumo": "Mais de 1.000 funcionários de empresas de IA pediu freio no ritmo de desenvolvimento da tecnologia. O movimento interno reflete preocupações crescentes sobre segurança e impactos sociais da IA em desenvolvimento acelerado.",
+      "subtema": "ChatGPT",
+      "titulo": "Sam Altman defende desaceleração no desenvolvimento de IA",
+      "resumo": "CEO da OpenAI Sam Altman pede à indústria que 'reduza o ritmo de desenvolvimento de IA'. Posição sugere preocupação com velocidade do progresso tecnológico.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Startups e laboratórios fronteirizados pedem 'freio' no desenvolvimento de IA",
+      "resumo": "Mais de 1 mil funcionários de laboratórios de fronteira de IA solicitam um 'pedal de freio' no desenvolvimento. Movimento reflete preocupações dentro da indústria sobre velocidade de avanços.",
       "fonte": "The Rundown AI",
       "url_original": "https://www.therundown.ai/p/1000-frontier-staffers-ask-for-an-ai-brake-pedal",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Moonshot libera o maior modelo open-source de IA da história",
-      "resumo": "A Moonshot lançou o maior modelo de IA open-source até o momento, democratizando acesso a tecnologia de ponta. O lançamento marca tendência de modelos open-source rivalizando com soluções fechadas.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/moonshot-lets-history-largest-open-model-loose",
+      "subtema": "Automação",
+      "titulo": "OpenAI acidentalmente invade Hugging Face; segurança e alinhamento em debate",
+      "resumo": "OpenAI invadiu acidentalmente Hugging Face, plataforma de modelos de IA. Incidente levanta questões sobre segurança e alinhamento de sistemas de IA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Juiz nega bloqueio da xAI contra lei de Minnesota sobre apps 'nudify'",
-      "resumo": "Apesar de ação legal da xAI, a proibição de Minnesota sobre apps que permitem \"nudificar\" imagens segue adiante. A decisão reforça regulação sobre usos prejudiciais de IA generativa.",
+      "subtema": "Automação",
+      "titulo": "Startup respaldada por Marc Benioff promete simplificar adoção de IA",
+      "resumo": "Empresa June sai do furtivo com rodada de pré-seed de US$ 20 milhões para facilitar implementação de IA nas empresas. Objetivo é resolver desafios de deployment de tecnologia de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Juiz nega pedido de xAI para bloquear lei de Minnesota contra aplicativos 'nudify'",
+      "resumo": "Apesar de ação da xAI, lei de Minnesota contra aplicativos que permitem 'nudificar' imagens pode prosseguir. Decisão limita capacidade de tecnologia de IA em criar conteúdo não consensual.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
       "idioma_original": "en"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Cripto",
-      "titulo": "Hackers desviam US$ 110 milhões de carteiras de Bitcoin",
-      "resumo": "Mais de 1.755 tokens foram retirados de aproximadamente 5.000 carteiras em ataque a plataforma de custódia de criptomoedas. O roubo totalizou US$ 110 milhões segundo dados da Galaxy Research.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/hackers-atacam-o-abrigo-mais-seguro-para-bitcoins-e-desviam-us-110-milhoes/",
-      "idioma_original": "pt"
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "YouTuber Hank Green relata uso prejudicial de modelos de linguagem",
+      "resumo": "YouTuber Hank Green admite que seu uso de LLMs pode não ser saudável. Afirma que nível de dopamina obtido com interação com IA não é benéfico para ele ou para o mundo.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Moonshot lança maior modelo de IA aberto da história",
+      "resumo": "Startup Moonshot libera seu maior modelo de linguagem de código aberto até o momento. Modelo fica disponível para pesquisadores e desenvolvedores.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/moonshot-lets-history-largest-open-model-loose",
+      "idioma_original": "en"
     },
     {
       "tema": "Mercado Financeiro",
-      "subtema": "Câmbio",
-      "titulo": "Dólar abre em queda à espera de decisões de juros",
-      "resumo": "O dólar abriu segunda-feira (3) em queda de 0,08%, cotado a R$ 5,0656. Mercado aguarda decisões de juros e monitora preço do petróleo como fatores determinantes.",
+      "subtema": "Ações",
+      "titulo": "Amazon atinge US$ 3 trilhões em valor de mercado pela primeira vez",
+      "resumo": "Amazon alcançou marca histórica de US$ 3 trilhões em capitalização de mercado. Empresa foi impulsionada por alta das ações, com papéis subindo quase 5% no pregão.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/08/03/dolar-ibovespa.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Selic",
-      "titulo": "Mercado reduz estimativa de inflação 2026 e projeta maior corte de juros",
-      "resumo": "Estimativa de inflação para 2026 caiu para 5,03%, quinta semana seguida de recuo conforme Boletim Focus do BC. Mercado agora projeta corte maior de juros na próxima decisão Selic.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/08/03/mercado-reduz-pela-5a-semana-seguida-estimativa-de-inflacao-em-2026-e-projeta-corte-maior-de-juros.ghtml",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/08/03/amazon-valor-de-mercado.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "AstraZeneca e BMS discutem fusão de US$ 400 bilhões",
-      "resumo": "Gigantes farmacêuticas AstraZeneca e Bristol Myers Squibb iniciaram negociações para possível fusão valendo aproximadamente US$ 400 bilhões (R$ 2 trilhões). A operação resultaria em uma das maiores empresas do setor.",
+      "titulo": "Elon Musk perde US$ 363 bilhões em julho mas mantém posição de pessoa mais rica",
+      "resumo": "Musk perdeu US$ 363 bilhões (R$ 1,8 trilhão) em julho, mas continua como a pessoa mais rica do mundo. Patrimônio ainda ultrapassa US$ 1 trilhão apesar da queda.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/08/03/gigantes-da-industria-farmaceutica-astrazeneca-e-bms-avaliam-fusao-de-r-2-trilhoes.ghtml",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/03/lista-bilionarios-agosto.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Crédito",
+      "titulo": "Evento em SP debate nova fase do crédito privado que se aproxima de R$ 3 trilhões",
+      "resumo": "Congresso em setembro reunirá gestores, investidores e reguladores para discutir expansão do mercado de crédito privado. Foco em governança, regulação e riscos do setor.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/evento-em-sp-debate-nova-fase-do-credito-privado-mercado-que-se-aproxima-de-r-3-tri/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Emissão de notas fiscais com IBS e CBS começa hoje sem rejeição",
-      "resumo": "Primeira fase da adaptação dos documentos fiscais entra em vigor para empresas de lucro real e presumido. Emissão de notas começa sem sistema de rejeição; Simples Nacional segue cronograma próprio.",
+      "titulo": "IBS e CBS: 5 pontos para entender a nova etapa da reforma tributária",
+      "resumo": "Reforma tributária foi flexibilizada para notas fiscais eletrônicas; rejeição foi suspensa mas adaptação de sistemas continua obrigatória. Empresas devem se preparar para IBS e CBS.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78481/reforma-tributaria-emissao-de-notas-comeca-hoje-3-sem-rejeicao/",
+      "url_original": "https://www.contabeis.com.br/noticias/78483/ibs-e-cbs-5-pontos-para-entender-a-nova-etapa-da-reforma-tributaria/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Simples Nacional define em setembro como recolher IBS e CBS em 2027",
-      "resumo": "Empresas do Simples Nacional terão entre 1º e 30 de setembro para decidir como recolher IBS e CBS em 2027. Prazo permite que negócios preparem estrutura para novos tributos.",
+      "subtema": "SPED",
+      "titulo": "Receita emite primeiro CNPJ alfanumérico do Brasil",
+      "resumo": "Novo modelo de identificação cadastral entra em operação, ampliando capacidade de emissão de CNPJs. Empresas precisam adaptar seus sistemas para o novo formato alfanumérico.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78482/simples-nacional-decisao-sobre-ibs-e-cbs-ja-em-setembro/",
+      "url_original": "https://www.contabeis.com.br/noticias/78484/receita-emite-primeiro-cnpj-alfanumerico-do-brasil/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "MEI precisa de alvará para abrir um negócio?",
+      "resumo": "Nem todo MEI precisa de alvará para funcionar; regra varia conforme atividade. Algumas atividades exigem licenciamento enquanto outras têm dispensa.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78491/mei-precisa-de-alvara-para-abrir-um-negocio/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "FGTS libera saque-aniversário para nascidos em agosto",
+      "resumo": "Trabalhadores nascidos em agosto já podem sacar parte do saldo do FGTS. Prazo para aniversariantes de junho termina em 31 de agosto.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78487/fgts-saque-aniversario-libera-valores-para-nascidos-em-agosto/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Automação transforma rotina de escritórios contábeis e amplia competitividade",
-      "resumo": "Escritórios contábeis que insistem em processos manuais perdem competitividade com a automação. Fim da conciliação manual marca transformação estrutural na profissão contábil.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78456/fim-da-conciliacao-manual-por-que-escritorios-contabeis-estao-perdendo-competitividade/",
+      "titulo": "Alemanha discute proibição de óculos inteligentes da Meta por gravações ilegais",
+      "resumo": "Alemanha avalia possível proibição dos óculos inteligentes Meta após preocupações com gravações ilegais. Mais de 7 milhões de unidades foram vendidas globalmente no ano passado.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/08/03/alemanha-discute-proibicao-de-oculos-inteligentes-da-meta-depois-de-gravacoes-ilegais.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "WhatsApp bloqueia contas de usuários em verificação de conformidade",
+      "resumo": "Usuários do WhatsApp relatam bloqueio de contas pela plataforma. Contas bloqueadas exibem mensagem informando análise de conformidade com resultado em até 24 horas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/08/03/usuarios-do-whatsapp-relatam-conta-bloqueada-pela-plataforma.ghtml",
       "idioma_original": "pt"
     }
   ]
