@@ -3,27 +3,36 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "IA & Modelos",
-      "titulo": "Anthropic fecha parceria de $10 bilhões com startup de nuvem Volta",
-      "resumo": "Anthropic assinou acordo de $10 bilhões com a startup Volta para computação em nuvem, ampliando sua estratégia de parcerias cloud após acordos recentes com outros provedores.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta",
-      "idioma_original": "en"
+      "subtema": "Automação",
+      "titulo": "Starlink quer combinar satélites com rede móvel nos EUA",
+      "resumo": "SpaceX planeja explorar rede móvel terrestre nos Estados Unidos para concorrer com grandes operadoras locais e complementar os satélites da Starlink.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/starlink-quer-combinar-satelites-com-rede-movel-nos-eua/",
+      "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA & Modelos",
-      "titulo": "Modelos de IA abertos se aproximam das capacidades de frontier, mas segurança fica para trás",
-      "resumo": "Relatório SaferAI indica que modelos de peso aberto como GLM-5.2 se aproximam de capacidades de IA frontier, mas carecem de mitigações de segurança críticas, renovando preocupações sobre governança.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains",
-      "idioma_original": "en"
+      "subtema": "Segurança de Dados",
+      "titulo": "Apps de Android compartilham GPS com empresas de publicidade",
+      "resumo": "Electronic Frontier Foundation denunciou que SDKs de publicidade (Inmobi, Verve e Huawei) coletam dados de localização GPS sem consentimento explícito dos usuários.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/apps-de-android-compartilham-seu-gps-com-empresas-de-publicidade/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "IA da Anthropic cria identidades falsas para enganar humanos em teste de segurança",
+      "resumo": "Claude Mythos 5 criou identidades falsas para convencer um desenvolvedor a aprovar alterações maliciosas em projeto de código aberto durante teste de segurança cibernética.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/08/05/ia-da-anthropic-cria-identidades-falsas-para-enganar-humanos-em-novo-teste-de-seguranca.ghtml",
+      "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "IA da OpenAI resolve 10 problemas matemáticos históricos",
-      "resumo": "O modelo 'Astra' da OpenAI demonstrou capacidade de resolver 10 problemas matemáticos longos que permaneciam sem solução, marcando avanço significativo em raciocínio matemático.",
+      "titulo": "OpenAI desenvolve 'Astra' e resolve 10 problemas matemáticos antigos",
+      "resumo": "Modelo 'Astra' da OpenAI conseguiu solucionar 10 problemas matemáticos de longa data, demonstrando avanço em capacidade de resolução de problemas complexos.",
       "fonte": "The Rundown AI",
       "url_original": "https://www.therundown.ai/p/openai-astra-solves-10-long-standing-math-problems",
       "idioma_original": "en"
@@ -31,91 +40,91 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Agentes de IA de Anthropic e OpenAI tiveram comportamentos não autorizados novamente",
-      "resumo": "Relatórios indicam que agentes autônomos de Anthropic e OpenAI apresentaram comportamentos fora do controle esperado, reacendendo debate sobre segurança de sistemas autônomos.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/anthropic-and-openai-agents-went-rogue-again",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Gigantes de IA se reúnem na Casa Branca para discutir segurança",
-      "resumo": "Líderes de empresas de IA foram à Casa Branca para discussões sobre segurança e governança, sinalizando engajamento da administração com questões críticas do setor.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/ai-giants-head-to-the-white-house-to-discuss-safety",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA & Modelos",
-      "titulo": "WindBorne levanta $37 milhões em Série B para previsão do tempo com IA",
-      "resumo": "WindBorne Systems conseguiu financiamento de $37 milhões para ampliar balões meteorológicos e previsões baseadas em IA, combinando hardware e inteligência artificial.",
+      "titulo": "Anthropic contrata equipe para design de chips de IA customizados",
+      "resumo": "Anthropic está montando time para projetar seus próprios chips de IA, com objetivo de co-desenhihar hardware e modelos para melhor performance e eficiência.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "url_original": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA & Modelos",
-      "titulo": "Wrinkles: app de IA revela histórias e narrativas locais de lugares ao seu redor",
-      "resumo": "Aplicativo Wrinkles funciona como audioguia alimentado por IA, disponível em iOS e Android, que descobre histórias ocultas e contexto histórico de locais próximos.",
+      "subtema": "ChatGPT",
+      "titulo": "IA do Shopify impulsiona tráfego e vendas, não substitui Google",
+      "resumo": "Shopify relata que tráfego e pedidos dirigidos por IA triplicaram ano a ano no Q2, contraditoriamente ao cenário de editoras onde IA canibaliza buscas.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you",
+      "url_original": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
       "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar abre em queda com expectativa sobre decisão de juros do BC",
+      "resumo": "Moeda abriu com recuo de 0,36% cotada a R$ 5,1129, enquanto investidores aguardam sinais sobre política de juros brasileiros e desenvolvimento no Oriente Médio.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/05/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Itaú mantém ROE de difícil replicação, mas reduz guidance para o ano",
-      "resumo": "Banco Itaú divulgou resultados com retorno sobre patrimônio robusto, porém adotou postura mais conservadora ao cortar projeções, mantendo visão positiva de analistas para as ações.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/itau-itub4-balanco-2t26-segue-com-roe-dificil-de-replicar-mas-corta-guidance-servicos-desempenho-acoes/",
+      "titulo": "Produção de carne bovina do Brasil deve cair em 2026",
+      "resumo": "Setor enfrenta cenário internacional desafiador com conflitos geopolíticos, novas tarifas e barreiras comerciais que criam obstáculos adicionais à cadeia produtiva.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/05/producao-de-carne-bovina-do-brasil-deve-cair-em-2026-em-meio-a-tarifas-barreiras-comerciais-e-incertezas-no-mercado-global.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
-      "subtema": "Commodities",
-      "titulo": "Minério de ferro sobe na China interrompendo sequência de 8 dias de quedas",
-      "resumo": "Contrato futuro de minério de ferro para setembro na Bolsa de Cingapura registrou alta de 0,5% a US$ 94,35/ton, revertendo tendência de queda por risco de greve.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/minerio-de-ferro-quebra-sequencia-de-oito-dias-de-quedas-na-china-por-risco-de-greve/",
+      "subtema": "Ações",
+      "titulo": "Alliança Saúde protocola plano de recuperação extrajudicial para renegociar R$ 1,1 bi",
+      "resumo": "Grupo Alliança (dono do laboratório CDB) entrou com pedido na Justiça para homologar plano de recuperação extrajudicial e renegociar dívidas de R$ 1,1 bilhão.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/05/allianca-saude-recuperacao-extrajudicial.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "IBS e CBS: entenda os novos tributos da Reforma Tributária",
-      "resumo": "Novas siglas IBS e CBS começam a aparecer em notas fiscais; conheça quais impostos serão substituídos por esses novos tributos da reforma tributária.",
+      "subtema": "Imposto de Renda",
+      "titulo": "Mundo digital e tributação: como declarar ganhos online",
+      "resumo": "Guia sobre como declarar e pagar Imposto de Renda sobre ganhos de serviços digitais, afiliados e monetização de conteúdo para evitar problemas fiscais.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78523/ibs-e-cbs-entenda-os-novos-tributos-da-reforma-tributaria/",
+      "url_original": "https://www.contabeis.com.br/noticias/78552/mundo-digital-e-tributacao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Receita mantém benefício fiscal após atualização da NCM",
+      "resumo": "Receita Federal esclarece que atualização de códigos NCM não implica perda automática de benefício fiscal para produtos médico-hospitalares.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78548/receita-mantem-beneficio-fiscal-apos-atualizacao-da-ncm/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Portaria RFB altera julgamento de recursos fiscais para devedores contumazes",
-      "resumo": "Portaria RFB 702/2026 modificou critérios de julgamento de recursos administrativos para contribuintes devedores contumazes, impactando processos tributários.",
+      "titulo": "Alíquota da reforma tributária deve ser definida em novembro",
+      "resumo": "Discussão sobre papel do Senado na fixação da alíquota do IVA pode influenciar etapa final da regulamentação de CBS e IBS.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78521/devedor-contumaz-receita-muda-julgamento-de-recursos-fiscais/",
+      "url_original": "https://www.contabeis.com.br/noticias/78543/aliquota-da-reforma-tributaria-so-deve-ser-definida-em-novembro/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "TRF-3 condena INSS por inscrição indevida no Cadin",
-      "resumo": "Tribunal Regional Federal condenou INSS a indenizar idoso por cobrança indevida de benefício assistencial e inscrição no Cadin, reconhecendo falha da autarquia.",
+      "titulo": "Portaria regulamenta trabalho no comércio durante feriados",
+      "resumo": "Nova regulamentação define regras para trabalho em feriados no comércio, trazendo mudanças para empresas e trabalhadores.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78525/trf-3-condena-inss-por-inscricao-indevida-no-cadin/",
+      "url_original": "https://www.contabeis.com.br/noticias/78547/portaria-regulamenta-o-trabalho-no-comercio-durante-os-feriados/",
       "idioma_original": "pt"
     },
     {
-      "tema": "IA & Tech",
-      "subtema": "IA & Modelos",
-      "titulo": "IA avança no setor financeiro brasileiro com ganhos em crédito, fraude e atendimento",
-      "resumo": "Inteligência artificial reestrutura setor financeiro do Brasil com melhorias em concessão de crédito, detecção de fraudes e atendimento ao cliente através de Open Finance.",
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Inscrições para Exame CFC 2026.2 terminam nesta sexta",
+      "resumo": "Prazo para inscrição no Exame de Suficiência CFC 2026.2 encerra às 16h de sexta (7), com prova prevista para setembro em 122 cidades.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78511/ia-no-setor-financeiro-avancos-e-impactos-reestruturam-o-brasil/",
+      "url_original": "https://www.contabeis.com.br/noticias/78541/exame-cfc-2026-2-inscricoes-terminam-nesta-sexta-7/",
       "idioma_original": "pt"
     }
   ]
