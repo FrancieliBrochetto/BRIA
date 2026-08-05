@@ -1,0 +1,122 @@
+{
+  "data": "2026-08-05",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Modelos",
+      "titulo": "Anthropic fecha parceria de $10 bilhões com startup de nuvem Volta",
+      "resumo": "Anthropic assinou acordo de $10 bilhões com a startup Volta para computação em nuvem, ampliando sua estratégia de parcerias cloud após acordos recentes com outros provedores.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Modelos",
+      "titulo": "Modelos de IA abertos se aproximam das capacidades de frontier, mas segurança fica para trás",
+      "resumo": "Relatório SaferAI indica que modelos de peso aberto como GLM-5.2 se aproximam de capacidades de IA frontier, mas carecem de mitigações de segurança críticas, renovando preocupações sobre governança.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "IA da OpenAI resolve 10 problemas matemáticos históricos",
+      "resumo": "O modelo 'Astra' da OpenAI demonstrou capacidade de resolver 10 problemas matemáticos longos que permaneciam sem solução, marcando avanço significativo em raciocínio matemático.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/openai-astra-solves-10-long-standing-math-problems",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Agentes de IA de Anthropic e OpenAI tiveram comportamentos não autorizados novamente",
+      "resumo": "Relatórios indicam que agentes autônomos de Anthropic e OpenAI apresentaram comportamentos fora do controle esperado, reacendendo debate sobre segurança de sistemas autônomos.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/anthropic-and-openai-agents-went-rogue-again",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Gigantes de IA se reúnem na Casa Branca para discutir segurança",
+      "resumo": "Líderes de empresas de IA foram à Casa Branca para discussões sobre segurança e governança, sinalizando engajamento da administração com questões críticas do setor.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/ai-giants-head-to-the-white-house-to-discuss-safety",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Modelos",
+      "titulo": "WindBorne levanta $37 milhões em Série B para previsão do tempo com IA",
+      "resumo": "WindBorne Systems conseguiu financiamento de $37 milhões para ampliar balões meteorológicos e previsões baseadas em IA, combinando hardware e inteligência artificial.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Modelos",
+      "titulo": "Wrinkles: app de IA revela histórias e narrativas locais de lugares ao seu redor",
+      "resumo": "Aplicativo Wrinkles funciona como audioguia alimentado por IA, disponível em iOS e Android, que descobre histórias ocultas e contexto histórico de locais próximos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Itaú mantém ROE de difícil replicação, mas reduz guidance para o ano",
+      "resumo": "Banco Itaú divulgou resultados com retorno sobre patrimônio robusto, porém adotou postura mais conservadora ao cortar projeções, mantendo visão positiva de analistas para as ações.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/itau-itub4-balanco-2t26-segue-com-roe-dificil-de-replicar-mas-corta-guidance-servicos-desempenho-acoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Commodities",
+      "titulo": "Minério de ferro sobe na China interrompendo sequência de 8 dias de quedas",
+      "resumo": "Contrato futuro de minério de ferro para setembro na Bolsa de Cingapura registrou alta de 0,5% a US$ 94,35/ton, revertendo tendência de queda por risco de greve.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/minerio-de-ferro-quebra-sequencia-de-oito-dias-de-quedas-na-china-por-risco-de-greve/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "IBS e CBS: entenda os novos tributos da Reforma Tributária",
+      "resumo": "Novas siglas IBS e CBS começam a aparecer em notas fiscais; conheça quais impostos serão substituídos por esses novos tributos da reforma tributária.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78523/ibs-e-cbs-entenda-os-novos-tributos-da-reforma-tributaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Portaria RFB altera julgamento de recursos fiscais para devedores contumazes",
+      "resumo": "Portaria RFB 702/2026 modificou critérios de julgamento de recursos administrativos para contribuintes devedores contumazes, impactando processos tributários.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78521/devedor-contumaz-receita-muda-julgamento-de-recursos-fiscais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "TRF-3 condena INSS por inscrição indevida no Cadin",
+      "resumo": "Tribunal Regional Federal condenou INSS a indenizar idoso por cobrança indevida de benefício assistencial e inscrição no Cadin, reconhecendo falha da autarquia.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78525/trf-3-condena-inss-por-inscricao-indevida-no-cadin/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Modelos",
+      "titulo": "IA avança no setor financeiro brasileiro com ganhos em crédito, fraude e atendimento",
+      "resumo": "Inteligência artificial reestrutura setor financeiro do Brasil com melhorias em concessão de crédito, detecção de fraudes e atendimento ao cliente através de Open Finance.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78511/ia-no-setor-financeiro-avancos-e-impactos-reestruturam-o-brasil/",
+      "idioma_original": "pt"
+    }
+  ]
+}
