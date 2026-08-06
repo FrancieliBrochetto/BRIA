@@ -1,0 +1,104 @@
+{
+  "data": "2026-08-06",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança & Hacking",
+      "titulo": "Hackers exploram falha em carteiras offline e roubam R$ 650 milhões",
+      "resumo": "Autoridades dos EUA foram alertadas sobre crime envolvendo exploração de vulnerabilidade em carteiras de criptomoedas offline. O roubo resultou em perdas de mais de R$ 650 milhões.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/hackers-exploram-falha-em-carteiras-offline-e-roubam-mais-de-r-650-milhoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança & Hacking",
+      "titulo": "Antenas clandestinas usadas em golpes por SMS no Brasil",
+      "resumo": "Anatel apreendeu equipamentos de antenas falsas em São Paulo e Rio que bloqueavam sinais reais de operadoras para disparar golpes via SMS. As antenas alcançam cerca de 2 km de raio.",
+      "fonte": "G1 Economia / Olhar Digital",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/08/06/golpe-da-antena-falsa-criminosos-bloqueiam-sinal-das-operadoras-para-tirar-dinheiro-de-vitimas.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI desenvolve avanço em resolução de problemas matemáticos complexos",
+      "resumo": "OpenAI apresenta 'Astra', modelo que consegue resolver 10 problemas matemáticos que estavam em aberto há anos. Ferramenta também permite executar tarefas via voz.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/openai-astra-solves-10-long-standing-math-problems",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google realiza mudanças na liderança de divisão de inteligência artificial",
+      "resumo": "Demis Hassabis, CEO e cofundador da Google DeepMind, deixará responsabilidades operacionais para assumir cargo de cientista-chefe. Google anuncia reorganização da estrutura de IA.",
+      "fonte": "Tecnoblog / The Rundown AI",
+      "url_original": "https://tecnoblog.net/noticias/google-faz-mudancas-e-troca-chefes-de-divisao-de-inteligencia-artificial/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Meta lança Muse Code, agente de IA para bases de código grandes",
+      "resumo": "Meta expande suas ofertas de programação com novo agente de IA capaz de lidar com tarefas complexas em projetos de software de grande escala.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Pesquisadores de topo do Google saem para lançar startup focada em IA para descoberta científica",
+      "resumo": "Jeff Dean e outros executivos renomados deixam Google para criar startup dedicada a usar IA para avançar pesquisa científica e descobertas.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Shopify relata que busca com IA aumenta tráfego e vendas sem deslocar Google",
+      "resumo": "Shopify afirma que IA não canibaliza buscas tradicionais. Tráfego e pedidos gerados por IA em lojas Shopify triplicaram no segundo trimestre.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "Modelos OpenAI reduzem seus próprios custos operacionais",
+      "resumo": "OpenAI implementa otimizações que diminuem custos dos próprios modelos, melhorando eficiência de processamento e tornando serviços mais acessíveis.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/openai-s-models-cut-their-own-costs",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "CGIBS estima alíquota de 27,91% para IBS e CBS em 2033",
+      "resumo": "Comitê Gestor projeta alíquota de referência de 27,91% para impostos sobre bens e serviços, acima do teto legal, mas ressalva que percentual ainda não é definitivo.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78568/cgibs-estima-aliquota-de-referencia-de-27-91-para-ibs-e-cbs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "DF libera produção da NFS-e Nacional e define fim do padrão Abrasf",
+      "resumo": "Secretaria de Economia do DF libera ambiente de produção da Nota Fiscal de Serviço eletrônica Nacional. Padrão Abrasf 2.04 será aceito apenas até 30 de setembro.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78549/nfs-e-nacional-df-libera-producao-e-define-fim-do-padrao-abrasf/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Receita Federal atualiza regras do EPEC para emissão em contingência",
+      "resumo": "Receita Federal publica Nota Técnica com ajustes no Evento Prévio de Emissão em Contingência (EPEC), trazendo novas orientações para empresas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78550/receita-atualiza-regras-do-epec-para-emissao-em-contingencia/",
+      "idioma_original": "pt"
+    }
+  ]
+}
