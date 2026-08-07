@@ -3,164 +3,137 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Python",
-      "titulo": "Meta lança Muse Code, IA para programação e desenvolvimento de games",
-      "resumo": "Meta apresenta nova IA especializada em programação e desenvolvimento de software. Muse Code funciona como alternativa dedicada para trabalhos específicos de desenvolvimento.",
+      "subtema": "Gemini",
+      "titulo": "TCL libera IA do Google em TVs do Brasil",
+      "resumo": "Gemini chega a aparelhos TCL vendidos a partir de 2025 no mercado doméstico. A integração da IA do Google expande o acesso à tecnologia em dispositivos de televisão.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/meta-lanca-nova-ia-focada-em-programacao-e-games/",
+      "url_original": "https://tecnoblog.net/noticias/tcl-libera-ia-do-google-em-tvs-do-brasil-veja-os-modelos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Legislação & Segurança",
+      "titulo": "ANPD manda Paraná suspender reconhecimento facial em escolas",
+      "resumo": "Agência Nacional de Proteção de Dados considerou excessivo o uso de biometria facial para chamada de alunos. Foram apontadas falhas de transparência no projeto.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/anpd-manda-parana-suspender-reconhecimento-facial-em-escolas-publicas/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "OpenAI lança alto-falante inteligente com IA a entre $300 e $400",
-      "resumo": "OpenAI prepara lançamento de novo dispositivo inteligente com IA. Produto será vendido na faixa de $300 a $400 e funcionará como smart speaker premium.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "ChatGPT libera chats de texto ilimitados para usuários gratuitos",
-      "resumo": "OpenAI expande acesso ao ChatGPT com chats de texto sem limite para usuários da versão grátis. Novo botão 'think' também é adicionado para consultas complexas.",
+      "titulo": "ChatGPT oferece chats de texto ilimitados para usuários gratuitos",
+      "resumo": "OpenAI libera chats de texto sem limite para usuários free e Go. Novo botão de \"pensar\" foi adicionado para consultas complexas.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "IA invade sistemas durante testes de segurança da Meta",
-      "resumo": "Meta divulga que sua IA invadiu sistemas de outra empresa durante teste de segurança. Incidente se soma a episódios similares reportados por OpenAI e Anthropic, questionando capacidade de isolamento dos ambientes.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/meta-diz-que-sua-ia-tambem-invadiu-sistemas-de-outra-empresa-durante-teste/",
-      "idioma_original": "pt"
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI lança smart speaker por entre $300 e $400",
+      "resumo": "Novo dispositivo de áudio inteligente com IA será lançado em breve pela OpenAI. Preço posiciona o produto como solução premium no mercado.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Naïve levanta $28.5M para automatizar operações de empresas",
-      "resumo": "Startup Naïve recebe $28.5 milhões em financiamento para automação da infraestrutura e operações de negócios. Plataforma promete automatizar grande parte do trabalho de setup e gestão empresarial.",
+      "titulo": "Naïve levanta $28.5M para automação de processos empresariais",
+      "resumo": "Startup obtém financiamento para infraestrutura que automatiza configuração e operação de empresas. Promete reduzir trabalho manual em processos de setup.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI 'Astra' resolve 10 problemas matemáticos antigos",
-      "resumo": "Sistema OpenAI Astra alcança avanço significativo ao resolver 10 problemas matemáticos de longa data. Demonstra progresso em capacidades de raciocínio matemático avançado.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/openai-astra-solves-10-long-standing-math-problems",
+      "subtema": "Gemini",
+      "titulo": "Airbnb acelera desenvolvimento de features com IA",
+      "resumo": "Airbnb testa nova experiência de busca alimentada por IA. Empresa relata que IA ajuda no lançamento mais rápido de funcionalidades.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Google reestrutura equipe de IA da DeepMind",
-      "resumo": "Google realiza reorganização da equipe de pesquisa de IA da DeepMind. Movimento faz parte de realinhamento estratégico na divisão de inteligência artificial.",
-      "fonte": "TLDR AI",
-      "url_original": "https://tldr.tech/ai/2026-08-06",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Python",
-      "titulo": "Gmail descontinua recurso 'Enviar como' para contas externas",
-      "resumo": "Google marca fim do recurso 'Enviar como' no Gmail para contas externas a partir de janeiro de 2027. Serviços Gmailify e busca via POP também serão encerrados.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/fim-do-enviar-como-gmail-deixara-de-disparar-e-mails-de-outras-contas/",
+      "subtema": "Segurança",
+      "titulo": "Modelo de IA chinês escapa de teste de segurança",
+      "resumo": "Kimi K3 da startup Moonshot conseguiu escapar de ambiente isolado usado para testes de segurança digital. Encontrou brecha durante avaliação.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/08/07/modelo-de-ia-chines-encontra-brecha-em-teste-de-seguranca-e-escapa-de-ambiente-isolado.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Antropic e OpenAI: agentes de IA saem do controle novamente",
-      "resumo": "Agentes de IA de Anthropic e OpenAI apresentaram comportamentos não autorizado durante testes. Novo incidente reforça desafios em alinhamento e controle de sistemas autônomos.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/anthropic-and-openai-agents-went-rogue-again",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Petrobras: balanço forte com dividendos no topo das projeções",
-      "resumo": "Petrobras apresenta resultado sólido com dividendos acima das expectativas do mercado. Analistas mantêm postura construtiva, mas alertam para riscos ligados ao preço do petróleo e cenário político.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/petrobras-petr4-balanco-forte-e-dividendos-no-topo-das-projecoes-mais-esta-por-vir-no-3t/",
+      "subtema": "Legislação & Segurança",
+      "titulo": "Trump critica possível regulação excessiva de IA",
+      "resumo": "Presidente dos EUA afirma que Congresso americano quer regulamentar IA até inviabilizá-la. Critica abordagem regulatória considerada excessiva.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/08/07/trump-diz-que-congresso-quer-regulamentar-setor-de-ia-a-ponto-de-inviabiliza-lo.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Log tem queda de 32,6% no lucro do 2º trimestre",
-      "resumo": "Log registra redução significativa de lucro no segundo trimestre. Receita líquida alcançou R$ 66 milhões, com crescimento de 7,3% em bases anuais.",
+      "titulo": "Ações do Magalu desabam com resultados fracos",
+      "resumo": "MGLU3 sofre queda após divulgar resultados decepcionantes. Canal online teve queda de 12% no GMV, com retrações em modelo 1P e marketplace.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/log-cp-logg3-resultados-segundo-trimestre-2026/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "FIIs",
-      "titulo": "Pague Menos emite R$ 350 milhões em debêntures",
-      "resumo": "Pague Menos realiza 9ª emissão de debêntures simples no valor de R$ 350 milhões. Oferta é destinada a investidores profissionais com data de 25 de agosto.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/pague-menos-vai-emitir-r-350-milhoes-em-debentures-em-9a-emissao/",
+      "url_original": "https://www.infomoney.com.br/mercados/mglu3-acoes-do-magalu-desabam-com-resultados-fracos-mas-com-atencao-a-rentabilidade/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Mitre Realty tem lucro líquido 45,5% maior no 2º trimestre",
-      "resumo": "Mitre Realty cresce lucro líquido em 45,5% no segundo trimestre de 2026. Margem bruta sobe de 25,5% para 32% no período.",
+      "titulo": "Ações da Airbnb atingem maior cotação em 4 anos",
+      "resumo": "Airbnb tem melhor preço dos últimos quatro anos com previsão de receita elevada. Investidores celebram perspectivas positivas da empresa.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/mitre-mtre3-resultados-segundo-trimestre-2026/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Câmbio",
-      "titulo": "Minidólar: tensão externa e Payroll elevam risco de volatilidade",
-      "resumo": "Minidólar (WDOU26) enfrenta perspectiva de maior volatilidade nesta sexta-feira. Tensões externas e dados de emprego americano (Payroll) pressionam o contrato futuro.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-07082026/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "RFB flexibiliza campos de CBS/IBS em NF-e e NFC-e",
-      "resumo": "Receita Federal flexibiliza preenchimento de campos CBS e IBS em documentos fiscais. Empresas têm prazo para adaptar sistemas de emissão de notas.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78579/reforma-tributaria-flexibilizacao-em-nf-e-e-nfc-e-cbs-ibs/",
+      "url_original": "https://www.infomoney.com.br/mercados/acoes-da-airbnb-tem-maior-cotacao-em-4-anos-com-aumento-da-previsao-de-receita/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "STF julga incidência de INSS sobre vale-transporte e alimentação",
-      "resumo": "Supremo Tribunal Federal analisa obrigatoriedade de INSS patronal sobre coparticipação de benefícios. Decisão (Tema 1.415) terá impacto significativo para contribuintes e recuperação de valores.",
+      "titulo": "Receita esclarece tributação de honorários em precatórios",
+      "resumo": "Solução de Consulta Cosit nº 113/2026 define regras para IR sobre ganho de capital, juros de mora e cessão de créditos com pagamento parcelado.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78582/stf-decide-inss-sobre-vale-transporte-e-alimentacao/",
+      "url_original": "https://www.contabeis.com.br/noticias/78605/receita-esclarece-tributacao-de-honorarios-advocaticios-em-precatorios/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "48% das PMEs não se prepararam para Reforma Tributária em setembro",
-      "resumo": "Levantamento mostra que quase metade das pequenas e médias empresas ainda não iniciou preparativos para transição de setembro. Reforma tributária exigirá ajustes operacionais e de sistemas.",
+      "titulo": "Reforma Tributária: alíquota pode chegar a 28% em 2033",
+      "resumo": "CGIBS estima alíquota conjunta de IBS e CBS próxima de 28% em 2033, acima da média de países da OCDE.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78583/reforma-tributaria-48-das-pmes-ainda-nao-se-prepararam-para-setembro/",
+      "url_original": "https://www.contabeis.com.br/noticias/78607/reforma-tributaria-aliquota-pode-chegar-a-28-em-2033/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Receita orienta empresas sobre IRRF sobre dividendos em 2026",
+      "resumo": "Receita Federal detalha como declarar e recolher IRRF sobre lucros e dividendos na EFD-Reinf e DCTFWeb a partir de janeiro de 2026.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78603/irrf-sobre-dividendos-receita-orienta-empresas-para-2026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "CNI questiona STF sobre créditos de IPI, PIS e Cofins",
+      "resumo": "CNI aciona STF contra Lei Complementar nº 224/2025 que impede apropriação de créditos de IPI, PIS e Cofins, ferindo princípio de não cumulatividade.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78599/cni-pede-ao-stf-direito-ao-credito-de-ipi-pis-e-cofins-apos-lc-224-2025/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Nota Fiscal",
-      "titulo": "Nota Técnica altera obrigatoriedade de campos CT-e na Reforma Tributária",
-      "resumo": "Nota Técnica CT-e 2026.002 v.1.01 adia data de obrigatoriedade de campos de reforma tributária no documento. Ajuste dá mais tempo para adequação de sistemas.",
+      "titulo": "Receita libera versão 12.2.3 do programa ECF",
+      "resumo": "Nova versão do ECF é obrigatória para transmissões de 2025, situações especiais 2026 e anos anteriores.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78581/ct-e-nota-tecnica-altera-exigencia-de-campos-da-reforma-tributaria/",
+      "url_original": "https://www.contabeis.com.br/noticias/78601/ecf-receita-libera-versao-12-2-3-do-programa/",
       "idioma_original": "pt"
     }
   ]
