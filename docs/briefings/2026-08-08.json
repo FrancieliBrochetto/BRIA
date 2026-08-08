@@ -1,0 +1,131 @@
+{
+  "data": "2026-08-08",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança e Regulação",
+      "titulo": "OpenAI desacelera desenvolvimento do modelo Astra por preocupações de segurança",
+      "resumo": "OpenAI ralentizou o desenvolvimento do modelo Astra após atingir um 'limiar crítico de cibersegurança', pois o sistema conseguia identificar e executar ataques cibernéticos contra sistemas bem protegidos no mundo real. A decisão reflete preocupações com modelos de IA autônomos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Regulação e Ética",
+      "titulo": "Ex-diretor de cibersegurança dos EUA diz que Asimov tinha razão sobre regras para IA",
+      "resumo": "Chris Inglis, ex-diretor de cibersegurança dos EUA, critica a falta de limites éticos em modelos autônomos após casos de invasões não autorizadas. Argumenta que os princípios de Asimov para IA precisam ser implementados.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/asimov-estava-certo-sobre-regras-para-ia-diz-ex-diretor-de-ciberseguranca-dos-eua/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Cloudflare lança Kitesurf, navegador otimizado para agentes de IA",
+      "resumo": "Cloudflare apresentou Kitesurf, um navegador hospedado na nuvem projetado especificamente para agentes de IA. A ferramenta usa menos poder computacional que o Chromium em tarefas de automação comuns.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Rippling cria ferramenta para rastrear gastos de IA e ROI por funcionário",
+      "resumo": "Após gastar milhões em IA em poucos meses, a Rippling lançou o AI Spend Console para acompanhar o uso e custo de IA por pessoa e equipe, ajudando empresas a entender o retorno do investimento em IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Microsoft Edge deixará de suportar extensões MV2, incluindo uBlock Origin",
+      "resumo": "Microsoft Edge descontinuará o suporte a extensões no padrão MV2, afetando principalmente bloqueadores de anúncios como o uBlock Origin. Mudança segue os passos do Chrome.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/apos-chrome-edge-tambem-perdera-o-ublock-origin-e-outras-extensoes-mv2/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Computação Quântica",
+      "titulo": "Computação quântica não substituirá computadores convencionais, explicam especialistas",
+      "resumo": "Especialistas esclarecem o que é computação quântica e por que não vai substituir notebooks e computadores atuais, abordando os desafios que impedem sua adoção em larga escala.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/08/08/ciencia-e-espaco/computacao-quantica-tecnologia-revolucionaria-nao-substituira-seu-notebook/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Todo mundo usa IA para buscar emprego; o diferencial agora é outro",
+      "resumo": "Especialista explica seis formas estratégicas de usar IA na busca por emprego além de revisar currículo, destacando como se diferenciar em um mercado onde todos usam a tecnologia.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/carreira/como-usar-ia-para-procurar-emprego/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Análise de Mercado",
+      "titulo": "Projeções longas perdem espaço no mercado com avanço da tecnologia",
+      "resumo": "Gestor de investimentos critica modelos de projeção de 10 anos, defendendo focar no 'futuro visível' para evitar erros na alocação de capital conforme a tecnologia evolui mais rapidamente.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/sem-futurologia-projecoes-longas-perdem-espaco-no-mercado-com-avanco-da-tecnologia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma tributária: cobrança de novos impostos sobre consumo começa em 2027",
+      "resumo": "Governo, estados e municípios começarão a cobrar efetivamente em 2027 os novos tributos sobre consumo: CBS federal e IBS estadual/municipal. Teste ocorreu durante 2026.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/08/reforma-tributaria-cobranca-de-novos-impostos-sobre-consumo-comeca-em-2027-veja-como-vai-funcionar-e-o-que-falta-definir.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Cashback tributário: confira as regras de devolução da CBS",
+      "resumo": "Cashback da reforma tributária começa em 2027 para famílias do CadÚnico. Receita Federal detalha os procedimentos de pagamento, percentuais e formas de devolução do benefício.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78606/cashback-tributario-confira-as-regras-de-devolucao-da-cbs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "IPI",
+      "titulo": "CARF restringe crédito de IPI sobre combustíveis e insumos industriais",
+      "resumo": "O CARF limitou o crédito de IPI sobre combustíveis e insumos em processos industriais. Decisão afeta critérios de apuração do imposto para empresas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78613/credito-de-ipi-carf-restringe-insumos-industriais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Previdenciária",
+      "titulo": "TRF3 afasta contribuição patronal sobre 1/3 de férias em ações rescisórias",
+      "resumo": "O TRF3 decidiu não cobrar contribuição previdenciária patronal sobre o terço constitucional de férias em ações rescisórias, favorecendo contribuintes em disputas judiciais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78619/trf3-afasta-contribuicao-patronal-sobre-1-3-de-ferias-em-acoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Previdenciária",
+      "titulo": "Salário-maternidade não é exclusivo para mães; veja quando o pai pode receber",
+      "resumo": "Pais também têm direito ao salário-maternidade em situações específicas, como morte da mãe durante o parto. INSS reconhece o benefício para homens segurados.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/08/salario-maternidade-nao-e-so-para-maes-veja-quando-o-pai-pode-receber.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Commodities",
+      "titulo": "Super El Niño deve pressionar inflação dos alimentos em 2027; feijão e arroz lideram",
+      "resumo": "Super El Niño intensificará chuvas e afetará produção agrícola, pressionando preços de alimentos em 2027. Inflação alimentar pode variar entre 7,5% e 9,5% no ano.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/08/super-el-nino-deve-pressionar-inflacao-dos-alimentos-em-2027-feijao-e-arroz-lideram-alta.ghtml",
+      "idioma_original": "pt"
+    }
+  ]
+}
