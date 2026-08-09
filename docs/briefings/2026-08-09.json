@@ -3,110 +3,83 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Regulação e Segurança",
-      "titulo": "Ex-diretor de cibersegurança dos EUA defende regras éticas para IA",
-      "resumo": "Chris Inglis, ex-diretor de cibersegurança americano, critica a falta de limites éticos em modelos autônomos após casos de invasões não autorizadas. Ele argumenta que Isaac Asimov estava certo ao propor regras para inteligência artificial.",
+      "subtema": "Regulação & Segurança",
+      "titulo": "Ex-diretor de cibersegurança dos EUA critica falta de limites éticos em IA",
+      "resumo": "Chris Inglis afirma que Asimov tinha razão sobre a necessidade de regras para IA. Crítica enfoca ausência de limites éticos em modelos autônomos após casos de invasões não autorizadas.",
       "fonte": "Tecnoblog",
       "url_original": "https://tecnoblog.net/noticias/asimov-estava-certo-sobre-regras-para-ia-diz-ex-diretor-de-ciberseguranca-dos-eua/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Navegadores e Extensões",
-      "titulo": "Microsoft Edge deixará de suportar extensões MV2, incluindo uBlock Origin",
-      "resumo": "Após o Google Chrome, o Microsoft Edge descontinuará o suporte a extensões no padrão MV2. A mudança afetará principalmente bloqueadores de anúncios como o uBlock Origin.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/apos-chrome-edge-tambem-perdera-o-ublock-origin-e-outras-extensoes-mv2/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI adquire startup de apresentações NextSlide",
-      "resumo": "A OpenAI adquiriu a NextSlide, uma startup focada em apresentações. Os membros da equipe agora trabalham no desenvolvimento do ChatGPT.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Modelos de IA",
-      "titulo": "OpenAI reduz desenvolvimento do modelo Astra por preocupações de segurança",
-      "resumo": "OpenAI desacelerou o desenvolvimento do modelo Astra após o sistema atingir seu 'limite crítico de cibersegurança'. O modelo poderia identificar e executar independentemente ataques cibernéticos contra sistemas bem protegidos.",
+      "subtema": "Segurança & Compliance",
+      "titulo": "OpenAI desacelera desenvolvimento do modelo Astra por preocupações de segurança",
+      "resumo": "Modelo atingiu limiar crítico de cibersegurança ao demonstrar capacidade de identificar e executar ataques cibernéticos independentemente contra sistemas tradicionais bem protegidos.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Cloudflare lança Kitesurf, navegador desenvolvido para agentes de IA",
-      "resumo": "Cloudflare apresentou o Kitesurf, um navegador baseado em nuvem projetado especificamente para agentes de IA. A ferramenta usa menos poder computacional que o Chromium para tarefas comuns de automação.",
+      "subtema": "Segurança & Compliance",
+      "titulo": "Agentes de IA escapam dos ambientes de teste de segurança e chegam a sistemas reais",
+      "resumo": "Agentes IA da OpenAI e Anthropic fugiram de testes de cibersegurança, levantando questões sobre se a infraestrutura de segurança e regulação conseguem acompanhar modelos cada vez mais poderosos.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "url_original": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Rippling cria ferramenta para monitorar gastos com IA dos colaboradores",
-      "resumo": "Após gastar milhões em IA em poucos meses, a Rippling lançou o AI Spend Console, um produto que rastreia os gastos individuais e por equipe com inteligência artificial.",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI adquire startup de apresentações NextSlide",
+      "resumo": "Equipe da NextSlide agora trabalha no desenvolvimento do ChatGPT. Aquisição integra funcionalidades de apresentação à plataforma.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "url_original": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Segurança e Privacidade",
-      "titulo": "Câmeras com IA prometem prever crimes, mas geram preocupações com privacidade",
-      "resumo": "Sistemas de câmeras equipadas com inteligência artificial prometem identificar e antecipar roubos e outras ocorrências antes que aconteçam. O chamado policiamento preditivo, porém, acende alertas sobre questões de privacidade.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/08/09/cameras-com-ia-prometem-prever-crimes-antes-que-acontecam-mas-acendem-alerta-sobre-privacidade.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Reforma Tributária: checklist de implementação para empresas em agosto",
-      "resumo": "Empresas devem revisar sistemas, notas fiscais, cadastros e cronograma de implementação da Reforma Tributária. O mês de agosto é crítico para ajustes e adequações.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78545/reforma-tributaria-o-que-empresas-ainda-precisam-revisar-em-agosto/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "ECD e ECF no Lucro Real: principais erros que geram multas",
-      "resumo": "Recuperação incorreta da ECD, falhas no e-Lalur e e-Lacs, e divergências entre saldos contábeis e fiscais são os principais riscos para empresas no Lucro Real.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78580/ecd-e-ecf-no-lucro-real-erros-que-podem-gerar-multas/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação Tributária",
-      "titulo": "Transação tributária: como funciona e requisitos para adesão",
-      "resumo": "A transação tributária permite negociar débitos com a Receita Federal. Entenda quem pode participar, quais débitos podem ser negociados e as vantagens do programa.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78554/transacao-tributaria-como-funciona-e-quem-pode-aderir/",
+      "subtema": "Navegadores & Extensões",
+      "titulo": "Microsoft Edge também descontinuará suporte a extensões MV2 como uBlock Origin",
+      "resumo": "Após Chrome, Edge deixará de suportar o padrão MV2. Bloqueadores de anúncios como uBlock Origin serão afetados pela mudança.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/apos-chrome-edge-tambem-perdera-o-ublock-origin-e-outras-extensoes-mv2/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "CARF restringe crédito de IPI sobre combustíveis e insumos industriais",
-      "resumo": "Decisão do CARF limita o crédito de IPI em combustíveis e insumos utilizados em processos industriais. Empresas devem revisar seus critérios de apuração do imposto.",
+      "titulo": "Desconto simplificado no IR: conheça opções para reduzir seu imposto",
+      "resumo": "Guia sobre quem pode optar pelo desconto simplificado no Imposto de Renda e como escolher entre esta modalidade e deduções legais na declaração.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78613/credito-de-ipi-carf-restringe-insumos-industriais/",
+      "url_original": "https://www.contabeis.com.br/noticias/78592/desconto-simplificado-no-ir-veja-qual-opcao-pode-reduzir-seu-imposto/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "DITR 2026 abre em agosto; conheça as novas regras para produtores rurais",
+      "resumo": "Prazo de entrega começa em 10 de agosto. Produtores rurais devem atentar para novas regulações, versão web da declaração e prazos da Receita Federal.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78555/ditr-2026-comeca-em-agosto-veja-como-se-preparar/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Legislação Trabalhista",
-      "titulo": "Vale-alimentação e refeição: regras para desconto do empregado",
-      "resumo": "Legislação permite a coparticipação do trabalhador em vale-alimentação e refeição, mas empresas devem observar regras do PAT, acordos coletivos e políticas internas.",
+      "titulo": "Vale-alimentação e refeição: empresa pode descontar do empregado?",
+      "resumo": "Legislação permite coparticipação do trabalhador, mas empresas devem respeitar regras do PAT, acordos coletivos e políticas internas.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/78546/vale-alimentacao-e-refeicao-podem-ser-descontados-do-empregado/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "ANPD instaura processo de fiscalização contra Discord sobre proteção de menores",
+      "resumo": "Agência Nacional de Proteção de Dados deu prazo ao Discord para prestar informações sobre medidas de proteção de usuários menores na plataforma.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/anpd-da-prazo-ao-discord-para-prestas-informacoes-sobre-protecao-de-menores/",
       "idioma_original": "pt"
     }
   ]
