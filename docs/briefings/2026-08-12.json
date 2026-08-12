@@ -3,128 +3,83 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Governo Federal inicia migração de dados do SUS para nuvem nacional",
-      "resumo": "Projeto de migração dos dados do Sistema Único de Saúde para nuvem nacional tem custo inicial de R$ 18 milhões. O Serpro será responsável pelo recebimento e processamento dos dados.",
+      "subtema": "Gemini",
+      "titulo": "Gemini atinge 1 bilhão de usuários e se torna maior fenômeno do Google",
+      "resumo": "Chatbot do Google superou marca de 1 bilhão de usuários impulsionado pela forte integração com o ecossistema Google. Brasil está entre os top 5 países de adoção. Gemini agora é o maior fenômeno de produto da empresa.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/governo-federal-inicia-migracao-de-dados-do-sus-para-nuvem-nacional/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Segurança & IA",
-      "titulo": "Deepfake falha e expõe rosto de golpista na Espanha",
-      "resumo": "Suspeito que se passava por vítimas usando IA para obter certificados digitais foi identificado quando o deepfake falhou. Caso ocorreu na Espanha.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/deepfake-falha-e-expoe-rosto-de-golpista/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Segurança & IA",
-      "titulo": "IA descobre falha no Zoom que permitia invadir PCs e celulares",
-      "resumo": "Brecha no recurso de anotação de tela do Zoom foi explorada usando menos de 20 comandos de texto. Plataforma já lançou atualização para corrigir a vulnerabilidade.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/falha-no-zoom-descoberta-por-ia-permitia-invadir-pcs-e-celulares/",
+      "url_original": "https://tecnoblog.net/noticias/gemini-bate-1-bilhao-de-usuarios-e-vira-o-maior-fenomeno-do-google/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
       "titulo": "OpenAI lança aplicativo desktop do ChatGPT para Linux",
-      "resumo": "OpenAI finalmente disponibilizou um aplicativo dedicado do ChatGPT para sistemas operacionais Linux.",
+      "resumo": "OpenAI disponibilizou versão dedicada do ChatGPT para sistemas Linux. App desktop agora funciona nas três principais plataformas (Windows, macOS e Linux).",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Google Gemini ultrapassa 1 bilhão de usuários",
-      "resumo": "Aplicativo Gemini atingiu 1 bilhão de usuários, com 63% utilizando o recurso de voz. Plataforma gera mais de 150 milhões de imagens diariamente.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Brad Lightcap, COO de longa data da OpenAI, deixa empresa",
-      "resumo": "Um dos executivos mais antigos da OpenAI deixará a empresa. Lightcap afirmou estar entusiasmado em ajudar a empresa 'de um ponto de vista diferente'.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA & Tech",
-      "titulo": "General Catalyst lidera rodada de $1,1 bi na startup River AI",
-      "resumo": "River AI, fundada pelo cofundador da xAI Igor Babuschkin, captou $1,1 bilhão em sua rodada inicial. Startup possui visão inovadora para agentes pessoais.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
       "subtema": "Claude",
       "titulo": "Anthropic adiciona marca d'água invisível no Claude",
-      "resumo": "Anthropic implementou watermarking no Claude como resposta à legislação de IA da União Europeia. Especialistas apontam preocupações filosóficas com a medida.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
+      "resumo": "Anthropic implementou sistema de marca d'água invisível no Claude como resposta à legislação de IA da União Europeia. Medida visa identificar conteúdo gerado pela IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://www.therundown.ai/p/anthropic-slips-an-invisible-signature-into-claude",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA & Tech",
-      "titulo": "Nvidia enfrenta riscos em novo modelo de financiamento para clientes",
-      "resumo": "Nvidia está desenvolvendo novas maneiras de seus clientes levantarem capital, expandindo significativamente os riscos do investimento em IA.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/nvidias-risky-business/",
+      "subtema": "IA & Regulação",
+      "titulo": "ANPD ordena que Discord suspenda transmissões ao vivo no Brasil",
+      "resumo": "Agência Nacional de Proteção de Dados determinou suspensão de lives no Discord por 3 dias úteis para proteger crianças e adolescentes. Decisão segue morte de menina de 13 anos induzida ao suicídio durante transmissão ao vivo.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/anpd-ordena-que-discorde-suspenda-transmissoes-ao-vivo-no-brasil/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Startup de testes de código Blacksmith multiplica valuation por 10 em menos de um ano",
+      "resumo": "Empresa de validação de software com IA atingiu avaliação de US$ 550 milhões. Receita cresceu mais de 10 vezes no último ano impulsionada pela demanda de ferramentas de codificação com IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
       "idioma_original": "en"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Receita suspende rejeição de documentos fiscais da Reforma Tributária",
-      "resumo": "Receita Federal e CGIBS anunciaram que documentos fiscais eletrônicos não serão rejeitados por falta de CBS e IBS, oferecendo alívio às empresas.",
+      "titulo": "Reflexos da reforma tributária do consumo na pessoa física",
+      "resumo": "Reforma tributária com IBS e CBS afetará pessoas físicas e jurídicas. Artigo detalha prazos e cuidados para evitar surpresas fiscais com nova legislação.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78655/receita-suspende-rejeicao-de-documentos-fiscais-da-reforma-tributaria/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "STF pode definir questão de sub-rogação do Funrural esta semana",
-      "resumo": "Supremo Tribunal Federal pode decidir se compradores da produção rural devem recolher o Funrural em nome dos produtores na ADI 4395.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78681/funrural-stf-pode-definir-sub-rogacao-nesta-semana/",
+      "url_original": "https://www.contabeis.com.br/noticias/78706/reflexos-da-reforma-tributaria-do-consumo-na-pessoa-fisica/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Pix deve ganhar novas funcionalidades",
-      "resumo": "Banco Central anuncia estudos para novas funcionalidades do Pix, incluindo split tributário, internacionalização e uso como garantia.",
+      "titulo": "Simples Nacional: IBS e CBS pagos fora do DAS não entram na receita bruta",
+      "resumo": "Resolução CGSN nº 190/2026 estabelece que IBS e CBS recolhidos pelo regime regular ficam fora da receita bruta para empresas do Simples Nacional. Nova regra simplifica cálculo de impostos.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78679/pix-deve-ganhar-novas-funcoes/",
+      "url_original": "https://www.contabeis.com.br/noticias/78689/simples-nacional-ibs-e-cbs-pagos-fora-do-das-nao-entram-na-receita-bruta/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Justiça concede créditos após corte de benefícios fiscais",
-      "resumo": "Decisão judicial reconheceu crédito de PIS e Cofins para empresa afetada por mudanças da LC 224/2025 nos benefícios fiscais.",
+      "subtema": "Imposto de Renda",
+      "titulo": "Chat RFB muda de acesso; veja como utilizar o serviço",
+      "resumo": "Desde 7 de agosto, Chat da Receita Federal deve ser acessado pelo portal Serviços da Receita Federal. Mudança de plataforma exige novo passo a passo.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78678/justica-concede-creditos-apos-corte-de-beneficios-fiscais/",
+      "url_original": "https://www.contabeis.com.br/noticias/78690/chat-rfb-muda-de-acesso-veja-como-utilizar-o-servico/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Simples Nacional 2027: decisão deve ser tomada em setembro",
-      "resumo": "Empresas precisam avaliar desde setembro a opção pelo Simples Nacional em 2027 diante dos impactos da Reforma Tributária.",
+      "subtema": "Leis Novas",
+      "titulo": "MP da taxa das blusinhas será analisada pelo Congresso",
+      "resumo": "Congresso instala comissão para analisar Medida Provisória que zeraria imposto sobre compras internacionais de até US$ 50. Tema segue em debate legislativo.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78675/simples-nacional-2027-decisao-deve-ser-tomada-ja-em-setembro/",
+      "url_original": "https://www.contabeis.com.br/noticias/78697/mp-da-taxa-das-blusinhas-sera-analisada-pelo-congresso/",
       "idioma_original": "pt"
     }
   ]
