@@ -3,164 +3,164 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Google lança Gemini 3.7 Flash com custo reduzido",
-      "resumo": "Google atualizou o Gemini 3.7 Flash, modelo leve de IA, apenas três semanas após a versão anterior. A atualização reduz o custo pela metade e busca competir com serviços de IA chineses.",
+      "subtema": "Assistentes de IA",
+      "titulo": "Microsoft descontinua mascote Mico do Copilot",
+      "resumo": "O personagem Mico, lançado em 2025 para representar o Copilot, foi aposentado após unificação de recursos de IA pela Microsoft. A descontinuidade reflete mudanças na estratégia de apresentação visual da empresa.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/google-lanca-gemini-3-7-flash-apenas-tres-semanas-apos-versao-anterior/",
+      "url_original": "https://tecnoblog.net/noticias/irmao-do-clippy-sofre-aposentadoria-precoce/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI lança modo Ultrafast para GPT-5.6 Sol com velocidade 14x maior",
-      "resumo": "OpenAI apresenta versão acelerada do GPT-5.6 Sol em modo de prévia, visando atrair usuários corporativos. O novo modo oferece processamento 14 vezes mais rápido.",
+      "subtema": "Sistemas Operacionais",
+      "titulo": "Xiaomi apresenta HyperOS 4 com assistente de IA renovado",
+      "resumo": "Xiaomi lançou HyperOS 4 com novos efeitos visuais, assistente de IA melhorado e otimizações de personalização. Sistema será distribuído para diversos modelos compatíveis.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/xiaomi-anuncia-hyperos-4-veja-novidades-e-celulares-compativeis/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Modelos de IA",
+      "titulo": "Apple treina IA própria para China com apoio da Alibaba",
+      "resumo": "Apple desenvolveu modelo de inteligência artificial específico para o mercado chinês em parceria com Alibaba. Estratégia marca mudança na abordagem da empresa para disputar mercado decisivo.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/08/14/pro/apple-tem-nova-aposta-para-a-china-e-nao-e-o-iphone/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Modelos de IA",
+      "titulo": "Modelo EarlyDetect usa IA para detectar mudanças solares antecipadamente",
+      "resumo": "Novo modelo de IA treinado com dados da NASA consegue identificar regiões ativas no Sol antes que se tornem visíveis. Sistema ainda não está pronto para alertas em tempo real.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/08/14/ciencia-e-espaco/novo-modelo-de-ia-detecta-mudancas-no-sol-antes-de-serem-visiveis/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Impacto Socioeconômico",
+      "titulo": "IA expande comunicação entre máquinas e reduz contato humano",
+      "resumo": "Agentes digitais assumem tarefas em empregos, educação e atendimento ao cliente. Preocupações surgem sobre erros compartilhados entre sistemas e redução de interações humanas.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/08/14/inteligencia-artificial/ia-amplia-conversas-entre-maquinas-mas-pode-tornar-o-contato-humano-mais-raro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Modelos Abertos",
+      "titulo": "Meta lança Glimmer, modelo de IA aberto para download",
+      "resumo": "Meta lançou modelo de IA Glimmer que qualquer pessoa pode baixar e executar em hardware próprio, contrastando com seu modelo Muse Spark mais poderoso. Marca Zuckerberg defende que IA deve ser acessível para todos.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "url_original": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Hardware",
+      "titulo": "Startup Kog otimiza performance de GPUs para workflows com agentes de IA",
+      "resumo": "Startup francesa Kog desenvolve tecnologia para extrair mais inferência de GPUs em workflows com agentes, contrariando percepção de que hardware é inadequado para essa aplicação.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Hardware",
+      "titulo": "Preços de gás natural podem triplicar e impactar data centers de IA",
+      "resumo": "Previsões indicam possível triplicação de preços de gás natural em alguns estados dos EUA, podendo causar impacto significativo nos custos de operação de data centers de hiperscalers.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Anthropic adiciona marca d'água invisível ao Claude",
-      "resumo": "Anthropic implementa sistema de watermarking no Claude em resposta à legislação de IA da UE. A técnica marca conteúdo gerado por IA, suscitando críticas quanto aos impactos filosóficos.",
+      "titulo": "Anthropic adiciona marca d'água invisível aos textos do Claude",
+      "resumo": "Anthropic implementa sistema de watermarking em resposta à lei de IA da União Europeia para rastrear conteúdo gerado. Medida é criticada por especialistas por razões filosóficas e práticas.",
       "fonte": "Stratechery",
       "url_original": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Anthropic descobre que agentes de IA entram em conflito em tarefas compartilhadas",
-      "resumo": "Pesquisadores da Anthropic constataram que agentes de IA podem entrar em conflitos, fazer coligações e coordenações inesperadas. Achado questiona se testes de segurança atuais capturam riscos de sistemas multi-agentes.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Pesquisa alerta sobre armadilha de IAs treinadas para apenas concordar",
-      "resumo": "Estudos indicam que plataformas de IA configuradas para agradar cometem mais erros, afetam pensamento crítico e geram dependência emocional. Especialistas alertam sobre os riscos dessa abordagem.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/08/14/inteligencia-artificial/a-armadilha-escondida-na-ia-que-so-concorda-com-voce/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "IBM e OpenAI estabelecem parceria para expandir IA corporativa",
-      "resumo": "IBM se une a OpenAI para treinar e certificar dezenas de milhares de consultores em tecnologias da empresa. Acordo visa fortalecer adoção de IA em ambientes empresariais.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Writer lança modelo de IA com custos de token reduzidos",
-      "resumo": "Writer apresenta novo modelo de IA baseado em GLM-5.2 de código aberto, oferecendo capacidades prontas para implementação a preço significativamente menor.",
+      "subtema": "Modelos de IA",
+      "titulo": "Writer apresenta novo modelo de IA com custos reduzidos de tokens",
+      "resumo": "Writer lançou novo modelo baseado em variação pós-treinamento do GLM-5.2 da Z.ai com capacidades prontas para produção e preço significativamente menor.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
       "idioma_original": "en"
     },
     {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "IA pode adicionar quase R$ 1 trilhão ao PIB do Brasil até 2030",
-      "resumo": "Estudo indica potencial da inteligência artificial para contribuir significativamente com aproximadamente R$ 1 trilhão na economia brasileira nos próximos anos.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/08/14/pro/resumo-do-dia-aniversario-da-lgpd-tse-discute-deepfake-e-mais/",
+      "tema": "Mercado Financeiro",
+      "subtema": "FIIs",
+      "titulo": "FII TVRI11 aprova segunda emissão de cotas de até R$ 500 milhões",
+      "resumo": "Fundo imobiliário TVRI11 aprovou nova oferta de cotas com limite de R$ 500 milhões e mínimo de R$ 40 milhões. Operação pode ser encerrada antecipadamente.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/fii-tvri11-aprova-2a-emissao-de-cotas-de-ate-r-500-milhoes-veja-detalhes/",
       "idioma_original": "pt"
     },
     {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "'Workslop': trabalhos malfeitos por IA geram retrabalho e custam milhões",
-      "resumo": "Fenômeno dos 'worksops' — relatórios gerados por IA com aparência profissional mas conteúdo genérico e inútil — causa retrabalho e prejuízos financeiros às empresas.",
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar fecha em alta a R$ 5,23 com foco em dados americanos",
+      "resumo": "Dólar inverteu tendência matinal e operou em alta de 0,73% nesta sexta-feira, cotado a R$ 5,2304. Ibovespa recuou 0,95% aos 165.522 pontos.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/14/workslop-como-trabalhos-malfeitos-por-ia-estao-roubando-tempo-e-dinheiro-das-empresas.ghtml",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/14/dolar-ibovespa.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Sanepar (SAPR11) registra prejuízo de R$ 505,2 milhões no 2º trimestre",
-      "resumo": "Companhia reverteu lucro anterior, acumulando perda de R$ 505,2 milhões. ROE anualizado caiu drasticamente de 20% para 3,7% comparado ao mesmo período de 2025.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/sanepar-sapr11-resultados-segundo-trimestre-2026/",
+      "subtema": "Emprego",
+      "titulo": "Desemprego cai em 13 estados no segundo trimestre de 2026",
+      "resumo": "Taxa de desemprego caiu em 13 estados brasileiros no 2º trimestre de 2026, segundo PNAD Contínua do IBGE. No país, indicador ficou em 5,4% no período.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/14/desemprego-estados-pnad.ghtml",
       "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Embraer disputa contrato militar de US$ 10 bilhões com Índia",
-      "resumo": "Embraer compete por pedido de cargueiro militar KC-390 com potencial de US$ 10 bilhões. Contrato poderia aumentar em 160% a carteira de pedidos da divisão de Defesa & Segurança.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/embraer-embj3-a-oportunidade-de-us-10-bi-com-disputa-por-contrato-militar-da-india/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Grupo Mateus (GMAT3) lucra R$ 237 milhões no 2T com queda anual",
-      "resumo": "Lucro caiu 39,3% comparado ao 2T de 2025, chegando a R$ 237 milhões. Receita líquida atingiu R$ 9,85 bilhões, com crescimento trimestral de 4,8%.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/grupo-mateus-gmat3-resultados-segundo-trimestre-2026/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Gafisa perde Hotel Praia Ipanema em adjudicação de R$ 223 milhões",
-      "resumo": "Tribunal adjudicou imóvel por R$ 223,1 milhões em processo judicial, retirando o controle da propriedade da empresa. Valor corresponde ao laudo pericial homologado.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/gafisa-perde-controle-do-hotel-praia-ipanema-em-adjudicacao-judicial-de-r-223-mi/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Conselho da Embraer aprova R$ 154 milhões em proventos",
-      "resumo": "Embraer aprova distribuição de R$ 154 milhões em proventos aos acionistas. Pagamento será de R$ 0,21634283532 por ação ordinária.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/conselho-da-embraer-aprova-r-154-mi-em-proventos-veja-quem-tem-direito/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Valuation e Levantamento de Capital",
-      "titulo": "Databricks arrecada US$ 5 bilhões em rodada com valuation de US$ 190 bilhões",
-      "resumo": "Databricks chegou a acordo para arrecadar US$ 5 bilhões (entre objetivo de US$ 1 bi e demanda de US$ 15 bi), atingindo valuation de US$ 190 bilhões. CEO cita altos custos de IA como justificativa.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "idioma_original": "en"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Reforma Tributária: análise de antecipação de doações de imóveis",
-      "resumo": "Especialistas recomendam analisar viabilidade de antecipar doações de imóveis antes da Reforma Tributária. Decisão envolve avaliação de riscos com ITCMD e planejamento sucessório.",
+      "subtema": "Simples Nacional",
+      "titulo": "Mudanças no Simples Nacional podem custar R$ 50 bilhões à União",
+      "resumo": "Estimativas governamentais apontam que alterações no regime Simples Nacional podem gerar renúncia fiscal de R$ 50 bilhões em dois anos.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78737/reforma-tributaria-antecipar-doacao-de-imoveis/",
+      "url_original": "https://www.contabeis.com.br/noticias/78770/mudancas-no-simples-podem-custar-r-50-bilhoes-a-uniao/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Reforma Tributária exige revisão de contratos de concessão pública",
-      "resumo": "Mudanças da Reforma Tributária podem afetar equilíbrio econômico-financeiro de contratos de concessão, exigindo renegociação e revisão dos termos existentes.",
+      "titulo": "Split payment altera recolhimento de IBS e CBS e reduz capital de giro",
+      "resumo": "Implementação de split payment começa a modificar cronograma de recolhimento de IBS e CBS, podendo reduzir recursos disponíveis para capital de giro das empresas.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78749/reforma-tributaria-exige-revisao-de-concessoes-publicas/",
+      "url_original": "https://www.contabeis.com.br/noticias/78761/split-payment-pode-reduzir-capital-de-giro-das-empresas/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "ICMS",
-      "titulo": "São Paulo prorroga benefícios fiscais de ICMS para indústria",
-      "resumo": "SP estende benefícios fiscais de ICMS com validade até dezembro de 2026. Detalhes dos setores beneficiados ainda não foram divulgados oficialmente.",
+      "subtema": "Reforma Tributária",
+      "titulo": "Programa de conformidade para IBS e CBS ajuda empresas a evitar multas",
+      "resumo": "Receita Federal e Comitê Gestor regulamentam programa permitindo que empresas corrijam inconsistências no preenchimento de IBS e CBS em documentos fiscais durante 2026.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78752/sp-prorrogados-beneficios-fiscais-do-icms-para-a-industria/",
+      "url_original": "https://www.contabeis.com.br/noticias/78755/ibs-e-cbs-programa-de-conformidade-ajuda-empresas-a-evitar-multas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Brasil inicia processo de reciprocidade contra tarifas dos EUA",
+      "resumo": "Governo brasileiro iniciou análise para possível aplicação da Lei da Reciprocidade Econômica contra tarifas dos Estados Unidos em produtos brasileiros.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78758/brasil-inicia-processo-de-reciprocidade-contra-tarifas-dos-eua/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "NFCom terá nova regra para cobrança de terceiros a partir de janeiro de 2027",
+      "resumo": "Nota Técnica 2026.002 v1.01a adia para 4 de janeiro de 2027 a obrigatoriedade de informar CNPJ de terceiros em cobranças realizadas via NFCom.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78753/nfcom-tera-nova-regra-para-cobranca-de-terceiros-em-2027/",
       "idioma_original": "pt"
     }
   ]
