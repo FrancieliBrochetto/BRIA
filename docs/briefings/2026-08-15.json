@@ -1,0 +1,122 @@
+{
+  "data": "2026-08-15",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "ChatGPT lança ferramenta de memória similar ao Windows Recall",
+      "resumo": "Nova funcionalidade do ChatGPT chamada Computer History permite que o modelo retenha informações de conversas anteriores, similar ao recurso Windows Recall que Microsoft adiou por questões de privacidade. Ferramenta tenta evitar problemas enfrentados pela Microsoft ao implementar tecnologia semelhante.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/nova-ferramenta-do-chatgpt-lembra-recurso-do-windows-11-que-caiu-em-desgraca/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google torna marca d'água em imagens geradas por IA opcional",
+      "resumo": "Google decide permitir que usuários do Gemini e Flow removam visualmente a marca d'água de suas gerações de imagens com IA. Marca d'água invisível continua sendo usada internamente para identificar conteúdo gerado por IA.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/google-decide-que-marca-dagua-para-ia-e-opcional-entenda/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic adiciona marca d'água invisível ao Claude",
+      "resumo": "Anthropic implementa watermarking invisível em respostas do Claude em resposta à lei de IA da UE. A medida busca identificar conteúdo gerado por IA, mas especialistas questionam sua efetividade filosófica e prática.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Meta lança modelo de IA aberto Glimmer para download",
+      "resumo": "Meta libera Glimmer, modelo de IA de peso aberto que qualquer pessoa pode baixar e executar em seu próprio hardware. Contrasta com Muse Spark, modelo mais poderoso mantido sob APIs exclusivas. Alinhado com posicionamento de Mark Zuckerberg sobre IA para todos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Python",
+      "titulo": "Startup francesa Kog otimiza performance de GPUs para workflows com IA",
+      "resumo": "Kog desenvolve técnicas para aumentar a eficiência de inferência em GPUs, desafiando percepção de que processadores não são adequados para workflows com agentes de IA. Demonstra possibilidade de melhor aproveitamento de hardware existente.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "Preços de gás natural podem triplicar e impactar data centers de IA",
+      "resumo": "Forecast indica que preços de gás natural podem triplicar em algumas regiões dos EUA, afetando significativamente custos operacionais de hyperscalers que dependem dessa fonte energética para data centers de IA. Risco financeiro considerável para investimentos em infraestrutura de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma tributária deixa dúvida sobre divulgação de preços com ou sem imposto",
+      "resumo": "Reforma tributária aprovada não esclarece se produtos devem ser anunciados ao consumidor com ou sem imposto incluído. Empresas enfrentam incerteza sobre formato de divulgação enquanto se adaptam às mudanças previstas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/15/precos-com-ou-sem-imposto-reforma-tributaria-deixou-duvida-sobre-como-anunciar-valor-de-produtos.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Simples Nacional entra em nova fase com Reforma Tributária",
+      "resumo": "Reforma Tributária traz novas regras para empresas enquadradas no Simples Nacional. Mudanças impactam significativamente contadores e pequenos negócios com necessidade de adaptação ao novo modelo.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78783/simples-nacional-entra-em-uma-nova-fase/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Enquadramento sindical de instituições de pagamento gera controvérsia e riscos",
+      "resumo": "Classificação sindical incorreta de instituições de pagamento pode gerar passivos trabalhistas e questões legais. Contadores e empresas precisam adotar estratégias para garantir segurança jurídica no enquadramento correto.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78763/enquadramento-sindical-de-ips-riscos-e-estrategias-legais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Zona Franca de Manaus vai além de incentivos fiscais",
+      "resumo": "Zona Franca de Manaus oferece benefícios que ultrapassam aspectos puramente fiscais. Compreensão completa dos impactos é essencial para empresas que desejam aproveitar os incentivos disponíveis.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78764/zona-franca-de-manaus-alem-do-fiscal-e-seus-impactos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "IA não causa destruição massiva de empregos nos EUA, mas sinais de pressão surgem",
+      "resumo": "Relatórios de BofA e Morgan Stanley indicam que inteligência artificial ainda não provoca desemprego em larga escala nos EUA. Porém, pressão já aparece entre jovens trabalhadores e profissões mais expostas à tecnologia.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/economia/ia-nao-causa-apocalipse-no-mercado-de-trabalho-dos-eua-mas-alguns-sinais-ja-surgem/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Data centers em expansão com IA consomem energia e água em escala bilionária",
+      "resumo": "Expansão de data centers impulsionada por investimentos em IA contribui significativamente para aumento global de demanda energética. Desafios ambientais crescem com consumo massivo de água e eletricidade pela indústria.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/data-centers-em-expansao-sao-industria-bilionaria-e-sedenta-por-energia-e-agua/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Abono salarial PIS/Pasep 2026 paga último lote em agosto",
+      "resumo": "Último lote do abono salarial PIS/Pasep 2026 é liberado no sábado (15) para nascidos em novembro e dezembro. Valores ficam disponíveis para saque até 30 de dezembro de 2026.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/15/abono-salarial-pispasep-2026-paga-ultimo-lote-neste-sabado-veja-quem-recebe.ghtml",
+      "idioma_original": "pt"
+    }
+  ]
+}
