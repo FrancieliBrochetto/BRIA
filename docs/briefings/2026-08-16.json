@@ -4,8 +4,8 @@
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "ChatGPT lança ferramenta similar ao Windows Recall descontinuado",
-      "resumo": "Nova ferramenta do ChatGPT implementa funcionalidade de recordação similar ao Windows Recall da Microsoft, que foi adiado várias vezes. A ferramenta tenta evitar os problemas de privacidade que afetaram o recurso do Windows 11.",
+      "titulo": "ChatGPT lança ferramenta Computer History similar ao Windows Recall",
+      "resumo": "Nova ferramenta do ChatGPT tenta evitar os problemas que levaram a Microsoft a adiar diversas vezes o Windows Recall. A função busca oferecer funcionalidade semelhante com melhor abordagem de privacidade.",
       "fonte": "Tecnoblog",
       "url_original": "https://tecnoblog.net/noticias/nova-ferramenta-do-chatgpt-lembra-recurso-do-windows-11-que-caiu-em-desgraca/",
       "idioma_original": "pt"
@@ -13,8 +13,8 @@
     {
       "tema": "IA & Tech",
       "subtema": "Gemini",
-      "titulo": "Google torna marca d'água em IA opcional para usuários",
-      "resumo": "Google permite que usuários removam a marca d'água visível de gerações do Gemini e Flow. A remoção da marca visível não afeta os benchmarks invisíveis usados para identificar arquivos gerados por IA.",
+      "titulo": "Google permite remover marca d'água visível de gerações de IA",
+      "resumo": "Google decidiu tornar opcional a marca d'água visível em imagens geradas pelo Gemini e Flow. Desativar essa opção não afeta os marcadores invisíveis usados para identificar arquivos gerados por IA.",
       "fonte": "Tecnoblog",
       "url_original": "https://tecnoblog.net/noticias/google-decide-que-marca-dagua-para-ia-e-opcional-entenda/",
       "idioma_original": "pt"
@@ -22,91 +22,82 @@
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Anthropic revela detalhes sobre marca d'água invisível do Claude",
-      "resumo": "Anthropic compartilha informações sobre o funcionamento das novas marcas d'água no Claude em resposta à lei de IA da União Europeia. Os detalhes incluem como a marca funciona, se pode ser removida com edição e seu impacto em código.",
+      "titulo": "Anthropic adiciona marca d'água invisível ao Claude conforme lei da UE",
+      "resumo": "Anthropic implementa watermarking em resposta à legislação de IA da União Europeia. A marca d'água será invisível e funcionará como assinatura digital para identificar conteúdo gerado por Claude.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "SpaceX finaliza aquisição da startup de IA Cursor",
-      "resumo": "SpaceX completou a aquisição da Cursor, startup de programação por IA. A Cursor agora faz parte oficialmente da SpaceX.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "url_original": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Python",
-      "titulo": "Meta lança modelo de IA aberto Glimmer para download gratuito",
-      "resumo": "Meta lançou Glimmer, modelo de IA de peso aberto que qualquer pessoa pode baixar e executar em hardware próprio. O lançamento contrasta com Muse Spark, modelo mais poderoso mantido atrás de APIs da Meta, e acompanha manifesto de Zuckerberg sobre IA acessível.",
+      "titulo": "SpaceX conclui aquisição da startup de IA Cursor",
+      "resumo": "A startup de codificação com IA Cursor agora é oficialmente parte da SpaceX. A aquisição foi finalizada e a plataforma permanecerá focada em assistência ao desenvolvimento de código.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Meta lança Glimmer, modelo de IA aberto para todos baixarem",
+      "resumo": "Meta lançou o modelo de IA Glimmer com peso aberto que qualquer um pode baixar e executar em seu próprio hardware. A iniciativa contrasta com Muse Spark, modelo mais poderoso da empresa mantido atrás de APIs proprietárias, reforçando o posicionamento de Zuckerberg sobre IA acessível.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
       "idioma_original": "en"
     },
     {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Grok acusado de transformar fotos antigas em pornografia",
+      "resumo": "Ação judicial afirma que a IA Grok (empresa de Elon Musk) foi usada para criar imagens de conteúdo sexual explícito a partir de fotos antigas. Mulher relatou que ferramenta transformou foto de infância em material pornográfico.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/08/16/inteligencia-artificial/grok-transformou-imagens-antigas-em-pornografia-diz-acao-judicial/",
+      "idioma_original": "pt"
+    },
+    {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Elon Musk perde bilhões após SpaceX cair de trilionária em 2 meses",
-      "resumo": "Elon Musk foi o primeiro trilionário da história por dois meses após IPO da SpaceX em junho de 2026, mas a valorização se reverteu. O empresário perdeu bilhões de dólares em patrimônio recentemente.",
+      "titulo": "Casas Bahia registra prejuízo de R$ 10 bi e avalia recuperação judicial",
+      "resumo": "Casas Bahia (BHIA3) aumentou prejuízo para R$ 10 bilhões no 2º trimestre de 2026. Empresa considera recuperação extrajudicial ou judicial e implementa plano de transformação desde 2023 para melhorar eficiência e geração de caixa.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/casas-bahia-bhia3-resultados-segundo-trimestre-2026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Elon Musk perde trilhões após queda do valor da SpaceX",
+      "resumo": "Elon Musk deixou de ser trilionário após dois meses em que SpaceX realizou IPO. Desvalorização das ações da empresa fez o empresário perder bilhões de dólares, revertendo sua condição de homem mais rico do mundo.",
       "fonte": "G1 Economia",
       "url_original": "https://g1.globo.com/economia/noticia/2026/08/16/trilionario-por-2-meses-a-marcha-a-re-da-spacex-que-fez-elon-musk-perder-bilhoes-de-dolares.ghtml",
       "idioma_original": "pt"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Brasil ganha reforço da China contra guerra tarifária dos EUA na OMC",
-      "resumo": "China pediu para participar das consultas na OMC sobre a ação brasileira contra tarifas impostas por Donald Trump. Especialistas avaliam que o reforço chinês ajuda o Brasil no enfrentamento ao tarifaço americano.",
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Erros contábeis podem afetar candidatura de prefeito",
+      "resumo": "Falhas na contabilidade pública podem levar à rejeição das contas e gerar consequências eleitorais para prefeitos. Gestores precisam manter conformidade contábil para não comprometer elegibilidade.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78767/erro-contabil-pode-afetar-candidatura-de-prefeito/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Sintonia: programa classifica conformidade tributária de empresas",
+      "resumo": "Programa Receita Sintonia permite consultar classificação de conformidade tributária das empresas e acessar benefícios conforme nível de regularidade. Ferramenta facilita monitoramento da situação fiscal.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78746/receita-sintonia-veja-como-consultar-classificacao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Brasil recebe apoio da China em ação contra tarifas dos EUA na OMC",
+      "resumo": "China pediu para participar das consultas na Organização Mundial do Comércio sobre a ação brasileira contra tarifas impostas pelos EUA. Entrada da China reforça posição do Brasil em defesa do multilateralismo.",
       "fonte": "G1 Economia",
       "url_original": "https://g1.globo.com/economia/noticia/2026/08/16/entrada-da-china-na-acao-do-brasil-na-omc-ajuda-a-combater-guerra-tarifaria-contra-os-eua.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Inadimplência cresce apesar de renda recorde; inflação e juros altos pressionam famílias",
-      "resumo": "Mesmo com desemprego em baixa e massa salarial recorde, famílias enfrentam inadimplência crescente. Inflação e altos juros no crédito espremem o bolso das famílias brasileiras.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/economia/inadimplencia-inflacao-juros-altos-renda-recorde/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Combate à informalidade de combustíveis no Rio favorece Vibra e Ultrapar",
-      "resumo": "Rio avança no combate à sonegação e informalidade no mercado de combustíveis, acelerando migração de mais de mil postos para operadores regulares. O avanço abre espaço para ganhos de participação das companhias de capital aberto.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/rio-de-janeiro-eleva-cerco-a-informalidade-dos-combustiveis-como-isso-ajuda-vibra-e-ultrapar/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "eSocial",
-      "titulo": "EFD-Reinf de julho vence nesta segunda-feira (17)",
-      "resumo": "Transmissão da EFD-Reinf referente a julho de 2026 vence em 17 de agosto. Os dados alimentam a DCTFWeb e exigem conferência antes do fechamento.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78691/efd-reinf-de-julho-vence-nesta-segunda-feira-17/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Split payment da Reforma Tributária afeta caixa e liquidez das empresas",
-      "resumo": "O split payment implementado pela Reforma Tributária altera o fluxo de caixa das empresas, impactando capital de giro e liquidez. Empresas precisam se preparar para as mudanças.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78747/split-payment-pode-afetar-caixa-das-empresas/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "INSS alerta para golpe com falsa Prova de Vida",
-      "resumo": "INSS alertou sobre mensagens falsas que ameaçam suspender benefícios por falta de Prova de Vida. Segurados são orientados a consultar canais oficiais do Instituto.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78766/inss-alerta-para-golpe-com-falsa-prova-de-vida/",
       "idioma_original": "pt"
     }
   ]
