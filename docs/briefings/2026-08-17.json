@@ -1,0 +1,149 @@
+{
+  "data": "2026-08-17",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Nova ferramenta do ChatGPT traz funcionalidade semelhante ao Windows Recall",
+      "resumo": "OpenAI lançou recurso de Computer History no ChatGPT, que funciona de forma parecida ao Windows Recall da Microsoft. A ferramenta busca evitar problemas que levaram a Microsoft a adiar diversas vezes o lançamento do recurso polêmico.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/nova-ferramenta-do-chatgpt-lembra-recurso-do-windows-11-que-caiu-em-desgraca/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Stripe adquire OpenRouter em investimento de mais de US$ 7 bilhões",
+      "resumo": "Stripe adquirirá a startup OpenRouter, plataforma que funciona como 'Stripe para IA', em operação avaliada acima de US$ 7 bilhões. A aquisição representa aposta no crescimento do mercado de gateways de IA e modelos múltiplos.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic implementa watermarking invisível no Claude para cumprir lei da UE",
+      "resumo": "Anthropic está adicionando marca d'água invisível no Claude em resposta à legislação de IA da União Europeia. A funcionalidade busca rastrear conteúdo gerado pela IA, mas levanta questões sobre efetividade e implicações filosóficas.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "CEO da Anthropic rebate críticas sobre postura pessimista sobre IA",
+      "resumo": "Dario Amodei, CEO da Anthropic, afirma que o ceticismo em torno de IA é 'fundamentalmente uma crise de confiança'. Ele contesta a percepção de estar pintando um quadro excessivamente pessimista sobre o futuro da tecnologia.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Mulher denuncia uso de Grok para transformar foto infantil em conteúdo explícito",
+      "resumo": "Uma mulher alegou que seu padrasto usou o Grok para transformar uma foto de sua infância em material abusivo infantil. O caso levanta preocupações sobre segurança em ferramentas de IA e proteção contra abuso sexual infantil.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Minidólar tem volatilidade elevada com IBC-Br e risco local",
+      "resumo": "Minidólar (WDOU26) deve enfrentar maior volatilidade nesta segunda-feira com divulgação do IBC-Br e potencial elevação do risco local. Mercado aguarda indicadores econômicos e análise de cenário macroeconômico.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-17082026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa acumula 9 quedas; IFR perto da sobrevenda abre espaço para repique",
+      "resumo": "Mini-índice (WINV26) apresenta Índice de Força Relativa próximo da zona de sobrevenda, sinalizando possível repique técnico. Ibovespa acumula sequência de queda, mas análise técnica sugere movimento de recuperação.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winv26-17082026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "MRV acredita em expansão de locação institucional apesar da venda da Luggo",
+      "resumo": "CEO da MRV, Eduardo Fischer, afirma que locação institucional é a próxima fronteira do setor habitacional no Brasil, apesar de ter vendido ativos da Luggo. Juros altos ainda representam entrave para expansão desse segmento.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/apesar-de-ter-vendido-ativos-da-luggo-mrv-acredita-na-locacao-no-longo-prazo/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "CEO da MRV destaca impactos da Reforma Tributária e gargalo de mão de obra",
+      "resumo": "Eduardo Fischer, CEO da MRV&CO, aponta escassez estrutural de mão de obra no setor e discute impactos da Reforma Tributária na construção. Executivo também aborda desafios de 'ato de fé' em investimentos no Brasil.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/mao-de-obra-em-queda-reforma-tributaria-e-a-visao-do-ceo-da-mrv-para-o-setor/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Erro contábil em gestão pública pode afetar candidatura de prefeito",
+      "resumo": "Falhas na contabilidade pública podem resultar em rejeição de contas e gerar consequências eleitorais para prefeitos. Erros contábeis representam risco significativo para gestores municipais em período eleitoral.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78767/erro-contabil-pode-afetar-candidatura-de-prefeito/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Sintonia: consulte sua classificação de conformidade tributária",
+      "resumo": "Receita Federal oferece programa Receita Sintonia que classifica empresas por nível de conformidade tributária e oferece benefícios. Empresas podem consultar sua classificação e acessar vantagens conforme conformidade fiscal.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78746/receita-sintonia-veja-como-consultar-classificacao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Casas Bahia entra com pedido de recuperação judicial",
+      "resumo": "Grupo Casas Bahia anunciou entrada com pedido de recuperação judicial junto à Justiça de São Paulo, incluindo diversas empresas do grupo. Medida busca reorganizar finanças, renegociar dívidas e manter operações funcionando.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/17/casas-bahia-entra-com-pedido-de-recuperacao-judicial.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Fitch eleva nota de crédito do Rio de Janeiro para grau AAA máximo",
+      "resumo": "Agência Fitch Ratings elevou nota de crédito do município do Rio de Janeiro para 'AAA', grau de investimento mais alto. Agência indica perspectiva de estabilidade e reconhece avanços financeiros dos últimos anos.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/16/agencia-de-classificacao-de-risco-fitch-eleva-nota-de-credito-do-municipio-do-rio-de-janeiro-para-o-grau-mais-alto.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Nova campanha de golpes usa Desenrola Brasil como isca para roubar dados",
+      "resumo": "Kaspersky identifica golpes que usam programa Desenrola Brasil como isca, direcionando vítimas para páginas falsas. Fraude exibe CPF e dados pessoais e solicita pagamento de acordo por PIX.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/08/17/novo-golpe-do-desenrola-exibe-cpf-e-dados-da-vitima-para-cobrar-acordo-por-pix-saiba-como-se-proteger.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "ChatGPT prejudica o cérebro? Entenda o conceito de 'dívida cognitiva'",
+      "resumo": "Especialistas discutem impactos do uso intensivo de ferramentas como ChatGPT na cognição humana, analisando conceito de 'dívida cognitiva'. Debate aborda se dependência de IA para resolução de problemas afeta habilidades mentais.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/08/17/usar-o-chatgpt-prejudica-o-cerebro-o-que-sabemos-e-o-que-nao-sabemos-sobre-a-divida-cognitiva.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Correios registra prejuízo de R$ 5,4 bilhões no 1º semestre de 2026",
+      "resumo": "Balancete contábil dos Correios aponta prejuízo de R$ 5,4 bilhões no primeiro semestre de 2026, com R$ 2,2 bilhões acumulados no segundo trimestre. Demonstrativo reflete dificuldades financeiras da estatal.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/17/correios-balanco-previo-aponta-prejuizo-de-r-54-bilhoes-no-1o-semestre-de-2026.ghtml",
+      "idioma_original": "pt"
+    }
+  ]
+}
