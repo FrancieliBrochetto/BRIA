@@ -3,18 +3,45 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Nova ferramenta do ChatGPT traz funcionalidade semelhante ao Windows Recall",
-      "resumo": "OpenAI lançou recurso de Computer History no ChatGPT, que funciona de forma parecida ao Windows Recall da Microsoft. A ferramenta busca evitar problemas que levaram a Microsoft a adiar diversas vezes o lançamento do recurso polêmico.",
+      "subtema": "Automação",
+      "titulo": "Linux 7.2 anunciado por Linus Torvalds",
+      "resumo": "Linus Torvalds anunciou oficialmente o kernel Linux 7.2, mantendo o cronograma de lançamento. A versão foi entregue mesmo com alto volume de relatórios de bugs gerados por IA.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/nova-ferramenta-do-chatgpt-lembra-recurso-do-windows-11-que-caiu-em-desgraca/",
+      "url_original": "https://tecnoblog.net/noticias/linux-7-2-e-anunciado-por-linus-torvalds-confira-as-principais-novidades/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Stripe adquire OpenRouter em investimento de mais de US$ 7 bilhões",
-      "resumo": "Stripe adquirirá a startup OpenRouter, plataforma que funciona como 'Stripe para IA', em operação avaliada acima de US$ 7 bilhões. A aquisição representa aposta no crescimento do mercado de gateways de IA e modelos múltiplos.",
+      "subtema": "Automação",
+      "titulo": "Ubuntu cresce mais em Windows do que no próprio Linux",
+      "resumo": "Desenvolvedores estão abandonando dual boot para rodar projetos de programação dentro do Windows 11. Tendência mostra adoção crescente de subsistemas Linux em ambiente Windows.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/ubuntu-cresce-mais-no-windows-do-que-no-proprio-linux/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI desativa equipe de avaliação de riscos de modelos de IA",
+      "resumo": "OpenAI desativou a equipe responsável por avaliar riscos graves de seus modelos de IA. Mudança ocorre após saídas de profissionais ligados à segurança e em meio a reorganização antes de possível IPO.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/08/17/inteligencia-artificial/openai-desativa-equipe-que-avaliava-riscos-graves-de-seus-modelos-de-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Nvidia investe US$ 1,5 bilhão em desenvolvedora de data center do SoftBank",
+      "resumo": "Nvidia anunciou investimento de US$ 1,5 bilhão na desenvolvedora de data center SoftBank, que está por trás de projeto com OpenAI. Investimento garante que chips Nvidia alimentem novo data center da OpenAI.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Stripe vai adquirir startup OpenRouter por mais de US$ 7 bilhões",
+      "resumo": "Stripe está adquirindo a startup OpenRouter, descrita como 'Stripe para IA', por mais de US$ 7 bilhões. Movimento aposta em futuro mercado de modelos de IA agregados.",
       "fonte": "Stratechery",
       "url_original": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
       "idioma_original": "en"
@@ -22,8 +49,8 @@
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Anthropic implementa watermarking invisível no Claude para cumprir lei da UE",
-      "resumo": "Anthropic está adicionando marca d'água invisível no Claude em resposta à legislação de IA da União Europeia. A funcionalidade busca rastrear conteúdo gerado pela IA, mas levanta questões sobre efetividade e implicações filosóficas.",
+      "titulo": "Anthropic adiciona marca d'água invisível em Claude",
+      "resumo": "Anthropic está implementando watermarking invisível em Claude em resposta à lei de IA da União Europeia. Medida busca proteger conteúdo gerado por IA mas levanta questões filosóficas sobre aplicabilidade.",
       "fonte": "Stratechery",
       "url_original": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
       "idioma_original": "en"
@@ -31,8 +58,8 @@
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "CEO da Anthropic rebate críticas sobre postura pessimista sobre IA",
-      "resumo": "Dario Amodei, CEO da Anthropic, afirma que o ceticismo em torno de IA é 'fundamentalmente uma crise de confiança'. Ele contesta a percepção de estar pintando um quadro excessivamente pessimista sobre o futuro da tecnologia.",
+      "titulo": "CEO da Anthropic diz que reação contrária a IA é 'crise de confiança'",
+      "resumo": "Dario Amodei, CEO da Anthropic, rebate críticas sobre pintura pessimista do futuro da IA. Ele argumenta que o backlash é fundamentalmente uma questão de confiança no setor.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
       "idioma_original": "en"
@@ -40,109 +67,91 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Mulher denuncia uso de Grok para transformar foto infantil em conteúdo explícito",
-      "resumo": "Uma mulher alegou que seu padrasto usou o Grok para transformar uma foto de sua infância em material abusivo infantil. O caso levanta preocupações sobre segurança em ferramentas de IA e proteção contra abuso sexual infantil.",
+      "titulo": "Wispr levanta US$ 280 milhões em rodada de financiamento",
+      "resumo": "Wispr captou US$ 280 milhões com avaliação de US$ 2 bilhões, elevando financiamento total para mais de US$ 361 milhões. Startup expande atuação além de ditado.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "url_original": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
       "idioma_original": "en"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Câmbio",
-      "titulo": "Minidólar tem volatilidade elevada com IBC-Br e risco local",
-      "resumo": "Minidólar (WDOU26) deve enfrentar maior volatilidade nesta segunda-feira com divulgação do IBC-Br e potencial elevação do risco local. Mercado aguarda indicadores econômicos e análise de cenário macroeconômico.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-17082026/",
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "ByteDance assina acordo de direitos autorais de IA com Hollywood",
+      "resumo": "ByteDance (dona do TikTok) e Motion Picture Association (MPA) assinaram acordo para reforçar proteção de direitos autorais em ferramentas de IA que geram vídeos e imagens.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/08/17/dona-do-tiktok-assina-acordo-sobre-direitos-autorais-de-ia-com-grupo-de-hollywood.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Ibovespa acumula 9 quedas; IFR perto da sobrevenda abre espaço para repique",
-      "resumo": "Mini-índice (WINV26) apresenta Índice de Força Relativa próximo da zona de sobrevenda, sinalizando possível repique técnico. Ibovespa acumula sequência de queda, mas análise técnica sugere movimento de recuperação.",
+      "subtema": "Selic",
+      "titulo": "Bolsa oscila com IBC-Br, Focus e questões geopolíticas no radar",
+      "resumo": "Ibovespa oscila com reações ao IBC-Br e Focus. Bolsas dos EUA começam semana sem direção clara com peso de tensões no Irã e otimismo sobre IA.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winv26-17082026/",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17082026/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "MRV acredita em expansão de locação institucional apesar da venda da Luggo",
-      "resumo": "CEO da MRV, Eduardo Fischer, afirma que locação institucional é a próxima fronteira do setor habitacional no Brasil, apesar de ter vendido ativos da Luggo. Juros altos ainda representam entrave para expansão desse segmento.",
+      "subtema": "Selic",
+      "titulo": "Ministro da Fazenda: juros precisam ser endereçados pelo lado fiscal",
+      "resumo": "Ministro Durigan destacou que governo pretende perseguir trajetória de resultado fiscal prevista no PLDO. Defende que questão de juros pode ser endereçada também através de responsabilidade fiscal.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/business/apesar-de-ter-vendido-ativos-da-luggo-mrv-acredita-na-locacao-no-longo-prazo/",
+      "url_original": "https://www.infomoney.com.br/politica/durigan-juros-precisam-ser-enderecados-um-dos-caminhos-e-pelo-lado-fiscal/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "CEO da MRV destaca impactos da Reforma Tributária e gargalo de mão de obra",
-      "resumo": "Eduardo Fischer, CEO da MRV&CO, aponta escassez estrutural de mão de obra no setor e discute impactos da Reforma Tributária na construção. Executivo também aborda desafios de 'ato de fé' em investimentos no Brasil.",
+      "titulo": "Ministro: não há motivo para medo da reforma tributária",
+      "resumo": "Ministro da Fazenda Durigan afirma que reforma tributária sinalizará 2026 como ano voltado à educação e adaptação, sem penalidades em obrigações acessórias.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/business/mao-de-obra-em-queda-reforma-tributaria-e-a-visao-do-ceo-da-mrv-para-o-setor/",
+      "url_original": "https://www.infomoney.com.br/politica/durigan-nao-ha-motivo-para-medo-da-reforma-tributaria/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Erro contábil em gestão pública pode afetar candidatura de prefeito",
-      "resumo": "Falhas na contabilidade pública podem resultar em rejeição de contas e gerar consequências eleitorais para prefeitos. Erros contábeis representam risco significativo para gestores municipais em período eleitoral.",
+      "subtema": "Reforma Tributária",
+      "titulo": "Descontos em nota fiscal podem elevar IBS e CBS se registrados incorretamente",
+      "resumo": "Erro no registro de descontos pode aumentar base de IBS e CBS. É importante diferenciar desconto condicional de incondicional no preenchimento da nota fiscal.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78767/erro-contabil-pode-afetar-candidatura-de-prefeito/",
+      "url_original": "https://www.contabeis.com.br/noticias/78794/descontos-podem-elevar-ibs-e-cbs-se-nota-fiscal-tiver-erro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Split payment vai mudar conciliação e integração de ERP",
+      "resumo": "Split payment segregará IBS e CBS na liquidação financeira e exigirá integração entre documentos fiscais, pagamentos, ERP e controles tributários.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78792/split-payment-como-ibs-e-cbs-vao-mudar-conciliacao-e-erp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma tributária impacta incorporação imobiliária",
+      "resumo": "Reforma Tributária traz novas regras tributárias para setor imobiliário. Incorporadoras precisam se adaptar aos impactos da reforma nas operações de incorporação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78801/reforma-tributaria-e-a-incorporacao-imobiliaria/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "Receita Sintonia: consulte sua classificação de conformidade tributária",
-      "resumo": "Receita Federal oferece programa Receita Sintonia que classifica empresas por nível de conformidade tributária e oferece benefícios. Empresas podem consultar sua classificação e acessar vantagens conforme conformidade fiscal.",
+      "titulo": "TJSP reconhece imunidade de IPVA para veículos com 20 anos",
+      "resumo": "TJSP decidiu que apenas o ano de fabricação do veículo pode comprovar imunidade de IPVA para veículos com 20 anos ou mais.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78746/receita-sintonia-veja-como-consultar-classificacao/",
+      "url_original": "https://www.contabeis.com.br/noticias/78797/tjsp-reconhece-imunidade-de-ipva-para-veiculos-de-20-anos/",
       "idioma_original": "pt"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Casas Bahia entra com pedido de recuperação judicial",
-      "resumo": "Grupo Casas Bahia anunciou entrada com pedido de recuperação judicial junto à Justiça de São Paulo, incluindo diversas empresas do grupo. Medida busca reorganizar finanças, renegociar dívidas e manter operações funcionando.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/08/17/casas-bahia-entra-com-pedido-de-recuperacao-judicial.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Fitch eleva nota de crédito do Rio de Janeiro para grau AAA máximo",
-      "resumo": "Agência Fitch Ratings elevou nota de crédito do município do Rio de Janeiro para 'AAA', grau de investimento mais alto. Agência indica perspectiva de estabilidade e reconhece avanços financeiros dos últimos anos.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/16/agencia-de-classificacao-de-risco-fitch-eleva-nota-de-credito-do-municipio-do-rio-de-janeiro-para-o-grau-mais-alto.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Nova campanha de golpes usa Desenrola Brasil como isca para roubar dados",
-      "resumo": "Kaspersky identifica golpes que usam programa Desenrola Brasil como isca, direcionando vítimas para páginas falsas. Fraude exibe CPF e dados pessoais e solicita pagamento de acordo por PIX.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/08/17/novo-golpe-do-desenrola-exibe-cpf-e-dados-da-vitima-para-cobrar-acordo-por-pix-saiba-como-se-proteger.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "ChatGPT prejudica o cérebro? Entenda o conceito de 'dívida cognitiva'",
-      "resumo": "Especialistas discutem impactos do uso intensivo de ferramentas como ChatGPT na cognição humana, analisando conceito de 'dívida cognitiva'. Debate aborda se dependência de IA para resolução de problemas afeta habilidades mentais.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/08/17/usar-o-chatgpt-prejudica-o-cerebro-o-que-sabemos-e-o-que-nao-sabemos-sobre-a-divida-cognitiva.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Correios registra prejuízo de R$ 5,4 bilhões no 1º semestre de 2026",
-      "resumo": "Balancete contábil dos Correios aponta prejuízo de R$ 5,4 bilhões no primeiro semestre de 2026, com R$ 2,2 bilhões acumulados no segundo trimestre. Demonstrativo reflete dificuldades financeiras da estatal.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/08/17/correios-balanco-previo-aponta-prejuizo-de-r-54-bilhoes-no-1o-semestre-de-2026.ghtml",
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "PEM 2025: faltam 15 dias para adesão de municípios",
+      "resumo": "Prazo para adesão ao PEM 2025 encerra em 31 de agosto. Programa permite parcelar débitos previdenciários em até 300 vezes.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78791/pem-2025-faltam-15-dias-para-municipios-aderirem/",
       "idioma_original": "pt"
     }
   ]
