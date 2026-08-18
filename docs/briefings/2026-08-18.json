@@ -3,18 +3,27 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI estreita laços com o Brasil e busca mais parceiros",
-      "resumo": "OpenAI anuncia apoio a pesquisas nas áreas de matemática e saúde no Brasil. Empresa reforça presença no país e busca expandir parcerias com instituições locais.",
+      "subtema": "Claude",
+      "titulo": "Anthropic explica como o Claude vai identificar textos gerados por IA",
+      "resumo": "Anthropic desenvolveu tecnologia que identifica padrões nas escolhas de palavras para detectar se um texto foi gerado pelo Claude. O sistema cria marcas características que permitem estimar a participação do chatbot no conteúdo.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/openai-estreia-lacos-com-brasil-e-busca-mais-parceiros/",
+      "url_original": "https://tecnoblog.net/noticias/anthropic-explica-como-o-claude-vai-identificar-textos-gerados-por-ia/",
       "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI lança ChatGPT mais seguro para adolescentes",
+      "resumo": "OpenAI lançou versão do ChatGPT especialmente para adolescentes com medidas de segurança adequadas à idade, controles parentais e ferramentas educacionais. O objetivo é proteger menores contra conteúdo prejudicial e uso de IA para fraudes acadêmicas.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
       "titulo": "Receita anualizada da Anthropic salta para US$ 65 bilhões",
-      "resumo": "Anthropic adicionou US$ 18 bilhões em receita anualizada em dois meses. Crescimento expressivo reforça posição da empresa de IA como player relevante no mercado.",
+      "resumo": "Anthropic acelerou sua receita anualizada para US$ 65 bilhões, adicionando US$ 18 bilhões em receita anualizada em apenas dois meses. Crescimento reflete demanda crescente pelos serviços da fabricante de modelos de IA.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
       "idioma_original": "en"
@@ -22,44 +31,44 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Startup de automação Relay encerra operações; equipe se junta ao Google Chrome",
-      "resumo": "Relay, startup de automação de IA, fecha as portas com sua equipe migrando para o time do Chrome do Google. Empresa tinha foco em auxiliar usuários na automação de tarefas com IA.",
+      "titulo": "Startup de automação Relay encerra operações e equipe se junta ao Chrome do Google",
+      "resumo": "A startup Relay, focada em automação com IA, fechou suas operações e sua equipe foi integrada ao time do Chrome do Google. O CEO Jacob Bank anunciou planos ambiciosos para ajudar usuários a realizar tarefas com IA no Chrome.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Amazon destrói livros raros para treinar modelos de IA",
-      "resumo": "Amazon está destruindo livros raros para utilizá-los no treinamento de grandes modelos de linguagem. Prática visa aproveitar textos únicos não disponíveis na internet pública.",
+      "subtema": "Gemini",
+      "titulo": "Perplexity ganha milhões de usuários na Índia mesmo após término da oferta gratuita",
+      "resumo": "Plataforma Perplexity conquistou milhões de novos usuários na Índia através de oferta gratuita via Airtel. Receita subiu cerca de 60% após término da promoção para novos usuários, demonstrando forte retenção de usuários.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "url_original": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Python",
+      "titulo": "Warp lança sistema Warp Factories para fábricas de software com IA",
+      "resumo": "Warp apresentou Warp Factories, novo sistema de infraestrutura que facilita a construção de fábricas de software baseadas em IA. Solução promete simplificar o desenvolvimento de aplicações com inteligência artificial.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Nvidia investe em data center para OpenAI",
+      "resumo": "Nvidia estabeleceu novo acordo, desta vez com a OpenAI para financiar data center. Movimento reflete aposta contínua da gigante de chips em infraestrutura para laboratórios de IA de fronteira.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Groq levanta US$ 350 milhões e pivota de chips de IA para neocloud",
-      "resumo": "Groq arrecada US$ 350 milhões com avaliação de US$ 3,5 bilhões para transição de fabricante de chips para provedor de infraestrutura neocloud. Expansão inclui data centers com processadores Nvidia.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Nvidia investe US$ 1,5 bilhão em desenvolvedor de data center de SoftBank para projeto OpenAI",
-      "resumo": "Nvidia investe US$ 1,5 bilhão em empresa de data center do SoftBank. Investimento garante que chips Nvidia alimentarão um data center dedicado à OpenAI.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Stripe adquire OpenRouter para agregação de modelos de IA",
-      "resumo": "Stripe adquire OpenRouter, plataforma agregadora de modelos de IA. Movimento posiciona Stripe para oferecer acesso consolidado a múltiplos modelos de IA através de sua infraestrutura.",
+      "titulo": "Stripe adquire OpenRouter em aposta no mercado de modelos de IA",
+      "resumo": "Stripe está adquirindo OpenRouter, agregador de modelos de IA. Movimento representa aposta implícita no futuro mercado de modelos e posiciona Stripe para estratégia de agregação no setor de IA.",
       "fonte": "Stratechery",
       "url_original": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
       "idioma_original": "en"
@@ -67,55 +76,82 @@
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Anthropic implementa marca d'água invisível em Claude",
-      "resumo": "Anthropic adiciona watermark invisível no Claude em resposta à legislação de IA da União Europeia. Sistema de marca d'água busca identificar textos gerados pelo modelo.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://www.therundown.ai/p/anthropic-slips-an-invisible-signature-into-claude",
+      "titulo": "Anthropic adiciona marca d'água invisível no Claude",
+      "resumo": "Anthropic está implementando sistema de marca d'água invisível no Claude em resposta às exigências de lei de IA da União Europeia. Medida tem gerado críticas por questões filosóficas sobre detecção de conteúdo gerado por IA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
       "idioma_original": "en"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Anvisa aprova primeiro genérico de semaglutida do Brasil; Hypera em discussão",
-      "resumo": "Agência reguladora aprova primeiro genérico de semaglutida fabricado no Brasil pela EMS. Goldman Sachs prevê queda de preços e forte expansão do mercado nos próximos anos.",
+      "titulo": "Casas Bahia: ações BHIA3 sofrem revisão negativa após recuperação judicial",
+      "resumo": "Analistas revisaram suas projeções para as ações BHIA3 de forma negativa após pedido de recuperação judicial da Casas Bahia. Vários analistas encerram cobertura ou recomendam venda dos papéis.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/anvisa-aprova-1o-generico-de-semaglutida-do-brasil-e-eleva-disputa-como-fica-hypera/",
+      "url_original": "https://www.infomoney.com.br/mercados/casas-bahia-acoes-bhia3-entram-em-revisao-venda-ou-tem-cobertura-encerrada-apos-rj/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Petrobras confirma descoberta de petróleo na Bacia da Foz do Amazonas",
-      "resumo": "Petrobras confirma existência de petróleo no poço Morpho, na bacia da Foz do Amazonas, no litoral do Amapá. Descoberta abre nova fronteira de exploração no Brasil.",
+      "titulo": "Ibovespa tenta sustentar 167 mil pontos com oscilações",
+      "resumo": "Ibovespa oscila e tenta sustentar nível de 167 mil pontos enquanto bolsas dos EUA recuam por tensões entre EUA e Irã. Câmbio também reflete pressões externas com dólar oscilando.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/ap/amapa/noticia/2026/08/18/novo-pre-sal-o-que-ja-se-sabe-e-o-que-ainda-falta-descobrir-sobre-o-petroleo-na-foz-do-amazonas.ghtml",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/18/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar inverte queda e recua para R$ 5,19",
+      "resumo": "Dólar inverteu movimento positivo do início da sessão e passou a operar em queda, recuando 0,11% para R$ 5,1947. Movimento acompanha dados de petróleo e atividade econômica nos EUA.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/18/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "FIIs",
+      "titulo": "Quatro títulos públicos para proteção e aproveitamento de taxas históricas",
+      "resumo": "Análise apresenta opções de títulos prefixados e papéis de inflação para investidores que buscam proteção. Atualmente as taxas são consideradas atrativas para quem mira investimento no longo prazo.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/4-titulos-publicos-para-se-proteger-e-aproveitar-taxas-historicas/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Simples Nacional terá escolha de regime em setembro",
-      "resumo": "Microempresas e empresas de pequeno porte deverão escolher em setembro como recolher IBS e CBS a partir de 2027. Prazo estabelecido como parte da implementação da reforma tributária.",
+      "titulo": "Reforma Tributária muda estratégia de empresas B2B do Simples",
+      "resumo": "Empresas do Simples que vendem para outras empresas precisam avaliar créditos de IBS e CBS e considerar possível adesão ao regime híbrido. Reforma tributária impõe novas análises de planejamento para essas empresas.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78809/simples-nacional-tera-escolha-de-regime-em-setembro/",
+      "url_original": "https://www.contabeis.com.br/noticias/78833/reforma-tributaria-muda-estrategia-de-empresas-b2b/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "PNCT: Programa de Conformidade para Reforma Tributária",
-      "resumo": "Receita Federal e CGIBS regulamentam Programa Nacional de Conformidade Tributária para auxiliar empresas na adaptação fiscal. Iniciativa oferece suporte para implementação da reforma tributária.",
+      "subtema": "Leis Novas",
+      "titulo": "Senado aprova redução de tributos sobre combustíveis",
+      "resumo": "Senado aprovou projeto que permite reduzir tributos federais sobre combustíveis usando receitas extras do petróleo. Medida inclui benefícios fiscais adicionais para o setor.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78808/pnct-programa-de-conformidade-para-reforma-tributaria/",
+      "url_original": "https://www.contabeis.com.br/noticias/78836/senado-aprova-reducao-de-tributos-sobre-combustiveis/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "TRF-4 reduz retenção de IR sobre dividendos acima de R$ 50 mil",
-      "resumo": "Tribunal Regional Federal reduz retenção de Imposto de Renda sobre dividendos conforme tributação anual projetada. Decisão oferece alívio fiscal para contribuintes com distribuições maiores.",
+      "titulo": "STF decide que municípios não podem majorar IPTU apenas por tamanho do imóvel",
+      "resumo": "STF decidiu por unanimidade que municípios não podem fixar alíquotas de IPTU com base apenas na área do imóvel. Progressividade deve considerar valor da propriedade, localização e características locais.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/politica/noticia/2026/08/18/stf-decide-que-municipios-nao-podem-cobrar-iptu-com-aliquota-maior-por-causa-do-tamanho-do-imovel.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "STF pausa julgamento sobre exclusão de empresas do Refis",
+      "resumo": "Pedido de vista suspende julgamento no STF sobre exclusão de empresas do Refis que fazem pagamentos considerados insuficientes. Decisão pode impactar empresas que renegociam dívidas.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78802/trf-4-reduz-ir-sobre-dividendos-acima-de-r-50-mil/",
+      "url_original": "https://www.contabeis.com.br/noticias/78831/stf-pausa-julgamento-sobre-exclusao-de-empresas-do-refis/",
       "idioma_original": "pt"
     }
   ]
