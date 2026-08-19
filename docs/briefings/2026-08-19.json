@@ -1,0 +1,131 @@
+{
+  "data": "2026-08-19",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança & Vulnerabilidades",
+      "titulo": "Copilot revelou falha de segurança a pesquisadores",
+      "resumo": "A IA da Microsoft identificou uma vulnerabilidade que permitia roubo silencioso de dados com um clique. A falha já foi corrigida pela empresa. Pesquisadores descobriram o problema através do próprio Copilot.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/copilot-ensinou-pesquisadores-a-hackear-o-proprio-sistema/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI implementa novos protocolos de segurança após violação",
+      "resumo": "Em resposta ao incidente com Hugging Face, OpenAI reforçou monitoramento durante desenvolvimento de modelos e aumentou foco em alinhamento e segurança pós-treinamento.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação & Ferramentas",
+      "titulo": "Cursor lança plataforma rival ao GitHub",
+      "resumo": "Cursor, conhecida por seu editor de código com IA, estreia plataforma de hospedagem de código para competir com GitHub. Movimento capitaliza frustração de desenvolvedores com a plataforma tradicional.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Infraestrutura & Hardware",
+      "titulo": "Etched valoriza 21 bilhões após impressionar Jane Street",
+      "resumo": "Startup de infraestrutura de IA dobrou avaliação em um mês após Jane Street instalar seu primeiro cluster de IA. Investimento robusto reflete confiança na tecnologia.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação & Ferramentas",
+      "titulo": "Firefox integra recursos opcionais de IA",
+      "resumo": "Navegador ganha Smart Window com agrupamento inteligente de abas e busca por linguagem natural no histórico. Funcionalidades são totalmente opcionais para usuários.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/firefox-ganha-mais-recursos-de-ia-calma-eles-sao-opcionais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Regulação & Legislação",
+      "titulo": "Câmara aprova regras de proteção de dados para sistemas de IA",
+      "resumo": "Projeto altera Marco Civil da Internet para aplicar normas de proteção de dados em sistemas de inteligência artificial. Mudança reforça regulamentação do setor.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78855/comissao-aprova-regras-para-dados-usados-por-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Trump suspende tarifas de 50% sobre importações canadenses por 3 dias",
+      "resumo": "EUA recua em cobrança de novos impostos sobre produtos canadenses após acordo entre países. Suspensão é temporária enquanto negociações continuam.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/19/trump-suspende-por-tres-dias-tarifas-de-50percent-sobre-importacoes-canadenses.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações & Análise Técnica",
+      "titulo": "Mini-índice (WINV26): análise técnica para operações de quarta-feira",
+      "resumo": "Análise técnica aponta principais níveis para negociação do mini-índice Ibovespa. Ferramenta auxilia operadores em decisões de curto prazo.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winv26-19082026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Minidólar (WDOU26): suportes e resistências antes de ata do Fed",
+      "resumo": "Análise técnica identifica níveis-chave para minidólar antes de divulgação de ata do Banco Central americano. Movimento do dólar sensível a decisões monetárias dos EUA.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-19082026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "CBS e IBS: novos tributos da Reforma Tributária explicados",
+      "resumo": "CBS e IBS substituirão PIS, Cofins, ICMS e ISS. Entenda os novos tributos e processo de transição do sistema tributário.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78849/cbs-e-ibs-entenda-os-novos-tributos-da-reforma-tributaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Simples Nacional: escolha sobre IBS e CBS começa em setembro",
+      "resumo": "Empresas do regime Simples terão de avaliar em setembro opção pelo regime regular de IBS e CBS com vigência a partir de janeiro de 2027.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78838/simples-nacional-escolha-sobre-ibs-e-cbs-comeca-em-setembro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto & ICMS",
+      "titulo": "Minas Gerais dispensa condicionantes em benefícios fiscais do ICMS",
+      "resumo": "Decreto publicado em agosto estabelece dispensa retroativa para condicionantes ligadas a tributos federais em benefícios do ICMS em 2026.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78856/mg-dispensa-condicionantes-de-beneficios-fiscais-do-icms/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal & SPED",
+      "titulo": "Espírito Santo regulamenta Notas de Débito e Crédito na NF-e",
+      "resumo": "Estado regulamenta uso de Notas de Débito e Crédito em NF-e, exigindo atenção de empresas aos novos procedimentos fiscais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78835/es-regulamenta-notas-de-debito-e-credito-veja-mudancas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto & ICMS",
+      "titulo": "STF permite progressividade do IPTU por valor do imóvel",
+      "resumo": "Corte Suprema autoriza que IPTU seja progressivo de acordo com o valor do bem, abrindo alternativa ao cálculo por metragem.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/minhas-financas/iptu-por-tamanho-ou-por-preco-do-imovel-entenda-o-que-muda-com-decisao-do-stf/",
+      "idioma_original": "pt"
+    }
+  ]
+}
