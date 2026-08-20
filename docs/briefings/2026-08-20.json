@@ -1,0 +1,131 @@
+{
+  "data": "2026-08-20",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Binance permite que agentes de IA realizem operações de trading",
+      "resumo": "Binance lançou Agent OS que integra ferramentas como ChatGPT, Claude Code e Cursor para permitir que agentes de IA executem operações de trading. A plataforma deixa a responsabilidade de supervisão principalmente com os usuários.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude adiciona design de proteínas ao seu portfólio de capacidades",
+      "resumo": "Claude expande suas funcionalidades para incluir design de proteínas, ampliando suas aplicações em biologia e pesquisa científica.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/claude-adds-protein-design-to-its-resume",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI intensifica proteções de privacidade para competir com Anthropic",
+      "resumo": "OpenAI lança novas medidas de proteção de dados para clientes corporativos em competição direta com Anthropic. A disputa por segurança de dados se intensifica entre os líderes de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Stripe adquire OpenRouter para agregar modelos de IA",
+      "resumo": "Stripe adquire OpenRouter, uma plataforma que roteia requisições entre diferentes modelos de IA. A compra sinaliza aposta em um futuro mercado fragmentado de modelos de IA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Cursor lança Origin, nova ferramenta de codificação com IA",
+      "resumo": "Cursor Origin chega ao GitHub como solução de codificação assistida por IA. Ferramenta compete no crescente mercado de assistentes de programação.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/cursor-origin-hits-github-on-its-worst-day",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Aceitação de IA entre consumidores não avança como esperado",
+      "resumo": "Pesquisa mostra que consumidores estão mais desconfiados de IA conforme tecnologia se torna onipresente. Adoção ampla não garante aceitação pelo público em geral.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Cognition nega tentativa de aquisição pela SpaceX",
+      "resumo": "CEO da Cognition (startup de IA para codificação) nega relatórios de negociações com SpaceX. SpaceX já havia adquirido Cursor em corrida tecnológica contra OpenAI e Anthropic.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Santander Brasil emite R$ 600,3 milhões em letras financeiras",
+      "resumo": "Santander Brasil lança letras financeiras com vencimento de 10 anos e opção de recompra a partir de 2031. Operação reforça base de capital do banco.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/santander-brasil-sanb11-emite-r-6003-milhoes-em-letras-financeiras/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Minidólar (WDOU26): análise técnica e níveis de atenção para day trade",
+      "resumo": "Confira os níveis técnicos e pontos de atenção para operações no minidólar nesta quinta-feira (20 de agosto).",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-20082026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Mini-índice (WINV26): análise técnica para ampliação de reação",
+      "resumo": "Análise técnica aponta níveis de atenção e possibilidades de movimento para o mini-índice (futuro do Ibovespa) no pregão de quinta-feira.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winv26-20082026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "STF julgará créditos tributários vedados e impacto em PIS/Cofins e IPI",
+      "resumo": "STF julgará ADI 8002 da CNI sobre LC 224/2025 que veda créditos tributários. Decisão impactará regime de não cumulatividade de PIS/Cofins e IPI para empresas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78885/stf-julgara-creditos-tributarios-impacto-nas-empresas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Liminar suspende majoração de 10% no Lucro Presumido",
+      "resumo": "TRF-3 concede liminar contra acréscimo de 10% em IRPJ/CSLL para empresas no regime de Lucro Presumido. Decisão oferece alívio tributário temporário.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78879/liminar-suspende-majoracao-de-10-no-lucro-presumido/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Erros comuns em obrigações fiscais geram dívidas às empresas",
+      "resumo": "Pequenas falhas em obrigações fiscais podem transformar-se em grandes dívidas corporativas. Gestão preventiva e conformidade reduzem riscos de multas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78863/obrigacoes-fiscais-erros-que-geram-dividas-na-empresa/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Estabilidade acidentária: direitos de aposentado após acidente de trabalho",
+      "resumo": "Empregado aposentado que sofre acidente de trabalho pode ter direito à estabilidade de 12 meses. Conheça os requisitos e entendimentos jurisprudenciais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78891/estabilidade-acidentaria-aposentado-tem-direito-a-12-meses/",
+      "idioma_original": "pt"
+    }
+  ]
+}
