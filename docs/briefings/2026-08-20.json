@@ -3,18 +3,18 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Binance permite que agentes de IA realizem operações de trading",
-      "resumo": "Binance lançou Agent OS que integra ferramentas como ChatGPT, Claude Code e Cursor para permitir que agentes de IA executem operações de trading. A plataforma deixa a responsabilidade de supervisão principalmente com os usuários.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "idioma_original": "en"
+      "subtema": "Claude",
+      "titulo": "Código promete remover marca d'água invisível do Claude",
+      "resumo": "Pesquisadores publicaram código capaz de remover as marcações invisíveis que a Anthropic adiciona aos textos gerados pelo Claude. A marca d'água foi implementada em resposta às regulações da UE sobre IA.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/08/20/inteligencia-artificial/codigo-promete-remover-marca-dagua-invisivel-do-claude/",
+      "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Claude adiciona design de proteínas ao seu portfólio de capacidades",
-      "resumo": "Claude expande suas funcionalidades para incluir design de proteínas, ampliando suas aplicações em biologia e pesquisa científica.",
+      "titulo": "Claude adiciona design de proteínas às suas capacidades",
+      "resumo": "O Claude agora pode ajudar em design e análise de proteínas, expandindo seus usos além de tarefas tradicionais de processamento de texto.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/claude-adds-protein-design-to-its-resume",
       "idioma_original": "en"
@@ -22,8 +22,8 @@
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "OpenAI intensifica proteções de privacidade para competir com Anthropic",
-      "resumo": "OpenAI lança novas medidas de proteção de dados para clientes corporativos em competição direta com Anthropic. A disputa por segurança de dados se intensifica entre os líderes de IA.",
+      "titulo": "OpenAI aprimora proteções de privacidade para clientes empresariais",
+      "resumo": "OpenAI lança novas proteções de privacidade para dados de clientes empresariais em competição com a Anthropic. A medida busca garantir maior segurança e conformidade regulatória para clientes corporativos.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
       "idioma_original": "en"
@@ -31,100 +31,154 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Stripe adquire OpenRouter para agregar modelos de IA",
-      "resumo": "Stripe adquire OpenRouter, uma plataforma que roteia requisições entre diferentes modelos de IA. A compra sinaliza aposta em um futuro mercado fragmentado de modelos de IA.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
+      "titulo": "Meta lança aplicativo para Mac que permite conversar com seus aplicativos",
+      "resumo": "Meta apresenta novo app para Mac que integra o modelo Muse Spark para reconhecimento de voz e ditado. Permite aos usuários interagir com aplicativos através de comandos de voz.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Cursor lança Origin, nova ferramenta de codificação com IA",
-      "resumo": "Cursor Origin chega ao GitHub como solução de codificação assistida por IA. Ferramenta compete no crescente mercado de assistentes de programação.",
+      "subtema": "Python",
+      "titulo": "Cursor Origin chega ao GitHub em dia de instabilidade",
+      "resumo": "A ferramenta Cursor Origin para desenvolvimento com IA foi lançada no GitHub durante problemas técnicos da plataforma. Oferece suporte aprimorado para desenvolvimento com integração de IA.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/cursor-origin-hits-github-on-its-worst-day",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Aceitação de IA entre consumidores não avança como esperado",
-      "resumo": "Pesquisa mostra que consumidores estão mais desconfiados de IA conforme tecnologia se torna onipresente. Adoção ampla não garante aceitação pelo público em geral.",
+      "subtema": "Automação",
+      "titulo": "Binance permite que agentes de IA façam negociações de criptomoedas",
+      "resumo": "Binance lança Agent OS que permite agentes de IA autônomos negociarem criptomoedas usando ChatGPT, Claude Code e Cursor. Plataforma transfere responsabilidade de monitoramento aos usuários.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt",
+      "url_original": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Cognition nega tentativa de aquisição pela SpaceX",
-      "resumo": "CEO da Cognition (startup de IA para codificação) nega relatórios de negociações com SpaceX. SpaceX já havia adquirido Cursor em corrida tecnológica contra OpenAI e Anthropic.",
+      "subtema": "ChatGPT",
+      "titulo": "Stripe adquire OpenRouter para agregação de modelos de IA",
+      "resumo": "Stripe compra OpenRouter, plataforma que roteia requisições entre diferentes modelos de IA. A aquisição posiciona Stripe para atuar como agregador de modelos e serviços de IA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "CEO da Cognition nega negociações com SpaceX para aquisição",
+      "resumo": "CEO da Cognition desmente relatos de que SpaceX tentou adquirir a startup de IA para codificação. SpaceX já havia adquirido Cursor para competir com OpenAI e Anthropic.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
       "idioma_original": "en"
     },
     {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Apple resolve negociações com UE sobre taxas da App Store",
+      "resumo": "Apple chega a acordo com a União Europeia sobre redução de taxas na App Store. Decisão reflete pressão regulatória europeia e inclui novas regras de privacidade na Alemanha.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Austrália aprova lei que obriga big techs a pagar por notícias",
+      "resumo": "Austrália aprova News Bargaining Incentive que força Meta, Google, TikTok e LinkedIn a fazer acordos com veículos de imprensa ou pagar 2,5% de receita publicitária. Lei busca proteger indústria jornalística local.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/08/20/pro/australia-aprova-lei-que-obriga-big-techs-a-pagar-por-noticias-ou-a-pagar-multa/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Meta gasta centenas de milhões com Azure para acessar modelos de IA",
+      "resumo": "Meta se tornou uma das maiores clientes de IA da Microsoft, desembolsando centenas de milhões de dólares anuais em Azure. Mostra que demanda mais forte por IA continua vindo das big techs.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/meta-vira-uma-das-maiores-clientes-de-ia-da-microsoft/",
+      "idioma_original": "pt"
+    },
+    {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Santander Brasil emite R$ 600,3 milhões em letras financeiras",
-      "resumo": "Santander Brasil lança letras financeiras com vencimento de 10 anos e opção de recompra a partir de 2031. Operação reforça base de capital do banco.",
+      "titulo": "Shein adia IPO para 1º de setembro",
+      "resumo": "Plataforma de comércio eletrônico Shein adia abertura de capital para 1º de setembro. IPO pode ocorrer dias após a listagem ser oficializada.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/santander-brasil-sanb11-emite-r-6003-milhoes-em-letras-financeiras/",
+      "url_original": "https://www.infomoney.com.br/mercados/shein-adia-ipo-para-o-dia-1o-de-setembro-diz-reuters/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa sobe com apoio de PETR4 e VALE3",
+      "resumo": "Bolsa brasileira sobe 0,96% aos 169.437 pontos, com forte desempenho de Petrobras e Vale. Bolsas dos EUA recuam após dados de desemprego e tensões geopolíticas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/20/dolar-ibovespa.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Câmbio",
-      "titulo": "Minidólar (WDOU26): análise técnica e níveis de atenção para day trade",
-      "resumo": "Confira os níveis técnicos e pontos de atenção para operações no minidólar nesta quinta-feira (20 de agosto).",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-20082026/",
+      "titulo": "Dólar opera em alta, cotado a R$ 5,1838",
+      "resumo": "Dólar avança 0,15% e é cotado a R$ 5,1838. Movimento segue após anúncio de recompra de títulos públicos pelo Tesouro americano.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/20/dolar-ibovespa.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Mini-índice (WINV26): análise técnica para ampliação de reação",
-      "resumo": "Análise técnica aponta níveis de atenção e possibilidades de movimento para o mini-índice (futuro do Ibovespa) no pregão de quinta-feira.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winv26-20082026/",
+      "titulo": "Dívida dos EUA ultrapassa US$ 40 trilhões em novo recorde histórico",
+      "resumo": "Dívida pública americana ultrapassou US$ 40 trilhões pela primeira vez, atingida apenas 5 meses após superar US$ 39 trilhões. Crescimento impulsionado por gastos com defesa, programas sociais e custo crescente de juros.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/20/enquanto-trump-promete-cortar-gastos-divida-dos-eua-bate-recorde-de-us-40-trilhoes-e-preocupa-investidores.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Founder da Evergrande condenado à prisão perpétua",
+      "resumo": "Hui Ka Yan, fundador da Evergrande e ex-homem mais rico da Ásia, foi condenado à prisão perpétua. Sentença encerra trajetória de um dos maiores empresários chineses e marca queda da gigante imobiliária.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/20/de-homem-mais-rico-da-asia-a-condenado-a-prisao-perpetua-quem-e-o-fundador-da-evergrande.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "STF julgará créditos tributários vedados e impacto em PIS/Cofins e IPI",
-      "resumo": "STF julgará ADI 8002 da CNI sobre LC 224/2025 que veda créditos tributários. Decisão impactará regime de não cumulatividade de PIS/Cofins e IPI para empresas.",
+      "titulo": "DUIMP terá novas regras de IBS e CBS em 27 de setembro",
+      "resumo": "Alterações na DUIMP para IBS e CBS entram em produção em 27 de setembro. Importadores terão novos campos obrigatórios e fim do cClassTrib manual.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78885/stf-julgara-creditos-tributarios-impacto-nas-empresas/",
+      "url_original": "https://www.contabeis.com.br/noticias/78894/duimp-tera-novas-regras-de-ibs-e-cbs-em-27-de-setembro/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Liminar suspende majoração de 10% no Lucro Presumido",
-      "resumo": "TRF-3 concede liminar contra acréscimo de 10% em IRPJ/CSLL para empresas no regime de Lucro Presumido. Decisão oferece alívio tributário temporário.",
+      "subtema": "Reforma Tributária",
+      "titulo": "Simples: ressarcimento de IBS e CBS impede volta ao DAS",
+      "resumo": "Empresas do Simples que receberem ressarcimento de créditos de IBS ou CBS ficam impedidas de recolher os novos tributos pelo DAS. Importante restrição para contribuintes da modalidade.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78879/liminar-suspende-majoracao-de-10-no-lucro-presumido/",
+      "url_original": "https://www.contabeis.com.br/noticias/78893/simples-ressarcimento-de-ibs-e-cbs-impede-volta-ao-das/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Erros comuns em obrigações fiscais geram dívidas às empresas",
-      "resumo": "Pequenas falhas em obrigações fiscais podem transformar-se em grandes dívidas corporativas. Gestão preventiva e conformidade reduzem riscos de multas.",
+      "subtema": "Imposto de Renda",
+      "titulo": "Novo limite do MEI pode ser votado após eleições",
+      "resumo": "Projeto propõe elevar limite do MEI para R$ 110 mil em 2026 e R$ 140 mil em 2027, mas votação está prevista apenas após eleições municipais.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78863/obrigacoes-fiscais-erros-que-geram-dividas-na-empresa/",
+      "url_original": "https://www.contabeis.com.br/noticias/78895/novo-limite-do-mei-pode-ficar-para-depois-das-eleicoes/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Estabilidade acidentária: direitos de aposentado após acidente de trabalho",
-      "resumo": "Empregado aposentado que sofre acidente de trabalho pode ter direito à estabilidade de 12 meses. Conheça os requisitos e entendimentos jurisprudenciais.",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita esclarece aumento de saídas fiscais do Brasil",
+      "resumo": "Receita Federal explica que alta nas regularizações de saída definitiva inclui brasileiros que já viviam no exterior formalizando situação fiscal. Esclarece movimento atípico registrado.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78891/estabilidade-acidentaria-aposentado-tem-direito-a-12-meses/",
+      "url_original": "https://www.contabeis.com.br/noticias/78898/receita-esclarece-aumento-de-saidas-fiscais-do-brasil/",
       "idioma_original": "pt"
     }
   ]
