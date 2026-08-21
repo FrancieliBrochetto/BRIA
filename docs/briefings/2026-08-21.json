@@ -1,0 +1,149 @@
+{
+  "data": "2026-08-21",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Windows monitora hardware utilizado por IA em Gerenciador de Tarefas",
+      "resumo": "O Gerenciador de Tarefas do Windows ganhará novas colunas para monitorar como cada processo utiliza NPU e acelerador neural da GPU. Ferramenta visa auxiliar profissionais de TI e desenvolvedores na otimização de recursos.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/gerenciador-de-tarefas-do-windows-vai-monitorar-hardware-usado-por-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "ChatGPT integra-se ao Apple Messages para enviar mensagens de texto automaticamente",
+      "resumo": "OpenAI lança novo plug-in que permite ao ChatGPT enviar mensagens de texto automaticamente via Apple Messages. Funcionalidade atua como assistente de digitação automatizada para o usuário.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude adiciona capacidade de design de proteína ao seu conjunto de habilidades",
+      "resumo": "Claude agora oferece funcionalidades avançadas para design de proteína, expandindo suas aplicações em pesquisa biológica. Novidade reforça posicionamento de IA generativa em ciências da vida.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/claude-adds-protein-design-to-its-resume",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Slack integra IA para transformar programação em projeto colaborativo",
+      "resumo": "Slack implementa recursos de IA que permitem tornar codificação uma atividade em grupo. Ferramenta facilita colaboração entre desenvolvedores na plataforma.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/slack-turns-coding-into-a-group-project",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Startup Micro1 atinge US$ 500M em receita bruta impulsionada pelo boom de dados para treino de IA",
+      "resumo": "A demanda crescente por dados de treinamento de IA está acelerando o crescimento da startup Micro1 e seus concorrentes. Empresa alcança marca significativa em meio ao desenvolvimento acelerado de modelos de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI ganha espaço em usuários corporativos sobre Anthropic, aponta análise",
+      "resumo": "Dados indicam que OpenAI está expandindo participação junto a clientes empresariais em comparação com Anthropic. Volatilidade em adoção de modelos levanta questões sobre fidelidade do gasto em IA corporativa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Google oferece ferramentas para editores combaterem perda de tráfego causada por IA",
+      "resumo": "Google lança novo recurso permitindo leitores designarem sites como fonte preferida no Search, Discover e Google News. Medida busca mitigar impacto de buscas por IA que reduzem cliques para web tradicional.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Stripe adquire OpenRouter em aposta na agregação de modelos de IA",
+      "resumo": "Stripe compra OpenRouter, sinalizando aposta em futuro mercado diversificado de modelos de IA. Aquisição sugere mudança de modelo de negócio voltada para agregação de soluções.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Nvidia financia novo centro de dados de OpenAI em movimento estratégico",
+      "resumo": "Nvidia realiza novo acordo, desta vez financiando infraestrutura de data center para OpenAI. Movimento evidencia importância da arquitetura de hardware no desenvolvimento de modelos de IA de ponta.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Anthropic implementa marcas d'água em respostas conforme exigências de lei da UE",
+      "resumo": "Anthropic adiciona watermarking em modelos em resposta à legislação de IA europeia. Especialistas questionam eficácia e implicações filosóficas da medida.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Minidólar WDOU26: análise técnica aponta suportes e resistências para sexta-feira",
+      "resumo": "Análise técnica identifica níveis-chave de suporte e resistência para o minidólar na sessão de 21 de agosto. Expectativa reflete dinâmica de mercado cambial em dia de indicadores econômicos globais.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-21082026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Mini-índice WINV26 reage com PMIs globais como pontos-chave de volatilidade",
+      "resumo": "Análise técnica aponta níveis críticos para o mini-índice em dia marcado por divulgação de PMIs globais. Indicadores econômicos internacionais ditam movimento de recuperação do Ibovespa.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winv26-21082026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa amplia reação com recuperação podendo continuar em day trade",
+      "resumo": "Análise técnica aponta suportes e resistências do mini-índice e minidólar em sessão com sinal de recuperação. Movimento sugere possibilidade de continuidade do movimento altista no índice.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-21082026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Bares e restaurantes do Brasil enfrentam despreparo para implementação da reforma tributária",
+      "resumo": "Pesquisa Abrasel revela que estabelecimentos de alimentação no Simples Nacional carecem de informações suficientes sobre reforma tributária. Setor identifica necessidade de orientação para adequação às novas regras.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78916/bares-e-restaurantes-despreparados-para-reforma-tributaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "ICMS",
+      "titulo": "STF julga Tema 1.465 para definir limites de créditos de ICMS sobre produtos intermediários",
+      "resumo": "Supremo Tribunal Federal analisa questão sobre créditos de ICMS em operações com produtos intermediários. Decisão impactará planejamento fiscal de empresas e interpretação de legislação tributária.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78912/stf-define-creditos-de-icms-entenda-o-tema-1-465/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Senado aprova lei de arbitragem para solucionar conflitos tributários entre contribuintes e Fisco",
+      "resumo": "PLP 124/2022 aprovada prevê arbitragem, mediação e transação para resolver disputas tributárias. Texto segue para sanção presidencial como inovação no marco regulatório.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78913/senado-aprova-arbitragem-especial-para-conflitos-tributarios/",
+      "idioma_original": "pt"
+    }
+  ]
+}
