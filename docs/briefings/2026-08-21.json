@@ -3,146 +3,146 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Windows monitora hardware utilizado por IA em Gerenciador de Tarefas",
-      "resumo": "O Gerenciador de Tarefas do Windows ganhará novas colunas para monitorar como cada processo utiliza NPU e acelerador neural da GPU. Ferramenta visa auxiliar profissionais de TI e desenvolvedores na otimização de recursos.",
+      "subtema": "IA em Aplicações Práticas",
+      "titulo": "Apple Music terá selo para identificar músicas feitas com IA",
+      "resumo": "Apple Music implementará sinalização de uso de inteligência artificial em faixas. O selo deverá aparecer para usuários do serviço até o final do ano. Medida visa aumentar transparência sobre conteúdo gerado por IA na plataforma.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/gerenciador-de-tarefas-do-windows-vai-monitorar-hardware-usado-por-ia/",
+      "url_original": "https://tecnoblog.net/noticias/apple-music-tera-selo-para-identificar-musicas-feitas-com-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA em Aplicações Práticas",
+      "titulo": "IA na UTI prevê crises horas antes dos primeiros sinais aparecerem",
+      "resumo": "Sistemas de IA em unidades de terapia intensiva cruzam dados de exames e prontuários para prever crises médicas antecipadamente. Ferramenta ganha tempo precioso para intervenção, mas diagnóstico final permanece sob responsabilidade dos médicos.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/08/21/medicina-e-saude/ia-na-uti-preve-crises-horas-antes-dos-primeiros-sinais-aparecerem/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "ChatGPT integra-se ao Apple Messages para enviar mensagens de texto automaticamente",
-      "resumo": "OpenAI lança novo plug-in que permite ao ChatGPT enviar mensagens de texto automaticamente via Apple Messages. Funcionalidade atua como assistente de digitação automatizada para o usuário.",
-      "fonte": "TechCrunch AI",
+      "titulo": "ChatGPT pode enviar mensagens de texto pelo app de Mensagens da Apple",
+      "resumo": "OpenAI lançou integração do ChatGPT com o app Mensagens do iPhone, permitindo que a IA redija e envie textos automaticamente. Novo plugin funciona como um assistente para escrever mensagens em seu lugar.",
+      "fonte": "TechCrunch",
       "url_original": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Claude adiciona capacidade de design de proteína ao seu conjunto de habilidades",
-      "resumo": "Claude agora oferece funcionalidades avançadas para design de proteína, expandindo suas aplicações em pesquisa biológica. Novidade reforça posicionamento de IA generativa em ciências da vida.",
+      "titulo": "Claude adiciona design de proteína às suas capacidades",
+      "resumo": "Claude, assistente de IA da Anthropic, agora oferece funcionalidades de design de proteína. Expansão das capacidades científicas da IA marca novo avanço em aplicações biomédicas.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/claude-adds-protein-design-to-its-resume",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Slack integra IA para transformar programação em projeto colaborativo",
-      "resumo": "Slack implementa recursos de IA que permitem tornar codificação uma atividade em grupo. Ferramenta facilita colaboração entre desenvolvedores na plataforma.",
+      "subtema": "IA em Aplicações Práticas",
+      "titulo": "Slack transforma codificação em projeto colaborativo",
+      "resumo": "Slack integra novas funcionalidades que permitem programação em grupo e colaboração em tempo real. Plataforma expande seus recursos para desenvolvimento de código.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/slack-turns-coding-into-a-group-project",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
+      "subtema": "IA em Aplicações Práticas",
+      "titulo": "Óculos Ray-Ban Meta enfrentam denúncia por riscos à privacidade no Brasil",
+      "resumo": "Idec e Coding Rights acionaram ANPD, Senacon e MPF contra óculos inteligentes da Meta. Denúncia aponta possíveis violações de privacidade, proteção de dados e riscos para mulheres, crianças e adolescentes.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/08/21/entidades-acionam-mpf-contra-oculos-inteligentes-da-meta-por-riscos-a-privacidade-e-aos-consumidores.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Startup Micro1 atinge US$ 500M em receita bruta impulsionada pelo boom de dados para treino de IA",
-      "resumo": "A demanda crescente por dados de treinamento de IA está acelerando o crescimento da startup Micro1 e seus concorrentes. Empresa alcança marca significativa em meio ao desenvolvimento acelerado de modelos de IA.",
-      "fonte": "TechCrunch AI",
+      "titulo": "Transferência de veículos fica mais fácil pelo app da CNH",
+      "resumo": "Contran publica regras que padronizam transferência veicular digital via app CNH do Brasil. Novo procedimento simplifica compra e venda de carros, integrando assinatura, pagamento de débitos e mudança de proprietário em um único fluxo.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/vendeu-ou-comprou-um-carro-transferencia-pelo-celular-ficara-mais-facil/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Startup Micro1 atinge $500M em receita bruta com boom de dados para IA",
+      "resumo": "Micro1, startup de dados para IA, alcançou rodada de $500 milhões em receita anualizada. Crescimento acelerado é impulsionado pela demanda crescente por dados de treinamento no setor.",
+      "fonte": "TechCrunch",
       "url_original": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
+      "subtema": "IA em Aplicações Práticas",
+      "titulo": "Starcloud arrecada $250 milhões para data centers orbitais",
+      "resumo": "Starcloud obtém investimento de $250 milhões para expandir centros de dados em órbita. Financiamento reflete disputa crescente por acesso a capacidade espacial com opções de lançamento limitadas.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "OpenAI ganha espaço em usuários corporativos sobre Anthropic, aponta análise",
-      "resumo": "Dados indicam que OpenAI está expandindo participação junto a clientes empresariais em comparação com Anthropic. Volatilidade em adoção de modelos levanta questões sobre fidelidade do gasto em IA corporativa.",
-      "fonte": "TechCrunch AI",
+      "titulo": "OpenAI ganha terreno sobre Anthropic junto a usuários empresariais",
+      "resumo": "Novos dados indicam que OpenAI está capturando mais usuários empresariais em comparação com Anthropic. Volatilidade nas migrações entre plataformas levanta questões sobre fidelidade do investimento em IA corporativa.",
+      "fonte": "TechCrunch",
       "url_original": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
       "idioma_original": "en"
     },
     {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Google oferece ferramentas para editores combaterem perda de tráfego causada por IA",
-      "resumo": "Google lança novo recurso permitindo leitores designarem sites como fonte preferida no Search, Discover e Google News. Medida busca mitigar impacto de buscas por IA que reduzem cliques para web tradicional.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Stripe adquire OpenRouter em aposta na agregação de modelos de IA",
-      "resumo": "Stripe compra OpenRouter, sinalizando aposta em futuro mercado diversificado de modelos de IA. Aquisição sugere mudança de modelo de negócio voltada para agregação de soluções.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Nvidia financia novo centro de dados de OpenAI em movimento estratégico",
-      "resumo": "Nvidia realiza novo acordo, desta vez financiando infraestrutura de data center para OpenAI. Movimento evidencia importância da arquitetura de hardware no desenvolvimento de modelos de IA de ponta.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Anthropic implementa marcas d'água em respostas conforme exigências de lei da UE",
-      "resumo": "Anthropic adiciona watermarking em modelos em resposta à legislação de IA europeia. Especialistas questionam eficácia e implicações filosóficas da medida.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Câmbio",
-      "titulo": "Minidólar WDOU26: análise técnica aponta suportes e resistências para sexta-feira",
-      "resumo": "Análise técnica identifica níveis-chave de suporte e resistência para o minidólar na sessão de 21 de agosto. Expectativa reflete dinâmica de mercado cambial em dia de indicadores econômicos globais.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-21082026/",
-      "idioma_original": "pt"
-    },
-    {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Mini-índice WINV26 reage com PMIs globais como pontos-chave de volatilidade",
-      "resumo": "Análise técnica aponta níveis críticos para o mini-índice em dia marcado por divulgação de PMIs globais. Indicadores econômicos internacionais ditam movimento de recuperação do Ibovespa.",
+      "titulo": "BBI vê ações de Localiza e Movida com descontos de até 59%",
+      "resumo": "Banco BBI recomenda compra de ações de Localiza e Movida, identificando descontos de até 59%. Análise indica que cenário desafiador já está precificado nas avaliações atuais.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winv26-21082026/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Ibovespa amplia reação com recuperação podendo continuar em day trade",
-      "resumo": "Análise técnica aponta suportes e resistências do mini-índice e minidólar em sessão com sinal de recuperação. Movimento sugere possibilidade de continuidade do movimento altista no índice.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-21082026/",
+      "url_original": "https://www.infomoney.com.br/mercados/localiza-e-movida-bbi-ve-acoes-com-descontos-de-ate-59-e-recomenda-compra/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Bares e restaurantes do Brasil enfrentam despreparo para implementação da reforma tributária",
-      "resumo": "Pesquisa Abrasel revela que estabelecimentos de alimentação no Simples Nacional carecem de informações suficientes sobre reforma tributária. Setor identifica necessidade de orientação para adequação às novas regras.",
+      "titulo": "Apenas 1% das empresas diz ter TI pronta para Reforma Tributária",
+      "resumo": "Pesquisa revela que somente 1% das médias e grandes empresas consideram área de TI preparada para Reforma Tributária. 40% das companhias ainda estão na fase de planejamento da implementação.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78916/bares-e-restaurantes-despreparados-para-reforma-tributaria/",
+      "url_original": "https://www.contabeis.com.br/noticias/78932/so-1-das-empresas-diz-ter-ti-pronta-para-reforma-tributaria/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "ICMS",
-      "titulo": "STF julga Tema 1.465 para definir limites de créditos de ICMS sobre produtos intermediários",
-      "resumo": "Supremo Tribunal Federal analisa questão sobre créditos de ICMS em operações com produtos intermediários. Decisão impactará planejamento fiscal de empresas e interpretação de legislação tributária.",
+      "subtema": "Reforma Tributária",
+      "titulo": "MP das blusinhas trava acordo e pressiona Congresso",
+      "resumo": "Governo busca relator para Medida Provisória que altera tributação de compras internacionais. Varejo pressiona por faixa de isenção enquanto Congresso teme desgaste eleitoral com nova cobrança.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78912/stf-define-creditos-de-icms-entenda-o-tema-1-465/",
+      "url_original": "https://www.contabeis.com.br/noticias/78939/mp-das-blusinhas-trava-acordo-e-pressiona-congresso/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Senado aprova lei de arbitragem para solucionar conflitos tributários entre contribuintes e Fisco",
-      "resumo": "PLP 124/2022 aprovada prevê arbitragem, mediação e transação para resolver disputas tributárias. Texto segue para sanção presidencial como inovação no marco regulatório.",
+      "titulo": "Receita esclarece cobrança de salário-educação em atividade rural",
+      "resumo": "Solução de Consulta nº 152979 detalha critérios para separar empregados da atividade rural e hoteleira na apuração do salário-educação. Norma oferece direcionamento sobre cálculo e incidência do tributo.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78913/senado-aprova-arbitragem-especial-para-conflitos-tributarios/",
+      "url_original": "https://www.contabeis.com.br/noticias/78933/receita-esclarece-cobranca-do-salario-educacao-em-atividade-rural/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "STF debate divisão da Justiça para ações de IBS e CBS",
+      "resumo": "Debate no STF defende manter ações da CBS na Justiça Federal e do IBS na Estadual. Discussão busca criar mecanismos para evitar decisões divergentes na implementação da Reforma Tributária.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78935/stf-debate-divisao-da-justica-para-acoes-de-ibs-e-cbs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "NFS-e ganha novo modelo com campos de IBS e CBS",
+      "resumo": "Nota Técnica nº 008/2026 detalha novo modelo de DANFSE com campos específicos para IBS e CBS. Documento auxiliar da Nota Fiscal de Serviço Eletrônica incorpora impostos da Reforma Tributária.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78934/nfs-e-ganha-novo-modelo-impresso-com-campos-de-ibs-e-cbs/",
       "idioma_original": "pt"
     }
   ]
