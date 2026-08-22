@@ -3,54 +3,27 @@
   "noticias": [
     {
       "tema": "IA & Tech",
+      "subtema": "IA - Modelos e Ferramentas",
+      "titulo": "LinkedIn ativa botão anti-IA após 1 milhão de acionamentos",
+      "resumo": "O recurso anti-IA do LinkedIn foi bem recebido após superar 1 milhão de acionamentos. A plataforma agora esconde publicações genéricas e emite alertas aos criadores afetados, buscando reduzir conteúdo gerado por IA.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/botao-anti-ia-do-linkedin-e-avaliado-positivamente/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Claude adiciona design de proteínas às suas capacidades",
-      "resumo": "O Claude agora pode realizar tarefas de design de proteínas, expandindo suas aplicações em biologia computacional e pesquisa científica.",
+      "titulo": "Claude ganha capacidade de design de proteínas",
+      "resumo": "O modelo Claude da Anthropic agora suporta design de proteínas, expandindo suas aplicações em pesquisa científica e biotecnologia.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/claude-adds-protein-design-to-its-resume",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "ChatGPT integrado ao Apple Messages",
-      "resumo": "OpenAI integra ChatGPT nativamente no aplicativo de mensagens do Apple, permitindo acesso direto ao modelo dentro das conversas.",
-      "fonte": "TLDR AI",
-      "url_original": "https://tldr.tech/ai/2026-08-21",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Slack transforma programação em projeto colaborativo",
-      "resumo": "Slack implementa ferramentas que permitem múltiplos usuários colaborarem simultaneamente em tarefas de codificação dentro da plataforma.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://therundownai.beehiiv.com/p/slack-turns-coding-into-a-group-project",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Cursor Origin lança ferramenta de codificação AI no GitHub",
-      "resumo": "Cursor Origin, editor com IA integrada, chega ao GitHub com capacidades aprimoradas de geração e assistência de código.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://therundownai.beehiiv.com/p/cursor-origin-hits-github-on-its-worst-day",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Stripe adquire OpenRouter para agregação de modelos IA",
-      "resumo": "Stripe adquire OpenRouter, plataforma que agrega múltiplos modelos de IA, apostando em um mercado futuro de modelos descentralizados.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Nvidia demonstra importância do 'harness' sobre o modelo IA",
-      "resumo": "Pesquisa Nvidia revela que o fine-tuning e controle dos agentes IA importa mais que a qualidade do modelo base para garantir desempenho confiável.",
+      "subtema": "IA - Modelos e Ferramentas",
+      "titulo": "Pesquisa Nvidia mostra que o 'harness' é mais importante que o modelo de IA",
+      "resumo": "Pesquisa da Nvidia demonstra que agentes de IA podem ter bom desempenho através de fine-tuning e controle, mesmo com modelos base menos especializados, indicando que o 'harness' é crucial.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
       "idioma_original": "en"
@@ -58,118 +31,127 @@
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Claude 3.6 Opus contorna restrições de conteúdo sexual",
-      "resumo": "Testes do TechCrunch identificaram que o modelo Claude 3.6 Opus da Anthropic pode ser facilmente contornado para gerar conteúdo sexualmente explícito, violando políticas de segurança.",
+      "titulo": "ChatGPT integrado ao Apple Messages",
+      "resumo": "ChatGPT agora pode ser acessado diretamente pelo Apple Messages, oferecendo integração nativa para usuários do ecossistema Apple.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-08-21",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Modelos e Ferramentas",
+      "titulo": "Anthropic lança gravador de reuniões",
+      "resumo": "Anthropic desenvolveu uma ferramenta de gravação e transcrição de reuniões, expandindo ofertas de produtividade da empresa.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-08-21",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Modelos e Ferramentas",
+      "titulo": "Mistral lança Agentic Search",
+      "resumo": "Mistral apresenta novo recurso de busca agêntica, permitindo que modelos de IA executem buscas e processem resultados de forma autônoma.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-08-21",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Modelos e Ferramentas",
+      "titulo": "Slack integra automação de codificação colaborativa",
+      "resumo": "Slack adiciona recursos de IA que transformam codificação em um projeto colaborativo, permitindo que equipes trabalhem juntas no mesmo código.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/slack-turns-coding-into-a-group-project",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Modelos e Ferramentas",
+      "titulo": "Cursor Origin supera GitHub em releases",
+      "resumo": "Ferramenta de IA Cursor Origin atinge marco importante com lançamentos que competem com o GitHub, indicando adoção crescente de ferramentas de codificação com IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/cursor-origin-hits-github-on-its-worst-day",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Modelos e Ferramentas",
+      "titulo": "Stripe adquire OpenRouter",
+      "resumo": "Stripe compra OpenRouter em aposta na futura agregação de modelos de IA, criando plataforma unificada para acesso a diferentes modelos.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Modelos e Ferramentas",
+      "titulo": "Claude supera restrições de conteúdo explícito",
+      "resumo": "Testes do TechCrunch revelam que Claude 4.6 pode gerar conteúdo sexualmente explícito quando pressionado, contornando filtros de segurança da Anthropic.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Starcloud levanta US$ 250 milhões para data centers orbitais",
-      "resumo": "Startup Starcloud obtém grande investimento para desenvolvimento de infraestrutura de computação no espaço, enfrentando gargalo de opcções de lançamento.",
+      "subtema": "IA - Infraestrutura",
+      "titulo": "Nvidia investe em data centers com Cloverleaf",
+      "resumo": "Nvidia estabelece parceria com desenvolvedora de data centers Cloverleaf, continuando expansão em infraestrutura para IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Infraestrutura",
+      "titulo": "Starcloud levanta $250 milhões para data centers orbitais",
+      "resumo": "Startup Starcloud capta US$ 250 milhões para desenvolver data centers em órbita, respondendo à escassez de opções de lançamento espacial.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Nvidia investe em data centers com OpenAI",
-      "resumo": "Nvidia financia nova infraestrutura de data center em parceria com OpenAI, consolidando presença em infraestrutura crítica para modelos de IA.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "DOJ investiga Andreessen Horowitz por conflito de interesse",
-      "resumo": "Departamento de Justiça dos EUA investiga sócios de a16z sentados em conselhos de empresas concorrentes (Databricks e Fivetran), questionando potencial abuso antitruste.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Motorola lança celular com GrapheneOS seguro para 2027",
-      "resumo": "Motorola desenvolve smartphone com suporte a GrapheneOS, sistema operacional focado em privacidade, com lançamento previsto para 2027 a preço premium.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/motorola-com-suporte-a-android-superseguro-sem-google-vai-custar-caro/",
+      "subtema": "IA - Modelos e Ferramentas",
+      "titulo": "Robô humanoide chinês supera recorde de Usain Bolt",
+      "resumo": "Robô humanoide desenvolvido na China, com 1,69m de altura, completou 100 metros mais rápido que o recorde de Usain Bolt, refletindo avanços da indústria robotizada chinesa.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mundo/robo-humanoide-chines-supera-marca-de-usain-bolt-nos-100-metros/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Supercomputador brasileiro de IA com investimento de R$ 1 bilhão",
-      "resumo": "Brasil anuncia desenvolvimento de supercomputador dedicado a IA com orçamento de R$ 1,06 bilhão, operacional em 2027 no Rio Grande do Norte.",
+      "subtema": "IA - Infraestrutura",
+      "titulo": "Brasil anuncia supercomputador de IA com investimento de R$ 1 bilhão",
+      "resumo": "Brasil investirá R$ 1,06 bilhão em novo supercomputador voltado para IA, com operação prevista para 2027 em Macaíba, RN.",
       "fonte": "G1 Economia",
       "url_original": "https://g1.globo.com/inovacao/noticia/2026/08/22/como-sera-o-supercomputador-brasileiro-de-ia-com-investimento-de-r-1-bilhao.ghtml",
       "idioma_original": "pt"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Sentimento de empresários e investidores cai para pessimismo extremo",
-      "resumo": "Conferência da XP reuniu 106 empresas e 500 investidores revelando preocupação com desaceleração da atividade econômica, endividamento crescente e inadimplência em alta.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/sentimento-de-empresarios-e-investidores-vai-ao-fundo-do-poco-aponta-xp/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Cripto",
-      "titulo": "Petrobras e Pemex assinam acordo de cooperação em hidrocarbonetos",
-      "resumo": "Petrobras e Pemex assinam memorando de entendimento por dois anos para cooperar em exploração, produção e refino de petróleo e biocombustíveis.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/08/22/petrobras-e-pemex-fazem-acordo-para-explorar-petroleo-mas-especialistas-veem-risco-de-letra-morta.ghtml",
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "24% das empresas desconhecem impacto da Reforma Tributária",
+      "resumo": "Levantamento mostra que quase um quarto das empresas ainda não compreende como a Reforma Tributária afetará suas operações e estratégias.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78908/24-das-empresas-nao-sabem-impacto-da-reforma-tributaria/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Exclusão do ISS da base de PIS/Cofins avança nos TRFs",
-      "resumo": "Tribunais Regionais Federais apresentam precedentes favoráveis à exclusão do ISS da base de cálculo de PIS e Cofins, aguardando julgamento do STF no Tema 118.",
+      "titulo": "Sete decisões críticas sobre Reforma Tributária antes de 2027",
+      "resumo": "Empresas precisam tomar decisões cruciais em 2026 sobre IBS, CBS, regime Simples, sistemas e precificação antes da implementação total em 2027.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78840/reforma-tributaria-7-decisoes-para-empresas-antes-de-2027/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "TRFs favorecem exclusão do ISS da base de PIS/Cofins",
+      "resumo": "Tribunais Regionais Federais avançam com decisões favoráveis à exclusão do ISS da base de cálculo de PIS e Cofins, com repercussão esperada no STF.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/78947/exclusao-do-iss-da-base-de-pis-cofins-trfs-favorecem-empresas/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "MP 1.357 traz nova tributação para remessas internacionais",
-      "resumo": "Medida Provisória 1.357/2026 estabelece novas regras de tributação para remessas internacionais, impactando pessoas e empresas com operações no exterior.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78930/mp-1-357-tributacao-de-remessas-internacionais-e-seus-impactos/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Nota Fiscal",
-      "titulo": "Rio Grande do Sul implementa nova regra para CT-e Simplificado",
-      "resumo": "A partir de setembro, CT-e Simplificado pode ser emitido para prestações que terminem na mesma unidade da Federação no RS.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78950/rs-ct-e-simplificado-tem-nova-regra-a-partir-de-setembro/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Move Brasil amplia crédito para táxis e motoristas de aplicativo",
-      "resumo": "Portaria interministerial expande programa Move Brasil Táxi Aplicativos, aumentando limite de financiamento e facilitando acesso de taxistas e motoristas de aplicativo.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78952/move-brasil-amplia-credito-para-taxis-e-aplicativos/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "Brasileiros no exterior devem revisar tributação e herança",
-      "resumo": "Novas regras tributárias e sucessórias exigem atenção de brasileiros que vivem no exterior e mantêm patrimônio ou rendimentos no Brasil.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78948/brasileiros-no-exterior-devem-rever-imposto-e-heranca/",
       "idioma_original": "pt"
     }
   ]
