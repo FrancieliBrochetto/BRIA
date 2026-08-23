@@ -1,0 +1,140 @@
+{
+  "data": "2026-08-23",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "LinkedIn implementa botão anti-IA com sucesso após 1 milhão de acionamentos",
+      "resumo": "O recurso esconde publicações genéricas e emite alertas aos criadores de conteúdo afetado. A medida foi bem recebida pela comunidade de usuários da plataforma.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/botao-anti-ia-do-linkedin-e-avaliado-positivamente/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Stripe adquire OpenRouter em aposta no mercado de modelos de IA agregados",
+      "resumo": "A aquisição reflete expectativa de um futuro mercado pluralista de modelos. Move estratégica para consolidar agregação de IA no ecossistema de pagamentos.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Harvard oferece avatares de IA de instrutores em bootcamp de startups por US$ 699",
+      "resumo": "O programa HBS Foundry utiliza avatares de IA para fornecer feedback em pitches de prática e reuniões com conselho. Inovação na educação empresarial com assistência de inteligência artificial.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic integra design de proteínas ao Claude",
+      "resumo": "A IA agora é capaz de realizar tarefas de design proteico, expandindo seu escopo de aplicações científicas. Novo recurso promove uso em pesquisa biológica.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/claude-adds-protein-design-to-its-resume",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Slack integra recursos de codificação em grupo com IA",
+      "resumo": "Plataforma transforma programação em atividade colaborativa com auxílio de inteligência artificial. Ferramenta facilita trabalho em equipe no desenvolvimento de código.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/slack-turns-coding-into-a-group-project",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Agente de IA Faraday da Inherent supera Anthropic e OpenAI em replicação de pesquisa",
+      "resumo": "Lab britânico fundado por ex-pesquisadores do DeepMind lança Faraday, agente capaz de replicar artigos científicos. Ferramenta pode acelerar inovação em pesquisa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "OpenAI pede ao legislador californiano que reforce lei de segurança em IA",
+      "resumo": "Empresa inverte posição anterior e agora apoia fortalecimento do projeto SB 53. Mudança reflete maior comprometimento com regulação de segurança em IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Laboratórios de IA não divulgam planos para conter modelos descontrolados",
+      "resumo": "Estudo aponta falta de documentação pública sobre contingências em labs de IA fronteira. Questiona preparação da indústria conforme sistemas demonstram comportamentos inesperados.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Questão legal sobre treinamento de IA em livros protegidos por direito autoral permanece complexa",
+      "resumo": "Autores publicados tiveram obras usadas sem consentimento para treinar modelos de IA que ameaçam seus meios de vida. Debate jurídico sobre legitimidade dessa prática ainda em aberto.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "NFS-e Nacional torna-se obrigatória para ME e EPP em novembro de 2026",
+      "resumo": "Microempresas e pequenas empresas deverão emitir NFS-e Nacional a partir de novembro. Mudança exige adaptação de sistemas contábeis e operacionais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78943/nfs-e-nacional-sera-obrigatoria-para-me-e-epp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária: revisão de cadastros emerge como novo gargalo de implementação",
+      "resumo": "Empresas avançam na adequação de sistemas, mas validação de cadastros, produtos e classificações permanece como desafio crítico. Atualização de bases de dados essencial para conformidade.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78938/reforma-tributaria-cadastros-viram-novo-gargalo/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Vale-alimentação sofre mudanças em novembro de 2026 com novas regras",
+      "resumo": "Alterações incluem interoperabilidade, revisão de taxas e novas regras para empresas. Beneficiários devem se adaptar às restrições de uso do benefício.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78857/vale-alimentacao-muda-em-novembro-veja-novas-regras/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Projeto prevê isenção de impostos para empresas de jovens por três anos",
+      "resumo": "PL 2367/26 propõe isenção de IRPJ, CSLL, PIS/Pasep e Cofins para empresas fundadas por jovens. Medida visa incentivar empreendedorismo da população jovem.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78929/projeto-preve-isencao-de-impostos-para-empresas-de-jovens/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Trump intensifica tensão comercial com retaliação contra tarifas canadenses",
+      "resumo": "Presidente americano critica medidas de retaliação do Canadá que entram em vigor em 8 de setembro. Guerra comercial afeta setores como aço, lácteos e papel.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/23/trump-diz-basta-em-reacao-as-tarifas-de-retaliacao-do-canada.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "Pix sofre instabilidade neste domingo; Banco Central relata normalização",
+      "resumo": "Clientes de bancos brasileiros reportaram falhas no funcionamento do Pix. Sistema de pagamentos foi restabelecido após período de indisponibilidade.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/23/pix-fora-do-ar-clientes-de-bancos-relatam-instabilidade-do-servico.ghtml",
+      "idioma_original": "pt"
+    }
+  ]
+}
