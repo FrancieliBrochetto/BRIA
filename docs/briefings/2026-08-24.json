@@ -1,0 +1,176 @@
+{
+  "data": "2026-08-24",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "LinkedIn ativa botão anti-IA após 1 milhão de acionamentos",
+      "resumo": "Recurso que permite denunciar conteúdo gerado por IA no LinkedIn registrou mais de 1 milhão de acionamentos. Plataforma escondeu publicações genéricas e passou a emitir alertas aos criadores afetados, sendo avaliado positivamente pelos usuários.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/botao-anti-ia-do-linkedin-e-avaliado-positivamente/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Executivo da OpenAI alerta sobre ataques cibernéticos orquestrados por IA",
+      "resumo": "Representante da OpenAI afirma que sociedade deve se preparar para se defender de ataques cibernéticos coordenados por inteligência artificial, destacando riscos crescentes de segurança digital.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/08/24/pro/resumo-do-od-robo-humanoide-supera-bolt-china-adia-viagem-a-lua/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Mistério do modelo de IA 'Ox Alpha' agita comunidade tech",
+      "resumo": "Novo modelo de IA chamado Ox Alpha gerou especulação intensa na comunidade tecnológica sobre sua identidade e origem.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude adiciona design de proteínas a suas capacidades",
+      "resumo": "Assistente Claude da Anthropic agora consegue realizar tarefas de design de proteínas, expandindo suas aplicações para área científica.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/claude-adds-protein-design-to-its-resume",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Slack integra IA para colaboração em código",
+      "resumo": "Plataforma Slack transforma programação em projeto colaborativo com novos recursos de IA integrados para desenvolvimento conjunto de código.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/slack-turns-coding-into-a-group-project",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Python",
+      "titulo": "Cursor Origin disputa espaço com GitHub para desenvolvedores",
+      "resumo": "Ferramenta Cursor Origin, focada em desenvolvimento com IA, enfrenta GitHub num momento crítico para a plataforma de versionamento.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/cursor-origin-hits-github-on-its-worst-day",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Questão legal: é permitido treinar IA em livros com direitos autorais?",
+      "resumo": "Debate sobre legalidade do treinamento de modelos de IA em obras com direitos autorais afeta autores que não consentiram com uso de suas obras.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Harvard oferece avatares IA de instrutores em bootcamp de startups",
+      "resumo": "Programa HBS Foundry por US$ 699 usa avatares de IA para oferecer feedback durante pitches e reuniões de conselho de empreendedores.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Stripe adquire OpenRouter em aposta no mercado de modelos de IA",
+      "resumo": "Stripe compra OpenRouter, sinalizando confiança no futuro de um mercado agregado de modelos de IA com múltiplas opções de provedores.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Nvidia financia centro de dados de IA da OpenAI",
+      "resumo": "Nvidia faz novo investimento ao financiar centro de dados de inteligência artificial para frontier lab OpenAI, fortalecendo parceria estratégica.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Incentivos favorecem defesa cibernética autônoma contra ataques de IA",
+      "resumo": "Dinâmica de segurança cibernética agentic beneficia startups sobre incumbentes, com incentivos naturais para inovação em defesa autônoma.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/autonomy-and-innovation/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa retorna aos 170 mil pontos com alta de 2,11%",
+      "resumo": "Índice Bovespa sobe 2,11% e volta a superar 170 mil pontos, enquanto dólar recua e Bitcoin se aproxima de US$ 80 mil nesta semana.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/da-bolsa-ao-bitcoin-o-que-esperar-dos-mercados-nesta-semana/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "SLC Agrícola em sobrecompra; Hapvida e Marcopolo em territórios técnicos relevantes",
+      "resumo": "Análise técnica indica Embraer em região de sobrecompra enquanto Marcopolo entra em sobrevenda após forte queda de preço.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/slc-agricola-slce3-esta-esticada-hapvida-hapv3-pode-reagir-veja-analise/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Shein busca levantar US$ 1,77 bilhão em IPO em Hong Kong",
+      "resumo": "Varejista chinesa Shein prepara oferta pública inicial em Hong Kong para captar até US$ 1,77 bilhão, com recursos destinados ao fortalecimento global.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/shein-busca-levantar-ate-us-177-bilhao-em-ipo-em-hong-kong/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "NFS-e Nacional será obrigatória para ME e EPP a partir de novembro de 2026",
+      "resumo": "Micro e pequenas empresas deverão emitir NFS-e Nacional obrigatoriamente a partir de novembro de 2026, com nova estrutura de faturamento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78943/nfs-e-nacional-sera-obrigatoria-para-me-e-epp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária: revisão de cadastros emerge como novo gargalo",
+      "resumo": "Empresas avançam na adaptação de sistemas à Reforma Tributária, mas revisão de cadastros, produtos e classificações ainda representa desafio crítico.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78938/reforma-tributaria-cadastros-viram-novo-gargalo/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Simples Nacional muda em 2027: prazo até setembro para escolher novo regime de impostos",
+      "resumo": "Micro e pequenas empresas devem escolher entre 1º e 30 de setembro como recolherão IBS e CBS no primeiro semestre de 2027 sob nova reforma tributária.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/empreendedorismo/noticia/2026/08/24/simples-nacional-muda-em-2027.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Vale-alimentação e vale-refeição ganham novas regras em novembro de 2026",
+      "resumo": "Novas regulamentações para vale-alimentação e vale-refeição entram em vigor em novembro, alterando interoperabilidade, taxas e regras de uso do benefício.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78857/vale-alimentacao-muda-em-novembro-veja-novas-regras/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Projeto prevê isenção tributária de 3 anos para empresas criadas por jovens",
+      "resumo": "PL 2367/26 propõe programa com isenção de IRPJ, CSLL, PIS/Pasep e Cofins por três anos para empresas fundadas por jovens empreendedores.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78929/projeto-preve-isencao-de-impostos-para-empresas-de-jovens/",
+      "idioma_original": "pt"
+    }
+  ]
+}
