@@ -2,19 +2,46 @@
   "data": "2026-08-25",
   "noticias": [
     {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "LGPD e Proteção de Dados",
-      "titulo": "ANPD multa TikTok em R$ 153,7 milhões por violações à LGPD",
-      "resumo": "A Agência Nacional de Proteção de Dados identificou cinco violações à Lei Geral de Proteção de Dados, com foco em falhas na proteção de menores. A multa foi publicada no Diário Oficial da União. TikTok se comprometeu a fazer adequações e eliminar dados coletados irregularmente.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/08/25/anpd-multa-tiktok-por-falhas-na-protecao-de-menores.ghtml",
+      "tema": "IA & Tech",
+      "subtema": "IA & Infraestrutura",
+      "titulo": "OpenAI desenvolve chip Jalapeño para inferência em larga escala",
+      "resumo": "O chip Jalapeño da OpenAI foi testado no benchmark InferenceX e registrou melhor desempenho em tokens por usuário e throughput por kilowatt comparado ao estado da arte atual. A tecnologia é voltada para processamento rápido de inferência em escala.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Infraestrutura",
+      "titulo": "SpaceX e Nvidia planejam data centers no espaço com 1 milhão de satélites",
+      "resumo": "SpaceX prevê lançar em 2027 seus primeiros satélites de IA equipados com chips Nvidia para levar data centers para a órbita terrestre. Projeto envolve implantação de aproximadamente 1 milhão de satélites.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/08/25/pro/spacex-planeja-1-milhao-de-satelites-para-levar-data-centers-ao-espaco/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
+      "subtema": "Agentes de IA",
+      "titulo": "Keenable levanta US$ 26 milhões para indexar a web para agentes de IA",
+      "resumo": "A startup Keenable, apoiada pela Accel, sai do modo stealth com aporte de US$ 26 milhões. Desenvolve um vasto índice de busca web especificamente otimizado para agentes de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI: 'O mundo parece estar pronto' para agentes de IA",
+      "resumo": "Thibault Sottiaux, chefe de produto da OpenAI, discute em entrevista o desenvolvimento de agentes de IA, experiência do usuário e estrutura organizacional da empresa. Aborda o estado de prontidão do mercado para essas tecnologias.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Claude adiciona design de proteínas às suas capacidades",
-      "resumo": "Claude expandiu suas funcionalidades para incluir design de proteínas, ampliando seu uso em pesquisa científica e biotecnologia. A capacidade permite análise e otimização de estruturas proteicas.",
+      "titulo": "Claude agora oferece design de proteínas entre suas capacidades",
+      "resumo": "Anthropic expandiu as funcionalidades do Claude para incluir design de proteínas, adicionando uma nova dimensão de aplicações científicas à plataforma de IA.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/claude-adds-protein-design-to-its-resume",
       "idioma_original": "en"
@@ -22,163 +49,73 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Slack integra colaboração em programação para grupos",
-      "resumo": "Slack lançou recurso que transforma codificação em projeto de grupo, facilitando colaboração entre desenvolvedores. A funcionalidade permite compartilhamento e trabalho simultâneo em código.",
+      "titulo": "Slack integra codificação colaborativa com IA",
+      "resumo": "Slack lança recurso que transforma codificação em projeto colaborativo utilizando IA. Permite que equipes trabalhem conjuntamente no desenvolvimento de código dentro da plataforma.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/slack-turns-coding-into-a-group-project",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Segurança e Privacidade",
-      "titulo": "Assistente IA Instinct levanta preocupações com privacidade",
-      "resumo": "O assistente AI Instinct, embora receba elogios por capacidades, gera inquietação sobre acesso amplo, termos genéricos e autorização para agir em nome do usuário. Testadores apontam trade-offs desconfortáveis.",
+      "subtema": "Automação",
+      "titulo": "Gamma adquire startup de design Lica para formar equipe de pesquisa",
+      "resumo": "A Gamma adquiriu a startup de design Lica (apoiada pela Accel) para reforçar sua equipe de pesquisa. Os co-fundadores da Lica trabalharão no novo time da Gamma.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns",
+      "url_original": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "ChatGPT agora integrado nas Mensagens do Apple",
-      "resumo": "Apple integrou ChatGPT nativamente no aplicativo Mensagens, permitindo uso direto do assistente em conversas. Funcionalidade amplia acesso aos usuários iPhone sem necessidade de app separado.",
-      "fonte": "TLDR AI",
-      "url_original": "https://tldr.tech/ai/2026-08-21",
-      "idioma_original": "en"
+      "subtema": "Automação",
+      "titulo": "Microsoft lança PowerToys 0.101 com novo modo de alternar janelas",
+      "resumo": "Nova versão do PowerToys da Microsoft traz melhorias na Paleta de Comandos, PowerDisplay, Colar Avançado e um novo modo para alternar entre janelas. Atualização oferece vários refinamentos no utilitário.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/powertoys-0-101-traz-novo-modo-de-alternar-janelas-e-varios-refinamentos/",
+      "idioma_original": "pt"
     },
     {
-      "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Gemini Canvas permite visualizar Google Sheets dinamicamente",
-      "resumo": "Google lançou funcionalidade Canvas em Gemini que transforma dados de Google Sheets em visualizações interativas. Ferramenta melhora análise e apresentação de dados sem necessidade de programação.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://therundownai.beehiiv.com/p/a-mystery-challenger-at-the-ai-frontier",
-      "idioma_original": "en"
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Simples Nacional: fim do regime de caixa em 2027",
+      "resumo": "Empresas do Simples Nacional deverão apurar tributos pelo regime de competência a partir de 2027, eliminando a opção anterior de regime de caixa. Mudança impactará forma de cálculo tributário.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78990/simples-nacional-tera-fim-do-regime-de-caixa-em-2027/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Simples pode escolher IBS/CBS antes de alíquota definitiva",
+      "resumo": "Empresas do Simples Nacional poderão decidir em setembro se recolhem IBS e CBS pelo regime regular antes da nova alíquota de referência da CBS ser conhecida. Oportunidade de transição antecipada.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78982/simples-pode-escolher-ibs-cbs-antes-de-aliquota-definitiva/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Receita Federal esclarece entrega centralizada da DME",
+      "resumo": "Receita Federal permite que a matriz apresente a Declaração de Moeda Estrangeira com valores em espécie recebidos por filiais obrigadas. Simplifica procedimento para empresas com múltiplas unidades.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78986/receita-esclarece-entrega-centralizada-da-dme/",
+      "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Câmbio",
-      "titulo": "Minidólar (WDOU26): análise técnica para operações",
-      "resumo": "Análise dos pontos para operar minidólar nesta terça-feira (25 de agosto). Acompanhamento de suportes e resistências para day traders.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-25082026/",
+      "titulo": "Canadá anuncia retaliação de até 50% contra produtos americanos",
+      "resumo": "Canadá anunciou tarifas de retaliação em C$ 27,6 bilhões sobre produtos dos EUA, com alíquotas de 15%, 25% e 50% atingindo cerca de 700 produtos. Medidas entram em vigor em 8 de setembro.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/25/canada-tarifas-eua.ghtml",
       "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações e Índices",
-      "titulo": "Mini-índice (WINV26): recuperação continua em análise técnica",
-      "resumo": "Análise técnica aponta para continuidade ou perda de força da recuperação do mini-índice. Confira os níveis de suporte e resistência para operações em 25 de agosto.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winv26-25082026/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações e Índices",
-      "titulo": "Ibovespa mantém sequência de altas; análise do day trade",
-      "resumo": "Mini-índice segue em tendência de alta. Análise técnica apresenta pontos de suporte e resistência para mini-índice e minidólar em operações intraday.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-25082026/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação Tributária",
-      "titulo": "Brasil e EUA agendarão reunião para discutir tarifas na segunda-feira",
-      "resumo": "Representantes do Brasil e EUA agendarão reunião para retomar negociações sobre tarifas. Itamaraty também participará das conversas iniciais.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/politica/brasil-e-eua-agendam-reuniao-para-discutir-tarifaco-para-proxima-segunda-feira/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação Tributária",
-      "titulo": "Governo confirma salário mínimo de R$ 1.741 para 2027",
-      "resumo": "Ministro da Fazenda Dario Durigan confirmou que o salário mínimo em 2027 será de R$ 1.741. Valor consta no projeto da Lei Orçamentária Anual (PLOA).",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/minhas-financas/governo-confirma-que-salario-minimo-sera-de-r-1-741-em-2027/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "SPED e Notas Fiscais",
-      "titulo": "EFD-Reinf atualiza tabelas da versão 2.1.2",
-      "resumo": "Nota Técnica 04/2026 promove ajustes em tabelas da EFD-Reinf versão 2.1.2. Contribuintes devem observar as informações atualizadas no sistema.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78972/efd-reinf-atualiza-tabelas-da-versao-2-1-2/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação Tributária",
-      "titulo": "Receita pode incluir mais 50 benefícios na Dirbi",
-      "resumo": "Receita Federal avalia incluir 50 novos benefícios na Dirbi após declarações apontarem R$ 100 bilhões em benefícios fiscais usufruídos em três meses.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78968/receita-pode-incluir-mais-50-beneficios-na-dirbi/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação Tributária",
-      "titulo": "Simples Nacional: mudanças até o fim de 2026",
-      "resumo": "Novo prazo de opção, decisões sobre IBS e CBS, NFS-e nacional e outras mudanças afetam empresas do Simples Nacional até dezembro de 2026.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78973/simples-nacional-mudancas-ate-o-fim-de-2026/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação Tributária",
-      "titulo": "Receita Federal formaliza plataforma e-Editais como oficial",
-      "resumo": "Receita Federal reconheceu e-Editais como plataforma oficial para publicação e consulta de editais e atos da administração tributária.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/78975/e-editais-receita-federal-formaliza-plataforma-oficial/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Partnership SpaceX-Nvidia direciona-se para órbita",
-      "resumo": "SpaceX e Nvidia expandem parceria direcionada para aplicações em órbita. Colaboração envolve desenvolvimento de soluções de IA para operações espaciais.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://therundownai.beehiiv.com/p/the-spacex-nvidia-partnership-heads-for-orbit",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "General Intuition levanta US$ 6 bilhões para IA robótica",
-      "resumo": "Startup General Intuition, que constrói modelo foundation para treinar agentes IA generalizados em movimento e tempo, capta investimento em rodada com Valor Ventures e Point72 a valuation de US$ 6 bilhões.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Replit CEO debaterá futuro da programação na TechCrunch Disrupt",
-      "resumo": "Amjad Masad, CEO e co-fundador da Replit, participará do Disrupt Stage para discutir perspectivas sobre o futuro da programação e papel da plataforma.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Cripto e Investimentos",
-      "titulo": "Fundo IA Situational Awareness investigado pela SEC",
-      "resumo": "Situational Awareness, fundo de hedge especializado em IA que era destaque em Wall Street, agora está sob investigação federal com expedição de subpoenas da SEC.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "idioma_original": "en"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Trump compra ações SpaceX duas semanas após IPO",
-      "resumo": "Presidente comprou ações SpaceX quando estavam na faixa de US$ 150 pós-IPO. Ações fecharam segunda-feira no preço de abertura do IPO, US$ 135.",
+      "titulo": "Hedge fund AI 'Situational Awareness' é investigado pela SEC",
+      "resumo": "O fundo de hedge de IA Situational Awareness, que quase entrou em colapso, agora é alvo de investigação da SEC com subpoenas federais. Transição rápida de destaque em Wall Street para investigação.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo",
+      "url_original": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
       "idioma_original": "en"
     }
   ]
