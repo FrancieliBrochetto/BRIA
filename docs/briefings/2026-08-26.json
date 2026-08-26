@@ -1,0 +1,194 @@
+{
+  "data": "2026-08-26",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google lança Gemini jurídico para reduzir erros e alucinações",
+      "resumo": "Google apresenta plataforma de IA especializada em legislação que verifica citações e conecta agentes de IA a bases jurídicas usadas por escritórios e departamentos legais, reduzindo erros e alucinações nas respostas.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/google-lanca-gemini-juridico-para-reduzir-erros-e-alucinacoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude Cowork agora lembra contexto anterior entre chats",
+      "resumo": "Anthropic implementa memória compartilhada entre chat e Cowork no Claude, eliminando a necessidade de repetir briefings sobre projetos, preferências e contexto em cada sessão.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Terceirização BPO evolui com IA e automação administrativa",
+      "resumo": "Empresas adotam terceirização de processos administrativos (BPO) com IA e automação para ganhar eficiência e foco no core business, marcando nova era na gestão administrativa.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78980/terceirizacao-bpo-nova-era-com-ia-e-automacao-administrativa/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Slack integra IA para transformar programação em projeto colaborativo",
+      "resumo": "Slack apresenta recursos de IA que permitem colaboração em grupo em projetos de código, facilitando o trabalho conjunto entre desenvolvedores.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/slack-turns-coding-into-a-group-project",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "OpenAI apresenta seu primeiro chip de IA",
+      "resumo": "OpenAI lança seu próprio chip de inteligência artificial, marca importante na estratégia de reduzir dependência de fabricantes externos e otimizar custos de infraestrutura.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-first-ai-chip-brings-the-heat",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "SpaceX e Nvidia se unem para levar IA para órbita em 2027",
+      "resumo": "Elon Musk planeja lançar satélites de inteligência artificial com chips Nvidia pela SpaceX em 2027, buscando expandir infraestrutura de IA além da Terra.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/08/25/colunistas/elon-musk-quer-tirar-a-ia-da-terra-entenda-por-que/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Apple lança chips M6 e M5 Ultra para Mac mini e Mac Studio",
+      "resumo": "Apple anuncia novos processadores M6 e M5 Ultra com preços a partir de R$ 10.799 para Mac mini e chegando a R$ 69.999 para Mac Studio, com entrega prevista para 22 de setembro.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/apple-lanca-m6-e-m5-ultra-mac-studio-com-novo-chip-chega-a-r-69-999/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "ChatGPT integra-se aos Apple Messages",
+      "resumo": "Apple adiciona integração do ChatGPT ao aplicativo Messages, expandindo acesso aos recursos de IA conversacional diretamente em mensagens.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/a-mystery-challenger-at-the-ai-frontier",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Claude adiciona design de proteínas às suas capacidades",
+      "resumo": "Claude expande suas funcionalidades para incluir design de proteínas, abrindo aplicações em pesquisa biológica e desenvolvimento de medicamentos.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/claude-adds-protein-design-to-its-resume",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Startup Ringg recebe investimento de $10 milhões para voz de IA",
+      "resumo": "Empresa indiana Ringg levanta $10 milhões da Peak XV em sua Série A, expandindo tecnologia de IA de voz além de chamadas telefônicas.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Startup de robótica Generalist atinge avaliação de $3 bilhões",
+      "resumo": "Generalist, startup de IA física e robótica, levanta $200 milhões em extensão de série, saltando de $2 bilhões para $3 bilhões de avaliação.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Stability AI levanta $76 milhões para Stable Diffusion",
+      "resumo": "Stability AI, criadora do gerador de imagens Stable Diffusion, completa rodada de $76 milhões, totalizando $232 milhões levantados desde fundação.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "OpenAI perde executivo de data center em série de saídas",
+      "resumo": "OpenAI registra partida de executivo responsável por infraestrutura de data centers, parte de uma sequência de saídas de altos executivos na empresa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "PL cria regras contra abuso de crédito para trabalhadores",
+      "resumo": "Projeto em análise na Câmara prevê autorização individual para concessão de crédito, regras rigorosas para consignados e proteção contra descontos indevidos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78999/pl-cria-regras-contra-abuso-de-credito-sobre-trabalhador/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Senado avança em PEC que reduz jornada de trabalho",
+      "resumo": "Relator da PEC sobre redução jornada trabalha em parecer para quinta-feira (27), com possível elimação da escala 6x1 aprovada anteriormente pela Câmara.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78997/senado-avanca-em-reducao-jornada-de-trabalho-o-que-muda/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "eSocial",
+      "titulo": "INSS inicia pagamentos de agosto para beneficiários",
+      "resumo": "Beneficiários do INSS começam a receber pagamentos de agosto de acordo com o número final do cartão de benefício, mantendo cronograma regular.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/78996/inss-comeca-pagamentos-de-agosto-nesta-terca-25/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Bradesco nega acordo com Advent e Bain sobre compra da Amil",
+      "resumo": "Bradesco desmente rumores de negociação com Advent e Bain Capital para aquisição da Amil, descartando aporte de R$ 12 bilhões para a operação.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/bradesco-bbdc4-diz-que-nao-ha-acordo-com-advent-e-bain-sobre-compra-da-amil/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "CVM obriga Centaurus a fazer oferta pública na Oncoclínicas",
+      "resumo": "Autarquia determina que gestora Centaurus desembolse mais de R$ 6 bilhões para oferta pública de compra das ações minoritárias da Oncoclínicas.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/centaurus-tera-de-fazer-oferta-publica-de-acoes-da-oncoclinicas-decide-cvm/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Minidólar mantém canal de baixa com cautela no pregão",
+      "resumo": "Contrato futuro do minidólar opera em canal de baixa nesta quarta-feira, com investidores mantendo postura cautelosa ante dados econômicos.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-26082026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Mini-índice testa apetite ao risco com dados de PCE e PIB americanos",
+      "resumo": "Índice futuro reage aos números de inflação PCE e PIB dos EUA, que influenciam apetite por risco dos investidores no mercado brasileiro.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winv26-26082026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa ganha força e mira novas altas no day trade",
+      "resumo": "Índice principal demonstra recuperação e busca novos patamares, com análise técnica apontando suportes e resistências para operações de curtíssimo prazo.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-26082026/",
+      "idioma_original": "pt"
+    }
+  ]
+}
