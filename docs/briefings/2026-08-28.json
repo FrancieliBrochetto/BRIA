@@ -3,101 +3,146 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Google exige que desenvolvedores usem menos RAM no Android",
-      "resumo": "Google solicita aos desenvolvedores que reduzam o consumo de memória RAM em apps e jogos Android. A medida visa contornar a escassez generalizada de chips de memória no mercado.",
+      "subtema": "Claude",
+      "titulo": "Claude apagou 700 GB de dados de usuário por engano",
+      "resumo": "A IA da Anthropic falhou ao criar um script e deletou uma semana inteira de trabalho de um desenvolvedor. O incidente evidencia riscos potenciais ao confiar completamente em assistentes de IA para tarefas críticas.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/google-quer-que-desenvolvedores-usem-menos-ram-no-android/",
+      "url_original": "https://tecnoblog.net/noticias/claude-apagou-700-gb-de-dados-de-um-usuario-por-engano/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google muda limites de uso do Gemini Notebook",
+      "resumo": "Google anunciou que Gemini Notebook terá limites de uso baseados na complexidade e extensão das tarefas a partir de 2 de setembro. A mudança visa melhor gerenciamento de recursos e performance da plataforma.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/google-muda-limites-de-uso-do-gemini-notebook-veja-como-ficou/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Anthropic e OpenAI participam do AI Stage na TechCrunch Disrupt 2026",
-      "resumo": "As maiores empresas de IA apresentam-se no palco dedicado à inteligência artificial da conferência TechCrunch Disrupt 2026, apresentado pelo Google for Startups.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Barret Zoph, ex-cofundador da Thinking Machines, agora trabalha no Google",
-      "resumo": "Zoph, cofundador da Thinking Machines Lab e ex-CTO da startup, passou brevemente pela OpenAI e agora integra a equipe do Google.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI, Anthropic, Google e 100 empresas se unem contra ameaças de IA rogue",
-      "resumo": "Mais de 100 empresas de tecnologia e startups de IA pedem ação urgente para melhorar a cibersegurança e combater uma nova geração de ameaças cibernéticas.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Google AI Mode agora rastreia preços de voos e facilita reservas de hotéis",
-      "resumo": "O Google posiciona seu AI Mode como agente de viagem, ampliando funcionalidades para além de busca de informações, assumindo tarefas de planejamento e reserva.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Hugging Face lança Microduck, robô open-source por US$ 399",
-      "resumo": "Hugging Face apresenta o Microduck, um robô open-source adorável que pode aprender novos comportamentos através de aprendizado por reforço.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Reforma tributária altera nota fiscal e amplia dados exigidos das empresas",
-      "resumo": "As mudanças nos documentos fiscais vão além da inclusão de IBS e CBS, exigindo registro e processamento de maior volume de informações pelas empresas.",
+      "titulo": "Privacidade de conversas com ChatGPT pode ser comprometida em investigações",
+      "resumo": "Conversas com ChatGPT não possuem sigilo equivalente ao de relações advogado-cliente, mas são protegidas por regras de privacidade. Dados podem ser acessados em determinadas circunstâncias legais.",
       "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/08/27/pro/reforma-tributaria-muda-nota-fiscal-e-exige-mais-dados-das-empresas/",
+      "url_original": "https://olhardigital.com.br/2026/08/28/inteligencia-artificial/o-que-voce-fala-com-o-chatgpt-pode-ser-usado-contra-voce/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Geral",
+      "titulo": "Neocloud Lambda levanta US$ 1 bilhão em dívida para comprar chips Nvidia",
+      "resumo": "Empresa levantou US$ 1 bi em dívida privada para adquirir chips de IA Nvidia e revendê-los à Microsoft. A operação reflete o alto custo da infraestrutura necessária para o boom de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Geral",
+      "titulo": "Pesquisador da Anthropic apresenta avanço em IA auto-aprimorável",
+      "resumo": "Sistemas automatizados conseguiram melhorar performance em 10 benchmarks de comportamentos desalinhados sem degradar desempenho geral. Representa progresso significativo em segurança e eficiência de IAs.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Geral",
+      "titulo": "Empresas open-weight de IA são os principais alvos de aquisição do Vale do Silício",
+      "resumo": "Investidores concentram capital em empresas que liberam modelos de IA abertos. Tendência reflete a importância estratégica de tecnologias acessíveis no mercado de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Geral",
+      "titulo": "Anthropic vence primeira ação judicial contra rótulo de risco do Pentágono",
+      "resumo": "Juiz federal decidiu que administração Trump rotulou ilegalmente Anthropic como risco de cadeia de suprimentos. Vitória fortalece posição da empresa em disputa com órgãos governamentais.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Geral",
+      "titulo": "Executiva da Meta deixa empresa para OpenAI em contexto de escrutínio na Índia",
+      "resumo": "Sandhya Devanathan saiu da Meta para OpenAI, onde supervisionará operações no Sudeste Asiático e Austrália. Movimento ocorre enquanto Meta enfrenta crescente pressão regulatória na Índia.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "S&P 500 e Nasdaq fecham em queda após declarações do Fed sobre inflação",
+      "resumo": "Índices recuaram após reafirmação do combate à inflação pelo presidente do Fed. Ações de chips caíram apesar das perspectivas otimistas da Nvidia sobre crescimento impulsionado por IA.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/wall-street-operam-em-queda-apos-discurso-do-chair-do-fed-alta-de-ia-perde-forca/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Presidente do Fed sugere aumento de taxas de juros nos EUA",
+      "resumo": "Kevin Warsh sinalizou que o Federal Reserve pode aumentar taxas de juros nos próximos meses para conter inflação. Declaração representa sinal mais claro sobre posicionamento futuro da política monetária americana.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/28/presidente-do-fed-sugere-que-eua-podem-aumentar-taxas-de-juros-para-conter-inflacao.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa amplia série de altas com suporte da Petrobras",
+      "resumo": "Índice brasileiro continuou trajetória positiva impulsionado por ações da Petrobras. Ganhos ocorrem apesar de pressões do exterior relacionadas a sinalizações de aumento de juros.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-recua-apos-warsh-levar-mercado-a-ajustar-expectativa-sobre-juros-dos-eua/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "CARF reconhece incentivos de ICMS como subvenção, afastando IRPJ e CSLL",
-      "resumo": "Conselho Administrativo de Recursos Fiscais decide que incentivos de ICMS de Goiás não integram a base de cálculo de IRPJ e CSLL, afetando o Tema 1.182 do STJ.",
+      "titulo": "Receita Federal esclarece tributação do IRPF sobre apostas e fantasy sports",
+      "resumo": "Receita Federal divulgou orientações sobre cálculo, recolhimento e declaração do IRPF em prêmios líquidos de bets e fantasy sports. Esclarecimento busca orientar contribuintes sobre obrigações fiscais nesta modalidade.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79048/carf-incentivos-de-icms-nao-integram-irpj-e-csll/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Justiça libera R$ 2,75 bilhões em atrasados do INSS",
-      "resumo": "Conselho Nacional de Justiça autoriza o pagamento de R$ 2,75 bilhões referentes a atrasados do INSS, com liberação programada e consulta disponível para beneficiários.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79054/justica-libera-r-2-75-bi-em-atrasados-do-inss/",
+      "url_original": "https://www.contabeis.com.br/noticias/79084/receita-esclarece-irpf-sobre-bets-e-fantasy-sport/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Refis 2026: prazo para regularizar IPVA no Maranhão termina em 31 de agosto",
-      "resumo": "O programa de regularização de débitos permite parcelamento de IPVA em até 12 vezes com descontos em juros e multas no estado do Maranhão.",
+      "titulo": "Nova reforma da Previdência prevê idade mínima de 67 anos e mudanças no INSS",
+      "resumo": "Proposta de reforma prevê elevação da idade mínima para 67 anos, novo modelo de aposentadoria e alterações para MEIs e empresas. Mudanças impactarão significativamente o sistema previdenciário brasileiro.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79051/refis-2026-prazo-para-regularizar-ipva-termina-dia-31/",
+      "url_original": "https://www.contabeis.com.br/noticias/79081/nova-reforma-da-previdencia-preve-mudancas-no-inss/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Receita libera versão 6.2.0 do PGE da EFD-Contribuições",
+      "resumo": "Nova versão adapta sistema ao CNPJ alfanumérico e recomenda migração até 30 de setembro. Atualização é obrigatória para empresas que utilizam EFD-Contribuições.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79077/efd-contribuicoes-receita-libera-versao-6-2-0-do-pge/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Governo antecipa decreto para zerar IPI sob reforma tributária",
-      "resumo": "Executivo antecipará decreto que reduz o IPI a zero para produtos abrangidos pela Reforma Tributária, com vigência a partir de 2027.",
+      "titulo": "Simples Nacional 2027: debate entre modelo híbrido ou puro",
+      "resumo": "Mudanças no Simples Nacional para 2027 impactarão empresas e contadores com novas regras tributárias. Período crítico de preparação para adaptação aos novos modelos propostos.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79047/governo-antecipa-decreto-para-zerar-ipi/",
+      "url_original": "https://www.contabeis.com.br/noticias/79097/simples-nacional-2027-modelo-hibrido-ou-puro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Votação sobre aumento do teto do MEI fica para após eleições",
+      "resumo": "Projeto que amplia limite de faturamento do MEI aguarda acordo entre governo e Congresso sobre limites do Simples Nacional. Decisão foi adiada para período pós-eleitoral.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79082/teto-do-mei-votacao-deve-ficar-para-depois-das-eleicoes/",
       "idioma_original": "pt"
     }
   ]
