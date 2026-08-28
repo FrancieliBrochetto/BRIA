@@ -5,106 +5,115 @@
       "tema": "IA & Tech",
       "subtema": "Claude",
       "titulo": "Claude apagou 700 GB de dados de usuário por engano",
-      "resumo": "A IA da Anthropic falhou ao criar um script e deletou uma semana inteira de trabalho de um desenvolvedor. O incidente evidencia riscos potenciais ao confiar completamente em assistentes de IA para tarefas críticas.",
+      "resumo": "A IA da Anthropic falhou ao criar um script e deletou uma semana inteira de trabalho de um desenvolvedor. O incidente ressalta riscos de confiabilidade em sistemas de IA para operações críticas.",
       "fonte": "Tecnoblog",
       "url_original": "https://tecnoblog.net/noticias/claude-apagou-700-gb-de-dados-de-um-usuario-por-engano/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Google muda limites de uso do Gemini Notebook",
-      "resumo": "Google anunciou que Gemini Notebook terá limites de uso baseados na complexidade e extensão das tarefas a partir de 2 de setembro. A mudança visa melhor gerenciamento de recursos e performance da plataforma.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/google-muda-limites-de-uso-do-gemini-notebook-veja-como-ficou/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Privacidade de conversas com ChatGPT pode ser comprometida em investigações",
-      "resumo": "Conversas com ChatGPT não possuem sigilo equivalente ao de relações advogado-cliente, mas são protegidas por regras de privacidade. Dados podem ser acessados em determinadas circunstâncias legais.",
+      "titulo": "O que você fala com o ChatGPT pode ser usado contra você?",
+      "resumo": "Conversas com ChatGPT não têm sigilo de relação advogado-cliente, mas são protegidas por regras de privacidade. Dados podem ser acessados em determinadas circunstâncias legais ou investigativas.",
       "fonte": "Olhar Digital",
       "url_original": "https://olhardigital.com.br/2026/08/28/inteligencia-artificial/o-que-voce-fala-com-o-chatgpt-pode-ser-usado-contra-voce/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA - Geral",
-      "titulo": "Neocloud Lambda levanta US$ 1 bilhão em dívida para comprar chips Nvidia",
-      "resumo": "Empresa levantou US$ 1 bi em dívida privada para adquirir chips de IA Nvidia e revendê-los à Microsoft. A operação reflete o alto custo da infraestrutura necessária para o boom de IA.",
+      "subtema": "Claude",
+      "titulo": "Pesquisador da Anthropic apresenta IA com capacidade de auto-melhoria",
+      "resumo": "Sistemas automatizados conseguiram melhorar desempenho em 10 benchmarks de comportamentos desalinhados sem degradar performance geral. Avanço demonstra progresso em IA autossupervisória.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Gemini Omni 1.1 lançado com novas capacidades multimodais",
+      "resumo": "Google apresenta atualização do Gemini Omni com melhorias em processamento de conteúdo. Versão inclui ferramentas aprimoradas para análise e criação de material visual.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-08-28",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Antropic vence primeira batalha judicial contra o Pentágono",
+      "resumo": "Juiz federal suspendeu rótulo de risco na cadeia de suprimentos da Anthropic imposto pela administração Trump. Decisão favorável marca primeira vitória em litígio com órgãos militares dos EUA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Executivo da Meta migra para OpenAI para operações na Ásia-Pacífico",
+      "resumo": "Sandhya Devanathan deixa Meta para assumir posição na OpenAI, supervisionando operações no Sudeste Asiático e Austrália. Movimento ocorre enquanto Meta enfrenta escrutínio regulatório na Índia.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Neocloud Lambda levanta US$ 1 bilhão em dívida para compra de chips IA",
+      "resumo": "Empresa assegurou financiamento privado para adquirir chips Nvidia e alugá-los para Microsoft. Transação reflete custo elevado do boom de IA e estratégia de acesso a hardware especializado.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA - Geral",
-      "titulo": "Pesquisador da Anthropic apresenta avanço em IA auto-aprimorável",
-      "resumo": "Sistemas automatizados conseguiram melhorar performance em 10 benchmarks de comportamentos desalinhados sem degradar desempenho geral. Representa progresso significativo em segurança e eficiência de IAs.",
+      "subtema": "Automação",
+      "titulo": "Empresas open-weight de IA são os maiores alvos de aquisição do Vale",
+      "resumo": "Capital abundante está fluindo para negócios de distribuição de modelos de IA abertos. Tendência reflete interesse de grandes investidores em alternativas aos modelos proprietários.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "url_original": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA - Geral",
-      "titulo": "Empresas open-weight de IA são os principais alvos de aquisição do Vale do Silício",
-      "resumo": "Investidores concentram capital em empresas que liberam modelos de IA abertos. Tendência reflete a importância estratégica de tecnologias acessíveis no mercado de IA.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA - Geral",
-      "titulo": "Anthropic vence primeira ação judicial contra rótulo de risco do Pentágono",
-      "resumo": "Juiz federal decidiu que administração Trump rotulou ilegalmente Anthropic como risco de cadeia de suprimentos. Vitória fortalece posição da empresa em disputa com órgãos governamentais.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA - Geral",
-      "titulo": "Executiva da Meta deixa empresa para OpenAI em contexto de escrutínio na Índia",
-      "resumo": "Sandhya Devanathan saiu da Meta para OpenAI, onde supervisionará operações no Sudeste Asiático e Austrália. Movimento ocorre enquanto Meta enfrenta crescente pressão regulatória na Índia.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "S&P 500 e Nasdaq fecham em queda após declarações do Fed sobre inflação",
-      "resumo": "Índices recuaram após reafirmação do combate à inflação pelo presidente do Fed. Ações de chips caíram apesar das perspectivas otimistas da Nvidia sobre crescimento impulsionado por IA.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/wall-street-operam-em-queda-apos-discurso-do-chair-do-fed-alta-de-ia-perde-forca/",
+      "subtema": "Automação",
+      "titulo": "Navegador Brave introduz Brave Alias para proteção de e-mail",
+      "resumo": "Brave Alias oferece até cinco endereços de e-mail aleatórios gratuitamente. Mensagens são encaminhadas para o e-mail verdadeiro e apagadas em seguida, protegendo privacidade em cadastros online.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/navegador-brave-agora-esconde-seu-e-mail-na-hora-de-preencher-cadastros/",
       "idioma_original": "pt"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Selic",
-      "titulo": "Presidente do Fed sugere aumento de taxas de juros nos EUA",
-      "resumo": "Kevin Warsh sinalizou que o Federal Reserve pode aumentar taxas de juros nos próximos meses para conter inflação. Declaração representa sinal mais claro sobre posicionamento futuro da política monetária americana.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/08/28/presidente-do-fed-sugere-que-eua-podem-aumentar-taxas-de-juros-para-conter-inflacao.ghtml",
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Hackers roubam dados de Berlim e colocam material em leilão",
+      "resumo": "Grupo Rhysida afirma ter roubado 46,5 mil contratos, e-mails, números de telefone, senhas e informações classificadas de órgãos de Berlim. Material foi anunciado para venda em marketplace cibernético.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/08/28/seguranca/hackers-dizem-ter-roubado-dados-de-berlim-e-colocam-material-em-leilao/",
       "idioma_original": "pt"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Ibovespa amplia série de altas com suporte da Petrobras",
-      "resumo": "Índice brasileiro continuou trajetória positiva impulsionado por ações da Petrobras. Ganhos ocorrem apesar de pressões do exterior relacionadas a sinalizações de aumento de juros.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-recua-apos-warsh-levar-mercado-a-ajustar-expectativa-sobre-juros-dos-eua/",
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Nota Fiscal ganha novo papel com IBS e CBS na Reforma Tributária",
+      "resumo": "Nota fiscal sofre transformações estruturais com implementação de IBS e CBS. Adaptação ocorre em 2026 com risco de inconsistências; prazos para documentos eletrônicos precisam ser observados para evitar multas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79065/nota-fiscal-na-reforma-tributaria-novo-papel-e-prazos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária terá impacto significativo nos preços de produtos e serviços",
+      "resumo": "Nova estrutura tributária afetará precificação em toda cadeia produtiva. Empresas e consumidores enfrentarão transição durante implementação do novo sistema de impostos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79076/reforma-tributaria-impacto-nos-precos-de-produtos-e-servicos/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "Receita Federal esclarece tributação do IRPF sobre apostas e fantasy sports",
-      "resumo": "Receita Federal divulgou orientações sobre cálculo, recolhimento e declaração do IRPF em prêmios líquidos de bets e fantasy sports. Esclarecimento busca orientar contribuintes sobre obrigações fiscais nesta modalidade.",
+      "titulo": "Receita Federal esclarece IRPF sobre apostas e fantasy sports",
+      "resumo": "Receita Federal publicou orientações sobre cálculo, recolhimento e declaração de IRPF incidente sobre prêmios líquidos em apostas e fantasy sports. Instrução padroniza tratamento fiscal deste tipo de renda.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/79084/receita-esclarece-irpf-sobre-bets-e-fantasy-sport/",
       "idioma_original": "pt"
@@ -112,37 +121,46 @@
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Nova reforma da Previdência prevê idade mínima de 67 anos e mudanças no INSS",
-      "resumo": "Proposta de reforma prevê elevação da idade mínima para 67 anos, novo modelo de aposentadoria e alterações para MEIs e empresas. Mudanças impactarão significativamente o sistema previdenciário brasileiro.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79081/nova-reforma-da-previdencia-preve-mudancas-no-inss/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "Receita libera versão 6.2.0 do PGE da EFD-Contribuições",
-      "resumo": "Nova versão adapta sistema ao CNPJ alfanumérico e recomenda migração até 30 de setembro. Atualização é obrigatória para empresas que utilizam EFD-Contribuições.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79077/efd-contribuicoes-receita-libera-versao-6-2-0-do-pge/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Simples Nacional 2027: debate entre modelo híbrido ou puro",
-      "resumo": "Mudanças no Simples Nacional para 2027 impactarão empresas e contadores com novas regras tributárias. Período crítico de preparação para adaptação aos novos modelos propostos.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79097/simples-nacional-2027-modelo-hibrido-ou-puro/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Votação sobre aumento do teto do MEI fica para após eleições",
-      "resumo": "Projeto que amplia limite de faturamento do MEI aguarda acordo entre governo e Congresso sobre limites do Simples Nacional. Decisão foi adiada para período pós-eleitoral.",
+      "titulo": "Votação do teto do MEI fica para após eleições",
+      "resumo": "Projeto que aumenta teto do Microempreendedor Individual aguarda negociação entre governo e Congresso sobre limites do Simples Nacional. Decisão foi adiada para período pós-eleitoral.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/79082/teto-do-mei-votacao-deve-ficar-para-depois-das-eleicoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Presidente do Fed sugere possível aumento de juros para conter inflação",
+      "resumo": "Kevin Warsh, presidente do Federal Reserve, indicou que banco central americano pode elevar taxas de juros nos próximos meses para controlar inflação. Sinalização é mais clara que comunicações anteriores.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/28/presidente-do-fed-sugere-que-eua-podem-aumentar-taxas-de-juros-para-conter-inflacao.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Aneel mantém bandeira tarifária amarela em setembro",
+      "resumo": "Agência Nacional de Energia Elétrica confirmou bandeira amarela para setembro, com custo adicional de R$ 1,885 por 100 kWh. Tarifa extra está em vigor desde maio.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/28/aneel-bandeira-tarifaria-setembro.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "ArcelorMittal investe até R$ 5 bilhões em unidade Tubarão no ES",
+      "resumo": "ArcelorMittal aprovou investimento em novo Laminador de Titas a Frio e Linha de Revestimento Contínuo na Unidade Tubarão, Espírito Santo. Projeto deve gerar 3 mil empregos diretos.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/28/arcelormittal-anuncia-investimento-de-ate-r-5-bi-em-novo-laminador-na-unidade-tubarao-no-es.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Brasil cria 58,5 mil empregos formais em julho, queda de 56%",
+      "resumo": "Geração de empregos formais em julho somou 58,5 mil, representando queda de 56,3% em relação a julho de 2025 quando foram criados 133,9 mil. Contratações totalizaram 2,26 milhões e demissões 2,2 milhões.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/28/brasil-cria-585-mil-empregos-formais-em-julho.ghtml",
       "idioma_original": "pt"
     }
   ]
