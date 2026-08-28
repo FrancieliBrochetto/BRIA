@@ -1,0 +1,104 @@
+{
+  "data": "2026-08-28",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Google exige que desenvolvedores usem menos RAM no Android",
+      "resumo": "Google solicita aos desenvolvedores que reduzam o consumo de memória RAM em apps e jogos Android. A medida visa contornar a escassez generalizada de chips de memória no mercado.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/google-quer-que-desenvolvedores-usem-menos-ram-no-android/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Anthropic e OpenAI participam do AI Stage na TechCrunch Disrupt 2026",
+      "resumo": "As maiores empresas de IA apresentam-se no palco dedicado à inteligência artificial da conferência TechCrunch Disrupt 2026, apresentado pelo Google for Startups.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Barret Zoph, ex-cofundador da Thinking Machines, agora trabalha no Google",
+      "resumo": "Zoph, cofundador da Thinking Machines Lab e ex-CTO da startup, passou brevemente pela OpenAI e agora integra a equipe do Google.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI, Anthropic, Google e 100 empresas se unem contra ameaças de IA rogue",
+      "resumo": "Mais de 100 empresas de tecnologia e startups de IA pedem ação urgente para melhorar a cibersegurança e combater uma nova geração de ameaças cibernéticas.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google AI Mode agora rastreia preços de voos e facilita reservas de hotéis",
+      "resumo": "O Google posiciona seu AI Mode como agente de viagem, ampliando funcionalidades para além de busca de informações, assumindo tarefas de planejamento e reserva.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Hugging Face lança Microduck, robô open-source por US$ 399",
+      "resumo": "Hugging Face apresenta o Microduck, um robô open-source adorável que pode aprender novos comportamentos através de aprendizado por reforço.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma tributária altera nota fiscal e amplia dados exigidos das empresas",
+      "resumo": "As mudanças nos documentos fiscais vão além da inclusão de IBS e CBS, exigindo registro e processamento de maior volume de informações pelas empresas.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/08/27/pro/reforma-tributaria-muda-nota-fiscal-e-exige-mais-dados-das-empresas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "CARF reconhece incentivos de ICMS como subvenção, afastando IRPJ e CSLL",
+      "resumo": "Conselho Administrativo de Recursos Fiscais decide que incentivos de ICMS de Goiás não integram a base de cálculo de IRPJ e CSLL, afetando o Tema 1.182 do STJ.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79048/carf-incentivos-de-icms-nao-integram-irpj-e-csll/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Justiça libera R$ 2,75 bilhões em atrasados do INSS",
+      "resumo": "Conselho Nacional de Justiça autoriza o pagamento de R$ 2,75 bilhões referentes a atrasados do INSS, com liberação programada e consulta disponível para beneficiários.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79054/justica-libera-r-2-75-bi-em-atrasados-do-inss/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Refis 2026: prazo para regularizar IPVA no Maranhão termina em 31 de agosto",
+      "resumo": "O programa de regularização de débitos permite parcelamento de IPVA em até 12 vezes com descontos em juros e multas no estado do Maranhão.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79051/refis-2026-prazo-para-regularizar-ipva-termina-dia-31/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Governo antecipa decreto para zerar IPI sob reforma tributária",
+      "resumo": "Executivo antecipará decreto que reduz o IPI a zero para produtos abrangidos pela Reforma Tributária, com vigência a partir de 2027.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79047/governo-antecipa-decreto-para-zerar-ipi/",
+      "idioma_original": "pt"
+    }
+  ]
+}
