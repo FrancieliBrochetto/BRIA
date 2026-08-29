@@ -5,7 +5,7 @@
       "tema": "IA & Tech",
       "subtema": "Claude",
       "titulo": "Claude apagou 700 GB de dados de usuário por engano",
-      "resumo": "A IA da Anthropic falhou ao criar um script e deletou uma semana inteira de trabalho de um desenvolvedor. O incidente expõe riscos de automação em ferramentas de IA quando executam operações críticas sem verificação adequada.",
+      "resumo": "A IA da Anthropic falhou ao criar um script e deletou uma semana inteira de trabalho de um desenvolvedor. O incidente destaca riscos de automação em sistemas de IA.",
       "fonte": "Tecnoblog",
       "url_original": "https://tecnoblog.net/noticias/claude-apagou-700-gb-de-dados-de-um-usuario-por-engano/",
       "idioma_original": "pt"
@@ -13,8 +13,8 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Navegador Brave esconde e-mail ao preencher cadastros",
-      "resumo": "Brave Alias oferece até cinco endereços aleatórios gratuitamente para mascarar o e-mail real em formulários. Mensagens são encaminhadas para o endereço verdadeiro do usuário e apagadas em seguida.",
+      "titulo": "Navegador Brave adiciona mascaramento de e-mail com Brave Alias",
+      "resumo": "Brave Alias oferece até cinco endereços aleatórios gratuitamente para preencher cadastros. Mensagens são encaminhadas para o e-mail verdadeiro e apagadas em seguida.",
       "fonte": "Tecnoblog",
       "url_original": "https://tecnoblog.net/noticias/navegador-brave-agora-esconde-seu-e-mail-na-hora-de-preencher-cadastros/",
       "idioma_original": "pt"
@@ -22,8 +22,8 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "App Atalhos do iPhone permite rastrear aparelho roubado com selfie",
-      "resumo": "O aplicativo Atalhos permite criar automações que executam sequências de ações discretas após um gatilho. Técnica pode ajudar a localizar iPhones roubados através de fotos capturadas automaticamente.",
+      "titulo": "iPhone: automações podem ajudar a rastrear aparelho roubado com selfie do ladrão",
+      "resumo": "O aplicativo Atalhos permite criar automações que executam sequências de ações discretas após gatilhos, facilitando localização de iPhone roubado.",
       "fonte": "Tecnoblog",
       "url_original": "https://tecnoblog.net/responde/esse-truque-pode-te-ajudar-a-rastrear-o-iphone-roubado-com-uma-selfie-do-ladrao/",
       "idioma_original": "pt"
@@ -31,44 +31,44 @@
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Nvidia expande vantagem de IA além das GPUs",
-      "resumo": "Nova geração de sistemas de data center aumenta eficiência com controle de tráfego inteligente em vez de apenas mais ciclos de processador. Move-se para otimizações de software em vez de pure hardware.",
+      "titulo": "OpenAI interrompe fornecimento de modelos para Cursor, da SpaceX de Musk",
+      "resumo": "OpenAI suspenderá o acesso de modelos de IA para o Cursor, intensificando disputa com Elon Musk em meio à competição entre as empresas.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mundo/openai-vai-interromper-fornecimento-de-modelos-de-ia-para-cursor-da-spacex-de-musk/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Vantagem da Nvidia em IA vai além do GPU",
+      "resumo": "Nova geração de sistemas de data center aumenta eficiência com controle de tráfego mais inteligente em vez de apenas mais ciclos de processador.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Empresa de IA aberta é alvo mais quente do Vale do Silício para aquisições",
-      "resumo": "Grandes volumes de capital estão sendo investidos em empresas que distribuem modelos de IA abertos. Tendência reflete estratégia de acesso a tecnologia sem restricões comerciais.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Pesquisador da Anthropic apresenta IA que melhora a si mesma",
-      "resumo": "Sistemas automatizados conseguiram melhorar desempenho em 10 benchmarks de comportamentos desalinhados sem degradar performance geral. Demonstra avanço em auto-melhoria de modelos de IA.",
+      "subtema": "Automação",
+      "titulo": "Pesquisador da Anthropic revela IA que se auto-melhora",
+      "resumo": "Sistemas automatizados melhoraram desempenho em 10 benchmarks de comportamentos desalinhados sem degradar performance geral.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Anthropic vence primeira ação judicial contra etiqueta de risco da Defesa dos EUA",
-      "resumo": "Juiz federal determinou que administração Trump rotulou ilegalmente Anthropic como risco à cadeia de suprimentos. Vitória significativa em disputa sobre regulação de empresas de IA.",
+      "subtema": "ChatGPT",
+      "titulo": "Empresas de IA com modelos abertos são alvo quente de aquisições no Vale do Silício",
+      "resumo": "Muito capital está sendo investido em empresas que disponibilizam modelos de IA de código aberto, tornando-as alvos atraentes para compras.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "url_original": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Neocloud Lambda levanta US$ 1 bi em dívida para comprar chips Nvidia",
-      "resumo": "Empresa conseguiu financiamento privado para adquirir GPUs Nvidia e alugá-las à Microsoft. Reflete alta demanda e custos elevados da infraestrutura de IA no mercado atual.",
+      "titulo": "Neocloud Lambda levanta US$ 1 bi em dívida para comprar chips da Nvidia",
+      "resumo": "Empresa obteve US$ 1 bilhão em dívida privada para adquirir chips de IA da Nvidia e alugá-los para Microsoft, refletindo custos altos do boom de IA.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
       "idioma_original": "en"
@@ -76,8 +76,8 @@
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Apple e OpenAI anunciam hardware de IA; ambos exercem pressão sobre Nvidia",
-      "resumo": "Apple atualiza Mini e Studio com foco em IA; OpenAI lança Jalapeño. Dois anúncios completamente diferentes que representam pressão competitiva sobre dominância de Nvidia em chips.",
+      "titulo": "Apple apresenta atualizações de hardware focadas em IA e pressiona Nvidia",
+      "resumo": "Apple e OpenAI fazem anúncios de hardware diferentes; ambas representam pressão sobre a Nvidia em computação de IA.",
       "fonte": "Stratechery",
       "url_original": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/",
       "idioma_original": "en"
@@ -85,46 +85,64 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Bancos investem R$ 3 bi em IA e disputam profissionais de tecnologia",
-      "resumo": "Setor bancário amplia busca por desenvolvedores, engenheiros de IA e profissionais de segurança digital. Cinco profissões mais disputadas emergem com aumento de investimento em IA e computação em nuvem.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/08/29/veja-os-5-profissionais-de-tecnologia-mais-disputados-pelos-bancos-setor-investira-r-3-bilhoes-em-ia.html",
+      "titulo": "Segurança cibernética autônoma favorece ofensiva sobre defesa",
+      "resumo": "Incentivos favorecem estratégias ofensivas em cibersegurança agentic; dinâmica que limitará incumbentes e alimentará startups no longo prazo.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/autonomy-and-innovation/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Contadores têm 4 obrigações para entregar até 31 de agosto",
+      "resumo": "DCTFWeb, DME, DOI e DeCripto vencem em 31 de agosto com período de referência de julho de 2026.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79063/contadores-tem-4-obrigacoes-para-entregar-ate-31-de-agosto/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Split Payment na Reforma Tributária: Impacto no Caixa da Empresa",
-      "resumo": "Split payment afetará fluxo de caixa e capital de giro das empresas na Reforma Tributária. Empresas precisam se preparar para mudanças nas operações financeiras e de pagamento.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79091/split-payment-na-reforma-tributaria-impacto-no-caixa-da-empresa/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Nota Fiscal",
-      "titulo": "Nota Fiscal na Reforma Tributária: Novo Papel e Prazos",
-      "resumo": "Nota fiscal ganha novo papel com implementação de IBS e CBS na Reforma Tributária. Adaptação ocorrerá em 2026 com riscos de inconsistências e novos prazos para documentos fiscais eletrônicos.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79065/nota-fiscal-na-reforma-tributaria-novo-papel-e-prazos/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
       "titulo": "Simples Nacional: apuração muda e exige planejamento para 2027",
-      "resumo": "Fim do regime de caixa no Simples Nacional exige revisão de controles financeiros, fiscais e contábeis. Empresas devem revisar processos para adequação às novas regras de apuração.",
+      "resumo": "Fim do regime de caixa exige revisão de controles financeiros, fiscais e contábeis pelas empresas do Simples Nacional a partir de 2027.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/79061/simples-nacional-apuracao-muda-e-exige-planejamento-para-2027/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Split Payment na Reforma Tributária impacta fluxo de caixa das empresas",
+      "resumo": "Entenda como o split payment da Reforma Tributária afetará capital de giro e fluxo financeiro das empresas e como se preparar.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79091/split-payment-na-reforma-tributaria-impacto-no-caixa-da-empresa/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Comércio em feriados: nova portaria regulamenta trabalho",
-      "resumo": "Nova portaria regulamenta funcionamento do comércio em feriados. Empresas precisam verificar regras antes de escalar funcionários para evitar infrações.",
+      "titulo": "Comércio em feriados: nova portaria regulamenta trabalho e obrigações",
+      "resumo": "Nova portaria regulamenta o trabalho no comércio em feriados; empresas precisam conferir regras antes de escalar funcionários.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/79088/comercio-em-feriados-o-que-empresas-devem-conferir/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Justiça protege Casas Bahia de cobranças por 180 dias durante recuperação judicial",
+      "resumo": "Decisão judicial antecipa efeitos da recuperação do Grupo Casas Bahia e suspende ações de cobrança por 180 dias para reorganização das finanças.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/29/justica-protege-casas-bahia-de-cobrancas-por-180-dias-durante-recuperacao-judicial.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Profissionais de tecnologia mais disputados pelos bancos com investimento de R$ 3 bi em IA",
+      "resumo": "Bancos ampliam busca por desenvolvedores de software, engenheiros de IA e especialistas em nuvem conforme aumentam investimentos em tecnologia e segurança digital.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/08/29/veja-os-5-profissionais-de-tecnologia-mais-disputados-pelos-bancos-setor-investira-r-3-bilhoes-em-ia.ghtml",
       "idioma_original": "pt"
     }
   ]
