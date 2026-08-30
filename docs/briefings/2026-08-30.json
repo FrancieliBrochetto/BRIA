@@ -1,0 +1,113 @@
+{
+  "data": "2026-08-30",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude apagou 700 GB de dados de usuário por engano",
+      "resumo": "IA da Anthropic falhou ao criar um script e deletou uma semana inteira de trabalho de um desenvolvedor, afetando 700 GB de dados.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/claude-apagou-700-gb-de-dados-de-um-usuario-por-engano/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Sony Music e Warner processam Anthropic por roubo de propriedade intelectual",
+      "resumo": "Sony Music e Warner Music abriram processo contra a Anthropic, acusando a empresa de campanha ilegal de pirataria e roubo de direitos autorais para treinar modelos de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Vantagem de IA da Nvidia se expande além da GPU",
+      "resumo": "Nova geração de sistemas de data center da Nvidia aumenta eficiência com controle de tráfego inteligente em vez de apenas mais ciclos de processador.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Neocloud Lambda levanta $1 bilhão em dívida para comprar chips Nvidia",
+      "resumo": "Empresa garantiu $1 bilhão em financiamento privado para adquirir chips de IA Nvidia e alugá-los para a Microsoft, refletindo o alto custo do boom de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Pesquisador da Anthropic revela avanço em IA auto-aprimorável",
+      "resumo": "Sistemas automatizados conseguiram melhorar desempenho em 10 benchmarks de comportamentos desalinhados sem degradar o desempenho geral.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Navegador Brave lança alias de e-mail para proteger privacidade em cadastros",
+      "resumo": "Brave Alias oferece até cinco endereços aleatórios gratuitos que redirecionam mensagens para o e-mail real do usuário, depois as apagam.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/navegador-brave-agora-esconde-seu-e-mail-na-hora-de-preencher-cadastros/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Truque de automação no iPhone ajuda a rastrear aparelho roubado com selfie do ladrão",
+      "resumo": "Aplicativo Atalhos do iPhone permite criar automações que executam ações discretas após gatilho, localizando iPhone roubado automaticamente.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/responde/esse-truque-pode-te-ajudar-a-rastrear-o-iphone-roubado-com-uma-selfie-do-ladrao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "IA na contabilidade: 78% dos profissionais já utilizam tecnologia",
+      "resumo": "Pesquisa revela que IA integrou-se à rotina do setor contábil, mas profissionais apontam gargalos em capacitação e segurança da informação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79067/ia-na-contabilidade-78-dos-profissionais-ja-usam-tecnologia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Federal altera regras para inaptidão do CNPJ",
+      "resumo": "Nova norma da Receita inclui situações com combustíveis, comércio internacional, atividades financeiras, pagamentos e apostas como hipóteses de inaptidão do CNPJ.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79062/receita-altera-regras-para-declaracao-de-inaptidao-do-cnpj/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Contadores têm 4 obrigações para entregar até 31 de agosto",
+      "resumo": "DCTFWeb, DME, DOI e DeCripto vencem em 31 de agosto com período de referência de julho de 2026.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79063/contadores-tem-4-obrigacoes-para-entregar-ate-31-de-agosto/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "BNDES aprova R$ 25 milhões para fornecedora do SUS em Goiânia",
+      "resumo": "Novo financiamento condiciona crédito à realização de vendas ao SUS em valor correspondente aos recursos liberados.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/bndes-aprova-r-25-milhoes-para-fornecedora-do-sus-instalada-em-goiania/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Brasil registra recorde de inadimplência com 9,1 milhões de empresas devendo",
+      "resumo": "País alcança mais de 9,1 milhões de empresas inadimplentes com R$ 232,9 bilhões em dívidas, ampliando alerta sobre dificuldades financeiras.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79087/inadimplencia-recorde-eleva-alerta-sobre-recuperacao-judicial/",
+      "idioma_original": "pt"
+    }
+  ]
+}
