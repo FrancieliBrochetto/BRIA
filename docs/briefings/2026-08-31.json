@@ -4,53 +4,26 @@
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "ChatGPT enfrenta falha e fica fora do ar",
-      "resumo": "Problema técnico impediu assinantes do ChatGPT Work de acessar a plataforma nesta segunda-feira (31). Usuários não conseguiram iniciar ou continuar tarefas durante o incidente.",
+      "titulo": "União Europeia classifica ChatGPT como mecanismo de busca de grande porte",
+      "resumo": "A UE reclassificou ChatGPT como mecanismo de busca, sujeitando o serviço a regras mais rígidas. Reddit e Roblox também receberam nova classificação. A medida visa aumentar a regulação sobre grandes plataformas digitais.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/chatgpt-fora-do-ar-falha-deixa-usuarios-sem-acesso-nesta-segunda-31/",
+      "url_original": "https://tecnoblog.net/noticias/europa-agora-trata-o-chatgpt-como-um-mecanismo-de-busca/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Startup Clipto usa IA para busca em vídeos e atinge avaliação de US$ 250 milhões",
-      "resumo": "Startup de três anos atingiu US$ 15 milhões em receita recorrente anual (ARR) e lucratividade antes de captar mais US$ 15 milhões. Tecnologia permite buscar em terabytes de vídeo usando inteligência artificial.",
+      "subtema": "ChatGPT",
+      "titulo": "Pentágono adopta versões próprias do ChatGPT, Grok e Gemini",
+      "resumo": "O Pentágono integrou versões do ChatGPT (OpenAI), Grok (SpaceX/xAI) e Gemini (Google) em seu portal central de ferramentas de IA. A medida permite que militares acessem múltiplas plataformas de IA em um único lugar.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Nvidia investe US$ 3,5 bilhões em MediaTek para garantir relevância em chips de IA",
-      "resumo": "Nvidia realiza investimento de US$ 3,5 bilhões na fabricante taiwanesa MediaTek. Movimento revela estratégia para manter-se essencial à infraestrutura de IA enquanto Big Tech desenvolve seus próprios chips.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Circleback lança plano gratuito para atrair mais usuários",
-      "resumo": "Aplicativo para anotações em reuniões introduz versão gratuita e novos planos de preços a partir de US$ 14 por mês. Movimento busca expandir base de clientes.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "OpenAI corta vínculo com Cursor, ferramenta de codificação ligada ao SpaceX",
-      "resumo": "OpenAI encerra parceria com plataforma Cursor, que é controlada pela SpaceX. Mudança afeta integração da ferramenta de codificação com modelos da OpenAI.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://therundownai.beehiiv.com/p/openai-cuts-out-spacex-owned-cursor",
+      "url_original": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Claude expande presença em integração com máquinas e dispositivos",
-      "resumo": "Tecnologia Claude da Anthropic segue se expandindo para integração em diversos dispositivos e máquinas. Movimento posiciona a IA como padrão crescente em ecossistema tecnológico.",
+      "titulo": "Anthropic expande integração do Claude em máquinas e plataformas",
+      "resumo": "Claude está sendo integrado em uma gama crescente de máquinas e dispositivos. A expansão reflete a estratégia da Anthropic de tornar sua IA mais onipresente no mercado.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/every-machine-is-about-to-speak-claude",
       "idioma_original": "en"
@@ -58,17 +31,44 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Mistério Z.ai revela startup Ox Alpha",
-      "resumo": "Projeto misterioso Ox Alpha é identificado como Z.ai, empresa de IA. Revelação encerra especulação sobre identidade do projeto em desenvolvimento.",
+      "titulo": "Instagram restringe alcance de perfis com IA não divulgados",
+      "resumo": "Instagram implementou novos limites para reduzir o alcance de perfis com IA que não são claramente identificados. A medida responde à crescente frustração com influenciadores de IA enganosos na plataforma.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI encerra parceria com Cursor, ferramenta de IA para código",
+      "resumo": "OpenAI cortou a integração com Cursor, plataforma de IA para codificação associada à SpaceX. O motivo da separação não foi divulgado, mas marca mudança na estratégia de parcerias da empresa.",
       "fonte": "The Rundown AI",
-      "url_original": "https://therundownai.beehiiv.com/p/the-ox-alpha-mystery-ends-with-z-ai",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-cuts-out-spacex-owned-cursor",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "OpenAI lança seu primeiro chip de IA com desempenho destacado",
-      "resumo": "OpenAI apresenta chip de inteligência artificial próprio com capacidade significativa. Movimento marca entrada da empresa na fabricação de hardware para IA.",
+      "titulo": "Blue Voice levanta US$ 6 milhões para criar IA especializada em legislação policial",
+      "resumo": "Startup liderada por ex-aluno de Harvard Law arrecadou US$ 6 mi para desenvolver IA treinada em leis e protocolos policiais. A ferramenta funciona como um 'Harvey' para agentes de segurança pública.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Clipto, startup de buscas em vídeo com IA, atinge avaliação de US$ 250 milhões",
+      "resumo": "Plataforma de busca em terabytes de vídeo via IA foi avaliada em US$ 250 mi após atingir US$ 15 mi em receita recorrente anual e lucratividade. Levantou US$ 15 mi em sua última rodada de funding.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI desenvolve seu próprio chip de IA com potencial competitivo",
+      "resumo": "OpenAI lançou seu primeiro chip de IA próprio, marcando entrada na fabricação de hardware. A iniciativa busca reduzir dependência de Nvidia e aumentar controle sobre custos de computação.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/openai-first-ai-chip-brings-the-heat",
       "idioma_original": "en"
@@ -76,8 +76,17 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Parceria SpaceX-Nvidia avança em direção ao espaço",
-      "resumo": "SpaceX e Nvidia estreitam colaboração em projetos espaciais. Parceria busca integrar capacidades de processamento e tecnologia de foguetes.",
+      "titulo": "Nvidia investe US$ 3,5 bilhões em MediaTek para manter liderança em chips de IA",
+      "resumo": "Nvidia injeta US$ 3,5 bi na fabricante taiwanesa MediaTek para fortalecer presença em infraestrutura de IA. O investimento reflete estratégia para manter relevância conforme Big Tech desenvolve próprios chips.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Parceria SpaceX e Nvidia avança para órbita",
+      "resumo": "SpaceX e Nvidia aprofundam colaboração em infraestrutura de IA para aplicações espaciais. A parceria visa integrar capacidades de computação de IA em satélites e sistemas de comunicação.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/the-spacex-nvidia-partnership-heads-for-orbit",
       "idioma_original": "en"
@@ -85,73 +94,73 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "EUA constrói barreiras para drones e robôs, mas China mantém vantagem de escala",
-      "resumo": "Estados Unidos aumenta restrições a drones e robôs importados. Apesar das barreiras, escala china permite que competição global simplesmente se desloque para outros mercados.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Meta firma acordo de regulação de conteúdo com perspectivas para Big Tech",
-      "resumo": "Meta encerra disputa com acordo que oferece framework para regulação de conteúdo. Resolução sinaliza modelo que pode influenciar como demais gigantes de tecnologia serão reguladas.",
+      "titulo": "Segurança cibernética autônoma impulsiona inovação em startups",
+      "resumo": "Modelos de segurança cibernética com IA ofensiva criam incentivos para startups inovarem mais que incumbentes. A dinâmica favorece empresas novas frente aos players estabelecidos do setor.",
       "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech/",
+      "url_original": "https://stratechery.com/2026/autonomy-and-innovation/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Apple e OpenAI pressionam Nvidia com anúncios de hardware para IA",
-      "resumo": "Apple atualiza Mini e Studio enquanto OpenAI anuncia hardware próprio. Ambos os movimentos representam pressão competitiva contra dominância de Nvidia em chips de IA.",
+      "titulo": "Apple e OpenAI anunciam hardware de IA com pressão sobre Nvidia",
+      "resumo": "Apple e OpenAI apresentam novos hardwares com capacidades de IA proprietárias. Ambos os anúncios representam esforço para reduzir dependência de chips Nvidia.",
       "fonte": "Stratechery",
       "url_original": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/",
       "idioma_original": "en"
     },
     {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa fecha em alta pela 9ª sessão consecutiva; Petrobras sobe 3%",
+      "resumo": "Índice brasileiro obtém nona alta seguida, mas mês ainda fecha em terreno negativo. Petrobras dispara 3% impulsionada por altas dos preços do petróleo e conflito no Irã.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-31082026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Brasil protesta contra tarifas 'discriminatórias' dos EUA",
+      "resumo": "Governo brasileiro classifica tarifas americanas como injustas e discriminatórias, mas diz estar aberto ao diálogo. Nova reunião com EUA será marcada para discutir o assunto.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/08/31/em-reuniao-governo-brasileiro-diz-nao-concordar-com-tarifas-de-trump-mas-diz-estar-aberto-ao-dialogo.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Simples Nacional: período para opção em 2027 abre nesta terça",
+      "resumo": "Empresas que desejam entrar no Simples Nacional em 2027 devem fazer a opção entre 1º e 30 de setembro de 2026. Prazo começa amanhã (1º de setembro).",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79117/simples-nacional-opcao-para-2027-comeca-nesta-terca-1o/",
+      "idioma_original": "pt"
+    },
+    {
       "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "Receita Federal libera 4º lote de restituição do IR 2026",
-      "resumo": "Quarto lote da restituição contempla 521,9 mil contribuintes com pagamento de R$ 1,2 bilhão. Este é o último lote regular de pagamentos do IR 2026.",
+      "titulo": "Receita confirma fim da isenção de R$ 35 mil para investimentos no exterior",
+      "resumo": "Receita Federal esclarece que ganhos em aplicações financeiras no exterior são tributados mesmo em valores abaixo de R$ 35 mil desde 2024. Isenção foi extinta no período.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79109/receita-paga-4o-lote-do-ir-2026-nesta-segunda-31/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "Orientações para contribuintes que não receberam restituição do IR 2026",
-      "resumo": "Última oportunidade para consultar declarações e corrigir pendências junto à Receita Federal. Contribuintes podem verificar malha fina e situação do processamento de suas declarações.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79113/nao-recebeu-a-restituicao-do-ir-2026-veja-o-que-fazer/",
+      "url_original": "https://www.contabeis.com.br/noticias/79114/irpf-receita-confirma-fim-da-isencao-de-r-35-mil-para-aplicacoes-no-exterior/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Reforma tributária estabelece novas regras para bens imóveis",
-      "resumo": "Novas regras da Reforma Tributária tratam bens imóveis como categorias distintas. Mudanças impactam tributação e planejamento fiscal de contribuintes com propriedades.",
+      "titulo": "Receita esclarece créditos de PIS e Cofins sobre depreciação",
+      "resumo": "Solução de Consulta Cosit nº 144 detalha aplicação do regime de antecipação de créditos sobre encargos de depreciação de edificações. Orientação visa padronizar tratamento fiscal.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79127/reforma-tributaria-bens-imoveis-distintos/",
+      "url_original": "https://www.contabeis.com.br/noticias/79119/receita-esclarece-creditos-de-pis-e-cofins-sobre-depreciacacao/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Prazo para adesão ao PEM 2025 vence nesta segunda-feira",
-      "resumo": "Municípios e consórcios têm até hoje (31) para aderir ao Programa Especial de Regularização para parcelar débitos previdenciários. Programa oferece condições especiais de parcelamento.",
+      "subtema": "Reforma Tributária",
+      "titulo": "STF retoma julgamentos sobre ICMS e contribuição ao Funrural",
+      "resumo": "Supremo Tribunal Federal incluiu na pauta de setembro julgamentos sobre créditos presumidos de ICMS e questões de Funrural. Decisões podem impactar arrecadação tributária estadual.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79111/municipios-tem-ate-esta-segunda-31-para-aderir-ao-pem-2025/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Novo Desenrola Brasil encerra com oportunidade de renegociação até 90% menor",
-      "resumo": "Programa de renegociação de dívidas vence nesta segunda (31) e ofereceu descontos de até 90% e parcelamento em até 48 meses. Iniciativa beneficiou milhões de devedores.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79108/programa-de-renegociacao-de-dividas-termina-nesta-segunda-feira-31/",
+      "url_original": "https://www.contabeis.com.br/noticias/79126/stf-retoma-julgamentos-sobre-icms-e-funrural/",
       "idioma_original": "pt"
     }
   ]
