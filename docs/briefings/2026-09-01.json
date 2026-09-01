@@ -4,154 +4,118 @@
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Apple revela evidências contra ex-funcionário acusado de roubar dados para OpenAI",
-      "resumo": "Apple apresenta provas de que ex-funcionário destruiu evidências de roubo de dados após descobrir investigação. O caso envolve transferência de informações confidenciais para a OpenAI.",
+      "titulo": "ChatGPT Health integra sistema Epic para clínicos acessarem prontuários",
+      "resumo": "OpenAI adiciona integração com a plataforma Epic, permitindo que clínicos importem dados de pacientes com acesso somente leitura. Funcionalidade expande o uso de IA em saúde para profissionais médicos.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Pentágono integra ChatGPT, Grok e Gemini em portal central de ferramentas de IA",
-      "resumo": "Departamento de Defesa dos EUA agora possui versões do ChatGPT da OpenAI e Grok da SpaceX em seu portal centralizado, junto com Gemini do Google.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Startup Blue Voice levanta $6M para criar 'Harvey para policiais'",
-      "resumo": "Plataforma de IA treinada em leis, ordenanças e protocolos específicos de departamentos policiais. Aborda lacuna de ferramentas de IA de propósito geral que não acessam dados locais.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "url_original": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Clipto atinge avaliação de $250M com plataforma de busca em vídeos com IA",
-      "resumo": "Startup de três anos alcançou $15 milhões em ARR e lucratividade antes de sua última rodada de $15 milhões. Utiliza IA para buscar em terabytes de vídeo.",
+      "titulo": "Google lança Pics: ferramenta de design criativo com IA que compete com Canva",
+      "resumo": "Google desenvolve plataforma de design baseada em IA que funciona por prompts, posicionando-se como alternativa ao mercado dominado por Canva e Adobe. Ferramenta prioriza inteligência artificial sobre design tradicional.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "url_original": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Instagram limita alcance de perfis com IA não divulgada",
-      "resumo": "Rede social reduz visibilidade de influenciadores de IA que não revelam sua natureza. Medida responde ao crescente descontentamento com perfis de IA sem transparência.",
+      "subtema": "Automação",
+      "titulo": "Startup Empirik levanta US$ 21M para prever interrupções de TI com IA",
+      "resumo": "Empresa incubada por Sequoia utiliza IA para antecipar falhas em infraestrutura de TI antes que ocorram. Objetivo é replicar o sucesso do Cursor na engenharia de software, mas para operações de infraestrutura.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "url_original": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
       "idioma_original": "en"
     },
     {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Plataforma AIR arrecada US$ 50M para monitorar e validar agentes de IA em empresas",
+      "resumo": "AIR oferece solução para descobrir agentes de IA rodando nas organizações, valida continuamente suas funcionalidades e bloqueia comportamentos indesejados. Endereça crescente necessidade de governança em ambientes com múltiplos agentes.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Pix muda regras para reduzir fraudes de devolução em dobro",
+      "resumo": "Banco Central aumenta prazo de contestação de devoluções no MED (Mecanismo de Eleição de Disputa) do Pix para 80 dias. Medida visa combater golpes que exploram o sistema de devolução automática de transações.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/pix-muda-regra-para-dificultar-golpes-da-devolucao-em-dobro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Python",
+      "titulo": "Google descontinua suporte ao uBlock Origin clássico no Chrome",
+      "resumo": "Chrome Web Store deixa de aceitar extensões com Manifest V2, levando à remoção do adblocker uBlock Origin. Transição para Manifest V3 reduz capacidades de bloqueio de anúncios e rastreadores.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/google-decreta-o-fim-do-ublock-origin-classico-no-chrome/",
+      "idioma_original": "pt"
+    },
+    {
       "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Ibovespa sobe e aproxima-se dos 181 mil pontos",
-      "resumo": "Bolsa brasileira registra alta enquanto mercados globais são afetados por movimento de alta nos títulos. Movimentação reflete dinâmica internacional.",
+      "subtema": "Cripto",
+      "titulo": "Bitcoin registra melhor mês de 2026 mas entra em período historicamente fraco",
+      "resumo": "Criptomoeda teve agosto como seu melhor desempenho mensal em 2026, liderada pela retomada da tese de dólar fraco. Setembro é tradicionalmente período de queda para Bitcoin segundo dados históricos.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-01092026/",
+      "url_original": "https://www.infomoney.com.br/onde-investir/bitcoin-vai-flopar-mais-uma-vez-o-que-mercado-espera-apos-melhor-mes-do-ano/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "JPMorgan eleva preço-alvo da Ser Educacional (SEER3) para R$ 23",
-      "resumo": "Ação dispara na Bolsa após revisão de analista. Elevação reflete expectativa de menor alavancagem no longo prazo para a empresa de educação.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/ser-educacional-seer3-jpmorgan-eleva-preco-alvo-para-r-23-e-acao-dispara-na-bolsa/",
+      "titulo": "PIB do Brasil cresce 0,5% no 2º trimestre e ocupa 5ª posição no ranking mundial",
+      "resumo": "IBGE divulga crescimento do PIB no segundo trimestre de 2026, com desaceleração em relação aos primeiros meses. Brasil mantém posição de destaque em ranking internacional de crescimento econômico.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/01/ranking-mundial-do-pib.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Câmbio",
-      "titulo": "Dólar inverte alta e cai com foco em dados econômicos externos",
-      "resumo": "Moeda abriu em alta mas reverteu para queda durante o pregão. Movimento acompanha volatilidade do câmbio global e novos dados econômicos.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-01092026/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Shein estreia discretamente em Hong Kong e arrecada US$ 1,7 bilhão",
-      "resumo": "Gigante do fast-fashion completa IPO em Hong Kong após frustrações com listagem em NY e Londres. Reguladores chineses aprovaram a oferta pública inicial.",
+      "titulo": "Querosene de aviação sobe 14% em setembro; pressão sobre passagens aéreas",
+      "resumo": "Petrobras anuncia aumento de 13,9% (R$ 0,68/litro) no preço do querosene de aviação para setembro. Como combustível representa 30% dos custos das companhias, alta deve pressionar tarifas de passagens nos próximos meses.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/09/01/shein-estreia-bolsa-hong-kong.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Produção de petróleo do Brasil bate recorde com 4,5 milhões de barris por dia",
-      "resumo": "Produção em julho superou recorde anterior de junho. Aumento consolida posição do Brasil como grande produtor de petróleo.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/producao-de-petroleo-do-brasil-bate-recorde-com-45-mi-bpd-em-julho/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "PIB cresce 0,5% no 2º trimestre; economistas apontam desaceleração importante",
-      "resumo": "Crescimento trimestral desacelerou de 1,1% (T1) para 0,5% (T2). Economistas alertam para enfraquecimento do consumo das famílias e setores internos.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/09/01/pib-mostra-desaceleracao-importante-da-economia-e-acende-alerta-sobre-consumo-das-familias-apontam-economistas.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Retração da indústria brasileira se aprofunda; PMI cai para 46,3 em agosto",
-      "resumo": "Índice de Gerentes de Compras caiu de 47,5 (julho) para 46,3 (agosto). Segunda deterioração mensal consecutiva sinaliza enfraquecimento do setor industrial.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/economia/retracao-da-industria-brasileira-se-aprofunda-em-agosto-mostra-pmi/",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/01/combustivel-de-aviao-sobe-14percent-em-setembro-e-dobra-no-ano.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Notas Técnicas 2026.002 da Reforma Tributária entram em produção",
-      "resumo": "Conjunto de notas técnicas foi implementado na SVRS para BP-e, CT-e, NF3e, NFCom, NFAg e outros documentos fiscais eletrônicos. Formaliza procedimentos da reforma.",
+      "titulo": "Governo prevê arrecadar R$ 636 bi com CBS em 2027",
+      "resumo": "Orçamento de 2027 estima arrecadação de R$ 636,8 bilhões com a CBS, novo tributo criado pela Reforma Tributária. Valor demonstra importância da nova contribuição nas receitas federais.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79145/notas-tecnicas-2026-002-entram-em-producao-para-nove-df-e/",
+      "url_original": "https://www.contabeis.com.br/noticias/79151/cbs-governo-espera-arrecadar-r-636-bi-em-2027/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Simples Nacional abre opção de regime regular para IBS e CBS até 30 de setembro",
-      "resumo": "Empresas do Simples Nacional podem optar por apuração regular dos novos impostos (IBS e CBS) a partir de primeiro semestre de 2027. Prazo: 1º a 30 de setembro.",
+      "subtema": "Legislação",
+      "titulo": "MP elimina taxa de importação para compras internacionais de até US$ 50",
+      "resumo": "Comissão mista vota nesta terça (1º) MP que zera o imposto sobre compras do exterior até US$ 50. Medida afeta o varejo e importações conhecidas como 'taxa das blusinhas'.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79143/simples-nacional-abre-opcao-pelo-regime-regular-de-ibs-e-cbs/",
+      "url_original": "https://www.contabeis.com.br/noticias/79148/taxa-das-blusinhas-como-o-fim-da-cobranca-afeta-o-varejo/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Nota Fiscal",
-      "titulo": "Nanoempreendedor fica dispensado de CNPJ e nota fiscal até 2028",
-      "resumo": "Receita Federal e CGIBS dispensam nanoempreendedores de CNPJ e documentos de IBS/CBS até 31 de dezembro de 2028. Simplifica formalidades para pequenos negócios.",
+      "subtema": "eSocial",
+      "titulo": "Receita atualiza programa ECF para versão 12.2.5",
+      "resumo": "Nova versão corrige erro no bloco J para entidades do Sistema Financeiro. Atualização disponível no programa de Escrituração Contábil Fiscal.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79146/nanoempreendedor-fica-dispensado-de-cnpj-e-nota-fiscal/",
+      "url_original": "https://www.contabeis.com.br/noticias/79147/receita-atualiza-programa-da-ecf-para-versao-12-2-5/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Cautelas com alterações da Reforma Tributária",
-      "resumo": "Análise das mudanças implementadas na reforma tributária. Destaca adaptações necessárias para empresas e contadores nas novas rotinas fiscais.",
+      "subtema": "Leis Novas",
+      "titulo": "PL amplia de 1 para 12 dias o período para acompanhar filho ao médico",
+      "resumo": "PL 1890/26 aumenta ausência do trabalho para acompanhamento médico de filhos de 1 dia para 12 dias. Projeto visa facilitar direitos de pais na conciliação trabalho-família.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79154/cautelas-com-as-alteracoes-da-reforma-tributaria/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "Comissão vota MP sobre 'taxa das blusinhas' nesta terça",
-      "resumo": "Comissão mista retoma análise de Medida Provisória que zera imposto de importação para compras internacionais de até US$ 50. Votação prevista para hoje.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79156/taxa-das-blusinhas-comissao-vota-mp-nesta-terca-1o/",
+      "url_original": "https://www.contabeis.com.br/noticias/79152/projeto-amplia-para-12-dias-falta-para-acompanhar-filho/",
       "idioma_original": "pt"
     }
   ]
