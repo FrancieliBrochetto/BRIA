@@ -1,0 +1,158 @@
+{
+  "data": "2026-09-01",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Apple revela evidências contra ex-funcionário acusado de roubar dados para OpenAI",
+      "resumo": "Apple apresenta provas de que ex-funcionário destruiu evidências de roubo de dados após descobrir investigação. O caso envolve transferência de informações confidenciais para a OpenAI.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Pentágono integra ChatGPT, Grok e Gemini em portal central de ferramentas de IA",
+      "resumo": "Departamento de Defesa dos EUA agora possui versões do ChatGPT da OpenAI e Grok da SpaceX em seu portal centralizado, junto com Gemini do Google.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Startup Blue Voice levanta $6M para criar 'Harvey para policiais'",
+      "resumo": "Plataforma de IA treinada em leis, ordenanças e protocolos específicos de departamentos policiais. Aborda lacuna de ferramentas de IA de propósito geral que não acessam dados locais.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Clipto atinge avaliação de $250M com plataforma de busca em vídeos com IA",
+      "resumo": "Startup de três anos alcançou $15 milhões em ARR e lucratividade antes de sua última rodada de $15 milhões. Utiliza IA para buscar em terabytes de vídeo.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Instagram limita alcance de perfis com IA não divulgada",
+      "resumo": "Rede social reduz visibilidade de influenciadores de IA que não revelam sua natureza. Medida responde ao crescente descontentamento com perfis de IA sem transparência.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa sobe e aproxima-se dos 181 mil pontos",
+      "resumo": "Bolsa brasileira registra alta enquanto mercados globais são afetados por movimento de alta nos títulos. Movimentação reflete dinâmica internacional.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-01092026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "JPMorgan eleva preço-alvo da Ser Educacional (SEER3) para R$ 23",
+      "resumo": "Ação dispara na Bolsa após revisão de analista. Elevação reflete expectativa de menor alavancagem no longo prazo para a empresa de educação.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ser-educacional-seer3-jpmorgan-eleva-preco-alvo-para-r-23-e-acao-dispara-na-bolsa/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar inverte alta e cai com foco em dados econômicos externos",
+      "resumo": "Moeda abriu em alta mas reverteu para queda durante o pregão. Movimento acompanha volatilidade do câmbio global e novos dados econômicos.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-01092026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Shein estreia discretamente em Hong Kong e arrecada US$ 1,7 bilhão",
+      "resumo": "Gigante do fast-fashion completa IPO em Hong Kong após frustrações com listagem em NY e Londres. Reguladores chineses aprovaram a oferta pública inicial.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/01/shein-estreia-bolsa-hong-kong.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Produção de petróleo do Brasil bate recorde com 4,5 milhões de barris por dia",
+      "resumo": "Produção em julho superou recorde anterior de junho. Aumento consolida posição do Brasil como grande produtor de petróleo.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/producao-de-petroleo-do-brasil-bate-recorde-com-45-mi-bpd-em-julho/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "PIB cresce 0,5% no 2º trimestre; economistas apontam desaceleração importante",
+      "resumo": "Crescimento trimestral desacelerou de 1,1% (T1) para 0,5% (T2). Economistas alertam para enfraquecimento do consumo das famílias e setores internos.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/01/pib-mostra-desaceleracao-importante-da-economia-e-acende-alerta-sobre-consumo-das-familias-apontam-economistas.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Retração da indústria brasileira se aprofunda; PMI cai para 46,3 em agosto",
+      "resumo": "Índice de Gerentes de Compras caiu de 47,5 (julho) para 46,3 (agosto). Segunda deterioração mensal consecutiva sinaliza enfraquecimento do setor industrial.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/economia/retracao-da-industria-brasileira-se-aprofunda-em-agosto-mostra-pmi/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Notas Técnicas 2026.002 da Reforma Tributária entram em produção",
+      "resumo": "Conjunto de notas técnicas foi implementado na SVRS para BP-e, CT-e, NF3e, NFCom, NFAg e outros documentos fiscais eletrônicos. Formaliza procedimentos da reforma.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79145/notas-tecnicas-2026-002-entram-em-producao-para-nove-df-e/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Simples Nacional abre opção de regime regular para IBS e CBS até 30 de setembro",
+      "resumo": "Empresas do Simples Nacional podem optar por apuração regular dos novos impostos (IBS e CBS) a partir de primeiro semestre de 2027. Prazo: 1º a 30 de setembro.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79143/simples-nacional-abre-opcao-pelo-regime-regular-de-ibs-e-cbs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Nanoempreendedor fica dispensado de CNPJ e nota fiscal até 2028",
+      "resumo": "Receita Federal e CGIBS dispensam nanoempreendedores de CNPJ e documentos de IBS/CBS até 31 de dezembro de 2028. Simplifica formalidades para pequenos negócios.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79146/nanoempreendedor-fica-dispensado-de-cnpj-e-nota-fiscal/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Cautelas com alterações da Reforma Tributária",
+      "resumo": "Análise das mudanças implementadas na reforma tributária. Destaca adaptações necessárias para empresas e contadores nas novas rotinas fiscais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79154/cautelas-com-as-alteracoes-da-reforma-tributaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Comissão vota MP sobre 'taxa das blusinhas' nesta terça",
+      "resumo": "Comissão mista retoma análise de Medida Provisória que zera imposto de importação para compras internacionais de até US$ 50. Votação prevista para hoje.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79156/taxa-das-blusinhas-comissao-vota-mp-nesta-terca-1o/",
+      "idioma_original": "pt"
+    }
+  ]
+}
