@@ -1,0 +1,140 @@
+{
+  "data": "2026-09-02",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic lança Claude 5.1 com menos restrições e promessa de economia",
+      "resumo": "Anthropic anunciou o lançamento do Claude 5.1 com restrições reduzidas e melhor custo-benefício. A empresa também apresenta o Claude 5.1 Enterprise para organizações confiáveis. O novo modelo busca maior acessibilidade mantendo padrões de segurança.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/anthropic-lanca-fable-5-1-com-menos-restricoes-e-promessa-de-economia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI apresenta modelo Astra com capacidades avançadas e requisitos de segurança reforçados",
+      "resumo": "OpenAI revelou o modelo Astra, significativamente mais capaz que o GPT-5.6, com habilidades de quebra de sistemas detectadas em testes. A empresa implementará medidas de segurança adicionais antes do lançamento para mitigar riscos.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/02/openai-diz-que-novo-modelo-de-ia-e-tao-avancado-que-exigira-mais-medidas-de-seguranca.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google atualiza Android com recursos de segurança e integração com Gemini",
+      "resumo": "Google lançou atualização no Android focada em reduzir enjoo por movimento, melhorar acessibilidade e integrar o Gemini. Algumas funcionalidades respondem aos recursos já oferecidos pela Apple no iPhone.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "AfterQuery torna-se unicórnio mais rápido da Y Combinator com avaliação de US$ 3,2B",
+      "resumo": "A startup de treinamento de modelos de IA AfterQuery atingiu avaliação de US$ 3,2 bilhões em apenas cinco meses após sua rodada Series A em abril. O crescimento acelerado reflete demanda aquecida por soluções de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI encerra parceria com Cursor, plataforma de IA de propriedade de Elon Musk",
+      "resumo": "OpenAI cortou relação com Cursor, startup de propriedade da SpaceX e Elon Musk, escalando tensões entre os líderes tech. A decisão marca novo desentendimento entre as duas empresas.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-cuts-out-spacex-owned-cursor",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Adobe adquire startup indiana Rilo de inteligência de mercado",
+      "resumo": "Adobe completou aquisição da startup Rilo, especializada em inteligência de mercado, marcando sua segunda compra na Índia após Rephrase.ai em 2023. A movimentação reforça foco de Adobe em IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa dispara e ultrapassa 184 mil com nova pesquisa eleitoral",
+      "resumo": "Bolsa brasileira subiu expressivamente atingindo 184 mil pontos impulsionada por pesquisa eleitoral. Bolsas americanas operam mistas em meio a tensão no Oriente Médio.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-02092026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "BC avalia que endividamento continua pressionando famílias e empresas",
+      "resumo": "Banco Central destacou que a taxa de juros em 14% ao ano mantém pressão no endividamento de famílias e empresas. O BC prepara medidas enquanto estimulos governamentais pressionam inflação.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/02/bc-diz-que-endividamento-ainda-pressiona-empresas-e-familias-e-prepara-medidas.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Federal disponibiliza manual com Perguntas e Respostas do ITR 2026",
+      "resumo": "Receita Federal publicou guia do ITR 2026 com orientações, regras e esclarecimento de dúvidas para contribuintes. Material fornece informações essenciais para declaração de imposto territorial rural.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79181/itr-2026-receita-publica-perguntas-e-respostas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Federal reconhece bloqueios indevidos no Meu Imposto de Renda",
+      "resumo": "Receita Federal confirmou bloqueios inadequados no sistema Meu Imposto de Renda para usuários com procuração. Equipes trabalham na correção do problema identificado.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79177/receita-reconhece-bloqueio-indevido-no-meu-imposto-de-renda/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "PL propõe cálculo separado de aposentadoria e salário no IRPF",
+      "resumo": "Projeto de Lei 2683/26 visa calcular aposentadoria e salário separadamente no IRPF para evitar mudança de faixa tributária de aposentados. Medida busca beneficiar idosos com renda combinada.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79180/pl-propoe-separar-aposentadoria-e-salario-no-irpf/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "CAE aprova alíquotas de previdência municipal entre 8% e 18%",
+      "resumo": "Comissão de Assuntos Econômicos aprovou alíquotas de contribuição previdenciária municipal variando de 8% a 18% conforme PIB per capita. Texto segue para análise da CCJ.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79186/previdencia-municipal-tera-aliquotas-de-8-a-18/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "TST reafirma direito de trabalhadoras à folga dominical quinzenal",
+      "resumo": "Tribunal Superior do Trabalho reafirmou direito de trabalhadoras a folga dominical a cada quinze dias. Empresas precisam adequar escalas de jornada para cumprir determinação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79191/tst-reafirma-direito-de-trabalhadoras-a-folga-dominical-quinzenal/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Dropbox relata comprometimento de 5 mil contas em ataque em agosto",
+      "resumo": "Dropbox confirmou que aproximadamente 5 mil contas foram comprometidas em ataque hacker em agosto. Hackers visualizaram e baixaram conteúdos armazenados na plataforma de nuvem.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/02/dropbox-afirma-que-cerca-de-5-mil-contas-foram-comprometidas-em-ataque-hacker-de-agosto.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Uber anuncia corte de 3,3 mil vagas em reestruturação corporativa",
+      "resumo": "Uber cortará aproximadamente 3,3 mil postos (10% da força de trabalho) em reestruturação para eliminar níveis hierárquicos, unificar equipes e reduzir custos operacionais. Limitará também trabalho remoto a cerca de 1% da equipe global.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/02/uber-anuncia-corte-de-vagas-em-reestruturacao-da-empresa.ghtml",
+      "idioma_original": "pt"
+    }
+  ]
+}
