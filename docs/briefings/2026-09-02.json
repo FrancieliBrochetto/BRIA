@@ -3,45 +3,18 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Anthropic lança Claude 5.1 com menos restrições e promessa de economia",
-      "resumo": "Anthropic anunciou o lançamento do Claude 5.1 com restrições reduzidas e melhor custo-benefício. A empresa também apresenta o Claude 5.1 Enterprise para organizações confiáveis. O novo modelo busca maior acessibilidade mantendo padrões de segurança.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/anthropic-lanca-fable-5-1-com-menos-restricoes-e-promessa-de-economia/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI apresenta modelo Astra com capacidades avançadas e requisitos de segurança reforçados",
-      "resumo": "OpenAI revelou o modelo Astra, significativamente mais capaz que o GPT-5.6, com habilidades de quebra de sistemas detectadas em testes. A empresa implementará medidas de segurança adicionais antes do lançamento para mitigar riscos.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/02/openai-diz-que-novo-modelo-de-ia-e-tao-avancado-que-exigira-mais-medidas-de-seguranca.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Google atualiza Android com recursos de segurança e integração com Gemini",
-      "resumo": "Google lançou atualização no Android focada em reduzir enjoo por movimento, melhorar acessibilidade e integrar o Gemini. Algumas funcionalidades respondem aos recursos já oferecidos pela Apple no iPhone.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "AfterQuery torna-se unicórnio mais rápido da Y Combinator com avaliação de US$ 3,2B",
-      "resumo": "A startup de treinamento de modelos de IA AfterQuery atingiu avaliação de US$ 3,2 bilhões em apenas cinco meses após sua rodada Series A em abril. O crescimento acelerado reflete demanda aquecida por soluções de IA.",
+      "titulo": "Governo dos EUA apoia OpenAI no treinamento de LLMs com material protegido",
+      "resumo": "O governo americano argumenta que há forte interesse nacional em desenvolver uma indústria de IA robusta e competitiva. A decisão favorece o treinamento de modelos de linguagem com conteúdo protegido por direitos autorais.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "url_original": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "OpenAI encerra parceria com Cursor, plataforma de IA de propriedade de Elon Musk",
-      "resumo": "OpenAI cortou relação com Cursor, startup de propriedade da SpaceX e Elon Musk, escalando tensões entre os líderes tech. A decisão marca novo desentendimento entre as duas empresas.",
+      "titulo": "OpenAI encerra parceria com Cursor, plataforma de codificação",
+      "resumo": "OpenAI cortou relações com Cursor, assistente de codificação de propriedade da SpaceX. A ação marca escalada nas disputas entre plataformas de IA e ferramentas terceirizadas.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/openai-cuts-out-spacex-owned-cursor",
       "idioma_original": "en"
@@ -49,91 +22,109 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Adobe adquire startup indiana Rilo de inteligência de mercado",
-      "resumo": "Adobe completou aquisição da startup Rilo, especializada em inteligência de mercado, marcando sua segunda compra na Índia após Rephrase.ai em 2023. A movimentação reforça foco de Adobe em IA.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+      "titulo": "Fable 5.1 removeu política de retenção de dados para empresas",
+      "resumo": "Nova versão do Fable eliminou completamente a política de retenção de dados que era alvo de críticas. Aumento de cache de dados também melhora desempenho e reduz custos.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/",
       "idioma_original": "en"
     },
     {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Wonderful dobra valuation para US$ 5 bi em menos de 6 meses",
+      "resumo": "Startup de IA levantou US$ 550 milhões em rodada Series C. Recursos serão direcionados para desenvolvimento acelerado de produtos e expansão de equipes.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Índia quer transformar PCs antigos em máquinas preparadas para IA",
+      "resumo": "Jio, empresa do homem mais rico da Índia, oferecerá upgrade para computadores legados por aproximadamente US$ 11 por dois meses. Estratégia busca democratizar acesso à tecnologia de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Internet enfrenta problema de confiança com proliferação de conteúdo gerado por IA",
+      "resumo": "Texto e imagens geradas por IA invadem aplicações de emprego, avaliações de produtos e reclamações de seguros. Startups emergem para detectar conteúdo falso em meio à crise de autenticidade.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Python",
+      "titulo": "Windows 11 ativa proteção de Integridade de Memória por padrão em outubro",
+      "resumo": "Microsoft expandirá automaticamente a função de segurança no Windows 11 a partir de outubro. Usuários com PCs antigos devem monitorar impacto no desempenho.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/windows-11-ativara-uma-protecao-importante-por-padrao-mas-ha-um-porem/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "PF recupera mensagens apagadas de iPhone em caso Vorcaro",
+      "resumo": "Banqueiro utilizava visualização única do WhatsApp para enviar capturas de tela. Registros do iOS permitiram à Polícia Federal reconstruir conversas deletadas.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/caso-vorcaro-como-a-pf-obteve-mensagens-apagadas-do-iphone/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Receita Federal usa IA para fiscalizar declarações e identificar inconsistências",
+      "resumo": "Inteligência artificial é empregada pela Receita Federal para analisar declarações fiscais e detectar irregularidades. Contribuintes precisam estar atentos aos novos critérios de fiscalização.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79193/cuidado-a-ia-vai-te-pegar/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "NFeABI 1.00: pacote de schemas XSD publicado",
+      "resumo": "Versão 1.00 do pacote de schemas da Nota Fiscal de Ambiente de Bem Jurídico está disponível no portal oficial. Atualização padroniza estrutura de documentos eletrônicos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79182/nfeabi-1-00-pacote-de-schemas-e-publicado/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Governo compensará municípios e estados com R$ 33,8 bi por perdas com IPI",
+      "resumo": "Compensação está prevista no Orçamento de 2027 para preservar transferências aos fundos de participação após redução do IPI e entrada do Imposto Seletivo.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79179/governo-pagara-r-33-8-bi-a-municipios-e-estados-por-perdas-com-o-ipi/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Seguro-desemprego para resgatados de trabalho escravo aumenta de 3 para 6 parcelas",
+      "resumo": "Codefat ampliou benefício para trabalhadores resgatados de situações de escravidão. Mudança visa melhor reintegração econômica e social de vítimas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79185/seguro-desemprego-de-trabalhador-resgatado-passa-a-ter-ate-6-parcelas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Empresas de BH enfrentam exclusão do Simples Nacional se não regularizarem débitos",
+      "resumo": "Empresas de Belo Horizonte que não quitaram débitos municipais até 24 de agosto podem ser excluídas do regime em 2027. Prazo é última oportunidade para regularização.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79187/empresas-de-bh-podem-ser-excluidas-do-simples-em-2027/",
+      "idioma_original": "pt"
+    },
+    {
       "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Ibovespa dispara e ultrapassa 184 mil com nova pesquisa eleitoral",
-      "resumo": "Bolsa brasileira subiu expressivamente atingindo 184 mil pontos impulsionada por pesquisa eleitoral. Bolsas americanas operam mistas em meio a tensão no Oriente Médio.",
+      "subtema": "FIIs",
+      "titulo": "FII BTLG11 antecipa pagamento de R$ 51,8 mi e quita compra de galpões",
+      "resumo": "BTLG11 finalizou aquisição dos imóveis logísticos BTLG Mauá II e BTLG Osasco com pagamento antecipado. Movimento reforça portfólio de ativos logísticos do fundo.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-02092026/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Selic",
-      "titulo": "BC avalia que endividamento continua pressionando famílias e empresas",
-      "resumo": "Banco Central destacou que a taxa de juros em 14% ao ano mantém pressão no endividamento de famílias e empresas. O BC prepara medidas enquanto estimulos governamentais pressionam inflação.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/09/02/bc-diz-que-endividamento-ainda-pressiona-empresas-e-familias-e-prepara-medidas.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "Receita Federal disponibiliza manual com Perguntas e Respostas do ITR 2026",
-      "resumo": "Receita Federal publicou guia do ITR 2026 com orientações, regras e esclarecimento de dúvidas para contribuintes. Material fornece informações essenciais para declaração de imposto territorial rural.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79181/itr-2026-receita-publica-perguntas-e-respostas/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "Receita Federal reconhece bloqueios indevidos no Meu Imposto de Renda",
-      "resumo": "Receita Federal confirmou bloqueios inadequados no sistema Meu Imposto de Renda para usuários com procuração. Equipes trabalham na correção do problema identificado.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79177/receita-reconhece-bloqueio-indevido-no-meu-imposto-de-renda/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "PL propõe cálculo separado de aposentadoria e salário no IRPF",
-      "resumo": "Projeto de Lei 2683/26 visa calcular aposentadoria e salário separadamente no IRPF para evitar mudança de faixa tributária de aposentados. Medida busca beneficiar idosos com renda combinada.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79180/pl-propoe-separar-aposentadoria-e-salario-no-irpf/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "CAE aprova alíquotas de previdência municipal entre 8% e 18%",
-      "resumo": "Comissão de Assuntos Econômicos aprovou alíquotas de contribuição previdenciária municipal variando de 8% a 18% conforme PIB per capita. Texto segue para análise da CCJ.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79186/previdencia-municipal-tera-aliquotas-de-8-a-18/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "TST reafirma direito de trabalhadoras à folga dominical quinzenal",
-      "resumo": "Tribunal Superior do Trabalho reafirmou direito de trabalhadoras a folga dominical a cada quinze dias. Empresas precisam adequar escalas de jornada para cumprir determinação.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79191/tst-reafirma-direito-de-trabalhadoras-a-folga-dominical-quinzenal/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Dropbox relata comprometimento de 5 mil contas em ataque em agosto",
-      "resumo": "Dropbox confirmou que aproximadamente 5 mil contas foram comprometidas em ataque hacker em agosto. Hackers visualizaram e baixaram conteúdos armazenados na plataforma de nuvem.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/02/dropbox-afirma-que-cerca-de-5-mil-contas-foram-comprometidas-em-ataque-hacker-de-agosto.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Uber anuncia corte de 3,3 mil vagas em reestruturação corporativa",
-      "resumo": "Uber cortará aproximadamente 3,3 mil postos (10% da força de trabalho) em reestruturação para eliminar níveis hierárquicos, unificar equipes e reduzir custos operacionais. Limitará também trabalho remoto a cerca de 1% da equipe global.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/02/uber-anuncia-corte-de-vagas-em-reestruturacao-da-empresa.ghtml",
+      "url_original": "https://www.infomoney.com.br/onde-investir/fii-btlg11-antecipa-pagamento-de-r-518-mi-e-quita-compra-de-2-galpoes-logisticos/",
       "idioma_original": "pt"
     }
   ]
