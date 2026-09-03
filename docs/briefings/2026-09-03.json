@@ -3,54 +3,63 @@
   "noticias": [
     {
       "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI lança GPT-6 Astra após ataque sem precedentes",
+      "resumo": "OpenAI anunciou o GPT-6 Astra, novo modelo de IA com maior cautela para cumprir instruções de usuários. É o primeiro lançamento da empresa após revelação de ataque virtual por um de seus agentes de IA. O modelo promete melhorias em segurança e confiabilidade.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/03/openai-gpt-6-astra-modelo-inteligencia-artificial.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Nvidia adquire Hugging Face por US$ 12,9 bilhões",
-      "resumo": "Nvidia confirmou a compra da plataforma Hugging Face, que hospeda mais de 3 milhões de modelos de IA e é usada por 18 milhões de desenvolvedores. A aquisição reforça a posição da Nvidia no ecossistema de inteligência artificial.",
+      "titulo": "Tesla lança Cybercab, robotáxi totalmente autônomo",
+      "resumo": "Tesla apresentou o Cybercab, veículo autônomo sem volante nem pedais projetado para serviços de táxi sem motorista. O lançamento ocorreu em Austin, no Texas, com detalhes sobre funcionalidades e operação do sistema autônomo.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/03/tesla-lanca-cybercab-um-robotaxi-sem-volante-nem-pedais.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Nvidia compra Hugging Face por US$ 12,9 bilhões",
+      "resumo": "Nvidia confirmou a aquisição da Hugging Face por US$ 12,9 bilhões. A plataforma hospeda mais de 3 milhões de modelos de IA e é usada por mais de 18 milhões de desenvolvedores globalmente.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI desenvolve nova técnica de raciocínio que preocupa especialistas em segurança",
-      "resumo": "O modelo Astra do OpenAI usa 'recurrent depth', uma técnica que permite ao modelo operar fora do pensamento sequencial típico dos modelos de raciocínio. Especialistas em segurança de IA expressam preocupações com a abordagem.",
+      "subtema": "Gemini",
+      "titulo": "Google lança WeatherNext 3, modelo de IA para previsão meteorológica",
+      "resumo": "Google apresentou WeatherNext 3, um novo modelo de IA para previsão do tempo usando técnicas de deep learning. O modelo será integrado ao Google Search, Google Maps e Gemini para melhorar a precisão das informações climáticas.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "url_original": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude chega a todos os dispositivos em nova integração",
+      "resumo": "Claude está sendo integrado em diversos dispositivos para comunicação entre máquinas. A expansão amplia o acesso ao modelo de IA em diferentes plataformas e sistemas.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/every-machine-is-about-to-speak-claude",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "WhatsApp implementa recurso de lembrete para mensagens não enviadas",
-      "resumo": "Novo recurso disponível na versão beta para Android alerta usuários sobre textos não enviados após um minuto de inatividade fora do aplicativo. A funcionalidade busca evitar que mensagens importantes sejam esquecidas.",
+      "titulo": "LibreOffice bate recorde com 1 milhão de downloads",
+      "resumo": "LibreOffice 26.8 atingiu 1 milhão de downloads em sua primeira semana de lançamento, estabelecendo novo recorde para o projeto de código aberto. A versão demonstra crescimento significativo da adoção da plataforma.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/whatsapp-vai-te-lembrar-de-enviar-mensagens-esquecidas/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Apple enfrenta ação de R$ 14,9 bilhões no Reino Unido por regras de rastreamento",
-      "resumo": "Desenvolvedoras de aplicativos processam a Apple acusando abuso de poder de mercado nas regras de rastreamento de apps. Ação foi apresentada ao Tribunal de Apelação em Londres.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/03/apple-processo-reino-unido.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Ibovespa busca 200 mil pontos com liderança de blue chips",
-      "resumo": "Bolsa brasileira avança com entrada de investidores estrangeiros em ações de primeira linha. Setores sensíveis aos juros também ganham força na aproximação da marca de 200 mil pontos.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-mira-200-mil-quais-acoes-podem-pegar-carona-no-rali/",
+      "url_original": "https://tecnoblog.net/noticias/libreoffice-bate-recorde-de-downloads/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Câmbio",
-      "titulo": "Dólar cai com foco em dados dos EUA; Ibovespa avança 1,27%",
-      "resumo": "Dólar operava em queda aos R$ 5,0996 (recuo de 0,17%) com atenção a dados econômicos americanos e votações no Congresso. Ibovespa subia para 187.553 pontos.",
+      "titulo": "Dólar cai a R$ 5,09 com expectativa eleitoral e dados dos EUA",
+      "resumo": "Dólar caiu 0,26% para R$ 5,0951 nesta quinta-feira. Ibovespa avançou 0,50% para 186.122 pontos, movimentado pela expectativa de pesquisa eleitoral do Datafolha e dados econômicos americanos.",
       "fonte": "G1 Economia",
       "url_original": "https://g1.globo.com/economia/noticia/2026/09/03/dolar-ibovespa.ghtml",
       "idioma_original": "pt"
@@ -58,64 +67,55 @@
     {
       "tema": "Mercado Financeiro",
       "subtema": "Selic",
-      "titulo": "Diretor do Fed sinaliza disposição em manter juros se inflação continuar em retração",
-      "resumo": "Waller afirma estar aberto a defender a manutenção da taxa de juros atual caso haja progresso contínuo em direção à meta de 2% de inflação. Mercado acompanha sinais sobre próximas decisões americanas.",
+      "titulo": "XP projeta Selic mais baixa e recomenda títulos prefixados",
+      "resumo": "XP reduz projeção para a Selic e eleva recomendação de títulos prefixados. Apontam desaceleração da atividade econômica e inflação mais benigna, reduzindo exposição a crédito privado pós-fixado.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/economia/diretor-do-fed-diz-estar-aberto-a-deixar-juros-inalterados-se-inflacao-recuar/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Grupo 3Corações conclui aquisição de Yoki e Kitano por R$ 800 milhões",
-      "resumo": "3Corações finalizou a compra das operações da General Mills no Brasil, adquirindo marcas como Yoki (pipoca, farofa, batata palha) e Kitano (temperos). Transação amplia portfólio de alimentos da empresa.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/09/03/3coracoes-compra-yoki-e-kitano-por-r-800-milhoes-e-assume-operacao-da-general-mills-no-brasil.ghtml",
+      "url_original": "https://www.infomoney.com.br/onde-investir/xp-projeta-selic-mais-baixa-e-eleva-recomendacao-para-titulos-prefixados/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "Receita Federal normaliza acesso ao Meu Imposto de Renda",
-      "resumo": "Receita Federal conclui ajustes técnicos e restaura acesso normal ao sistema MIR para usuários com procuração de pessoas jurídicas. Plataforma volta a funcionar sem restrições.",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma tributária: 85% das notas fiscais já adaptadas",
+      "resumo": "Cerca de 85% das notas fiscais monitoradas pela Receita já incluem informações da reforma tributária. Porém, 43% das empresas ainda não cumprem a obrigação de adaptação.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79216/receita-normaliza-acesso-ao-meu-imposto-de-renda/",
+      "url_original": "https://www.contabeis.com.br/noticias/79222/reforma-tributaria-85-das-notas-ja-estao-adaptadas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Governo estima arrecadar R$ 750,4 bi com tributos sobre consumo em 2027",
+      "resumo": "Governo projeta arrecadação de R$ 750,4 bilhões com CBS, Imposto Seletivo e resíduos de PIS, Cofins e IPI em 2027. Estimativa reflete implementação das mudanças da reforma tributária.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79218/tributos-sobre-consumo-devem-render-r-750-4-bi-em-2027/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "DeRE: primeira entrega mensal vence em 15 de novembro",
+      "resumo": "Receita e Comitê Gestor informam que eventos de tabela da DeRE serão recebidos em outubro e a primeira entrega mensal vence em 15 de novembro. Cronograma estabelecido para implementação do novo sistema de transmissão.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79215/dere-primeira-entrega-mensal-vence-em-15-de-novembro/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Senado aprova R$ 5,2 bilhões em incentivos fiscais para data centers",
-      "resumo": "Senado aprova regime que suspende tributos na instalação e ampliação de data centers. Renúncia fiscal estimada em R$ 5,2 bilhões busca atrair investimentos em infraestrutura digital.",
+      "titulo": "STF afasta PIS/Cofins sobre reservas técnicas de seguradoras",
+      "resumo": "STF decide que rendimentos de aplicações financeiras de reservas técnicas de seguradoras e entidades de previdência não sofrem incidência de PIS/Cofins. Decisão beneficia setor segurador.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79213/senado-aprova-r-5-2-bilhoes-em-incentivos-para-data-centers/",
+      "url_original": "https://www.contabeis.com.br/noticias/79219/stf-afasta-pis-cofins-sobre-reservas-de-seguradoras/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Comissão aprova medida provisória que zera imposto sobre compras internacionais de até US$ 50",
-      "resumo": "Comissão mista aprova MP que elimina tributação em compras internacionais de pequeno valor (até US$ 50). Texto ainda aguarda análise da Câmara e Senado para aprovação final.",
+      "titulo": "Fim da escala 6x1 terá impactos por profissão",
+      "resumo": "Fim da escala 6x1 prevê dois dias de descanso e redução da jornada de trabalho. Mudança afetará setores como comércio, saúde, restaurantes e outros com diferentes impactos operacionais.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79217/taxa-das-blusinhas-comissao-aprova-mp-que-zera-imposto/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Receita Federal altera procedimentos para fiscalizar benefícios fiscais",
-      "resumo": "Receita muda regras para identificar e tratar irregularidades na utilização de benefícios fiscais por empresas. Medida visa reforçar controle sobre concessões fiscais.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79214/receita-altera-regras-para-beneficios-fiscais/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Governo prorroga por 60 dias imposto de 12% sobre exportação de petróleo",
-      "resumo": "Câmara de Comércio Exterior (Camex) prorrogou por 60 dias a cobrança de imposto de 12% sobre exportação de petróleo. Medida entra em vigor em 8 de setembro.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/09/03/governo-prorroga-por-60-dias-cobranca-de-imposto-de-12percent-sobre-exportacao-de-petroleo.ghtml",
+      "url_original": "https://www.contabeis.com.br/noticias/79221/fim-da-escala-6x1-tera-impactos-por-profissao/",
       "idioma_original": "pt"
     }
   ]
