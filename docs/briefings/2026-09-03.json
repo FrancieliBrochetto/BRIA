@@ -1,0 +1,122 @@
+{
+  "data": "2026-09-03",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Nvidia adquire Hugging Face por US$ 12,9 bilhões",
+      "resumo": "Nvidia confirmou a compra da plataforma Hugging Face, que hospeda mais de 3 milhões de modelos de IA e é usada por 18 milhões de desenvolvedores. A aquisição reforça a posição da Nvidia no ecossistema de inteligência artificial.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI desenvolve nova técnica de raciocínio que preocupa especialistas em segurança",
+      "resumo": "O modelo Astra do OpenAI usa 'recurrent depth', uma técnica que permite ao modelo operar fora do pensamento sequencial típico dos modelos de raciocínio. Especialistas em segurança de IA expressam preocupações com a abordagem.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "WhatsApp implementa recurso de lembrete para mensagens não enviadas",
+      "resumo": "Novo recurso disponível na versão beta para Android alerta usuários sobre textos não enviados após um minuto de inatividade fora do aplicativo. A funcionalidade busca evitar que mensagens importantes sejam esquecidas.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/whatsapp-vai-te-lembrar-de-enviar-mensagens-esquecidas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Apple enfrenta ação de R$ 14,9 bilhões no Reino Unido por regras de rastreamento",
+      "resumo": "Desenvolvedoras de aplicativos processam a Apple acusando abuso de poder de mercado nas regras de rastreamento de apps. Ação foi apresentada ao Tribunal de Apelação em Londres.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/03/apple-processo-reino-unido.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa busca 200 mil pontos com liderança de blue chips",
+      "resumo": "Bolsa brasileira avança com entrada de investidores estrangeiros em ações de primeira linha. Setores sensíveis aos juros também ganham força na aproximação da marca de 200 mil pontos.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-mira-200-mil-quais-acoes-podem-pegar-carona-no-rali/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar cai com foco em dados dos EUA; Ibovespa avança 1,27%",
+      "resumo": "Dólar operava em queda aos R$ 5,0996 (recuo de 0,17%) com atenção a dados econômicos americanos e votações no Congresso. Ibovespa subia para 187.553 pontos.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/03/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Diretor do Fed sinaliza disposição em manter juros se inflação continuar em retração",
+      "resumo": "Waller afirma estar aberto a defender a manutenção da taxa de juros atual caso haja progresso contínuo em direção à meta de 2% de inflação. Mercado acompanha sinais sobre próximas decisões americanas.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/economia/diretor-do-fed-diz-estar-aberto-a-deixar-juros-inalterados-se-inflacao-recuar/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Grupo 3Corações conclui aquisição de Yoki e Kitano por R$ 800 milhões",
+      "resumo": "3Corações finalizou a compra das operações da General Mills no Brasil, adquirindo marcas como Yoki (pipoca, farofa, batata palha) e Kitano (temperos). Transação amplia portfólio de alimentos da empresa.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/03/3coracoes-compra-yoki-e-kitano-por-r-800-milhoes-e-assume-operacao-da-general-mills-no-brasil.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Federal normaliza acesso ao Meu Imposto de Renda",
+      "resumo": "Receita Federal conclui ajustes técnicos e restaura acesso normal ao sistema MIR para usuários com procuração de pessoas jurídicas. Plataforma volta a funcionar sem restrições.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79216/receita-normaliza-acesso-ao-meu-imposto-de-renda/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Senado aprova R$ 5,2 bilhões em incentivos fiscais para data centers",
+      "resumo": "Senado aprova regime que suspende tributos na instalação e ampliação de data centers. Renúncia fiscal estimada em R$ 5,2 bilhões busca atrair investimentos em infraestrutura digital.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79213/senado-aprova-r-5-2-bilhoes-em-incentivos-para-data-centers/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Comissão aprova medida provisória que zera imposto sobre compras internacionais de até US$ 50",
+      "resumo": "Comissão mista aprova MP que elimina tributação em compras internacionais de pequeno valor (até US$ 50). Texto ainda aguarda análise da Câmara e Senado para aprovação final.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79217/taxa-das-blusinhas-comissao-aprova-mp-que-zera-imposto/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Receita Federal altera procedimentos para fiscalizar benefícios fiscais",
+      "resumo": "Receita muda regras para identificar e tratar irregularidades na utilização de benefícios fiscais por empresas. Medida visa reforçar controle sobre concessões fiscais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79214/receita-altera-regras-para-beneficios-fiscais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Governo prorroga por 60 dias imposto de 12% sobre exportação de petróleo",
+      "resumo": "Câmara de Comércio Exterior (Camex) prorrogou por 60 dias a cobrança de imposto de 12% sobre exportação de petróleo. Medida entra em vigor em 8 de setembro.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/03/governo-prorroga-por-60-dias-cobranca-de-imposto-de-12percent-sobre-exportacao-de-petroleo.ghtml",
+      "idioma_original": "pt"
+    }
+  ]
+}
