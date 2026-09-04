@@ -1,0 +1,176 @@
+{
+  "data": "2026-09-04",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI lança GPT-6 Astra com salto geracional em capacidades",
+      "resumo": "OpenAI apresentou GPT-6 Astra como um avanço significativo em inteligência artificial. O modelo oferece melhorias substanciais em capacidades de raciocínio e compreensão.",
+      "fonte": "The Rundown AI / Stratechery",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-generational-leap-with-gpt-6-astra",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google lança Gemini 3.8 Flash com otimizações de performance",
+      "resumo": "Google apresentou versão atualizada do Gemini com melhorias em velocidade e eficiência. Novo modelo equilibra inteligência com redução de custos operacionais.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-09-03",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Meta oferece desconto de 95% em modelo Muse Spark em troca de dados de uso",
+      "resumo": "Meta incentiva adoção de Muse Spark para agentes e automação com desconto massivo. Usuários que compartilham prompts e outputs contribuem ao desenvolvimento de futuros modelos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Thinking Machines levanta US$ 1B com avaliação de US$ 40B",
+      "resumo": "Startup de IA Thinking Machines em rodada de financiamento liderada por Accel Partners. Receita anual rodada ultrapassou US$ 100 milhões.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Crusoe levanta US$ 3B em rodada com contrato de US$ 13B com Jane Street",
+      "resumo": "Desenvolvedora de data centers Crusoe arrecada capital significativo para expansão. Contrato com Jane Street valida demanda por infraestrutura especializada em IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Fable 5.1 remove política de retenção de dados e melhora segurança",
+      "resumo": "Atualização de Fable elimina retenção obrigatória de dados, respondendo a críticas de usuários. Novo modelo Fable 5.1 inclui Enterprise Frontier Safeguards para proteção aprimorada.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Runway lança Solaris, visualizando internet sem código",
+      "resumo": "Plataforma Runway apresenta Solaris como evolução do world model com foco em automação visual. Tecnologia promete simplificar desenvolvimento de aplicações complexas.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/runway-solaris-previews-the-no-code-internet",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "OpenAI descontinua parceria com Cursor, serviço de IA para código",
+      "resumo": "OpenAI encerra integração com Cursor, plataforma controlada por SpaceX. Mudança estratégica reflete realinhamento de parcerias no ecossistema de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-cuts-out-spacex-owned-cursor",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Abliteration.ai oferece acesso a modelos IA sem guardrails",
+      "resumo": "Startup comercializa modelos IA com proteções removidas, argumentando que ferramentas equivalentes para defensores melhoram segurança cibernética. Abordagem levanta debates sobre responsabilidade.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "IA generativa produz menus de restaurante com falta de apetite visual",
+      "resumo": "Restaurantes que usam IA para gerar menus enfrentam problema de uniformidade. Clientes percebem visualmente que algo está errado com as imagens de alimentos geradas.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa cai após dados de emprego nos EUA (payroll)",
+      "resumo": "Índice Bovespa recua após publicação de dados de emprego americano mais fracos que esperado. Dólar sobe para R$ 5,13 enquanto juros futuros operam mistos.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-abertura-fechamento-04092026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "IRB (IRBR3) sobe 4% com aprovação de corte de impostos para resseguradoras",
+      "resumo": "Ação da IRB valoriza após aprovação de redução tributária para setor de resseguros. Medida pode elevar lucros e acelerar utilização de créditos fiscais.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/irb-irbr3-sobe-4-com-aprovacao-de-corte-de-impostos-para-resseguradoras/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Nanoempreendedor dispensado de CNPJ e nota fiscal eletrônica até fim de 2028",
+      "resumo": "Receita Federal prorroga isenções para nanoempreendedores (receita até R$ 40,5 mil) de CNPJ e NF-e até dezembro de 2028. Medida oferece prazo maior de adequação à reforma tributária.",
+      "fonte": "G1 Economia / Contábeis",
+      "url_original": "https://g1.globo.com/empreendedorismo/noticia/2026/09/04/nanoempreendedor-fica-dispensado-de-se-inscrever-no-cnpj-e-de-emitir-nota-fiscal-eletronica-ate-o-fim-de-2028.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Congresso aprova fim da taxa de importação para remessas até US$ 50",
+      "resumo": "Lei aprovada mantém alíquota zero para 'blusinhas' e cria controles contra fraudes nas compras internacionais. Texto segue para sanção presidencial.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79242/congresso-aprova-fim-da-taxa-das-blusinhas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "eSocial",
+      "titulo": "DAE de agosto vence nesta sexta-feira (4 de setembro)",
+      "resumo": "Contribuinte precisa estar atento ao vencimento do Documento de Arrecadação Estadual de agosto. Antecipação exige cuidados redobrados no fechamento da folha de pagamento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79243/dae-de-agosto-vence-nesta-sexta-feira-4/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Saque-aniversário FGTS disponível para nascidos em setembro",
+      "resumo": "Trabalhadores nascidos em setembro que aderiram ao saque-aniversário já podem movimentar parte do FGTS. Veja prazos e valores disponíveis para saque.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79227/saque-aniversario-fgts-veja-quem-pode-sacar-em-setembro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "STF muda regra de justiça gratuita para trabalhadores com comprovação",
+      "resumo": "Decisão reverte entendimento baseado em autodeclaração e exige comprovação documental para trabalhadores que ganham acima de R$ 5 mil. Mudança afeta acesso à justiça trabalhista.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79245/stf-muda-regra-da-justica-gratuita-para-trabalhadores/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Anatel permitirá bloqueio de abertura de linhas móveis no CPF",
+      "resumo": "Anatel Protege será consultado em solicitações de abertura de novas linhas. Sistema busca prevenir fraudes e uso indevido de documentos para contratar serviços.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/anatel-permitira-que-voce-bloqueie-a-abertura-de-linhas-moveis-em-seu-cpf/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "OpenAI President comenta sobre Astra e alignment em entrevista",
+      "resumo": "Greg Brockman, presidente da OpenAI, discute história da empresa, lançamento de Astra e desafios de alinhamento de IA. Reflexão sobre o peso de construir o futuro.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/",
+      "idioma_original": "en"
+    }
+  ]
+}
