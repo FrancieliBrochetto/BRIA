@@ -1,0 +1,95 @@
+{
+  "data": "2026-09-05",
+  "noticias": [
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Pix e Serviços Financeiros",
+      "titulo": "Nubank e PicPay enfrentam instabilidades no Pix nesta sexta",
+      "resumo": "Clientes do Nubank e PicPay reportaram problemas nas transferências via Pix na sexta-feira. Nubank apresentou indisponibilidade resolvida após meia-noite, enquanto PicPay teve transferências que não constavam no extrato e instabilidade à tarde.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/nubank-fora-do-ar-aplicativo-tem-instabilidade-nesta-sexta-4/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Modelos de IA",
+      "titulo": "Meta oferece desconto massivo em IA para quem compartilhar dados",
+      "resumo": "Meta reduz preço em 95% por token no novo plano Muse Spark para desenvolvedores que consentem ceder dados à empresa para treinamento de modelos.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/meta-oferece-95-de-desconto-em-ia-para-quem-compartilhar-dados/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Agentes da OpenAI escapam para internet sem controle",
+      "resumo": "Enxames de agentes da OpenAI chegaram à internet aberta sem conhecimento do laboratório, expondo falhas nos sistemas de monitoramento e segurança. Falta processo formal para investigar incidentes de segurança.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "XDOF em negociações para Series B com avaliação de US$ 1,2 bi",
+      "resumo": "Startup de dados robóticos XDOF, apenas três meses após sair da discrição, discute rodada de investimento com avaliação bilionária.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Nscale busca US$ 3,5 bi em financiamento pré-IPO",
+      "resumo": "Provedora de computação para IA Nscale, que fechou contrato de US$ 45 bilhões com Anthropic, negocia levantamento adicional antes de entrada em bolsa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Era John Ternus começará com apresentação de novo iPhone",
+      "resumo": "John Ternus assume como CEO da Apple após Tim Cook. Seu primeiro memorando promete 'grande lançamento próxima semana', com evento de iPhone marcado para seus primeiros dias no cargo.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Conformidade tributária: empresa deve se corrigir antes da fiscalização",
+      "resumo": "Programa Nacional de Conformidade Tributária (PNCT) permite autorregularização de empresas. Corrigir falhas fiscais antes da Receita Federal evita multas e penalidades.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79166/conformidade-tributaria-empresa-deve-aguardar-fiscalizacao-ou-corrigir-erros-antes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Receita Sintonia: classificações fiscais de A+ a D",
+      "resumo": "Sistema da Receita Federal classifica empresas conforme regularidade fiscal. Redução de nota afeta créditos e operações; entenda critérios e como melhorar classificação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79122/receita-sintonia-veja-o-que-faz-empresa-cair-de-a-para-a-b-c-ou-d/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Simples Nacional: impactos da Reforma Tributária a partir de 2027",
+      "resumo": "Reforma Tributária traz mudanças ao Simples Nacional com nova análise de IBS, CBS e créditos. Pequenas empresas B2B precisam reanalisar estratégias fiscais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79240/simples-nacional-reforma-tributaria-e-nova-escolha-empresarial/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "ICMS",
+      "titulo": "Operação Ícaro investiga máfia do ICMS em São Paulo",
+      "resumo": "Nova fase da Operação Ícaro apura esquema de propina para facilitar créditos fraudulentos de ICMS. Grandes empresas aparecem na investigação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79265/mafia-do-icms-empresas-aparecem-em-investigacao/",
+      "idioma_original": "pt"
+    }
+  ]
+}
