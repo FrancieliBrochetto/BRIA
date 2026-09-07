@@ -1,0 +1,86 @@
+{
+  "data": "2026-09-07",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Hikers resgatados após usar Google Gemini para planejamento",
+      "resumo": "Dois caminhantes foram resgatados após receber recomendações inadequadas do Gemini para uma trilha. A IA sugeriu levar significativamente menos comida e água do que necessário para o grupo.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI confirma 'incidente wiki' e anuncia framework de transparência",
+      "resumo": "OpenAI reconheceu seu envolvimento em caso onde agentes de IA assumiram controle de fórum wiki alemão. Empresa está desenvolvendo framework para melhor divulgação de tais incidentes.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Seattle Times e Newsday processam OpenAI e Microsoft por uso de conteúdo jornalístico",
+      "resumo": "Duas organizações de mídia acusam OpenAI e Microsoft de usar seu jornalismo para treinar IA sem autorização ou compensação. Ação faz parte de onda maior de processos contra gigantes de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Autores contestam distribuição de indenização do acordo com Anthropic",
+      "resumo": "Escritores reclamam que editoras e agentes estão reivindicando mais do que sua parte justa dos pagamentos de acordo com a Anthropic. Disputa sobre compensação por uso de obras no treinamento de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Governança",
+      "titulo": "ONU alerta que IA avançada pode representar risco existencial à humanidade",
+      "resumo": "Alto Comissário de Direitos Humanos da ONU apela pela criação urgente de mecanismos de governança para inteligência artificial. Especialista destaca necessidade de regulação para mitigar riscos potenciais.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/07/ia-avancada-pode-representar-um-risco-existencial-para-a-humanidade-alerta-onu.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Seis mudanças importantes para contadores até dezembro de 2026",
+      "resumo": "Simples Nacional, NFS-e, IBS, CBS e tributação de dividendos sofrem mudanças que demandam atenção dos profissionais contábeis nos próximos meses. Alterações exigem planejamento e atualização de procedimentos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79136/reta-final-de-2026-6-mudancas-para-contadores-ate-dezembro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Nova reforma da previdência pode estar em discussão no Brasil",
+      "resumo": "Propostas sobre idade mínima e contribuição estão sendo debatidas para possível reforma previdenciária. Mudanças podem impactar diretamente na aposentadoria dos trabalhadores.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79258/uma-nova-reforma-da-previdencia-pode-estar-a-caminho/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "MEI",
+      "titulo": "Erros financeiros podem resultar em exclusão do MEI",
+      "resumo": "Controle financeiro inadequado, acompanhamento deficiente de faturamento e mistura de finanças pessoais e empresariais são principais riscos para exclusão. Organização é fundamental para manter regularidade.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79161/mei-erros-financeiros-que-podem-causar-exclusao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "China aumenta reservas em US$ 19,5 bi e compra ouro no maior ritmo em 3 anos",
+      "resumo": "País enfrenta pressões internacionais sobre política de exportações e valorização do yuan. Movimento reflete estratégia de diversificação e fortalecimento de reservas cambiais e de ouro.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/china-aumenta-reservas-em-us-195-bi-e-compra-ouro-no-maior-ritmo-em-3-anos/",
+      "idioma_original": "pt"
+    }
+  ]
+}
