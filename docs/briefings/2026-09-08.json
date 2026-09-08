@@ -1,0 +1,113 @@
+{
+  "data": "2026-09-08",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Como criar sua foto no estilo anos 80 usando ChatGPT e Gemini",
+      "resumo": "ChatGPT e Gemini conseguem transformar fotos atuais em versões dos anos 80, com penteados, roupas e estética retrô em poucos segundos.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/09/08/internet-e-redes-sociais/como-criar-sua-foto-no-estilo-anos-80-usando-o-chatgpt-e-gemini/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Hikers resgatados após usar Google Gemini para planejamento de trilha",
+      "resumo": "Duas pessoas precisaram ser resgatadas após seguirem recomendações incorretas do Gemini, que sugeriu trazer muito menos comida e água do que necessário para a trilha.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Seattle Times e Newsday processam OpenAI e Microsoft por uso de conteúdo jornalístico",
+      "resumo": "Mais dois veículos de imprensa americanos abrem ações judiciais contra OpenAI e Microsoft, acusando as empresas de usar conteúdo jornalístico para treinar modelos de IA sem autorização.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Autores pressionam por maior parcela do acordo com Anthropic",
+      "resumo": "Escritores questionam distribuição do acordo de indenização com Anthropic, alegando que editoras e agentes estão reivindicando mais do que sua parte justa do acordo.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Glossário de termos de IA: principais palavras e expressões para conhecer",
+      "resumo": "TechCrunch publica guia com definições de termos técnicos e gírias da IA, como 'opaque recurrence' e outras palavras-chave que aparecem frequentemente no universo da inteligência artificial.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "eSocial",
+      "titulo": "eSocial: Nota Técnica S-1.3 nº 07/2026 atualiza leiautes",
+      "resumo": "Nota técnica altera campos, validações, tabelas e regras do eSocial, com implementação gradual entre setembro de 2026 e janeiro de 2027.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79276/esocial-nota-tecnica-s-1-3-no-07-2026-atualiza-leiautes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Transação Tributária IRRF: Débitos de Não Residentes com Desconto de até 65%",
+      "resumo": "Receita Federal e PGFN abrem programa de transação para débitos de IRRF de investidores não residentes, com descontos de até 65% e prazo para adesão até 29 de dezembro.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79273/transacao-tributaria-irrf-debitos-de-nao-residentes-com-desconto/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "NFS-e passa por homologação de novas funções para IBS e CBS",
+      "resumo": "Receita, municípios e Serpro testam novas funcionalidades da Nota Fiscal de Serviço Eletrônica para adequação às regras do IBS e da CBS.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79272/nfs-e-passa-por-homologacao-de-novas-funcoes-para-ibs-e-cbs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Congresso aprova exceções fiscais a benefícios tributários",
+      "resumo": "PLP 74/2026 cria exceções a restrições fiscais para benefícios tributários e despesas de 2026, seguindo para sanção presidencial.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79275/beneficios-tributarios-congresso-aprova-excecoes-fiscais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "DeRE ganha novos leiautes e regras na versão 1.2.0",
+      "resumo": "Nova versão da Demonstração do Resultado do Exercício (DeRE) introduz controle de deduções, reabertura de períodos e primeiros leiautes dos eventos transacionais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79274/dere-ganha-novos-leiautes-e-regras-na-versao-1-2-0/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar abre em queda com alta do petróleo e atenção ao cenário eleitoral",
+      "resumo": "Dólar recua 0,33% na abertura dos negócios pós-feriado, chegando a R$ 5,1132, influenciado pela alta do petróleo e expectativas eleitorais.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/08/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "R$ 5,6 bilhões em recursos esquecidos podem ser resgatados por 23,6 milhões de pessoas",
+      "resumo": "Banco Central atualiza dados sobre 'dinheiro esquecido' em instituições financeiras: R$ 4,24 bilhões de pessoas físicas e R$ 1,4 bilhão de empresas aguardam resgate.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/08/dinheiro-esquecido-bc-diz-que-r-56-bilhoes-podem-ser-resgatados-236-milhoes-de-pessoas-tem-direito.ghtml",
+      "idioma_original": "pt"
+    }
+  ]
+}
