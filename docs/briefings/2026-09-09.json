@@ -1,0 +1,167 @@
+{
+  "data": "2026-09-09",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "ChatGPT na escola: quando a IA ajuda e quando prejudica o aprendizado",
+      "resumo": "Especialista em IA de Stanford analisa dados do Pisa 2025 sobre impacto da IA na educação. Estudo avalia como ferramentas como ChatGPT podem tanto potencializar quanto prejudicar o aprendizado estudantil. Resultado mostra necessidade de uso equilibrado em ambientes escolares.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/09/09/inteligencia-artificial/quando-a-ia-ajuda-e-quando-prejudica-o-aprendizado-nas-escolas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Hackers roubam tokens Claude de assinantes",
+      "resumo": "Usuários da plataforma Claude tiveram suas contas comprometidas com consumo não autorizado de tokens. Anthropic emitiu alerta de segurança após descoberta de atividade suspeita em contas de assinantes. Recomenda-se verificar uso de tokens e alterar credenciais de acesso.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Suno lança modelo v6 treinado com música licenciada após ações judiciais",
+      "resumo": "Plataforma Suno substitui modelos anteriores por nova versão (v6) treinada exclusivamente com música licenciada. Mudança ocorre em meio a múltiplas ações judiciais por copyright de artistas. Empresa busca resolver questões legais sobre treinamento de IA com propriedade intelectual.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Instacart lança assistente de compras com IA conversacional chamado Clementine",
+      "resumo": "Instacart integra assistente de IA Clementine em sua plataforma para auxiliar compras de mantimentos. Ferramenta oferece interface conversacional para facilitar busca e seleção de produtos. Marca tendência de incorporação de chatbots em aplicativos de e-commerce.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Sequoia investe em Cymphony, startup de segurança para agentes de IA",
+      "resumo": "Sequoia Capital lidera investimento de $25 milhões na Cymphony, série A que avalia empresa em mais de $100 milhões. Startup desenvolve soluções de segurança para agentes de IA em empresas. Crescimento de agentes autônomos cria novos riscos de segurança corporativa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI resolve problema matemático famoso de $1 milhão com modelo secreto",
+      "resumo": "OpenAI utiliza modelo de IA secreto para solucionar um dos problemas matemáticos mais conhecidos da história. Feito é extremamente impressionante cientificamente, mas com impacto prático limitado para maioria das pessoas. Demonstra capacidade avançada de raciocínio matemático de sistemas de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-secret-model-settles-a-1m-math-problem",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Meta lança agente IA pessoal com potencial de transformar como vivemos",
+      "resumo": "Meta lança novo agente de IA pessoal com capacidades avançadas de automação de tarefas. Lançamento de Meta tem potencial de impacto muito maior que conquistas matemáticas recentes em IA. Representa movimento de empresas de tech para aplicações práticas de IA no cotidiano.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Entrevista: presidente do OpenAI Greg Brockman fala sobre Astra e alinhamento de IA",
+      "resumo": "Greg Brockman, presidente e cofundador da OpenAI, concede entrevista sobre a história da empresa, o modelo Astra e desafios de alinhamento de IA. Discussão aborda responsabilidade de construir o futuro com tecnologias de IA avançadas. Explora direcionamento estratégico e considerações éticas.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Documentário sobre Elon Musk usa avatar e voz de IA para simular entrevista",
+      "resumo": "Documentário recria Elon Musk com avatar gerado por IA e voz sintética para realizar entrevista simulada. Produção utiliza declarações reais do bilionário como base para interações. Uso levanta questões sobre ética de recriação de pessoas com tecnologia de IA.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/09/09/inteligencia-artificial/documentario-sobre-elon-musk-usa-ia-para-criar-avatar-do-bilionario/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Windows 11 será otimizado para rodar bem com apenas 8 GB de RAM, reafirma Microsoft",
+      "resumo": "Microsoft reitera compromisso de otimizar Windows 11 para dispositivos com 8 GB de memória RAM. Promessa foi confirmada por executivo da empresa na IFA 2026. Objetivo é expandir compatibilidade com PCs de baixa especificação sem sacrificar performance.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/windows-11-vai-mesmo-rodar-bem-com-8-gb-de-ram-reforca-microsoft/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Elbit Systems lança unidade de tecnologia militar autônoma baseada em IA",
+      "resumo": "Empresa israelense Elbit Systems funda divisão Fuse para desenvolvimento de drones e sistemas militares autônomos com IA. Unidade produzirá tecnologia de defesa baseada em inteligência artificial. Representa expansão de aplicações de IA em setor de defesa e segurança.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/elbit-systems-lanca-unidade-de-tecnologia-militar-autonoma-baseada-em-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "SLC (SLCE3) salta 7% após JPMorgan elevar recomendação para compra",
+      "resumo": "Ação SLCE3 dispara 7% após banco JPMorgan elevar recomendação para compra e aumentar preço-alvo. Analistas veem combinação mais favorável entre preços e custos à frente, apesar de risco de El Niño. Movimento reflete otimismo do mercado quanto aos fundamentos da empresa.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/slc-slce3-dispara-7-apos-jpmorgan-elevar-recomendacao-para-compra-e-preco-alvo/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar opera em alta acima de R$ 5,09 com petróleo acima de US$ 100",
+      "resumo": "Dólar avança 0,21% para R$ 5,0962 em sessão de alta. Ibovespa cai 0,36% para 186.683 pontos com pressão de cenário político. Petróleo continua em alta com tensões geopolíticas em foco.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/09/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Resseguradoras podem ter de revisar ativos fiscais diferidos com reforma tributária",
+      "resumo": "Projeto que reduz CSLL e flexibiliza compensação de prejuízos impacta mensuração de ativos fiscais diferidos em resseguradoras. Mudanças na legislação fiscal exigem revisão de reconhecimento contábil. Setor precisa se adaptar às novas regras de tratamento tributário.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79298/resseguradoras-podem-ter-de-revisar-ativos-fiscais-diferidos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Resolução CGSN nº 190/2026: Simples Nacional autuará omissão de receita pela alíquota máxima",
+      "resumo": "Resolução do Conselho Gestor do Simples Nacional define que autuações por omissão de receita sem origem identificada aplicarão a maior alíquota do regime. Mudança aumenta penalidades para empresas em situação irregular. Norma reforça fiscalização e compliance no Simples Nacional.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79296/simples-nacional-omissao-de-receita-podera-ser-autuada-pelaaliquota-maxima/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "TCU tem até 30 de outubro para calcular alíquota de referência da CBS para 2027",
+      "resumo": "Tribunal de Contas da União deve enviar cálculos da alíquota de referência da Contribuição sobre Serviços (CBS) ao Senado até 30 de outubro. Alíquota será definida para aplicação em 2027. Prazo é crítico para implementação da reforma tributária brasileira.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79294/tcu-tem-ate-30-de-outubro-para-calcular-aliquota-da-cbs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Split payment recebe manuais para habilitação de prestadores e conexão à plataforma pública",
+      "resumo": "Receita Federal e CGIBS aprovam manuais operacionais para habilitação de participantes no split payment. Documentos orientam sobre processo de conexão de prestadores à Plataforma Pública do split payment. Normatização facilita implementação do sistema de repasse compartilhado.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79293/split-payment-ganha-manuais-para-habilitacao-de-prestadores/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Aprovação da Convenção 187 reforça política de segurança e saúde no trabalho no Brasil",
+      "resumo": "Aprovação da Convenção 187 da OIT impacta políticas de segurança e saúde do trabalho (SST) no Brasil. Mudanças afetam tanto empresas quanto trabalhadores. Norma internacional reforça proteção e direitos em ambientes laborais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79303/aprovacao-da-convencao-187-reforca-politica-de-sst-no-brasil/",
+      "idioma_original": "pt"
+    }
+  ]
+}
