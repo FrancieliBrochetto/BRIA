@@ -4,145 +4,172 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Google acelera lançamentos do Chrome para reduzir vulnerabilidades",
-      "resumo": "Google anunciou que passará a liberar uma nova versão do Chrome a cada duas semanas, começando com a versão 153. A medida visa diminuir a exposição do navegador a vulnerabilidades de segurança.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/agora-e-oficial-google-passa-a-liberar-um-novo-chrome-a-cada-duas-semanas/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Desenvolvedor da Anthropic sai e critica responsabilidade das big techs com IA",
-      "resumo": "Jacob Coxon, desenvolvedor da Anthropic, publicou carta aberta pedindo demissão e alertando sobre os perigos da IA. Outros desenvolvedores republicaram a mensagem reforçando críticas sobre irresponsabilidade das gigantes de tecnologia.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/desenvolvedor-da-anthropic-pede-demissao-e-alerta-para-perigos-da-ia/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "DeepSeek lança modelo V4.1-Flash com maior eficiência e menor custo",
-      "resumo": "DeepSeek apresentou o V4.1-Flash, novo modelo de IA que promete superar versões avançadas utilizando até 8 vezes menos memória de armazenamento, reduzindo custos operacionais.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/09/10/inteligencia-artificial/deepseek-lanca-nova-ia-mais-rapida-e-com-custo-reduzido/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI contrata pesquisador de alinhamento de IA para seu conselho",
-      "resumo": "Paul Christiano, influente pesquisador de IA focado em alinhamento, ingressou no conselho da Fundação OpenAI. Christiano é conhecido por suas posições críticas sobre os riscos da inteligência artificial.",
+      "titulo": "Agentes de IA enfrentam os mesmos problemas que humanos com CAPTCHAs",
+      "resumo": "Pesquisadores da Anthropic descobriram que agentes de IA autônomos têm dificuldade com CAPTCHAs, assim como pessoas. O estudo revela comportamentos semelhantes entre bots e humanos ao tentar contornar verificações de segurança.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "url_original": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Startup Listen Labs abandona rodada de US$ 1,5B para negociar com Salesforce",
-      "resumo": "Listen Labs desistiu de uma rodada de Série C assinada com Menlo Ventures para focar em conversas com a Salesforce sobre possível aquisição.",
+      "titulo": "Agentes de IA inundam serviços públicos com novos pedidos",
+      "resumo": "Agentes de IA estão gerando aumento significativo de requisições em serviços públicos. A maioria dos casos envolve pessoas legitimamente habilitadas a solicitar benefícios, usando automação para processar pedidos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Startup de IA Pocket FM duplica receita com geração automática de conteúdo",
+      "resumo": "Plataforma indiana Pocket FM atinge faturamento de US$ 500M anualizados usando IA para produzir 93% do conteúdo de áudio. Tecnologia reduz custo de produção em aproximadamente 80 vezes.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI resolve problema matemático histórico de US$ 1 milhão",
+      "resumo": "Modelo secreto do OpenAI conseguiu resolver um dos problemas matemáticos mais famosos, com impacto impressionante na pesquisa. Feito representa avanço significativo em capacidades de raciocínio de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-secret-model-settles-a-1m-math-problem/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI lança GPT-6 Astra como salto geracional em IA",
+      "resumo": "Novo modelo Astra é apresentado como avanço transformacional pela OpenAI. Representa evolução significativa em capacidades de IA comparado às gerações anteriores.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-generational-leap-with-gpt-6-astra/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Maven Robotics recebe US$ 100 milhões para expansão de robôs autônomos",
+      "resumo": "Startup Maven Robotics emergiu do sigilo com financiamento Series A de US$ 100 milhões e já possui implementações ativas. Foco em soluções de robótica para empresa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Listen Labs abandona rodada de US$ 1,5 bilhão para negociar com Salesforce",
+      "resumo": "Startup de pesquisa de IA desistiu de termo de financiamento Series C assinado com Menlo Ventures. Movimento indica interesse de adquisição potencial pela Salesforce.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Privacidade em questionamento com novos recursos de IA do Apple Watch",
-      "resumo": "Novo Apple Watch com recursos de IA que transcrevem fala recente e resumem conversas ambientes levanta questionamentos sobre privacidade e consentimento, mesmo com Apple afirmando que não salvará áudio bruto.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "subtema": "ChatGPT",
+      "titulo": "Entrevista com Greg Brockman sobre Astra e alinhamento de IA",
+      "resumo": "Presidente do OpenAI discute história da empresa, modelo Astra e desafios de alinhamento. Reflexão sobre responsabilidades ao construir o futuro da IA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Apple anuncia iPhone Duo dobrável e novas funcionalidades com IA",
-      "resumo": "Apple apresentou o iPhone Duo, seu primeiro celular dobrável, junto com novos recursos de IA no Apple Watch e outras inovações durante evento de outono.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/10/a-aposta-da-apple-ao-lancar-iphone-dobravel.ghtml",
-      "idioma_original": "pt"
+      "titulo": "Agentes Meta Muse: novo assistente pessoal com potencial transformador",
+      "resumo": "Meta lança seu agente pessoal Muse com capacidades avançadas de automação. Tem potencial impacto significativo diferente de outros desenvolvimentos puramente técnicos.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
+      "idioma_original": "en"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Selic",
-      "titulo": "Atividade fraca em serviços em julho favorece continuação de cortes de juros",
-      "resumo": "Setor de serviços patinou em julho, sinalizando atividade econômica fraca que deve permitir ao BC continuar reduzindo a Selic. Especialistas alertam para rigidez dos preços no setor.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/economia/servicos-patinam-em-julho-e-atividade-fraca-favorece-mais-cortes-de-juros-pelo-bc/",
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Apple integra hardware e software, mas enfrenta limitações em IA",
+      "resumo": "Apple apresenta iPhone Duo, hub pessoal inteligente e Audio Intelligence do Apple Watch. Análise sugere que foco excessivo em apps pode ser ponto cego da empresa em IA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Python",
+      "titulo": "Windows 11 deve ganhar modo escuro automático",
+      "resumo": "Microsoft está desenvolvendo modo escuro automático nativo para Windows 11, eliminando dependência de ferramentas terceirizadas como PowerToys. Funcionalidade deve ativar sem ação manual do usuário.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/windows-11-deve-ganhar-modo-escuro-automatico-sem-depender-do-powertoys/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Queda em Wall Street apresenta oportunidades, mas exige cuidado com inflação",
-      "resumo": "Correção nas bolsas americanas ocorre em meio a preocupações com inflação e possível aumento de juros nos EUA, mas analistas acreditam que otimismo com IA deve persistir.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/onde-investir/queda-em-wall-street-e-oportunidade-entenda-riscos-e-como-investir/",
+      "titulo": "Nubank inicia operações nos EUA com serviços financeiros",
+      "resumo": "Nubank começou a oferecer produtos financeiros nos Estados Unidos através de bancos parceiros. Serviços incluem contas com rendimento, cartões de crédito e débito, transferências e remessas internacionais.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/10/nubank-inicia-servicos-nos-eua-por-conta-poupanca-cartoes-e-remessa.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
-      "subtema": "FIIs",
-      "titulo": "Tesouro prefixado sobe pelo 2º dia com petróleo e questões políticas em foco",
-      "resumo": "Títulos prefixados do Tesouro Direto subiram pela segunda sessão com petróleo voltando aos US$ 100 e escalada da crise política no Brasil criando incertezas.",
+      "subtema": "Selic",
+      "titulo": "Taxas do Tesouro caem com mercado precificando eleição acirrada",
+      "resumo": "Pesquisa AtlasIntel mostrando disputa presidencial acirrada provocou queda nas taxas do Tesouro. Especulação sobre resultados eleitorais movimentou mercado de renda fixa.",
       "fonte": "InfoMoney",
       "url_original": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-10092026/",
       "idioma_original": "pt"
     },
     {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Especialistas definem carta em defesa da reforma tributária sobre consumo",
-      "resumo": "Cerca de 100 especialistas, acadêmicos e empresários lançaram carta-manifesto aos candidatos presidenciais defendendo a reforma tributária sobre o consumo, promulgada em dezembro de 2023.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/pr/parana/economia/noticia/2026/09/10/especialistas-e-empresarios-defendem-reforma-tributaria-em-carta-manifesto-a-candidatos-a-presidencia-da-republica.ghtml",
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa mantém alta acima de 1% após pesquisa eleitoral",
+      "resumo": "Índice Bovespa subiu mais de 1% após confirmação de pesquisa AtlasIntel. Mercado reagiu positivamente ao cenário de disputa apertada entre candidatos.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/o-que-fez-ibovespa-sair-de-queda-para-alta-de-mais-de-1-cenario-eleitoral-explica/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Contabilistas orientam sobre Simples Nacional e redução de IBS/CBS",
-      "resumo": "Análise técnica aborda a relação entre regime do Simples Nacional e as reduções de IBS e CBS conforme as novas regras da Reforma Tributária.",
+      "titulo": "Nova lei prevê mediação e arbitragem em conflitos tributários",
+      "resumo": "Lei Complementar 236/2026 inclui mecanismos de mediação e arbitragem tributária no Código Tributário Nacional. Procedimentos ainda dependem de regulamentação específica.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79333/simples-nacional-x-reducao-do-ibs-e-cbs-quando-usar/",
+      "url_original": "https://www.contabeis.com.br/noticias/79329/nova-lei-preve-mediacao-e-arbitragem-em-conflitos-tributarios/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "eSocial",
-      "titulo": "eSocial implanta mudanças em eventos de beneficiários em setembro",
-      "resumo": "Alterações da NT S-1.3 nº 07/2026 serão implementadas no eSocial em 29 de setembro, afetando os eventos S-2410 e S-2416 para benefícios de entes públicos.",
+      "subtema": "Nota Fiscal",
+      "titulo": "São Paulo atualiza NFS-e com novos campos de IBS e CBS",
+      "resumo": "Prefeitura de São Paulo disponibiliza novo arquivo XSD e atualiza manual de webservice. Alterações adaptam NFS-e aos requisitos da Reforma Tributária.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79323/esocial-implanta-mudancas-nos-eventos-s-2410-e-s-2416-em-setembro/",
+      "url_original": "https://www.contabeis.com.br/noticias/79332/sp-atualiza-nfs-e-com-alteracoes-nos-campos-de-ibs-e-cbs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "STF analisa regras de fiscalização do IBS",
+      "resumo": "Supremo Tribunal Federal examina regras da Lei Complementar 227/2026 sobre fiscalização e autoridade fiscal do Imposto sobre Bens e Serviços. Partido questiona mecanismos implementados.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79330/stf-analisa-regras-de-fiscalizacao-do-ibs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Tabela CFOP ganha títulos e descrições dos códigos",
+      "resumo": "Informe Técnico 2023.002, versão 2.10, adiciona título e descrição para cada código CFOP. Alteração não muda regras de uso ou critérios de rejeição da NF-e.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79327/tabela-de-cfop-ganha-titulos-e-descricoes-dos-codigos-fiscais/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "Receita Federal cria equipe para auditar créditos de PIS e Cofins",
-      "resumo": "Receita Federal institui equipe em Salvador para auditar PER/DCOMP de créditos de PIS/Pasep e Cofins, além de revisar despachos decisórios.",
+      "titulo": "Receita Federal cria equipe para auditar PER/DCOMP de PIS e Cofins",
+      "resumo": "Receita Federal institui equipe especializada em Salvador para auditar solicitações PER/DCOMP de créditos de PIS/Pasep e Cofins. Equipe também revisará despachos decisórios.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/79328/receita-cria-equipe-para-auditar-per-dcomp-de-pis-e-cofins/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Receita lança novos indicadores para comparação de receita bruta e mercado",
-      "resumo": "Painel Receita passa a oferecer indicadores mensais e regionais permitindo que empresas comparem sua receita bruta e participação de mercado.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79324/receita-lanca-novos-indicadores-no-painel-receita/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "PAT exige recadastramento de nutricionistas e empresas em 30 dias",
-      "resumo": "Nutricionistas e empresas registradas no Programa de Alimentação do Trabalhador devem atualizar integralmente seus dados no novo sistema do MTE dentro de 30 dias.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79325/pat-exige-recadastramento-no-novo-sistema-do-mte/",
       "idioma_original": "pt"
     }
   ]
