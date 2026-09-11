@@ -1,0 +1,131 @@
+{
+  "data": "2026-09-11",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança & Privacidade",
+      "titulo": "Google facilita migração entre gerenciadores de senhas no Android",
+      "resumo": "O Google introduziu um recurso no Android para facilitar a migração segura e rápida de senhas entre gerenciadores de forma simplificada.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/ficou-mais-facil-trocar-de-gerenciador-de-senhas-no-android/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Smartphones & Hardware",
+      "titulo": "Operadoras do Brasil ganharão função de usar mesmo número em dois iPhones",
+      "resumo": "A funcionalidade iPhone Handoff permitirá usar o mesmo número de telefone em dois iPhones simultaneamente. Recurso chega primeiro aos EUA e será expandido para operadoras brasileiras.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/operadoras-do-brasil-terao-iphone-handoff/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Smartphones & Hardware",
+      "titulo": "Samsung prepara chegada do Galaxy A18 ao Brasil",
+      "resumo": "Novo smartphone de entrada foi homologado pela Anatel. Modelo mantém bateria de 5.000 mAh com poucas mudanças em relação às gerações anteriores.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/samsung-prepara-a-chegada-do-galaxy-a18-ao-brasil/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT & OpenAI",
+      "titulo": "OpenAI suspende inscrições em assinatura Pro devido à demanda por Astra",
+      "resumo": "Assinaturas Pro causam maior strain nos sistemas da OpenAI. Empresa pausa novas inscrições enquanto adiciona capacidade para atender a demanda pelo novo modelo Astra.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude & Anthropic",
+      "titulo": "Anthropic revela campanhas de destilação de modelos por empresas chinesas",
+      "resumo": "Relatório aponta ataques persistentes de destilação de modelos por Alibaba, Moonshot AI e DeepSeek. Ataques intensificaram nos últimos meses com acirramento da competição.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação & Agentes",
+      "titulo": "App Muse do Meta se torna número 2 nos EUA",
+      "resumo": "Novo agente de IA do Meta é agora o segundo app mais baixado nos EUA, embora ainda com crescimento mais lento que Meta AI e Threads.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança & Privacidade",
+      "titulo": "Material de abuso infantil continua circulando na rede X",
+      "resumo": "Análises do Canadian Center e New York Times encontraram conteúdo de abuso infantil no X, incluindo material gerado pelo modelo Grok da plataforma.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/09/11/inteligencia-artificial/material-de-abuso-infantil-continua-circulando-no-x-de-musk/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio & Macroeconomia",
+      "titulo": "IPCA cai 0,32% em agosto com maior deflação em quatro anos",
+      "resumo": "Índice Nacional de Preços ao Consumidor apresenta deflação de 0,32% em agosto, maior queda mensal desde agosto de 2022. Habitação (-1,87%) e transportes lideraram redução.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/11/ipca-agosto.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações & Índices",
+      "titulo": "Dólar e Ibovespa operam em queda com foco em dados de inflação",
+      "resumo": "Dólar recua 0,48% cotado a R$ 5,0781 e Ibovespa cai 0,48% para 187.361 pontos. Mercado acompanha novos dados de inflação no Brasil e EUA.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/11/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Gestão de Investimentos",
+      "titulo": "Kapitalo aposta no real e reduz juros no Brasil após ganhos em agosto",
+      "resumo": "Após retorno superior a 3% em agosto com ações, gestora reduz exposição a juros no Brasil e busca oportunidades em Reino Unido e Zona do Euro.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/apos-ganho-de-mais-de-3-em-agosto-kapitalo-aposta-no-real-e-reduz-juros-no-brasil/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Fiscal",
+      "titulo": "Nova versão da EFD-ICMS/IPI inclui orientações para NFGás",
+      "resumo": "Atualização da Escrituração Fiscal Digital traz informações sobre escrituração da Nota Fiscal de Gás (modelo 76).",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79355/nova-versao-da-efd-icms-ipi-traz-orientacao-para-nfgas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Fiscal",
+      "titulo": "PL amplia descontos e permite parcelar dívidas com União em até 20 anos",
+      "resumo": "Projeto de Lei 3.186/2026 amplia prazos e descontos na transação de dívidas com a União, aguardando aprovação no Congresso.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79353/pl-amplia-descontos-e-permite-parcelar-dividas-com-a-uniao-em-ate-20-anos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Importação",
+      "titulo": "Taxa das blusinhas é extinta para compras de até US$ 50",
+      "resumo": "Governo sanciona lei que zera o Imposto de Importação para compras internacionais até US$ 50 e reduz alíquota para remessas de até US$ 3 mil.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79354/taxa-das-blusinhas-e-extinta-para-compras-de-ate-us-50/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Fiscal",
+      "titulo": "CFC orienta contadores sobre prestação parcial de contas das Eleições 2026",
+      "resumo": "Contadores devem enviar prestação parcial pelo CONTA+JE até 13 de setembro e documentar eventuais instabilidades do sistema.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79359/cfc-orienta-contadores-sobre-prestacao-de-contas-parcial-das-eleicoes-2026/",
+      "idioma_original": "pt"
+    }
+  ]
+}
