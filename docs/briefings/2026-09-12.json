@@ -3,54 +3,18 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Meta corrige IA após sugerir perguntas invasivas sobre crianças",
-      "resumo": "Ferramenta de IA da Meta apresentou falha grave ao cruzar dados de parentes e exibir foto que teria sido apagada, sugerindo perguntas invasivas. A empresa corrigiu o problema após descoberta.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/meta-corrige-ia-apos-ferramenta-sugerir-perguntas-invasivas-sobre-criancas/",
+      "subtema": "Claude",
+      "titulo": "CEO da Anthropic pede desaceleração no desenvolvimento de IA",
+      "resumo": "Dario Amodei, CEO da Anthropic, publicou ensaio pedindo freio no desenvolvimento de IA por preocupações com segurança. O executivo alerta que a tecnologia pode vir a dominar a internet. Nvidia está em negociações para investir até US$ 10 bilhões na IPO da Anthropic.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/09/12/pro/ceo-da-anthropic-pede-freio-na-ia-e-alerta-que-tecnologia-pode-dominar-a-internet/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI resolve problema matemático clássico com modelo secreto",
-      "resumo": "Modelo secreto da OpenAI resolveu problema matemático de $1 milhão, demonstrando avanço em capacidades de pesquisa. Feito impressionante mas com impacto limitado para a maioria das pessoas.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://therundownai.beehiiv.com/p/openai-secret-model-settles-a-1m-math-problem",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Disputa entre OpenAI e matemáticos escala com carta aberta",
-      "resumo": "25 matemáticos renomados assinaram carta aberta argumentando que labs de IA ameaçam trabalho intelectual. Conflito reflete preocupações sobre uso de dados acadêmicos no treinamento de modelos.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Anthropic abre arquivos sobre má utilização global do Claude",
-      "resumo": "Anthropic divulgou informações sobre casos de abuso global do Claude, demonstrando transparência sobre desafios de segurança do modelo.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://therundownai.beehiiv.com/p/anthropic-opens-the-files-on-global-claude-misuse",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Mecka AI avança para $500M em rodada liderada por Sequoia",
-      "resumo": "Startup de 2 anos que trabalha com dados para treinamento de robôs aproxima-se de avaliação de $500 milhões. Rodada de investimento reflete demanda crescente por dados de treinamento de robótica.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Meta lança agente pessoal Muse com potencial prático significativo",
-      "resumo": "Meta apresentou agente de IA pessoal Muse com capacidade de executar tarefas do dia a dia. Diferente de avanços puramente acadêmicos, tem aplicação real para vida das pessoas.",
+      "titulo": "Meta lança agente de IA pessoal Muse",
+      "resumo": "Meta está lançando o agente de IA pessoal Muse, com potencial significativo de impacto prático nas vidas das pessoas. Plataforma promete automatizar tarefas do dia a dia através de um assistente inteligente.",
       "fonte": "Stratechery",
       "url_original": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
       "idioma_original": "en"
@@ -58,17 +22,62 @@
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Líder do Y Combinator quer que labs de IA abertos americanos destiem modelos frontier",
-      "resumo": "Garry Tan defende que labs de IA abertos dos EUA usem técnicas de destilação para criar versões menores de modelos frontier. Objetivo é reforçar opções abertas americanas sem dependência de tecnologia chinesa.",
-      "fonte": "TechCrunch AI",
+      "titulo": "OpenAI resolve problema matemático famoso de US$ 1 milhão",
+      "resumo": "Modelo secreto da OpenAI resolveu um dos problemas matemáticos mais famosos da história. A proeza é tecnicamente impressionante, mas com impacto limitado no dia a dia das pessoas.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "OpenAI implementa agentes gerenciados para pesquisa",
+      "resumo": "OpenAI está expandindo uso de agentes de IA para pesquisa automatizada, sinalizando movimento maior em direção a sistemas autônomos de pesquisa. Tecnologia demonstra avanço em capacidades de agentes inteligentes.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/inside-openai-agent-powered-research-boom",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "OpenAI enfrenta controvérsia com matemáticos sobre uso de trabalho intelectual",
+      "resumo": "Vinte e cinco matemáticos renomados assinaram carta aberta argumentando que labs de IA estão ameaçando seu trabalho intelectual. Disputa levanta questões sobre direitos autorais e uso de dados em treinamento de modelos.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Startup Mecka AI atinge avaliação de US$ 500 milhões em rodada liderada pela Sequoia",
+      "resumo": "Mecka AI, focada em dados de treinamento para robôs, aproxima-se de US$ 500 milhões em valuation. Rodada ocorre em contexto de corrida competitiva por dados de treinamento para automação robotizada.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Y Combinator propõe labs de IA abertos americanos destilarem modelos de fronteira",
+      "resumo": "Garry Tan, presidente do Y Combinator, defende que labs menores de IA open-weight nos EUA usem técnicas de destilação em modelos de fronteira. Objetivo é criar alternativas abertas robustas que não dependam de tecnologia chinesa.",
+      "fonte": "TechCrunch",
       "url_original": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "idioma_original": "en"
     },
     {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic divulga relatório sobre uso indevido global do Claude",
+      "resumo": "Anthropic abriu dados sobre casos globais de uso indevido de seu modelo Claude. Transparência busca estabelecer práticas de governança e confiança no uso de sistemas de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-opens-the-files-on-global-claude-misuse",
+      "idioma_original": "en"
+    },
+    {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Nota Fiscal",
-      "titulo": "Rejeição NF-e 1115 de IBS e CBS adiada, mas obrigação permanece",
-      "resumo": "NF-e poderá ser autorizada sem grupo de IBS e CBS em 2026, porém obrigação de informar permanece. Validações em produção serão ajustadas conforme cronograma.",
+      "subtema": "Reforma Tributária",
+      "titulo": "Rejeição de NF-e para IBS e CBS é adiada em 2026, mas obrigação persiste",
+      "resumo": "Nota Fiscal Eletrônica poderá ser autorizada sem campos de IBS e CBS em 2026, mas obrigação de preenchimento permanece. Empresas devem se preparar para implementação futura da Reforma Tributária.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/79337/nf-e-rejeicao-1115-de-ibs-e-cbs-adiada-mas-obrigacao-permanece/",
       "idioma_original": "pt"
@@ -76,8 +85,8 @@
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "RAD: adquirente pode recolher IBS e CBS em casos específicos",
-      "resumo": "Quando meio de pagamento não comportar split payment, adquirente poderá recolher IBS e CBS diretamente. Medida permite extinguir créditos em situações onde vendedor não consegue reter impostos.",
+      "titulo": "Adquirente poderá recolher IBS e CBS quando split payment não for possível",
+      "resumo": "Nova regra permite ao adquirente recolher IBS e CBS diretamente quando sistema de pagamento não comportar split payment. Medida oferece alternativa operacional para cumprir obrigações tributárias da Reforma.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/79326/rad-entenda-quando-o-adquirente-podera-recolher-ibs-e-cbs/",
       "idioma_original": "pt"
@@ -85,19 +94,10 @@
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Duplicata escritural enfrenta desafios de implementação em ERPs",
-      "resumo": "Empresas enfrentam obstáculos na adoção da duplicata escritural, principalmente em integração de sistemas ERPs e conciliação de dados. Nova fase exigirá ajustes operacionais.",
+      "titulo": "RH deve revisar contratos de vale-alimentação conforme Decreto nº 12.712/2025",
+      "resumo": "Novo decreto estabelece novas regras para benefícios de vale-alimentação e refeição. RH deve conferir contratos quanto a taxas, prazos e conformidade com legislação atualizada.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79351/desafios-da-duplicata-escritural-empresas-e-integracao-de-erps/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "Nova tributação mínima para alta renda altera estratégia entre CDB e LCI",
-      "resumo": "Regra de IR progressivo para pessoas de alta renda muda cálculos de rentabilidade entre CDB e LCI. Investidores precisam reavali estratégia considerando nova alíquota.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79370/cdb-ou-lci-nova-regra-do-ir-muda-escolha/",
+      "url_original": "https://www.contabeis.com.br/noticias/79340/vale-alimentacao-o-que-o-rh-deve-conferir-nos-contratos/",
       "idioma_original": "pt"
     }
   ]
