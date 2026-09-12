@@ -1,0 +1,104 @@
+{
+  "data": "2026-09-12",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Meta corrige IA após sugerir perguntas invasivas sobre crianças",
+      "resumo": "Ferramenta de IA da Meta apresentou falha grave ao cruzar dados de parentes e exibir foto que teria sido apagada, sugerindo perguntas invasivas. A empresa corrigiu o problema após descoberta.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/meta-corrige-ia-apos-ferramenta-sugerir-perguntas-invasivas-sobre-criancas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI resolve problema matemático clássico com modelo secreto",
+      "resumo": "Modelo secreto da OpenAI resolveu problema matemático de $1 milhão, demonstrando avanço em capacidades de pesquisa. Feito impressionante mas com impacto limitado para a maioria das pessoas.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-secret-model-settles-a-1m-math-problem",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Disputa entre OpenAI e matemáticos escala com carta aberta",
+      "resumo": "25 matemáticos renomados assinaram carta aberta argumentando que labs de IA ameaçam trabalho intelectual. Conflito reflete preocupações sobre uso de dados acadêmicos no treinamento de modelos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic abre arquivos sobre má utilização global do Claude",
+      "resumo": "Anthropic divulgou informações sobre casos de abuso global do Claude, demonstrando transparência sobre desafios de segurança do modelo.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-opens-the-files-on-global-claude-misuse",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Mecka AI avança para $500M em rodada liderada por Sequoia",
+      "resumo": "Startup de 2 anos que trabalha com dados para treinamento de robôs aproxima-se de avaliação de $500 milhões. Rodada de investimento reflete demanda crescente por dados de treinamento de robótica.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Meta lança agente pessoal Muse com potencial prático significativo",
+      "resumo": "Meta apresentou agente de IA pessoal Muse com capacidade de executar tarefas do dia a dia. Diferente de avanços puramente acadêmicos, tem aplicação real para vida das pessoas.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Líder do Y Combinator quer que labs de IA abertos americanos destiem modelos frontier",
+      "resumo": "Garry Tan defende que labs de IA abertos dos EUA usem técnicas de destilação para criar versões menores de modelos frontier. Objetivo é reforçar opções abertas americanas sem dependência de tecnologia chinesa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Rejeição NF-e 1115 de IBS e CBS adiada, mas obrigação permanece",
+      "resumo": "NF-e poderá ser autorizada sem grupo de IBS e CBS em 2026, porém obrigação de informar permanece. Validações em produção serão ajustadas conforme cronograma.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79337/nf-e-rejeicao-1115-de-ibs-e-cbs-adiada-mas-obrigacao-permanece/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "RAD: adquirente pode recolher IBS e CBS em casos específicos",
+      "resumo": "Quando meio de pagamento não comportar split payment, adquirente poderá recolher IBS e CBS diretamente. Medida permite extinguir créditos em situações onde vendedor não consegue reter impostos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79326/rad-entenda-quando-o-adquirente-podera-recolher-ibs-e-cbs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Duplicata escritural enfrenta desafios de implementação em ERPs",
+      "resumo": "Empresas enfrentam obstáculos na adoção da duplicata escritural, principalmente em integração de sistemas ERPs e conciliação de dados. Nova fase exigirá ajustes operacionais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79351/desafios-da-duplicata-escritural-empresas-e-integracao-de-erps/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Nova tributação mínima para alta renda altera estratégia entre CDB e LCI",
+      "resumo": "Regra de IR progressivo para pessoas de alta renda muda cálculos de rentabilidade entre CDB e LCI. Investidores precisam reavali estratégia considerando nova alíquota.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79370/cdb-ou-lci-nova-regra-do-ir-muda-escolha/",
+      "idioma_original": "pt"
+    }
+  ]
+}
