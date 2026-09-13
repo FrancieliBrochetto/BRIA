@@ -1,0 +1,95 @@
+{
+  "data": "2026-09-13",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI não irá abrir capital em 2026, diz Sam Altman",
+      "resumo": "CEO da OpenAI afirma que seria imprudente (ill-advised) ir a público neste ano, apesar da empresa ter feito pedido confidencial para IPO. A decisão reflete cautela estratégica da companhia.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic planeja desacelerar desenvolvimento de IA de fronteira",
+      "resumo": "CEO Dario Amodei delineia plano para reduzir o ritmo de avanços em IA de fronteira, alinhado com posição de Sam Altman sobre 'pacing the frontier'. Medida reflete preocupações com segurança e governança.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "OpenAI resolve problema matemático histórico com modelo secreto",
+      "resumo": "Modelo oculto da OpenAI resolveu problema matemático no valor de $1 milhão, demonstrando progresso em capacidades de pesquisa de IA. Resultado impressiona comunidade científica mas tem impacto prático limitado.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-secret-model-settles-a-1m-math-problem",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Meta lança Muse: agente de IA pessoal para automação de tarefas",
+      "resumo": "Meta lançou seu agente pessoal Muse, com potencial de impacto significativo na automação de atividades cotidianas. Desenvolvimento representa mudança importante em aplicações práticas de IA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "WhatsApp testa ferramenta para organização de eventos",
+      "resumo": "Novo recurso em teste no WhatsApp para Android centraliza compromissos e convites em uma tela única. Funcionalidade visa facilitar planejamento e coordenação de eventos entre usuários.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/whatsapp-quer-facilitar-a-organizacao-de-eventos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Mecka AI valora $500 milhões em rodada liderada pela Sequoia",
+      "resumo": "Startup focada em dados de treinamento para robôs atinge avaliação de $500M poucos meses após anúncio da Série A. Levantamento reflete demanda crescente por dados de IA em robotização.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Disputa entre OpenAI e matemáticos escala; 25 pesquisadores assinam carta aberta",
+      "resumo": "Vinte e cinco matemáticos renomados assinaram carta aberta criticando labs de IA por ameaçarem trabalho intelectual. Conflito reflete tensões sobre uso de propriedade intelectual em treinamento de modelos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "13º salário 2026: prazos, cálculo e regras de adiantamento",
+      "resumo": "Primeira parcela do 13º deve ser paga até 30 de novembro de 2026. Informações sobre cálculo, descontos e prazos de adiantamento para profissionais contábeis e gestores de RH.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79348/13o-salario-2026-veja-prazos-calculo-e-regras-do-adiantamento/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Trabalhista",
+      "titulo": "Obrigações tributárias vencem na segunda quinzena de setembro",
+      "resumo": "EFD-Contribuições, EFD-Reinf, Dirbi, PGDAS-D, DCTFWeb, DITR e outras obrigações vencem entre 15 e 30 de setembro. Atenção requerida para evitar atrasos e penalidades.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79345/obrigacoes-tributarias-que-vencem-na-2a-quinzena-de-setembro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Trabalhista",
+      "titulo": "Vale-alimentação: RH deve revisar contratos conforme Decreto 12.712/2025",
+      "resumo": "Novo decreto estabelece regras para vale-alimentação e refeição. RH deve verificar taxas, prazos e condições nos contratos com fornecedores.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79340/vale-alimentacao-o-que-o-rh-deve-conferir-nos-contratos/",
+      "idioma_original": "pt"
+    }
+  ]
+}
