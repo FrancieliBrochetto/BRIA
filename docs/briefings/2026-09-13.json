@@ -4,8 +4,8 @@
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "OpenAI não irá abrir capital em 2026, diz Sam Altman",
-      "resumo": "CEO da OpenAI afirma que seria imprudente (ill-advised) ir a público neste ano, apesar da empresa ter feito pedido confidencial para IPO. A decisão reflete cautela estratégica da companhia.",
+      "titulo": "OpenAI não fará IPO em 2026, diz CEO Sam Altman",
+      "resumo": "Sam Altman confirmou que a OpenAI não irá a público em 2026, apesar de ter feito registro confidencial de IPO. A empresa mantém planos de abertura de capital para momento mais adequado.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
       "idioma_original": "en"
@@ -13,8 +13,17 @@
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Anthropic planeja desacelerar desenvolvimento de IA de fronteira",
-      "resumo": "CEO Dario Amodei delineia plano para reduzir o ritmo de avanços em IA de fronteira, alinhado com posição de Sam Altman sobre 'pacing the frontier'. Medida reflete preocupações com segurança e governança.",
+      "titulo": "Anthropic divulga dados sobre uso indevido do Claude globalmente",
+      "resumo": "Anthropic abriu seus arquivos sobre casos de mal-uso do Claude em escala global. A empresa busca transparência nos desafios de segurança enfrentados pela tecnologia.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-opens-the-files-on-global-claude-misuse",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "CEO da Anthropic apresenta plano para desacelerar desenvolvimento de IA",
+      "resumo": "Dario Amodei da Anthropic e Sam Altman da OpenAI concordam que é hora de 'acelerar a fronteira' de forma mais controlada. Discussão sobre ritmo sustentável de inovação em IA.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
       "idioma_original": "en"
@@ -22,8 +31,8 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "OpenAI resolve problema matemático histórico com modelo secreto",
-      "resumo": "Modelo oculto da OpenAI resolveu problema matemático no valor de $1 milhão, demonstrando progresso em capacidades de pesquisa de IA. Resultado impressiona comunidade científica mas tem impacto prático limitado.",
+      "titulo": "OpenAI resolve problema matemático de US$ 1 milhão com modelo secreto",
+      "resumo": "Modelo secreto da OpenAI resolveu um dos problemas matemáticos mais famosos. Avanço impressionante demonstra capacidade de raciocínio de sistemas de IA atuais.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/openai-secret-model-settles-a-1m-math-problem",
       "idioma_original": "en"
@@ -31,17 +40,26 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Meta lança Muse: agente de IA pessoal para automação de tarefas",
-      "resumo": "Meta lançou seu agente pessoal Muse, com potencial de impacto significativo na automação de atividades cotidianas. Desenvolvimento representa mudança importante em aplicações práticas de IA.",
+      "titulo": "Meta lança agente pessoal com IA Muse",
+      "resumo": "Meta lançou seu agente pessoal Muse, trazendo potencial significativo de impacto na vida cotidiana dos usuários. Ferramenta representa evolução em assistentes de IA práticos.",
       "fonte": "Stratechery",
       "url_original": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "WhatsApp testa ferramenta para organização de eventos",
-      "resumo": "Novo recurso em teste no WhatsApp para Android centraliza compromissos e convites em uma tela única. Funcionalidade visa facilitar planejamento e coordenação de eventos entre usuários.",
+      "subtema": "Automação",
+      "titulo": "Mecka AI atinge avaliação de US$ 500 milhões em rodada liderada pela Sequoia",
+      "resumo": "Startup de dois anos que trabalha com dados de treinamento para robôs atingiu avaliação de US$ 500 milhões. Rodada reflete demanda crescente por dados de treinamento em robótica.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "WhatsApp testa ferramenta para organizar eventos com melhor interface",
+      "resumo": "WhatsApp está testando nova tela que facilita organização de eventos, reunindo compromissos e convites em um só lugar. Funcionalidade em teste para Android.",
       "fonte": "Tecnoblog",
       "url_original": "https://tecnoblog.net/noticias/whatsapp-quer-facilitar-a-organizacao-de-eventos/",
       "idioma_original": "pt"
@@ -49,46 +67,82 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Mecka AI valora $500 milhões em rodada liderada pela Sequoia",
-      "resumo": "Startup focada em dados de treinamento para robôs atinge avaliação de $500M poucos meses após anúncio da Série A. Levantamento reflete demanda crescente por dados de IA em robotização.",
+      "titulo": "Obama defende plano claro de proteção de IA para democratas",
+      "resumo": "Obama pediu que democratas façam da inteligência artificial uma 'agenda central' com plano claro para lidar com impactos econômicos e segurança da tecnologia.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "url_original": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Y Combinator quer que labs de IA americanos 'destilarem' modelos de fronteira",
+      "resumo": "Garry Tan propõe que labs de IA open-weight menores dos EUA usem técnicas de destilação em modelos americanos de fronteira, criando ecossistema mais robusto que não dependa da China.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Disputa entre OpenAI e matemáticos escala; 25 pesquisadores assinam carta aberta",
-      "resumo": "Vinte e cinco matemáticos renomados assinaram carta aberta criticando labs de IA por ameaçarem trabalho intelectual. Conflito reflete tensões sobre uso de propriedade intelectual em treinamento de modelos.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "13º salário 2026: prazos, cálculo e regras de adiantamento",
-      "resumo": "Primeira parcela do 13º deve ser paga até 30 de novembro de 2026. Informações sobre cálculo, descontos e prazos de adiantamento para profissionais contábeis e gestores de RH.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79348/13o-salario-2026-veja-prazos-calculo-e-regras-do-adiantamento/",
+      "titulo": "iPhone 18 Pro Max dos EUA terá modem diferente do resto do mundo",
+      "resumo": "Versão americana do iPhone 18 Pro Max mantém modem da Qualcomm, enquanto versão global recebe chip próprio da Apple. Diferentes estratégias por mercado.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/09/13/reviews/iphone-18-pro-max-dos-eua-sera-diferente-do-resto-do-mundo-entenda/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação Trabalhista",
-      "titulo": "Obrigações tributárias vencem na segunda quinzena de setembro",
-      "resumo": "EFD-Contribuições, EFD-Reinf, Dirbi, PGDAS-D, DCTFWeb, DITR e outras obrigações vencem entre 15 e 30 de setembro. Atenção requerida para evitar atrasos e penalidades.",
+      "subtema": "Legislação",
+      "titulo": "Prazos de obrigações tributárias vencem na segunda quinzena de setembro",
+      "resumo": "EFD-Contribuições, EFD-Reinf, Dirbi, PGDAS-D e outras obrigações têm vencimento na segunda metade de setembro. Contadores devem estar atentos aos prazos regulatórios.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/79345/obrigacoes-tributarias-que-vencem-na-2a-quinzena-de-setembro/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação Trabalhista",
-      "titulo": "Vale-alimentação: RH deve revisar contratos conforme Decreto 12.712/2025",
-      "resumo": "Novo decreto estabelece regras para vale-alimentação e refeição. RH deve verificar taxas, prazos e condições nos contratos com fornecedores.",
+      "subtema": "Legislação",
+      "titulo": "13º salário 2026: confira prazos, cálculo e regras de adiantamento",
+      "resumo": "Primeira parcela do 13º deve ser paga até 30 de novembro. Saiba os prazos da segunda parcela, cálculo de descontos e regras de adiantamento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79348/13o-salario-2026-veja-prazos-calculo-e-regras-do-adiantamento/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "RH deve revisar contratos de vale-alimentação conforme Decreto nº 12.712/2025",
+      "resumo": "Decreto novo estabelece regras para vale-alimentação e refeição. Departamentos de RH devem analisar taxas, prazos e cláusulas em contratos vigentes.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/79340/vale-alimentacao-o-que-o-rh-deve-conferir-nos-contratos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "IA & Contabilidade",
+      "titulo": "Contabilidade e IA: quem confere os dados processados?",
+      "resumo": "IA avança na contabilidade, mas conferência e qualidade dos dados continuam exigindo análise profissional. Desafio central para adoção segura da tecnologia.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79366/contabilidade-e-ia-quem-confere-os-dados/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Paralisação em oleoduto saudita ameaça perder 4% da oferta global de petróleo",
+      "resumo": "Arábia Saudita pode ficar sem estoques se não reiniciar oleoduto para Mar Vermelho nos próximos dias. Cenário elevaria escassez global e impulsionaria preços de combustíveis.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/13/paralisacao-em-oleoduto-da-arabia-saudita-ameaca-perda-de-4percent-da-oferta-global-de-petroleo.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Ataques em Ormuz e Arábia Saudita alertam para nova alta do petróleo",
+      "resumo": "Operadores de mercado esperam nova alta nos preços de petróleo quando mercados reabrirem na segunda-feira. Tensões geopolíticas no Golfo Pérsico impactam commodity.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ataques-em-ormuz-e-na-arabia-saudita-soam-alerta-para-nova-alta-do-petroleo/",
       "idioma_original": "pt"
     }
   ]
