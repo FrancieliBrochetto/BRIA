@@ -1,0 +1,140 @@
+{
+  "data": "2026-09-14",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Regulação e Segurança de IA",
+      "titulo": "Microsoft anuncia regras para desenvolver IA humanista",
+      "resumo": "Microsoft estabeleceu novo código que define que modelos de IA não possuem consciência ou direitos legais. Documento prioriza supervisão humana após incidentes com agentes autônomos.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/microsoft-anuncia-regras-para-desenvolver-uma-ia-humanista/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Regulação e Segurança de IA",
+      "titulo": "Senador dos EUA propõe prisão para quem criar superinteligência artificial descontrolada",
+      "resumo": "Bernie Sanders apresentou projeto de lei que prevê até 20 anos de prisão para quem criar superinteligência artificial sem respeitar regulações. Proposta busca barrar avanço descontrolado da IA.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/senador-dos-eua-propoe-prisao-para-quem-criar-uma-super-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Modelos e Plataformas de IA",
+      "titulo": "Microsoft integra Grok de Elon Musk no Copilot do Word, Excel e PowerPoint",
+      "resumo": "O modelo Grok agora está disponível como opção entre os modelos de IA no Copilot da Microsoft. Usuários podem escolher Grok ao usar os assistentes integrados nos aplicativos Microsoft 365.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/microsoft-coloca-grok-no-word-excel-e-powerpoint/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Regulação e Segurança de IA",
+      "titulo": "China rejeita pressão dos EUA para desacelerar desenvolvimento de IA",
+      "resumo": "Pequim rejeitou apelos de grandes empresas de tecnologia americanas para conter o avanço da IA. China acusa os EUA de usar a estratégia como ferramenta geopolítica.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/09/14/inteligencia-artificial/china-reage-a-pressao-dos-eua-para-desacelerar-desenvolvimento-da-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação e Agentes de IA",
+      "titulo": "Superhuman adquire Fathom para impulsionar trabalho com agentes de IA",
+      "resumo": "Superhuman adquiriu a plataforma de anotações Fathom, que possui mais de 400 mil usuários mensais ativos. Movimento alinha-se à tendência de plataformas de produtividade integrarem agentes autônomos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Modelos e Plataformas de IA",
+      "titulo": "OpenAI resolve problema matemático de 1 milhão de dólares com modelo secreto",
+      "resumo": "OpenAI utilizou um modelo de IA secreto para resolver um dos problemas matemáticos mais famosos (Navier-Stokes). Feito é impressionante mas tem pouco impacto prático para a maioria das pessoas.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Regulação e Segurança de IA",
+      "titulo": "Chefes de grandes labs de IA buscam desacelerar desenvolvimento",
+      "resumo": "Executivos de empresas de IA, incluindo CEO da Anthropic, defendem pausar o avanço acelerado da tecnologia. Proposta visa tornar o desenvolvimento mais seguro e controlado.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/top-ai-labs-want-to-pump-the-brakes",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic abre dados sobre uso indevido global do Claude",
+      "resumo": "Anthropic divulgou relatório detalhado sobre casos de abuso e uso indevido do Claude em escala global. Documento oferece transparência sobre segurança e governança do modelo.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-opens-the-files-on-global-claude-misuse",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Bolsas da Europa fecham em queda diante de temores com IA e petróleo alto",
+      "resumo": "Mercados europeus caíram nesta segunda, pressionados por preocupações com regulação de IA e preços elevados do petróleo. Exceção foi Londres (FTSE 100) que fechou em alta de 0,44%.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-em-queda-diante-de-temores-com-ia-e-petroleo-alto/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ações das Big Tech operam mistas após executivos defenderem desaceleração de IA",
+      "resumo": "As sete maiores empresas de tecnologia (Big Tech) tiveram ações mistas após líderes defenderem pausa no avanço da IA para maior segurança. Movimento impactou sentimento dos investidores.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/14/acoes-tecnologia.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Obrigações Tributárias",
+      "titulo": "Obrigações tributárias que vencem nesta terça (15)",
+      "resumo": "EFD-Contribuições e EFD-Reinf estão entre as obrigações tributárias com prazo de entrega em 15 de setembro. Empresas devem ficar atentas aos prazos para evitar multas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79387/obrigacoes-tributarias-que-vencem-nesta-terca-15/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária: impactos em loteamento e parcelamento do solo",
+      "resumo": "Reforma Tributária traz mudanças nas regras de IBS e CBS que afetam o setor imobiliário. Loteamento e parcelamento do solo sofrem alterações significativas nas novas regras.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79394/reforma-tributaria-loteamento-e-parcelamento-do-solo/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Comitê Gestor do IBS busca parceiros para devolver créditos",
+      "resumo": "Comitê abriu chamamento público para desenvolver sistema de ressarcimento de saldos credores do IBS. Medida facilita que empresas recuperem créditos tributários do novo imposto.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79386/ibs-comite-busca-parceiros-para-devolver-creditos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Split payment não atingirá vendas a pessoas físicas na primeira fase",
+      "resumo": "Primeira fase do split payment será facultativa e voltada apenas a operações entre empresas. Vendas ao consumidor e pagamentos com cartão não estarão inclusos inicialmente.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79382/split-payment-nao-atingira-vendas-a-pessoas-fisicas-e-cartoes-na-primeira-fase/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Simples Nacional: 26 municípios assumem cobrança de débitos em outubro",
+      "resumo": "Convênios permitem que 26 municípios passem a inscrever e cobrar débitos de ISS do Simples Nacional a partir de 1º de outubro de 2026. Mudança centraliza arrecadação em nível municipal.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79384/simples-nacional-26-municipios-assumem-cobranca-de-debitos-em-outubro/",
+      "idioma_original": "pt"
+    }
+  ]
+}
