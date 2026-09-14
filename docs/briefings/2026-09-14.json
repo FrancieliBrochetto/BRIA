@@ -3,137 +3,173 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Regulação e Segurança de IA",
-      "titulo": "Microsoft anuncia regras para desenvolver IA humanista",
-      "resumo": "Microsoft estabeleceu novo código que define que modelos de IA não possuem consciência ou direitos legais. Documento prioriza supervisão humana após incidentes com agentes autônomos.",
+      "subtema": "Automação",
+      "titulo": "O que é AI Slop? Entenda a gíria que vai contra o uso desenfreado de IA",
+      "resumo": "AI Slop refere-se ao conteúdo de baixa qualidade produzido em massa por inteligência artificial, incluindo textos automatizados, imagens bizarras, vídeos e músicas genéricas. O termo ganhou relevância como crítica ao uso indiscriminado de IA sem qualidade ou originalidade.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/microsoft-anuncia-regras-para-desenvolver-uma-ia-humanista/",
+      "url_original": "https://tecnoblog.net/responde/o-que-e-ai-slop-entenda-a-giria-que-vai-contra-o-uso-desenfreado-de-inteligencia-artificial/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Regulação e Segurança de IA",
-      "titulo": "Senador dos EUA propõe prisão para quem criar superinteligência artificial descontrolada",
-      "resumo": "Bernie Sanders apresentou projeto de lei que prevê até 20 anos de prisão para quem criar superinteligência artificial sem respeitar regulações. Proposta busca barrar avanço descontrolado da IA.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/senador-dos-eua-propoe-prisao-para-quem-criar-uma-super-ia/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Modelos e Plataformas de IA",
-      "titulo": "Microsoft integra Grok de Elon Musk no Copilot do Word, Excel e PowerPoint",
-      "resumo": "O modelo Grok agora está disponível como opção entre os modelos de IA no Copilot da Microsoft. Usuários podem escolher Grok ao usar os assistentes integrados nos aplicativos Microsoft 365.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/microsoft-coloca-grok-no-word-excel-e-powerpoint/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Regulação e Segurança de IA",
-      "titulo": "China rejeita pressão dos EUA para desacelerar desenvolvimento de IA",
-      "resumo": "Pequim rejeitou apelos de grandes empresas de tecnologia americanas para conter o avanço da IA. China acusa os EUA de usar a estratégia como ferramenta geopolítica.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/09/14/inteligencia-artificial/china-reage-a-pressao-dos-eua-para-desacelerar-desenvolvimento-da-ia/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação e Agentes de IA",
-      "titulo": "Superhuman adquire Fathom para impulsionar trabalho com agentes de IA",
-      "resumo": "Superhuman adquiriu a plataforma de anotações Fathom, que possui mais de 400 mil usuários mensais ativos. Movimento alinha-se à tendência de plataformas de produtividade integrarem agentes autônomos.",
+      "subtema": "ChatGPT",
+      "titulo": "Microsoft anuncia código de conduta para IA 'humanista'",
+      "resumo": "Microsoft estabeleceu regras que definem que modelos de IA não possuem consciência ou direitos legais, priorizando supervisão humana. O código estabelece princípios como apoiar humanos em vez de substituí-los e implementa restrições de segurança contra hacking e manipulação.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "url_original": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Modelos e Plataformas de IA",
-      "titulo": "OpenAI resolve problema matemático de 1 milhão de dólares com modelo secreto",
-      "resumo": "OpenAI utilizou um modelo de IA secreto para resolver um dos problemas matemáticos mais famosos (Navier-Stokes). Feito é impressionante mas tem pouco impacto prático para a maioria das pessoas.",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI resolve problema matemático famoso de $1 milhão",
+      "resumo": "Um modelo secreto de OpenAI resolveu um dos problemas matemáticos mais famosos da história. A conquista é tecnicamente impressionante, mas tem impacto limitado na vida cotidiana da maioria das pessoas.",
       "fonte": "Stratechery",
       "url_original": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Regulação e Segurança de IA",
-      "titulo": "Chefes de grandes labs de IA buscam desacelerar desenvolvimento",
-      "resumo": "Executivos de empresas de IA, incluindo CEO da Anthropic, defendem pausar o avanço acelerado da tecnologia. Proposta visa tornar o desenvolvimento mais seguro e controlado.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://therundownai.beehiiv.com/p/top-ai-labs-want-to-pump-the-brakes",
-      "idioma_original": "en"
+      "subtema": "ChatGPT",
+      "titulo": "Elon Musk retira ação contra Apple, mas mantém processo contra OpenAI",
+      "resumo": "Empresas de Musk retiraram processo antitruste contra a Apple no Texas. Porém, mantêm ações judiciais focadas na OpenAI, sinalizando disputa contínua com a rival.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/09/14/inteligencia-artificial/musk-retira-processo-contra-apple-mas-mantem-acao-contra-openai/",
+      "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Anthropic abre dados sobre uso indevido global do Claude",
-      "resumo": "Anthropic divulgou relatório detalhado sobre casos de abuso e uso indevido do Claude em escala global. Documento oferece transparência sobre segurança e governança do modelo.",
+      "subtema": "ChatGPT",
+      "titulo": "Gigantes de IA querem desacelerar desenvolvimento; Trump critica como 'conspiração'",
+      "resumo": "CEOs da Anthropic, OpenAI, Google e Musk defendem reduzir o ritmo de desenvolvimento de IA para torná-lo mais seguro. Trump criticou o apelo como 'conspiração doentia' que beneficiaria a China, gerando debate sobre viabilidade da desaceleração.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/14/entenda-se-e-possivel-desacelerar-o-desenvolvimento-da-ia.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Anthropic divulga relatório sobre uso indevido global de Claude",
+      "resumo": "Anthropic abriu arquivos sobre usos irregulares do assistente de IA Claude em diferentes regiões. Relatório visa maior transparência sobre aplicações inadequadas da tecnologia.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/anthropic-opens-the-files-on-global-claude-misuse",
       "idioma_original": "en"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Bolsas da Europa fecham em queda diante de temores com IA e petróleo alto",
-      "resumo": "Mercados europeus caíram nesta segunda, pressionados por preocupações com regulação de IA e preços elevados do petróleo. Exceção foi Londres (FTSE 100) que fechou em alta de 0,44%.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-em-queda-diante-de-temores-com-ia-e-petroleo-alto/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Ações das Big Tech operam mistas após executivos defenderem desaceleração de IA",
-      "resumo": "As sete maiores empresas de tecnologia (Big Tech) tiveram ações mistas após líderes defenderem pausa no avanço da IA para maior segurança. Movimento impactou sentimento dos investidores.",
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Nova York derruba 12 sites de criação de deepfakes sexuais ilegais",
+      "resumo": "Promotoria de Manhattan derrubou plataformas usadas para criar pornografia deepfake não consensual de celebridades. Ação reforça combate a usos criminosos de IA generativa.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/09/14/acoes-tecnologia.ghtml",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/14/nova-york-derruba-sites-usados-para-criar-deepfakes-ilegais-de-famosas.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "iOS 27 traz nova Siri com recursos de IA e maior utilidade",
+      "resumo": "Apple lançou iOS 27 com Siri completamente reformulada e integrada com ferramentas de IA. Atualização busca tornar o assistente mais útil no dia a dia e aumenta adoção da tecnologia por usuários.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/09/14/reviews/ios-27-chega-com-nova-siri-e-varios-recursos-de-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Superhuman adquire plataforma de anotações Fathom em movimento para IA agêntica",
+      "resumo": "Empresa de produtividade Superhuman comprou Fathom, ferramenta de anotação com 400 mil usuários mensais. Aquisição reflete tendência de plataformas abraçarem trabalho autônomo baseado em agentes de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "App Daydream usa Apple Intelligence para transformar fotos de roupas em compras",
+      "resumo": "Com iOS 27, Daydream integrou Apple Intelligence para converter fotos de roupas salvas em resultados de compra pesquisáveis via Siri sem abrir app. Exemplo de uso prático de IA em aplicativos do ecossistema Apple.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Meta lança agente pessoal Muse com potencial transformador",
+      "resumo": "Meta iniciou lançamento de Muse, um agente de IA pessoal que tem potencial para impactar significativamente a vida cotidiana de usuários. Diferencia-se de outras iniciativas por foco em aplicabilidade prática.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Pesquisa impulsionada por agentes de IA dispara na OpenAI",
+      "resumo": "OpenAI expandiu uso de agentes autônomos de IA em projetos de pesquisa interna. Movimento reflete confiança da empresa em capabilidades de IA agêntica para avançar inovação.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/inside-openai-agent-powered-research-boom",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Windows 11 causa falhas em notebooks Lenovo e HP com atualizações recentes",
+      "resumo": "Novas atualizações do Windows 11 geram problemas: dispositivos não reconhecem corretamente som USB Audio Class 1.0 em máquinas de fabricantes como Lenovo e HP. Microsoft ainda não disponibilizou patch oficial.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/windows-11-novas-atualizacoes-causam-falhas-em-notebooks-lenovo-e-hp/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Obrigações Tributárias",
-      "titulo": "Obrigações tributárias que vencem nesta terça (15)",
-      "resumo": "EFD-Contribuições e EFD-Reinf estão entre as obrigações tributárias com prazo de entrega em 15 de setembro. Empresas devem ficar atentas aos prazos para evitar multas.",
+      "subtema": "Imposto de Renda",
+      "titulo": "Justiça afasta retenção de 10% sobre dividendos em decisão inédita",
+      "resumo": "Sentença da Justiça Federal de São Paulo questiona aplicação da retenção integral sobre lucros e dividendos acima de R$ 50 mil mensais. Decisão marca precedente importante em discussão sobre tributação de dividendos.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79387/obrigacoes-tributarias-que-vencem-nesta-terca-15/",
+      "url_original": "https://www.contabeis.com.br/noticias/79392/justica-afasta-retencao-de-10-sobre-dividendos-em-decisao-inedita/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Reforma Tributária: impactos em loteamento e parcelamento do solo",
-      "resumo": "Reforma Tributária traz mudanças nas regras de IBS e CBS que afetam o setor imobiliário. Loteamento e parcelamento do solo sofrem alterações significativas nas novas regras.",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Federal esclarece cálculo de IR em venda de bem de casal",
+      "resumo": "Receita Federal definiu orientação sobre como calcular ganho de capital na venda de bem comum entre casais em comunhão parcial ou universal. Norma busca eliminar dúvidas na declaração de IR.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79394/reforma-tributaria-loteamento-e-parcelamento-do-solo/",
+      "url_original": "https://www.contabeis.com.br/noticias/79391/ibs-receita-esclarece-ir-sobre-venda-de-bem-de-casal/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Comitê Gestor do IBS busca parceiros para devolver créditos",
-      "resumo": "Comitê abriu chamamento público para desenvolver sistema de ressarcimento de saldos credores do IBS. Medida facilita que empresas recuperem créditos tributários do novo imposto.",
+      "subtema": "SPED",
+      "titulo": "STF mantém créditos de ICMS em operações com combustíveis",
+      "resumo": "Supremo Tribunal Federal decidiu que empresas podem manter créditos de ICMS de operações internas anteriores à venda interestadual de combustíveis. Decisão favorece contribuintes neste segmento.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79386/ibs-comite-busca-parceiros-para-devolver-creditos/",
+      "url_original": "https://www.contabeis.com.br/noticias/79396/stf-mantem-creditos-de-icms-em-operacoes-com-combustiveis/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Split payment não atingirá vendas a pessoas físicas na primeira fase",
-      "resumo": "Primeira fase do split payment será facultativa e voltada apenas a operações entre empresas. Vendas ao consumidor e pagamentos com cartão não estarão inclusos inicialmente.",
+      "subtema": "Nota Fiscal",
+      "titulo": "CGIBS abre edital para criar Repositório Nacional de Documentos Fiscais",
+      "resumo": "Comitê abre chamamento para seleção de entidades públicas que desenvolverão módulo centralizador de documentos fiscais eletrônicos e RIBS. Iniciativa visa melhorar gestão de informações fiscais no Brasil.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79382/split-payment-nao-atingira-vendas-a-pessoas-fisicas-e-cartoes-na-primeira-fase/",
+      "url_original": "https://www.contabeis.com.br/noticias/79390/cgibs-abre-chamamento-para-criar-repositorio-nacional/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "eSocial",
+      "titulo": "EFD-Reinf vence amanhã: como informar lucros e dividendos distribuídos",
+      "resumo": "Empresas têm até 15 de setembro para entregar EFD-Reinf de agosto com informações de lucros tributados, isentos e abrangidos pela transição. Orientações técnicas definem como preencher corretamente cada situação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79388/efd-reinf-vence-amanha-como-informar-lucros-e-dividendos-distribuidos/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Simples Nacional: 26 municípios assumem cobrança de débitos em outubro",
-      "resumo": "Convênios permitem que 26 municípios passem a inscrever e cobrar débitos de ISS do Simples Nacional a partir de 1º de outubro de 2026. Mudança centraliza arrecadação em nível municipal.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79384/simples-nacional-26-municipios-assumem-cobranca-de-debitos-em-outubro/",
+      "titulo": "Senado aprova novo marco do seguro rural; texto aguarda sanção presidencial",
+      "resumo": "Senado aprovou projeto que reformula seguro rural com novas vantagens de crédito, prazos para sinistros e mudanças na subvenção e Fundo de Catástrofe. Texto segue para sanção presidencial.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/minhas-financas/senado-aprova-novo-marco-do-seguro-rural-texto-aguarda-sancao-presidencial/",
       "idioma_original": "pt"
     }
   ]
