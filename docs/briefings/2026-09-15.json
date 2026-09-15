@@ -3,128 +3,137 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "IA - Regulação e Impacto",
-      "titulo": "Bill Gates alerta que governos estão despreparados para mudanças causadas por IA",
-      "resumo": "Bill Gates manifestou preocupação com a falta de preparação dos governos para lidar com as transformações que a inteligência artificial pode provocar. O empresário defende que líderes globais precisam se antecipar às mudanças tecnológicas iminentes.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/09/15/inteligencia-artificial/ia-preocupa-bill-gates-que-ve-governos-despreparados-para-mudancas/",
+      "subtema": "Python",
+      "titulo": "Java 27 lançado com foco em criptografia pós-quântica e otimizações para IA",
+      "resumo": "Nova versão do Java 27 introduz recursos avançados de criptografia pós-quântica para aumentar a segurança. Traz também otimizações de desempenho especialmente direcionadas para aplicações de IA.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/java-27-e-lancado-com-foco-em-criptografia-pos-quantica-veja-as-novidades/",
       "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA - Regulação e Impacto",
-      "titulo": "ONU pede ação urgente para regular IA diante de riscos sem precedentes",
-      "resumo": "O alto comissário da ONU para Direitos Humanos alertou que a humanidade está à beira de uma mudança irreversível e pediu ação imediata para regulamentar sistemas avançados de inteligência artificial. A organização destaca os riscos únicos apresentados pela tecnologia.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/15/onu-ia.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Startup Anthropic ex-executivos levanta US$ 40 milhões para controlar agentes de IA descontrolados",
-      "resumo": "A Artificial Intelligence Underwriting Company (AIUC), fundada por ex-executivos da Anthropic, obteve US$ 40 milhões em rodada Series A liderada pela Ribbit Capital. A startup desenvolveu tecnologia para evitar que agentes de IA desonestos causem danos.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "ChatGPT inicia programa de anúncios; Amazon leva publicidade para a plataforma",
-      "resumo": "OpenAI lançou sistema de publicidade no ChatGPT e integrou anúncios da Amazon na plataforma, solucionando um dos principais desafios da empresa com chatbots comerciais. A monetização por publicidade se mostra viável e promissora.",
+      "titulo": "Elon Musk propõe teste cruzado entre modelos de IA antes do lançamento",
+      "resumo": "Elon Musk sugere que empresas de IA dos EUA e China testem modelos concorrentes antes do lançamento para identificar falhas de segurança. Proposta visa melhorar a confiabilidade geral da tecnologia.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/09/15/inteligencia-artificial/elon-musk-quer-rivais-testando-modelos-de-ia-antes-do-lancamento/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI, Anthropic e Google mantêm conversas sobre segurança em IA",
+      "resumo": "OpenAI confirma semanas de diálogos com Anthropic e Google DeepMind sobre medidas de segurança em IA. Discussões ocorrem enquanto equipe de Trump pressiona por menos restrições para competir com China.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/15/openai-anthropic-google-seguranca-ia.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI resolve problema matemático de US$ 1 milhão com modelo secreto",
+      "resumo": "OpenAI resolveu uma das questões matemáticas mais famosas usando seu novo modelo de IA com capacidade de raciocínio complexo. Feito é impressionante tecnicamente, mas com impacto limitado na vida prática das pessoas.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Meta lança Meta One com planos de IA focados para Brasil",
+      "resumo": "Meta One chega ao Brasil oferecendo assinatura com recursos premium de AI para Facebook, Instagram e WhatsApp, com planos a partir de R$ 32/mês até R$ 1.999/mês. Serviço reúne mais de 50 recursos diferenciados.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/meta-one-chega-ao-brasil-com-planos-de-ate-r-1-999-por-mes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "ChatGPT ganha sistema de publicidade com Amazon Ads",
+      "resumo": "OpenAI implementa anúncios no ChatGPT e integra Amazon Ads, resolvendo a maior limitação das buscas por chatbot. Modelo de monetização por publicidade mostra-se eficaz e sustentável.",
       "fonte": "Stratechery",
       "url_original": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Modelos de IA",
-      "titulo": "Salesforce e Nvidia lançam modelo de IA Koa para vendas, marketing e atendimento",
-      "resumo": "Salesforce e Nvidia apresentaram o modelo Koa, construído sobre a base aberta Nemotron da Nvidia e treinado especificamente para tarefas de vendas, marketing e suporte ao cliente. A solução representa uma nova abordagem para aplicações comerciais de IA.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Modelos de IA",
-      "titulo": "Modelo secreto do OpenAI resolve problema matemático clássico de US$ 1 milhão",
-      "resumo": "Um modelo avançado do OpenAI conseguiu solucionar um dos problemas matemáticos mais famosos (Navier-Stokes), algo historicamente considerado extremamente desafiador. A façanha demonstra capacidades impressionantes, mas com aplicação prática limitada no dia a dia.",
+      "subtema": "Automação",
+      "titulo": "Meta lança Muse, agente de IA pessoal com potencial transformador",
+      "resumo": "Meta apresenta Muse, seu agente de IA pessoal que tem potencial para transformar significativamente a vida dos usuários. Lançamento representa avanço importante na aplicação prática de agentes de IA.",
       "fonte": "Stratechery",
       "url_original": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
       "idioma_original": "en"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Câmbio",
-      "titulo": "Dólar cai com julgamento no STF; Ibovespa sobe 0,29%",
-      "resumo": "O dólar inverteu alta e passou a operar em queda de 0,07%, cotado em R$ 5,1437 na terça-feira (15). O Ibovespa avançou 0,29% para 186.041 pontos, com destaque para o julgamento histórico no Supremo Tribunal Federal.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/09/15/dolar-ibovespa.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Mercado Internacional",
-      "titulo": "Tesouro americano atinge maior rendimento em 20 anos; entenda impacto no Brasil",
-      "resumo": "Títulos do Tesouro americano (Treasury) de 10 anos atingiram 5,02%, o maior nível desde 2007. O movimento reflete temores de aceleração da inflação e afeta diretamente a economia brasileira e fluxos de capital externo.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/09/15/rendimento-do-tesouro-americano.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Comércio Internacional",
-      "titulo": "OMC alerta que comércio global vive momento crítico em meio a guerras comerciais",
-      "resumo": "A Organização Mundial do Comércio alertou que o sistema comercial global enfrenta um 'momento crítico' com aumento de disputas comerciais e novas tarifas. A OMC defende reforma das regras que organizam relações comerciais entre países.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/09/15/comercio-global-vive-momento-critico-alerta-omc-em-meio-a-guerras-comerciais-e-novas-tarifas.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Nota Fiscal",
-      "titulo": "NF-e amplia uso dos CFOPs 1.949 e 2.949 em devoluções e retornos",
-      "resumo": "Nota Técnica 2026.009 amplia o uso dos CFOPs 1.949 e 2.949 em notas de crédito por recusa ou não localização do destinatário. A mudança facilita a contabilização de devoluções e retornos de mercadorias.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79410/nf-e-amplia-uso-dos-cfops-1-949-e-2-949-em-devolucoes-e-retornos/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Nota Fiscal",
-      "titulo": "Empresas ganham novo prazo para adequar emissão de NF-e e NFC-e",
-      "resumo": "O prazo para proibir a emissão de NF-e de saída com referência a NFC-e foi prorrogado para 14 de dezembro de 2026 pelo Ajuste SINIEF nº 29/2026. A mudança permite que empresas se adequem à nova norma.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79411/empresas-ganham-novo-prazo-para-adequar-emissao-de-nf-e-e-nfc-e/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "CT-e sofre mudanças com Ajuste SINIEF nº 36/2026 sobre integração de sistemas",
-      "resumo": "Novo ajuste altera dispositivos do Conhecimento de Transporte Eletrônico (CT-e), define mudanças na integração de sistemas e estabelece datas distintas para produção de efeitos. Empresas precisam se adequar às novas obrigações.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79413/o-que-muda-no-ct-e-com-o-ajuste-sinief-no-36-2026/",
-      "idioma_original": "pt"
-    },
-    {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Receita apresenta modelo de cálculo da CBS ao TCU; alíquota será definida até outubro",
-      "resumo": "A Receita Federal enviou modelo de cálculo da Contribuição sobre Bens e Serviços (CBS) ao Tribunal de Contas da União. O TCU tem até 30 de outubro para propor alíquota que entrará em vigor a partir de 2027.",
+      "titulo": "Lula sanciona Redata com redução de impostos para data centers",
+      "resumo": "Presidente Lula sancionou o Regime Especial de Tributação para Serviços de Data Center (Redata). Programa oferece incentivos fiscais reduzindo impostos sobre equipamentos para instalação e ampliação de centros de processamento.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/politica/noticia/2026/09/15/lula-sanciona-programa-que-reduz-impostos-para-instalacao-e-ampliacao-de-data-centers.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Simples Nacional",
+      "titulo": "Empresas têm 15 dias para definir tributação 2027 no Simples Nacional",
+      "resumo": "Prazo até 30 de setembro para decisão sobre permanência no Simples Nacional e recolhimento de IBS e CBS. Escolha vinculará a empresa à tributação de 2027.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79408/receita-apresenta-modelo-de-calculo-da-cbs-ao-tcu-sem-estimar-aliquota/",
+      "url_original": "https://www.contabeis.com.br/noticias/79412/simples-nacional-empresas-tem-15-dias-para-definir-tributacao-de-2027/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "Carf aprova oito súmulas sobre Cide, IOF, IRRF, ITR, IPI e Senar",
-      "resumo": "O Conselho Administrativo de Recursos Fiscais (Carf) aprovou oito súmulas que detalham jurisprudência sobre diversos temas tributários como Cide, IOF, IRRF, ITR, IPI e Senar. As súmulas guiam decisões futuras em casos similares.",
+      "titulo": "STJ vai decidir se gorjetas entram na base do Simples Nacional",
+      "resumo": "STJ julgará em caso repetitivo se gorjetas destinadas aos empregados integram a receita bruta e base de cálculo do Simples Nacional. Tema 1.473 definirá o entendimento aplicável a todos os casos.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79414/carf-aprova-sumulas-sobre-cide-iof-e-outros-temas/",
+      "url_original": "https://www.contabeis.com.br/noticias/79415/stj-vai-definir-em-repetitivo-se-gorjetas-entram-na-base-do-simples-nacional/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "STF valida limite escalonado para compensação de créditos tributários",
+      "resumo": "STF formou maioria mantendo limite escalonado na compensação de créditos tributários judiciais superiores a R$ 10 milhões. Decisão reforça controle sobre compensações de valores elevados.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79417/stf-valida-limite-para-compensacao-de-creditos-tributarios/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "TST reconhece direito a PDV durante aviso-prévio indenizado",
+      "resumo": "Sexta Turma do TST confirmou que trabalhador tem direito de aderir a Plano de Demissão Voluntária durante período de aviso-prévio indenizado. Decisão beneficia trabalhadores em processo de desligamento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79421/tst-reconhece-direito-a-pdv-durante-aviso-previo-indenizado/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Altos índices de automação revolucionam operações contábeis",
+      "resumo": "Avanço da tecnologia e automação contábil estão transformando operações e perspectivas profissionais no mercado contábil brasileiro. Processos automatizados ganham espaço nas operações de empresas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79423/altos-indices-de-automacao-nas-operacoes-contabeis-e-o-futuro-do-mercado/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Bancos recomendam aumentar exposição a ações 'bond proxies'",
+      "resumo": "Instituições financeiras indicam aumento de investimento em ações com menor dependência do ciclo econômico e maior sensibilidade à Selic. Estratégia pode aproveitar eventual ciclo de queda dos juros reais.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/e-hora-de-aumentar-exposicao-a-acoes-bond-proxies-dizem-bancos-veja-preferidas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa sobe com PETR4 e fatores políticos positivos",
+      "resumo": "Bolsa brasileira teve alta impulsionada por Petrobras (PETR4) e ambiente político favorável. Contrasta com queda das bolsas americanas antes de decisão do Fed e alta dos Treasuries.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15092026/",
       "idioma_original": "pt"
     }
   ]
