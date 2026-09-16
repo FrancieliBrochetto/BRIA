@@ -1,0 +1,149 @@
+{
+  "data": "2026-09-16",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI anuncia publicidade no ChatGPT com anúncios da Amazon",
+      "resumo": "OpenAI está implementando anúncios no ChatGPT, incluindo anúncios da Amazon. A medida resolve o maior problema da Amazon com chatbots ao oferecer nova forma de monetização para a plataforma.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Salesforce abandona UI como diferencial com foco em agentes de IA",
+      "resumo": "Salesforce está descontinuando a interface de usuário como seu principal diferencial competitivo, adotando agentes de IA como nova estratégia. A mudança reflete a tendência do mercado de eliminar UI tradicional.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Antropic publica relatório sobre uso indevido global do Claude",
+      "resumo": "Anthropic lançou documentação detalhada sobre casos de uso indevido do Claude em nível global. A iniciativa demonstra o compromisso da empresa com transparência e segurança no uso de modelos de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-opens-the-files-on-global-claude-misuse",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Lider da OpenAI critica proposta de desaceleração de IA",
+      "resumo": "CEO da OpenAI argumenta que mundo deveria confiar nas empresas de IA para desenvolvimento responsável, rejeitando pressões por desaceleração. Antropic, por sua vez, pede cautela no ritmo de desenvolvimento da inteligência artificial.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/16/o-mundo-esta-certo-em-temer-ia-mas-precisa-confiar-nas-empresas-diz-chefe-da-openai.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Startup de ex-chefe da Infosys levanta US$ 53 milhões em série de investimento",
+      "resumo": "Startup de IA fundada por ex-executivo da Infosys capturou múltiplos contratos empresariais de sete dígitos poucos meses após lançamento. Rodada agora totaliza US$ 103 milhões em aportes.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Python",
+      "titulo": "Amazon corrige bug de sideloading no Fire TV após críticas",
+      "resumo": "Atualização acidental do Fire OS desabilitou instalação de apps de fontes externas. Amazon reverteu a mudança após reação negativa da comunidade de desenvolvedores.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/apos-criticas-amazon-reve-restricao-contra-sideloading-no-fire-tv/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Meta expande Threads com ferramentas para podcasters",
+      "resumo": "Threads lança recursos para podcasters incluindo cards de perfil, links de episódios, transcrições, tags de convidados e insights de audiência. Meta busca consolidar plataforma como hub de promoção de podcasts.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "SK Hynix negocia com Intel para produção de chips de memória nos EUA",
+      "resumo": "SK Hynix está em conversas com Intel sobre fabricação de chips de memória nos Estados Unidos. Empresas ainda não finalizaram arranjos oficiais, mas negociações avançam em paralelo a investimentos em infraestrutura.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "XP reduz recomendação de Sanepar para neutra; privatização vista como mais distante",
+      "resumo": "Banco avalia que falta de catalisadores nos próximos 6-12 meses reduz atratividade de SAPR11. Probabilidade de privatização recua, impactando perspectiva de crescimento da empresa.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/sanepar-sapr11-xp-ve-privatizacao-mais-distante-e-corta-recomendacao-para-neutra/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "BofA inicia cobertura de Bradsaúde com recomendação de compra",
+      "resumo": "Bank of America vê em Bradsaúde combinação de resultados defensivos, balanço patrimonial sólido e caminhos confiáveis de crescimento. Banco passa a acompanhar ações da empresa de saúde.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/bofa-inicia-cobertura-da-bradsaude-com-recomendacao-de-compra/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "FIIs",
+      "titulo": "Boom dos FIIs revela avanços e problemas na indústria imobiliária",
+      "resumo": "Expansão acelerada de fundos imobiliários trouxe desenvolvimento importante ao mercado, mas também expôs falhas estruturais. Especialistas apontam necessidade de regulação e melhor padronização.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/o-boom-dos-fiis-quais-os-acertos-da-industria-e-os-erros-no-caminho/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "NF-e: novas regras entram em vigor com Ajuste SINIEF",
+      "resumo": "Ajuste SINIEF determina versão online do MOC no Paraná e dispensa pedido de inutilização em Acre, Bahia e São Paulo. Mudanças simplificam procedimentos de emissão de notas fiscais eletrônicas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79441/nf-e-novas-regras-entram-em-vigor-apos-publicacao-de-ajuste-sinief/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "STJ exclui ICMS-Difal da base de cálculo de PIS e Cofins",
+      "resumo": "Decisão do Tema 1.372 do STJ estabelece que ICMS-Difal não integra base de PIS e Cofins. Empresas devem revisar apurações anteriores e créditos fiscais acumulados.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79436/stj-exclui-icms-difal-da-base-de-calculo-do-pis-e-da-cofins/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Lei 15.371/2026 amplia direitos de licença-paternidade no Brasil",
+      "resumo": "Nova legislação modifica regras de licença-paternidade com impactos em benefícios e direitos trabalhistas. Empresas precisam revisar políticas de RH para adequação à lei.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79450/nova-lei-15-371-2026-entenda-a-licenca-paternidade/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Liminar retira IBS e CBS da base do ICMS durante transição tributária",
+      "resumo": "Justiça de São Paulo autoriza empresa a excluir IBS e CBS da base de ICMS na fase de transição da Reforma Tributária. Decisão beneficia contribuintes durante período de adequação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79438/liminar-retira-ibs-e-cbs-da-base-do-icms/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Cooperativas devem escolher regime de IBS e CBS até outubro",
+      "resumo": "Prazo até 31 de outubro exige que cooperativas optem entre regimes de IBS e CBS, com envio obrigatório de lista de associados. Opção pode ser cancelada até data limite.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79440/cooperativas-devem-escolher-regime-de-ibs-e-cbs-ate-outubro/",
+      "idioma_original": "pt"
+    }
+  ]
+}
