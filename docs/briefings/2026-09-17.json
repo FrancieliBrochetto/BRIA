@@ -1,0 +1,122 @@
+{
+  "data": "2026-09-17",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Google testa remuneração para sites que alimentam ferramentas de IA",
+      "resumo": "Google iniciou testes de pagamento para publishers que contribuem dados para melhorar respostas de suas ferramentas de IA. A iniciativa envolve dezenas de publishers, principalmente sites pequenos e médios.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/09/17/pro/google-testa-remuneracao-para-sites-que-ajudam-suas-ferramentas-de-ia-a-gerar-respostas-mais-uteis/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Jev: novo modelo de IA do cocriador do ChatGPT para decisões em softwares",
+      "resumo": "TypeSafe AI lançou Jev, uma IA criada para classificar dados e tomar decisões rápidas dentro de aplicações sem interface de chat. O modelo foi desenvolvido pelo cocriador do ChatGPT.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/09/17/inteligencia-artificial/conheca-o-jev-nova-ia-do-cocriador-do-chatgpt-que-nao-conversa-e-foi-criada-para-tomar-decisoes-dentro-de-softwares/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Huawei planeja lançamento de chip de IA Ascend 960DT no Q1 2027",
+      "resumo": "Huawei acelerou o cronograma para lançar seu novo chip de IA Ascend 960DT no primeiro trimestre de 2027. A movimentação visa competir com Nvidia e reduzir a lacuna tecnológica entre China e EUA em computação IA.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Pinterest testa recurso 'Restyle' para redesenhar ambientes com IA",
+      "resumo": "Pinterest está testando o Restyle, um recurso de IA que permite aos usuários visualizar móveis, decoração e iluminação em fotos de seus próprios ambientes. A ferramenta busca converter inspirações salvas em compras.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Base Labs lança parceria de segurança em IA aberta com Hugging Face",
+      "resumo": "Base Labs, grupo de pesquisa do Baseten, anunciou parceria com Hugging Face e Goodfire para desenvolver métodos de treinamento e monitoramento de modelos de IA abertos. Foco em segurança de sistemas de IA.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Especialistas de EUA e China propõem segurança de IA semelhante ao setor nuclear",
+      "resumo": "Especialistas de segurança americanos e chineses propõem medidas de segurança para IA comparáveis às do setor nuclear, buscando reduzir riscos de interferência em sistemas críticos de defesa.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/17/especialistas-de-eua-e-china-propoem-para-ia-acoes-de-seguranca-semelhantes-as-do-setor-nuclear.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Regulação",
+      "titulo": "União Europeia anuncia lei rigorosa para proteger crianças em redes sociais e IA",
+      "resumo": "A UE apresentou proposta de lei com limites rígidos de idade para acesso de menores a redes sociais, videogames e assistentes de IA. Empresas deverão garantir segurança das plataformas antes do uso por menores.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/17/o-que-mudaria-na-uniao-europeia-com-a-nova-lei-sobre-criancas-e-redes-sociais.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Selic cai pela 5ª vez para 13,75% ao ano, mas não garante alta de FIIs",
+      "resumo": "O Copom reduziu a Selic em 0,25 ponto percentual para 13,75% ao ano. Especialistas indicam que o corte não necessariamente elevará os FIIs, devido a outros fatores de mercado.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/selic-cai-pela-5a-vez-mas-corte-nao-garante-alta-dos-fiis-veja-por-que/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "ETFs ganham 140 mil investidores em 2026 e totalizam 862 mil CPFs",
+      "resumo": "Os ETFs atraíram 140 mil novos investidores no ano, alcançando 862 mil CPFs. A renda variável como um todo ganhou 200 mil investidores, enquanto renda fixa cresceu 2 milhões de CPFs.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/etfs-ganham-140-mil-investidores-no-ano-e-ja-somam-862-mil-cpfs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "XP: eventual desaceleração de inovação em IA não representa pausa no desenvolvimento",
+      "resumo": "Analistas da XP apontam que reduzir velocidade de inovação em IA está ligado à disponibilização de novos modelos ao público, não ao avanço tecnológico em si.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/xp-eventual-desaceleracao-da-inovacao-em-ia-nao-significa-pausa-no-desenvolvimento/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Tributária",
+      "titulo": "Receita esclarece regra para variação cambial de serviços prestados ao exterior",
+      "resumo": "Solução de Consulta Cosit nº 150/2026 define quando receitas de variação cambial em serviços ao exterior são consideradas de origem estrangeira e como entram no cálculo do limite de faturamento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79468/receita-esclarece-regra-para-variacao-cambial-de-servicos-ao-exterior/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Simples Nacional",
+      "titulo": "Simples Nacional: critérios técnicos e operacionais para recomendação do regime",
+      "resumo": "Contadores devem analisar faturamento, CNAEs, Fator R e regras societárias antes de recomendar o Simples Nacional. Artigo detalhado sobre critérios técnicos e operacionais da escolha.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79474/simples-nacional-o-que-contador-precisa-saber-antes-de-recomendar-o-regime/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Tributária",
+      "titulo": "STF derruba cobrança dupla de IPVA em São Paulo",
+      "resumo": "Decisão do STF em ação da CNC proíbe nova cobrança de IPVA em São Paulo sobre veículos de locadoras já tributados em outro estado no mesmo ano.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79466/stf-derruba-cobranca-dupla-de-ipva/",
+      "idioma_original": "pt"
+    }
+  ]
+}
