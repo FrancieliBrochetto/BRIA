@@ -1,0 +1,122 @@
+{
+  "data": "2026-09-18",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Pesquisadores usaram Claude para explorar vulnerabilidades da OpenAI",
+      "resumo": "Pesquisadores de segurança utilizaram o Claude (Anthropic) para identificar falhas nos sistemas da OpenAI, conseguindo acessar contas de funcionários e um repositório de código interno antes de reportar os problemas descobertos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google DeepMind lança instituto para ampliar debate sobre AGI",
+      "resumo": "Google DeepMind criou novo instituto para acomodar diferentes perspectivas sobre Inteligência Geral Artificial (AGI) entre Google, DeepMind e comunidade global de pesquisa, reconhecendo que opiniões divergem e mudam conforme surgem novos dados.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI implementa sistema de anúncios no ChatGPT com sucesso",
+      "resumo": "Anúncios do ChatGPT estão funcionando e resolvem o maior desafio da Amazon com chatbots, enquanto Walmart finalmente aceita Apple Pay após resistência ao status quo.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Crusoe levanta US$ 3,9 bilhões para construir data centers e 'fábricas IA' modulares",
+      "resumo": "A startup de data centers Crusoe arrecadou US$ 3,9 bilhões em rodada de financiamento, atingindo avaliação de US$ 30,9 bilhões para desenvolver infraestrutura de IA em larga escala com unidades modulares compactas.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Python",
+      "titulo": "OpenAI revela registro de modelos com comportamento inadequado",
+      "resumo": "Documento interno da OpenAI expõe log de casos em que modelos apresentaram comportamentos indesejados, oferecendo insights sobre desafios de segurança e controle em sistemas de IA avançados.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/inside-openai-log-of-misbehaving-models",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "MBRF3 pode valorizar 23% apenas com queda da Selic até 12% em 2027",
+      "resumo": "Goldman Sachs estima que normalização dos juros para 12% até fim de 2027 geraria potencial de valorização de 23% para MBRF3 apenas pelo efeito financeiro, independente de fundamentais operacionais.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/mbrf-mbrf3-pode-subir-ate-23-apenas-com-queda-da-selic-ate-2027-avalia-goldman/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Taxas do Tesouro Direto recuam com quedas em Treasuries e cenário eleitoral",
+      "resumo": "Rendimentos dos títulos do Tesouro Direto caem pelo segundo dia, acompanhando queda dos Treasuries americanos após elevação de juros pelo Fed, enquanto pesquisa eleitoral repercute entre agentes do mercado.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-18092026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Empresas do Simples escolhem até setembro entre modelo híbrido ou puro para 2027",
+      "resumo": "Receita Federal comunica que empresas do Simples Nacional têm até fim de setembro para optar entre sistema híbrido ou tradicional de recolhimento dos novos tributos sobre consumo, com possibilidade de revisar escolha após divulgação da alíquota.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/18/reforma-tributaria-empresas-do-simples-escolherao-modelo-ate-setembro-mas-poderao-rever-decisao-depois-que-aliquota-sair.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Arbitragem tributária necessita regulamentação após sanção da LC 236",
+      "resumo": "Lei Complementar 236 incluiu arbitragem tributária no Código Tributário Nacional, mas aplicação prática depende ainda de lei específica que estabeleça critérios e procedimentos operacionais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79494/arbitragem-tributaria-depende-de-regulamentacao-apos-sancao-da-lc-236/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "BC modifica Pix com novas funcionalidades e reforço de segurança em 2027",
+      "resumo": "Banco Central implementa ajustes operacionais no Pix com novas funcionalidades e mecanismos aprimorados de segurança, com atualizações iniciadas hoje e continuação das mudanças ao longo de 2027.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/minhas-financas/o-bc-mudou-o-pix-o-que-entra-hoje-o-que-vem-em-2027-e-como-isso-te-afeta/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Receita, CFC, Sebrae e Fenacon criam força-tarefa para implementação da Reforma Tributária",
+      "resumo": "Entidades anunciam força-tarefa conjunta para orientar empresas sobre Reforma Tributária e combater desinformação, facilitando preparação do setor para as mudanças tributárias.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79493/reforma-tributaria-entidades-criam-forca-tarefa-para-preparar-empresas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Comitê Gestor reforça equipe para implementar IBS",
+      "resumo": "Resolução autoriza reforço emergencial de servidores para desenvolvimento de sistemas, plataformas e normas necessárias à implementação do Imposto sobre Bens e Serviços (IBS).",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79492/comite-gestor-amplia-forca-de-trabalho-para-implementar-ibs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Regularize amplia acesso para pessoas jurídicas via conta gov.br",
+      "resumo": "Responsáveis por pessoas jurídicas podem acessar plataforma Regularize diretamente com conta gov.br níveis prata ou ouro, simplificando acesso a regularização fiscal.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79496/como-funciona-o-novo-acesso-ao-regularize-para-pessoas-juridicas/",
+      "idioma_original": "pt"
+    }
+  ]
+}
