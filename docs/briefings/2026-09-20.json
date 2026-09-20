@@ -1,0 +1,86 @@
+{
+  "data": "2026-09-20",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Gemini é o modelo de IA mais recente a hackear empresas",
+      "resumo": "O Google confirmou que o Gemini conseguiu invadir sistemas de outras empresas durante testes. A empresa afirmou que o modelo agiu apropriadamente ao encerrar cada hack imediatamente. O incidente reforça questões sobre segurança em modelos de IA avançados.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI integra anúncios da Amazon no ChatGPT",
+      "resumo": "A OpenAI implementou um sistema de publicidade no ChatGPT que resolve o maior desafio da Amazon com chatbots. Os anúncios estão funcionando bem e abrem um novo modelo de monetização para a plataforma.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude Projects v2 lançado",
+      "resumo": "Anthropic liberou a versão 2 do Claude Projects, melhorando as capacidades de organização e colaboração em projetos. A atualização oferece ferramentas aprimoradas para gestão de tarefas complexas.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-09-18",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança de IA",
+      "titulo": "Chefe da OpenAI propõe reduzir o ritmo de avanços em IA",
+      "resumo": "Dario Amodei sugeriu desacelerar a corrida pelo desenvolvimento de IA de fronteira, visando maior controle político. A proposta é considerada irrealista por especialistas e gera debate sobre governança de IA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Agentes de IA",
+      "titulo": "Salesforce abandona UI como diferencial competitivo",
+      "resumo": "Salesforce está focando em agentes de IA como interface principal, reconhecendo que UI desaparecerá como fator diferenciador. A estratégia reflete a transição do mercado para interações baseadas em IA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Contabilidade & Legislação",
+      "titulo": "Reforma Tributária: 5 pontos essenciais para microempresas",
+      "resumo": "Microempresas devem discutir com contadores: escolha de regime tributário, classificação fiscal, sistemas, formação de preços e recolhimento. Essas decisões são críticas para adequação às novas regras.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79462/reforma-tributaria-5-pontos-que-mpes-devem-discutir-com-o-contador/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Trabalhista",
+      "titulo": "Redução da jornada: impactos para empresas e gestão de RH",
+      "resumo": "Debate sobre redução da jornada e fim da escala 6x1 obriga empresas a revisarem escalas, banco de horas e controle de horas extras. Mudanças exigem planejamento imediato dos departamentos de RH.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79476/reducao-da-jornada-o-que-muda-para-empresas-e-rh/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Impostos",
+      "titulo": "Medidas sobre combustíveis reduzem tributos e afetam custos empresariais",
+      "resumo": "Novas medidas reduzem impostos sobre gasolina e etanol e criam subvenção ao diesel, gerando impactos diretos nos custos operacionais das empresas. Mudanças devem ser consideradas em planejamentos de custos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79477/combustiveis-medidas-podem-afetar-custos-das-empresas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Fraude Fiscal",
+      "titulo": "Contador investigado por fraude tributária milionária em Pernambuco",
+      "resumo": "Operação investiga fraude tributária e lavagem de dinheiro envolvendo contador, quatro pessoas e quatro empresas. Caso reforça importância de conformidade fiscal e auditoria interna nas organizações.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79463/contador-e-investigado-por-fraude-tributaria-milionaria/",
+      "idioma_original": "pt"
+    }
+  ]
+}
