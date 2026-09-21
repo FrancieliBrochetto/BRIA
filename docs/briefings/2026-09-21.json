@@ -1,0 +1,131 @@
+{
+  "data": "2026-09-21",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google lança Googlebook com Android e Gemini integrado",
+      "resumo": "Google anuncia a linha Googlebook, notebooks com sistema Android e recursos avançados de IA integrados com Gemini. Os dispositivos custam a partir de US$ 899 e trazem IA nativa acoplada ao cursor, ditado e widgets da experiência desktop.",
+      "fonte": "Olhar Digital / TechCrunch",
+      "url_original": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Regulação e Privacidade",
+      "titulo": "Google recebe multa de 403 milhões de euros por coleta de dados de localização",
+      "resumo": "Órgão de proteção de dados da Irlanda multou o Google em 403 milhões de euros por violação de regras europeias de privacidade. A cobrança refere-se à coleta de dados de localização realizada entre 2018 e 2020 sem consentimento adequado.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/google-leva-multa-de-403-milhoes-de-euros-por-coletar-dados-de-localizacao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI implementa publicidade no ChatGPT com anúncios da Amazon",
+      "resumo": "OpenAI iniciou exibição de anúncios no ChatGPT, com Amazon como primeiro anunciante. A medida resolve o maior problema das plataformas chatbot para monetização e parece estar funcionando bem.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic lança Claude Projects v2 com novas funcionalidades",
+      "resumo": "Anthropic anunciou a versão 2 do Claude Projects, trazendo melhorias em organização e funcionalidades para fluxos de trabalho colaborativos.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-09-18",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Pesquisa: 52% dos brasileiros temem avanço da IA, acima da média global",
+      "resumo": "Estudo do Pew Research Center mostra que 52% dos brasileiros estão preocupados com avanço da IA, acima da mediana global de 37%. Quanto ao trabalho, 42% dos brasileiros temem perda de empregos por automação.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/21/brasileiros-ia-temem.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "AMD atinge marca histórica de US$ 1 trilhão em valor de mercado",
+      "resumo": "Advanced Micro Devices ultrapassou pela primeira vez a marca de US$ 1 trilhão em capitalização. Avanço é impulsionado pela expectativa de crescimento no mercado de computação voltada à inteligência artificial.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/21/amd-entra-para-grupo-de-fabricantes-de-chips-avaliadas-em-us-1-trilhao.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "CEO da Acer prevê queda nos preços de PCs a partir de 2027",
+      "resumo": "Jason Chen, CEO da Acer, projeta aumento de preços de computadores até fim de 2026, mas antecipa tendência de queda no segundo semestre de 2027.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/luz-no-fim-do-tunel-ceo-da-acer-preve-queda-nos-precos-de-pcs-em-2027/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Itaú e Bradesco são favoritos do BofA entre bancos brasileiros",
+      "resumo": "Bank of America vê valuations atraentes no setor financeiro brasileiro e recomenda Itaú e Bradesco como favoritos, enquanto posiciona-se com cautela no Banco do Brasil. Seletividade é aconselhada às vésperas das eleições.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/itau-e-bradesco-sao-favoritos-do-bofa-entre-bancos-brasileiros-bb-fica-para-tras/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar recua com fraqueza global e cenário político incerto",
+      "resumo": "Dólar registrou recuo acompanhando enfraquecimento da moeda norte-americana no exterior. Movimento ocorre em cenário de novo empate técnico entre Lula e Flávio nas pesquisas.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-21092026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Federal muda regras de IRPJ e CSLL para hospitais e instituições financeiras",
+      "resumo": "Receita Federal alterou normas de tributação para serviços hospitalares e perdas de créditos de instituições financeiras, afetando cálculos de IRPJ e CSLL.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79533/receita-muda-regras-para-hospitais-e-instituicoes-financeiras/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Receita Federal adota regra da OCDE para incentivos fiscais de multinacionais",
+      "resumo": "Instrução Normativa RFB 2.342/2026 implementa regra da OCDE para incentivos ligados a gastos e produção no cálculo de tributação mínima de grandes multinacionais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79527/receita-adota-regra-da-ocde-para-incentivos-fiscais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Banco Central altera regras do Pix com novas medidas de segurança",
+      "resumo": "BC atualizou normativos do Pix incluindo mudanças em cobrança híbrida, contas-salário, suspeitas de fraude e participação de instituições financeiras.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79526/bc-altera-regras-do-pix-e-amplia-medidas-de-seguranca/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "MEI tem até 30 de setembro para negociar dívidas na PGFN",
+      "resumo": "Prazo para Microempreendedores Individuais aderirem à negociação de dívidas junto à Procuradoria-Geral da Fazenda Nacional encerra em 30 de setembro às 19h. Programa oferece descontos e parcelamentos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79523/mei-prazo-para-negociar-dividas-na-pgfn-acaba-dia-30/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "TST define Tema 88 sobre limbo previdenciário e impacta relações trabalhistas",
+      "resumo": "Tribunal Superior do Trabalho estabelece entendimento sobre Tema 88 referente ao limbo previdenciário, afetando direitos de empregados e obrigações das empresas em situações de transição previdenciária.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79534/tema-88-do-tst-entenda-o-limbo-previdenciario/",
+      "idioma_original": "pt"
+    }
+  ]
+}
