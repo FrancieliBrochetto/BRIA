@@ -1,0 +1,167 @@
+{
+  "data": "2026-09-22",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Bancos alertam sobre riscos de fraudes em compras feitas por IA",
+      "resumo": "Instituições financeiras alertam para aumento de riscos de golpes, fraudes e vazamento de dados com o uso de agentes de IA para compras online. Sistemas de IA autônomos podem comprometer a privacidade e segurança dos usuários. Bancos defendem maior transparência e proteção de dados.",
+      "fonte": "Olhar Digital / G1 Economia",
+      "url_original": "https://olhardigital.com.br/2026/09/22/seguranca/bancos-fazem-alerta-sobre-novos-riscos-de-fraudes-em-compras-feitas-por-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "ONU alerta que IA supera capacidade humana de entendê-la",
+      "resumo": "Secretário-geral da ONU comparou os riscos da inteligência artificial aos das armas nucleares. Pediu cooperação internacional para estabelecer limites à tecnologia de IA. A organização defende que o avanço está deixando os humanos para trás.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/09/22/inteligencia-artificial/estao-ficando-cegos-onu-alerta-que-avanco-da-inteligencia-artificial-supera-capacidade-humana-de-entende-la/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude Projects v2 e integração com Cowork anunciados",
+      "resumo": "Anthropic avança Claude Projects para versão 2 e anuncia integração com plataforma Cowork. ChatGPT também lança programa de agentes patrocinados. Atualizações reforçam capacidades de automação e colaboração.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-09-18",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI enfrenta vulnerabilidade de segurança",
+      "resumo": "OpenAI relatou incidente de segurança onde a plataforma foi alvo de ataque, invertendo seu histórico de segurança. Empresa divulga log interno de modelos com comportamento inadequado. Incidente reforça importância de segurança em sistemas de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-goes-from-hacker-to-hacked",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google lança agente familiar e Gemini 3.8 Live",
+      "resumo": "Google apresenta agente de IA para gerenciar tarefas familiares e atualiza Gemini para versão 3.8 Live com conversas mais naturais. Ferramentas buscam integrar IA no cotidiano dos usuários.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-09-18",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Amazon bloqueia Muse do Meta; estratégia de moat via investimentos físicos",
+      "resumo": "Amazon bloqueou acesso ao Muse, agente de IA do Meta, na plataforma. Estratégia revela como investimentos físicos do Amazon funcionam como moat competitivo em mercado de IA. Discussão sobre dinâmica entre gigantes de tecnologia.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Nscale busca IPO testando apetite por apostas concentradas em IA",
+      "resumo": "Desenvolvedora britânica de data centers para IA prepara IPO, dependendo de Microsoft e Anthropic como principais clientes. Oferta testa confiança de Wall Street em empresas focadas em infraestrutura de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Arquiteto de Apple Stores questiona aposta em compras por IA",
+      "resumo": "Ron Johnson, criador das lojas Apple, argumenta que segredo do sucesso de Apple é seu povo, não automação por IA. Critica visão do Vale do Silício sobre futura de compras automatizadas.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Salesforce adota agentes de IA como UI, abandona interface como moat",
+      "resumo": "Salesforce abandona interface de usuário como diferencial competitivo, adotando agentes de IA headless. Movimento reconhece que UI tradicional desaparece para todos no mercado. Estratégia de corrida para IA sem interface.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Bolsa cai com queda de VALE3 e bancos; PETR4 oscila",
+      "resumo": "Ibovespa recua impulsionado pela queda de ações da Vale e setor bancário. Petrobras oscila em sessão de volatilidade. Bolsas americanas avançam apesar da nova queda do petróleo.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-22092026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Receita e Arrecadação",
+      "titulo": "Arrecadação federal atinge recorde de R$ 235,6 bilhões em agosto",
+      "resumo": "Receita Federal registrou arrecadação de R$ 235,6 bilhões em agosto, maior valor para o mês. Crescimento real de 8,25% em relação ao ano anterior, impulsionado pelo setor de petróleo. No acumulado Jan-Ago: crescimento de 7,12% acima da inflação (R$ 2,112 trilhões).",
+      "fonte": "G1 Economia / InfoMoney",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/22/arrecadacao-federal-soma-r-235-bilhoes-em-agosto-recorde-para-o-mes.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "JBS aprova pedido de fechamento de capital da subsidiária brasileira",
+      "resumo": "JBS S.A. aprovou cancelamento de registro de companhia aberta na CVM. Empresa passará a ter capital fechado, mas grupo mantém listagem na B3 via JBS N.V. Operação não retira grupo da bolsa brasileira.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/22/operacoes-da-jbs-na-bolsa-de-valores-do-brasil.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Vale compra 30% de mineradora por R$ 975 milhões e expande ferro no Pará",
+      "resumo": "Vale adquiriu 30% da Ligga S.A. por aproximadamente US$ 190 milhões (R$ 975 mi). Inclui contrato de longo prazo para comprar 100% do minério de ferro sinter feed. Operação amplia acesso a recursos em Carajás, no Pará.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/22/vale-compra-ferro.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Crédito",
+      "titulo": "XP vê desaceleração no crédito imobiliário como temporária",
+      "resumo": "XP Investimentos avalia que freada nas aprovações de crédito imobiliário é temporária, não estrutural. Casa mantém aposta em financiamento habitacional e segmento de baixa renda.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/xp-ve-freada-no-credito-imobiliario-como-temporaria-e-mantem-aposta-em-baixa-renda/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Reeleição de Lula já está precificada na bolsa brasileira",
+      "resumo": "Gestora americana Global X avalia que cenário de reeleição de Lula já está refletido nos preços. Cenário é tido como \"cara ou coroa\"; Congresso com Centrão limitaria agenda do PT, enquanto vitória da oposição abriria espaço para alta mais forte.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/reeleicao-de-lula-ja-esta-no-preco-da-bolsa-brasileira-avalia-gestora-americana/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "DeRE amplia limite de contas nos eventos D-1011 e D-1101",
+      "resumo": "Receita Federal e CGIBS atualizaram arquivos XSD da Demonstração de Resultado (DeRE) para empresas piloto da Produção Restrita. Novos limites de contas entram em vigor a partir de 22 de setembro.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79548/dere-amplia-limite-de-contas-nos-eventos-d-1011-e-d-1101/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita abre consulta ao lote residual do IRPF 2026",
+      "resumo": "Consulta ao lote residual do IRPF 2026 abre nesta quarta (23), com 412 mil restituições. Crédito bancário previsto para 30 de setembro.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79550/receita-abre-consulta-ao-lote-residual-do-irpf-2026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita auditará 10,1 mil PER/DCOMP de PIS e Cofins",
+      "resumo": "Nova equipe da Receita Federal analisará 10.156 pedidos e declarações de compensação de PIS/Pasep e Cofins. Documentos foram selecionados pelo órgão para auditoria.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79546/receita-auditara-10-1-mil-per-dcomp-de-pis-e-cofins/",
+      "idioma_original": "pt"
+    }
+  ]
+}
