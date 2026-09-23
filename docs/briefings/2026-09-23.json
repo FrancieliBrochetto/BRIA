@@ -1,0 +1,122 @@
+{
+  "data": "2026-09-23",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI expande GPT-6 com modelos Sol e Luna",
+      "resumo": "OpenAI lançou os modelos GPT-6 Sol e GPT-6 Luna, expandindo a linha GPT-6. Os novos modelos trazem menor custo e foco em diferentes níveis de complexidade em relação ao GPT-6 Astra.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/openai-expande-gpt-6-com-modelos-sol-e-luna-vejas-as-diferencas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "YouTube cria feeds personalizados com IA",
+      "resumo": "YouTube permite aos usuários criar feeds próprios na página inicial usando Gemini. Recurso chega ao celular e desktop em outubro, permitindo descrever temas desejados em linguagem natural.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/youtube-vai-deixar-voce-criar-feeds-proprios-na-pagina-inicial/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "YouTube lança ferramentas IA para criadores de conteúdo",
+      "resumo": "YouTube adicionou novos recursos IA no Studio app para gerar ideias de conteúdo e monitorar performance de thumbnails. Novas funcionalidades facilitam criação e análise de vídeos.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Spotify oferece controle de recomendações com Taste Profile",
+      "resumo": "Spotify lançou Taste Profile para usuários Premium nos EUA. Recurso permite visualizar como o algoritmo entende preferências musicais e usar linguagem natural para customizar recomendações.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Trump e Xi discutem segurança em IA",
+      "resumo": "Trump e Xi conversam sobre criação de canal para incidentes de IA entre EUA e China. Discussão aborda segurança tecnológica, mas frear desenvolvimento permanece improvável.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/09/23/inteligencia-artificial/trump-e-xi-podem-criar-canal-para-incidentes-de-ia-mas-frear-desenvolvimento-e-improvavel/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Ambições da China em IA crescem em infraestrutura de data centers",
+      "resumo": "China investe em infraestrutura de IA em Ulanqab, Mongólia Interior, com data centers alimentando plataformas locais. Investimento estratégico durante conversas comerciais com EUA.",
+      "fonte": "G1",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/23/as-ambicoes-da-china-com-ia-em-meio-as-conversas-de-trump-com-xi.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar avança ante real com pesquisa eleitoral e Fed no radar",
+      "resumo": "Dólar sobe contra o real em dia de divulgação de pesquisa eleitoral. Pesquisa Atlas/Bloomberg mostra Lula numericamente à frente de Flávio Bolsonaro em eventual segundo turno.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-23092026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Atividade empresarial nos EUA atinge máxima em 5 anos",
+      "resumo": "PMI dos EUA alcançou 58,4, indicando máxima de 5 anos na atividade de manufatura e serviços. Pressões inflacionárias aumentam conforme economia acelera.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/economia/atividade-empresarial-nos-eua-tem-maxima-em-5-anos-pressoes-inflacionarias-aumentam/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Siscomex terá parada programada para manutenção",
+      "resumo": "Portal Único Siscomex ficará indisponível no sábado (26) das 14h às 18h para manutenção programada. Diversos sistemas afetados pela parada.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79588/siscomex-tera-parada-programada-neste-sabado-26/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Federal libera lote residual do IRPF 2026",
+      "resumo": "Receita Federal disponibiliza consulta ao lote residual do IRPF 2026 nesta quarta (23). Pagamento de R$ 1,26 bilhão será realizado em 30 de setembro.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79591/receita-libera-hoje-23-lote-residual-do-irpf-2026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Confaz autoriza parcelamento de ICMS com desconto de até 95%",
+      "resumo": "Piauí e Rio de Janeiro autorizam parcelamento de ICMS em até 60 vezes com descontos de até 95%. Mato Grosso amplia anistia por falhas formais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79589/confaz-autoriza-parcelamento-de-icms-com-desconto-de-ate-95/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Balanço de opções pelo Simples Nacional e regime regular do IBS/CBS",
+      "resumo": "Até 18 de setembro foram registradas 181.172 solicitações pelo Simples Nacional e 165.034 pelo regime regular do IBS e CBS. Reforma tributária em andamento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79587/divulgado-balanco-de-opcoes-pelo-simples-e-regime-regular-do-ibs-cbs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "CNDT esclarece quais processos trabalhistas aparecem na certidão",
+      "resumo": "Explica funcionamento da Certidão Negativa de Débitos Trabalhistas (CNDT). Documento importante para empresas verificarem débitos trabalhistas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79600/cndt-todo-processo-trabalhista-aparece-na-certidao/",
+      "idioma_original": "pt"
+    }
+  ]
+}
