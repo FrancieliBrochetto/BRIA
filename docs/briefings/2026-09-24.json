@@ -3,137 +3,119 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Toyota treina funcionários para ensinar robôs a executar funções",
-      "resumo": "Montadora japonesa investirá US$ 6,4 bilhões por ano em automação a partir de 2028. Estratégia de treinamento busca garantir transição suave sem substituição de trabalhadores.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/funcionarios-da-toyota-treinam-robos-para-executar-suas-funcoes/",
+      "subtema": "IA e Computação",
+      "titulo": "Google lança satélite com IA para testar computação no espaço",
+      "resumo": "Google vai lançar satélite em 1º de outubro para avaliar efeitos da radiação, temperatura e sistema de resfriamento em chips de IA. O protótipo integra o Projeto Suncatcher e pode transformar o futuro dos centros de dados.",
+      "fonte": "Tecnoblog / Olhar Digital",
+      "url_original": "https://tecnoblog.net/noticias/google-vai-lancar-satelite-com-ia-para-testar-computacao-no-espaco/",
       "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Google (Gemini, Fotos, etc)",
+      "titulo": "Google Photos lança closet virtual com IA em Android e iOS",
+      "resumo": "Recurso inspirado em 'Sem Modéstia' constrói um guarda-roupa virtual a partir de suas fotos. Está disponível em ambas plataformas após lançamento piloto no Android em junho.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Claude descobre novo sistema de enzimas com aplicações potenciais",
-      "resumo": "IA da Anthropic analisou aproximadamente 200 mil enzimas em 21 horas usando 950 agentes. Descoberta marca primeiro avanço significativo do laboratório de biologia com IA.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/anthropic-diz-ter-descoberto-novo-sistema-de-enzimas-com-o-claude/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Google integra criação de imagens, vídeos e tradução com IA no Workspace",
-      "resumo": "Google anuncia Google Pics, Gemini Omni, tradução no Meet e Sheets Canvas para criar e editar conteúdos. Recursos chegam aos apps do Workspace com foco em automação criativa.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/09/24/pro/google-leva-criacao-de-imagens-videos-e-traducao-com-ia-para-dentro-dos-apps-do-workspace/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Austrália investiga se OpenAI violou lei ao invadir website governamental",
-      "resumo": "Primeiro caso conhecido de breach em agência governamental australiana. Primeiro-ministro promete responsabilização da OpenAI pelos danos causados.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "titulo": "Laboratório de biologia da Anthropic faz primeira descoberta",
+      "resumo": "Anthropic anuncia primeira descoberta de seu laboratório de IA dedicado à biologia. O avanço marca progresso em aplicações práticas de IA na pesquisa científica.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-ai-biology-lab-makes-its-first-find",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Ando levanta US$ 20 milhões para criar plataforma de mensagens para humanos e agentes de IA",
-      "resumo": "Startup recebeu investimento de Accel, Index Ventures e Emergence. Plataforma visa competir com Slack integrando colaboração entre pessoas e agentes de IA.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+      "subtema": "ChatGPT e OpenAI",
+      "titulo": "OpenAI sofre ataque e expõe histórico de modelos problemáticos",
+      "resumo": "Companhia teve violação de segurança e um arquivo interno de modelos com comportamento inadequado foi revelado. Incidente marca mudança de papel de OpenAI em segurança tecnológica.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-goes-from-hacker-to-hacked",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Python",
-      "titulo": "Qualcomm agora oferece suporte oficial ao Linux em computadores Snapdragon X2",
-      "resumo": "Após Windows, Qualcomm expande compatibilidade de seus chips para o sistema operacional Linux. Movimento abre novas possibilidades para desenvolvimento em plataforma open-source.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/depois-do-windows-qualcomm-agora-aposta-no-linux/",
-      "idioma_original": "pt"
+      "subtema": "Automação e Novas Ferramentas",
+      "titulo": "Meta lança Muse Charm: IA em formato de acessório de bolsa",
+      "resumo": "Novo gadget Meta com aparência de Tamagotchi representa tendência Gen Z de transformar dispositivos em acessórios fashion. Combina tecnologia retro com inteligência artificial moderna.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Google testa chips de IA no espaço com satélite protótipo",
-      "resumo": "Projeto Suncatcher investigará se satélites podem abrigar infraestruturas de processamento de IA em grande escala. Primeiro teste em órbita será lançado na próxima semana.",
+      "subtema": "Automação e Novas Ferramentas",
+      "titulo": "Amazon bloqueia Muse do Meta em sua plataforma",
+      "resumo": "Amazon impediu integração do assistente IA Muse da Meta. Estratégia defensiva reflete competição acirrada entre gigantes de tecnologia.",
+      "fonte": "The Rundown AI / Stratechery",
+      "url_original": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação e Novas Ferramentas",
+      "titulo": "ElevenLabs discute transparência em IA de voz para atendimento",
+      "resumo": "CEO da ElevenLabs argumenta que empresas devem informar clientes quando estão falando com assistentes IA. Posição reflete debate sobre ética e transparência em automação de atendimento.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Treasuries e Câmbio",
+      "titulo": "Treasuries sobem para 5,11% e impactam retorno esperado no Brasil",
+      "resumo": "Taxa de títulos americanos de 10 anos volta a subir, elevando o retorno mínimo exigido de todos os investimentos globais. Especialistas divergem sobre prazo mas identificam oportunidades para quem tem capital disponível.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/treasuries-disparam-de-novo-como-afeta-o-brasil-e-o-que-fazer-agora/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Política Monetária",
+      "titulo": "BC alerta sobre ofertas 'agressivas e predatórias' de crédito",
+      "resumo": "Gabriel Galípolo, presidente do Banco Central, manifesta preocupação com práticas de concessão de crédito que levam consumidores a assumir dívidas acima da capacidade de pagamento. Instituição intensifica vigilância sobre proteção ao consumidor.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/24/google-testa-chips-de-ia-no-espaco.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Lovable ultrapassa US$ 600 milhões em receita anualizada com 'vibe coding'",
-      "resumo": "Plataforma de desenvolvimento com IA registra crescimento acelerado. Apps criados na plataforma acumulam quase um bilhão de visualizações mensais.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Imposto de Renda",
-      "titulo": "Projeto amplia isenção de IR na bolsa para vendas de até R$ 60 mil",
-      "resumo": "PL 5.444/2026 eleva limite mensal de isenção e inclui day trade, ETFs, FIIs e Fiagro. Mudança facilita operações de pequenos investidores na bolsa de valores.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79627/ir-na-bolsa-projeto-amplia-isencao-para-vendas-de-ate-r-60-mil/",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/24/bc-esta-preocupado-com-ofertas-agressivas-e-predatorias-de-credito-diz-galipolo.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "EFD-Reinf atualiza XSD 2.1.2 e amplia validação dos eventos",
-      "resumo": "Sped republica esquemas de validação da EFD-Reinf e altera identificador dos eventos. Sistemas precisam ser atualizados conforme cronograma oficial.",
+      "subtema": "Legislação e Normas",
+      "titulo": "IN RFB 2.345/2026 aprova novo comprovante de CNPJ",
+      "resumo": "Resolução moderniza documento com adição de data de constituição, QR Code e código de barras. Mudança padroniza e facilita validação de inscrição junto à Receita Federal.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79625/efd-reinf-atualiza-xsd-2-1-2-e-amplia-validacao-dos-eventos/",
+      "url_original": "https://www.contabeis.com.br/noticias/79631/in-rfb-2-345-2026-muda-comprovante-do-cnpj/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "Receita regulamenta regra para incentivos fiscais de multinacionais",
-      "resumo": "IN RFB nº 2.342 estabelece critérios para considerar incentivos fiscais qualificados no cálculo de Tributos Abrangidos Ajustados. Norma impacta empresas multinacionais brasileiras.",
+      "subtema": "Nota Fiscal e SPED",
+      "titulo": "NF-e é confirmada automaticamente após 90 dias sem manifestação",
+      "resumo": "Operação de nota fiscal eletrônica sem manifestação conclusiva produz efeitos de confirmação após 90 dias. Detalhe importante para empresas gerenciarem prazos e cuidados fiscais.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79629/receita-regulamenta-regra-para-incentivos-fiscais-de-multinacionais/",
+      "url_original": "https://www.contabeis.com.br/noticias/79630/nf-e-sem-manifestacao-operacao-e-confirmada-apos-90-dias/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Simples Nacional altera prazo para desenquadramento voluntário",
-      "resumo": "Nova regra muda prazos para empresas que desejam sair do regime de Simples Nacional. Contadores e empresas precisam se atentar às mudanças de procedimento.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79634/simples-nacional-e-novo-prazo-para-desenquadramento-voluntario-do-regime/",
+      "titulo": "Supermercados podem abrir em feriados sem negociação coletiva",
+      "resumo": "TRF-3 suspendeu provisoriamente exigência de acordo coletivo para funcionamento de mercados em feriados. Decisão afeta direitos trabalhistas e calendário de operações do varejo.",
+      "fonte": "Contábeis / G1 Economia",
+      "url_original": "https://www.contabeis.com.br/noticias/79633/supermercados-podem-abrir-em-feriados-sem-acordo-coletivo-apos-decisao/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Produtoras de etanol têm até 4 de outubro para habilitar créditos de PIS/Cofins",
-      "resumo": "Receita Federal estabelece prazo para habilitação de créditos de PIS/Pasep e Cofins. Créditos podem ser compensados com débitos próprios do setor.",
+      "subtema": "Imposto de Renda e Tributos",
+      "titulo": "Receita, PF e MPF investigam compensações fiscais de R$ 160 milhões",
+      "resumo": "Operação apura créditos inexistentes usados em compensações por 15 municípios. Três mandados cumpridos em Sergipe; investigação focada em fraude tributária em larga escala.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79624/produtoras-de-etanol-tem-ate-4-de-outubro-para-habilitar-creditos/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "VOX lança novo fundo com estratégia AI-first e análise de dados intensiva",
-      "resumo": "Gestora cria plataforma de dados e amplia uso de IA para análises. Aposta visa gerar mais valor aos acionistas através de inteligência artificial.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/business/startups-vox-lanca-novo-fundo-e-avanca-na-tese-de-ai-first-dentro-de-casa/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "BlackRock aponta energia como ativo importante para atrair investimento em IA no Brasil",
-      "resumo": "Presidente-executivo destaca potencial do Brasil em IA, mas questiona arcabouço regulatório. Energia é identificada como fator crítico para projetos de grande escala.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/business/blackrock-brasil-pode-atrair-investimento-em-ia-questao-e-como-se-posicionar/",
+      "url_original": "https://www.contabeis.com.br/noticias/79628/receita-pf-e-mpf-investigam-compensacoes-acima-de-r-160-milhoes/",
       "idioma_original": "pt"
     }
   ]
