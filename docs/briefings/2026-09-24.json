@@ -1,0 +1,140 @@
+{
+  "data": "2026-09-24",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Toyota treina funcionários para ensinar robôs a executar funções",
+      "resumo": "Montadora japonesa investirá US$ 6,4 bilhões por ano em automação a partir de 2028. Estratégia de treinamento busca garantir transição suave sem substituição de trabalhadores.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/funcionarios-da-toyota-treinam-robos-para-executar-suas-funcoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude descobre novo sistema de enzimas com aplicações potenciais",
+      "resumo": "IA da Anthropic analisou aproximadamente 200 mil enzimas em 21 horas usando 950 agentes. Descoberta marca primeiro avanço significativo do laboratório de biologia com IA.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/anthropic-diz-ter-descoberto-novo-sistema-de-enzimas-com-o-claude/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google integra criação de imagens, vídeos e tradução com IA no Workspace",
+      "resumo": "Google anuncia Google Pics, Gemini Omni, tradução no Meet e Sheets Canvas para criar e editar conteúdos. Recursos chegam aos apps do Workspace com foco em automação criativa.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/09/24/pro/google-leva-criacao-de-imagens-videos-e-traducao-com-ia-para-dentro-dos-apps-do-workspace/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Austrália investiga se OpenAI violou lei ao invadir website governamental",
+      "resumo": "Primeiro caso conhecido de breach em agência governamental australiana. Primeiro-ministro promete responsabilização da OpenAI pelos danos causados.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Ando levanta US$ 20 milhões para criar plataforma de mensagens para humanos e agentes de IA",
+      "resumo": "Startup recebeu investimento de Accel, Index Ventures e Emergence. Plataforma visa competir com Slack integrando colaboração entre pessoas e agentes de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Python",
+      "titulo": "Qualcomm agora oferece suporte oficial ao Linux em computadores Snapdragon X2",
+      "resumo": "Após Windows, Qualcomm expande compatibilidade de seus chips para o sistema operacional Linux. Movimento abre novas possibilidades para desenvolvimento em plataforma open-source.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/depois-do-windows-qualcomm-agora-aposta-no-linux/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Google testa chips de IA no espaço com satélite protótipo",
+      "resumo": "Projeto Suncatcher investigará se satélites podem abrigar infraestruturas de processamento de IA em grande escala. Primeiro teste em órbita será lançado na próxima semana.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/24/google-testa-chips-de-ia-no-espaco.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Lovable ultrapassa US$ 600 milhões em receita anualizada com 'vibe coding'",
+      "resumo": "Plataforma de desenvolvimento com IA registra crescimento acelerado. Apps criados na plataforma acumulam quase um bilhão de visualizações mensais.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Imposto de Renda",
+      "titulo": "Projeto amplia isenção de IR na bolsa para vendas de até R$ 60 mil",
+      "resumo": "PL 5.444/2026 eleva limite mensal de isenção e inclui day trade, ETFs, FIIs e Fiagro. Mudança facilita operações de pequenos investidores na bolsa de valores.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79627/ir-na-bolsa-projeto-amplia-isencao-para-vendas-de-ate-r-60-mil/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "EFD-Reinf atualiza XSD 2.1.2 e amplia validação dos eventos",
+      "resumo": "Sped republica esquemas de validação da EFD-Reinf e altera identificador dos eventos. Sistemas precisam ser atualizados conforme cronograma oficial.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79625/efd-reinf-atualiza-xsd-2-1-2-e-amplia-validacao-dos-eventos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita regulamenta regra para incentivos fiscais de multinacionais",
+      "resumo": "IN RFB nº 2.342 estabelece critérios para considerar incentivos fiscais qualificados no cálculo de Tributos Abrangidos Ajustados. Norma impacta empresas multinacionais brasileiras.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79629/receita-regulamenta-regra-para-incentivos-fiscais-de-multinacionais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Simples Nacional altera prazo para desenquadramento voluntário",
+      "resumo": "Nova regra muda prazos para empresas que desejam sair do regime de Simples Nacional. Contadores e empresas precisam se atentar às mudanças de procedimento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79634/simples-nacional-e-novo-prazo-para-desenquadramento-voluntario-do-regime/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Produtoras de etanol têm até 4 de outubro para habilitar créditos de PIS/Cofins",
+      "resumo": "Receita Federal estabelece prazo para habilitação de créditos de PIS/Pasep e Cofins. Créditos podem ser compensados com débitos próprios do setor.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79624/produtoras-de-etanol-tem-ate-4-de-outubro-para-habilitar-creditos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "VOX lança novo fundo com estratégia AI-first e análise de dados intensiva",
+      "resumo": "Gestora cria plataforma de dados e amplia uso de IA para análises. Aposta visa gerar mais valor aos acionistas através de inteligência artificial.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/startups-vox-lanca-novo-fundo-e-avanca-na-tese-de-ai-first-dentro-de-casa/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "BlackRock aponta energia como ativo importante para atrair investimento em IA no Brasil",
+      "resumo": "Presidente-executivo destaca potencial do Brasil em IA, mas questiona arcabouço regulatório. Energia é identificada como fator crítico para projetos de grande escala.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/blackrock-brasil-pode-atrair-investimento-em-ia-questao-e-como-se-posicionar/",
+      "idioma_original": "pt"
+    }
+  ]
+}
