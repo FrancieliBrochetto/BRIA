@@ -4,118 +4,118 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Mercado Livre lança entrega em até 60 minutos em São Paulo",
-      "resumo": "Serviço Envios Agora começa com vendedores selecionados e produtos de até 15 kg em regiões da capital paulista. Promete reduzir tempo de entrega para uma hora em áreas específicas.",
+      "titulo": "Holanda inicia projeto para substituir Windows por Linux",
+      "resumo": "Governo holandês iniciou implementação do NixOS, distribuição Linux de código aberto, para substituir Windows em suas operações. Outros países europeus também ampliam testes com soluções de código aberto. Movimento reflete tendência global de adoção de software livre em administrações públicas.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/mercado-livre-vai-entregar-produtos-em-ate-60-minutos/",
+      "url_original": "https://tecnoblog.net/noticias/linux-entra-nos-planos-da-holanda-para-substituir-o-windows/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Novo Copilot da Microsoft integra chat, código e agentes de IA",
-      "resumo": "Microsoft reformula Copilot com três abas principais, integração ao Office, criação de aplicativos e agentes autônomos que executam tarefas no ambiente corporativo.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/09/25/inteligencia-artificial/novo-copilot-da-microsoft-reune-chat-codigo-e-agentes-de-ia-em-um-unico-aplicativo-de-trabalho/",
+      "titulo": "Governo brasileiro alerta sobre riscos de IAs companheiras para menores",
+      "resumo": "Governo aponta perigos nas plataformas Character.AI e Replika, citando falhas em verificação de idade, exposição a conteúdo sexualizado e coleta inadequada de dados pessoais. Nota oficial destaca vulnerabilidades de crianças e adolescentes nessas aplicações.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/governo-aponta-riscos-em-companheiros-de-ia-para-menores-no-brasil/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "PrismML traz LLMs compactos para óculos inteligentes Qualcomm",
-      "resumo": "Empresa apresenta pequenos modelos de linguagem otimizados para rodarem em dispositivos. Objetivo é democratizar IA aberta que aproveita melhor a capacidade computacional existente.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Lightspeed levanta US$ 250 mi para fundo focado em IA early-stage na Índia",
-      "resumo": "Venture firm alinha ciclo de captação na Índia com seus fundos globais. Muda para período de investimento mais curto em startups de IA em estágio inicial.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Laboratório de biologia da Anthropic faz primeira descoberta significativa",
-      "resumo": "Claude realiza descoberta científica aplicada a biologia molecular. Marca avanço em uso prático de IA para pesquisa científica.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://therundownai.beehiiv.com/p/anthropic-ai-biology-lab-makes-its-first-find",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Selic",
-      "titulo": "IPCA-15 acelera e reduz margem para cortes de juros pelo BC",
-      "resumo": "Prévia da inflação sobe 0,7% em setembro, superando expectativas e afetando perspectivas de continuidade nos cortes de juros. Alta é disseminada entre setores.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/economia/ipca-15-setembro-previa-inflacao-acelera/",
+      "subtema": "Claude",
+      "titulo": "Justiça dos EUA mantém Anthropic proibida de contratos militares",
+      "resumo": "Tribunal americano decidiu que a Anthropic (criadora do Claude) permanecerá impedida de fechar contratos com o Pentágono. Decisão mantém a empresa na lista de riscos à segurança nacional americana por questões relacionadas ao uso militar de IA.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/25/anthropic-estados-unidos-seguranca-nacional.ghtml",
       "idioma_original": "pt"
     },
     {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude (Opus) e Google (Astra) completam trabalho criptográfico de Turing",
+      "resumo": "Modelos de IA avançados Astra (Google) e Opus (Anthropic) conseguiram finalizar trabalho de quebra de código da Segunda Guerra Mundial iniciado por Alan Turing. Demonstra capacidade de raciocínio lógico complexo dos modelos de fronteira atuais.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Meta Muse supera ChatGPT-6 e Opus 5.5 em destaque de mercado",
+      "resumo": "Lançamento do avatar de realtime Meta Muse conquistou atenção do mercado, ofuscando releases simultâneos do GPT-6 (OpenAI) e Opus 5.5 (Anthropic). Demonstra competição acirrada entre laboratórios de fronteira em ritmo de inovação.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Clientes Supabase expõem dados pessoais na web por falta de segurança",
+      "resumo": "Descoberta revela que aplicações geradas por IA e desenvolvidas rapidamente na plataforma Supabase deixam dados de usuários expostos publicamente. Evidencia riscos de segurança quando aplicações não são configuradas corretamente.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "idioma_original": "en"
+    },
+    {
       "tema": "Mercado Financeiro",
-      "subtema": "FIIs",
-      "titulo": "B3 trabalha em modelo de governança tipo Novo Mercado para FIIs",
-      "resumo": "Bolsa mantém grupo de trabalho com participantes da indústria discutindo novas formas de governança. Objetivo é melhorar estrutura do mercado de fundos imobiliários.",
+      "subtema": "Ações",
+      "titulo": "Solidigm (SK Hynix) avalia IPO em até US$ 150 bilhões",
+      "resumo": "Unidade de memória e armazenamento da SK Hynix considera oferta pública de ações que poderia precificar a empresa em até US$ 150 bilhões. Movimento reflete recuperação e valorização do setor de semicondutores impulsionado por demanda de IA.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/onde-investir/novo-mercado-dos-fiis-b3-revela-o-que-vem-sendo-feito-para-melhorar-governanca/",
+      "url_original": "https://www.infomoney.com.br/mercados/solidigm-da-sk-hynix-avalia-ipo-que-poderia-precificar-em-us-150-bi-dizem-fontes/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Mercado Livre amplia atuação em farmácias com venda de medicamentos com receita",
-      "resumo": "Plataforma expande negócio para setor farmacêutico iniciando comércio de remédios controlados. Movimento impacta potencial de crescimento da ação MELI34.",
+      "titulo": "Azzas 2154 (AZZA3) sobe 18% no Ibovespa com especulação sobre venda da Farm Rio",
+      "resumo": "Ações da Azzas 2154 lideraram ganhos do Ibovespa nesta sexta-feira com valorização de até 18%. Movimento motivado por notícias sobre possível venda mais próxima da marca Farm Rio.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/mercado-livre-amplia-ofensiva-em-farmacias-o-que-significa-para-meli34/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Eleições 2026: empresas podem funcionar nos feriados eleitorais",
-      "resumo": "Primeiro turno marcado para 4 de outubro e segundo turno em 25 de outubro. Entenda regras sobre funcionamento de empresas, jornada e direitos trabalhistas nos dias de votação.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79662/eleicoes-2026-empresas-podem-funcionar-no-feriado-eleitoral/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Senado e Receita Federal capacitam servidores em IA generativa",
-      "resumo": "Programa de treinamento inclui inteligência artificial generativa, agêntica, processamento de linguagem natural e engenharia de software. Objetiva modernizar operações governamentais.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79663/senado-e-receita-capacitam-servidores-em-ia/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "STF prorroga suspensão de multas por riscos psicossociais na NR-1",
-      "resumo": "Supremo estende suspensão de penalidades aos empregadores via ADPF 1316. Questiona parâmetros para avaliação de riscos psicossociais e aplicação de sanções.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79661/stf-prorroga-suspensao-de-multas-por-riscos-psicossociais-na-nr-1/",
+      "url_original": "https://www.infomoney.com.br/mercados/azzas-2154-azza3-acoes-saltam-ate-18-e-lideram-ganhos-do-ibovespa-nesta-sexta/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Créditos de PIS e Cofins: transição para CBS traz mudanças",
-      "resumo": "Reforma tributária altera regime de créditos com implementação da Contribuição sobre Bens e Serviços. Contribuintes precisam entender novas regras de aproveitamento de créditos.",
+      "titulo": "NCM e NBS: como cadastrar produtos corretamente na empresa",
+      "resumo": "Guia de cadastro esclarece que nome comercial insuficiente para classificação; características técnicas, documentos e conteúdo do serviço definem código NCM/NBS correto. Essencial para conformidade com reforma tributária.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/cadastro-produtos-reforma-tributaria-ncm-nbs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "STF impede revogação unilateral de benefícios de ICMS",
+      "resumo": "Supremo Tribunal Federal decidiu que estados não podem revogar sozinhos benefícios de ICMS previstos em convênios do Confaz após incorporação à legislação estadual. Fortalece segurança jurídica para empresas beneficiadas.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79664/creditos-de-pis-e-cofins-o-que-acontece-com-a-chegada-da-cbs/",
+      "url_original": "https://www.contabeis.com.br/noticias/79669/stf-impede-revogacao-unilateral-de-beneficio-de-icms/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Legislação",
-      "titulo": "Caixa libera novo lote de cotas do antigo PIS/Pasep nesta sexta",
-      "resumo": "Banco disponibiliza saque para pedidos realizados até 31 de agosto. Verifique elegibilidade e consulte disponibilidade do seu lote na plataforma da Caixa.",
+      "titulo": "TST limita declaração de prescrição de ofício em ações trabalhistas",
+      "resumo": "Tribunal Superior do Trabalho fixou tese vinculante determinando que prescrição trabalhista deve ser alegada pela parte interessada, não pelo juiz. Exceção é prescrição intercorrente, que pode ser declarada de ofício.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79657/antigo-pis-pasep-caixa-paga-novo-lote-nesta-sexta-25/",
+      "url_original": "https://www.contabeis.com.br/noticias/79668/tst-limita-declaracao-de-prescricao-de-oficio/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Exame periódico é obrigatório conforme NR-7; saiba regras",
+      "resumo": "Periodicidade de exame ocupacional varia conforme riscos ambientais e condição do trabalhador, com obrigações definidas pela NR-7. Ambos empregador e empregado têm responsabilidades no cumprimento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79665/exame-periodico-e-obrigatorio-veja-o-que-diz-a-nr-7/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "INSS: cumprimento de exigências pode ser feito pelo app Meu INSS",
+      "resumo": "Segurados têm geralmente 30 dias para apresentar documentos solicitados pelo INSS, podendo usar o aplicativo Meu INSS para cumprimento e acompanhamento das exigências.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79666/cumprimento-de-exigencia-do-inss-pode-ser-feito-pelo-meu-inss/",
       "idioma_original": "pt"
     }
   ]
