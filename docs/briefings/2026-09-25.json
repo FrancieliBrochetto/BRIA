@@ -1,0 +1,122 @@
+{
+  "data": "2026-09-25",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Mercado Livre lança entrega em até 60 minutos em São Paulo",
+      "resumo": "Serviço Envios Agora começa com vendedores selecionados e produtos de até 15 kg em regiões da capital paulista. Promete reduzir tempo de entrega para uma hora em áreas específicas.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/mercado-livre-vai-entregar-produtos-em-ate-60-minutos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Novo Copilot da Microsoft integra chat, código e agentes de IA",
+      "resumo": "Microsoft reformula Copilot com três abas principais, integração ao Office, criação de aplicativos e agentes autônomos que executam tarefas no ambiente corporativo.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/09/25/inteligencia-artificial/novo-copilot-da-microsoft-reune-chat-codigo-e-agentes-de-ia-em-um-unico-aplicativo-de-trabalho/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "PrismML traz LLMs compactos para óculos inteligentes Qualcomm",
+      "resumo": "Empresa apresenta pequenos modelos de linguagem otimizados para rodarem em dispositivos. Objetivo é democratizar IA aberta que aproveita melhor a capacidade computacional existente.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Lightspeed levanta US$ 250 mi para fundo focado em IA early-stage na Índia",
+      "resumo": "Venture firm alinha ciclo de captação na Índia com seus fundos globais. Muda para período de investimento mais curto em startups de IA em estágio inicial.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Laboratório de biologia da Anthropic faz primeira descoberta significativa",
+      "resumo": "Claude realiza descoberta científica aplicada a biologia molecular. Marca avanço em uso prático de IA para pesquisa científica.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-ai-biology-lab-makes-its-first-find",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "IPCA-15 acelera e reduz margem para cortes de juros pelo BC",
+      "resumo": "Prévia da inflação sobe 0,7% em setembro, superando expectativas e afetando perspectivas de continuidade nos cortes de juros. Alta é disseminada entre setores.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/economia/ipca-15-setembro-previa-inflacao-acelera/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "FIIs",
+      "titulo": "B3 trabalha em modelo de governança tipo Novo Mercado para FIIs",
+      "resumo": "Bolsa mantém grupo de trabalho com participantes da indústria discutindo novas formas de governança. Objetivo é melhorar estrutura do mercado de fundos imobiliários.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/novo-mercado-dos-fiis-b3-revela-o-que-vem-sendo-feito-para-melhorar-governanca/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Mercado Livre amplia atuação em farmácias com venda de medicamentos com receita",
+      "resumo": "Plataforma expande negócio para setor farmacêutico iniciando comércio de remédios controlados. Movimento impacta potencial de crescimento da ação MELI34.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/mercado-livre-amplia-ofensiva-em-farmacias-o-que-significa-para-meli34/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Eleições 2026: empresas podem funcionar nos feriados eleitorais",
+      "resumo": "Primeiro turno marcado para 4 de outubro e segundo turno em 25 de outubro. Entenda regras sobre funcionamento de empresas, jornada e direitos trabalhistas nos dias de votação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79662/eleicoes-2026-empresas-podem-funcionar-no-feriado-eleitoral/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Senado e Receita Federal capacitam servidores em IA generativa",
+      "resumo": "Programa de treinamento inclui inteligência artificial generativa, agêntica, processamento de linguagem natural e engenharia de software. Objetiva modernizar operações governamentais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79663/senado-e-receita-capacitam-servidores-em-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "STF prorroga suspensão de multas por riscos psicossociais na NR-1",
+      "resumo": "Supremo estende suspensão de penalidades aos empregadores via ADPF 1316. Questiona parâmetros para avaliação de riscos psicossociais e aplicação de sanções.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79661/stf-prorroga-suspensao-de-multas-por-riscos-psicossociais-na-nr-1/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Créditos de PIS e Cofins: transição para CBS traz mudanças",
+      "resumo": "Reforma tributária altera regime de créditos com implementação da Contribuição sobre Bens e Serviços. Contribuintes precisam entender novas regras de aproveitamento de créditos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79664/creditos-de-pis-e-cofins-o-que-acontece-com-a-chegada-da-cbs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Caixa libera novo lote de cotas do antigo PIS/Pasep nesta sexta",
+      "resumo": "Banco disponibiliza saque para pedidos realizados até 31 de agosto. Verifique elegibilidade e consulte disponibilidade do seu lote na plataforma da Caixa.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79657/antigo-pis-pasep-caixa-paga-novo-lote-nesta-sexta-25/",
+      "idioma_original": "pt"
+    }
+  ]
+}
