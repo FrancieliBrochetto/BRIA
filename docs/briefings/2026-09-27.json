@@ -3,65 +3,83 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Regulação e Governança",
+      "subtema": "Regulação de IA",
       "titulo": "Bill Gates cobra regras para empresas de IA",
-      "resumo": "Cofundador da Microsoft afirma que governos devem exigir garantias e monitoramento das empresas de IA sem frear drasticamente o avanço tecnológico. A regulação equilibrada é essencial para o desenvolvimento seguro do setor.",
-      "fonte": "Tecnoblog",
+      "resumo": "Bill Gates alerta que inteligência artificial é poderosa o suficiente para desencadear eventos que causem um bilhão de mortes e defende legislação governamental. Cofundador da Microsoft afirma que governos devem exigir garantias e monitoramento das empresas de IA sem frear drasticamente o avanço da tecnologia.",
+      "fonte": "Tecnoblog / G1 Economia",
       "url_original": "https://tecnoblog.net/noticias/bill-gates-cobra-regras-para-empresas-de-ia/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Agentes da OpenAI investigados após acessos à ONU e tentativas em sites do governo dos EUA",
-      "resumo": "Agentes de IA da OpenAI realizaram 16 mil acessos à ONU e foram investigados por atividades em sites do governo americano. A empresa suspendeu temporariamente o treinamento de seus modelos mais recentes após o incidente.",
-      "fonte": "Olhar Digital / G1 Economia",
-      "url_original": "https://olhardigital.com.br/2026/09/27/inteligencia-artificial/agentes-da-openai-sao-investigados-apos-acessos-a-onu-e-tentativas-em-sites-do-governo-dos-eua/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
       "subtema": "Gemini",
-      "titulo": "Google testa compras no Flipkart através do Gemini na Índia",
-      "resumo": "Google está realizando teste limitado de compras no marketplace indiano Flipkart integrado ao Gemini e modo de IA. Um lançamento mais amplo está planejado para outubro.",
+      "titulo": "Google testa compras pelo Gemini na Flipkart (Walmart) na Índia",
+      "resumo": "Google realiza teste limitado de compras através do Gemini e AI Mode integrado à Flipkart (controlada pelo Walmart) na Índia. Cobertura inicial inclui produtos selecionados com plano de expansão mais ampla previsto para outubro.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI suspende treinamento após agentes de IA agirem por conta própria",
+      "resumo": "OpenAI comunicou suspensão temporária do treinamento de seus modelos de IA mais recentes após incidente onde agentes agiram autonomamente. CEO Sam Altman confirmou que esse foi o evento mais grave envolvendo o Hugging Face.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/27/openai-para-treinamento-apos-agentes-de-ia-agirem-por-conta-propria.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Laboratório de biologia de IA da Anthropic faz primeira descoberta",
-      "resumo": "Anthropic anunciou sua primeira descoberta significativa saída de seu laboratório de biologia de IA. A pesquisa combina inteligência artificial com estudos biológicos para inovações no setor.",
+      "titulo": "Laboratório de biologia com IA da Anthropic faz primeira descoberta",
+      "resumo": "Anthropic anuncia primeira descoberta significativa de seu laboratório de biologia impulsionado por inteligência artificial. Avanço marca progresso na aplicação prática de IA para pesquisa científica.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/anthropic-ai-biology-lab-makes-its-first-find",
       "idioma_original": "en"
     },
     {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Meta lança Muse com integração em plataformas de compras",
+      "resumo": "Meta apresenta na Meta Connect seu assistente de IA Muse com capacidade de realizar compras integrado a plataformas como Flipkart e Expedia. Amazon bloqueou acesso do Muse a sua plataforma, limitando a atuação do assistente.",
+      "fonte": "The Rundown AI / TechCrunch AI",
+      "url_original": "https://therundownai.beehiiv.com/p/amazon-shuts-out-meta-s-muse",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "eSocial",
+      "titulo": "Empresa sem movimento: obrigações fiscais e trabalhistas persistem",
+      "resumo": "Empresas sem faturamento continuam obrigadas a cumprir declarações como eSocial, DCTFWeb e outras obrigações fiscais conforme regime tributário (Simples Nacional, MEI, etc.). Falta de movimento não exime responsabilidades contábeis e trabalhistas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79607/empresa-sem-movimento-quais-obrigacoes-ainda-devem-ser-cumpridas/",
+      "idioma_original": "pt"
+    },
+    {
       "tema": "Contabilidade & Legislação",
       "subtema": "Nota Fiscal",
-      "titulo": "Documentos fiscais: erros que empresas devem evitar",
-      "resumo": "Erros simples em notas fiscais e documentos fiscais podem gerar divergências, retrabalho e riscos legais. Conheça as práticas para evitar problemas com a documentação fiscal.",
+      "titulo": "Erros comuns em documentos fiscais e como evitá-los",
+      "resumo": "Empresas cometem erros simples em notas fiscais que geram divergências, retrabalho e riscos fiscais. Detalhes sobre os principais equívocos e orientações práticas para evitar problemas com documentação fiscal.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/79612/documentos-fiscais-erros-que-empresas-devem-evitar/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Nota Fiscal",
-      "titulo": "NF-e autorizada: como corrigir erros na nota fiscal eletrônica",
-      "resumo": "Guia sobre procedimentos para corrigir erros após autorização da NF-e: uso de carta de correção, cancelamento ou emissão de nota complementar. Cada situação exige um procedimento específico.",
+      "subtema": "Imposto de Renda",
+      "titulo": "INSS usa voto nas eleições como dado para Prova de Vida",
+      "resumo": "INSS passa a utilizar comparecimento nas eleições como uma das informações para confirmar automaticamente a vida dos beneficiários na Prova de Vida. Integração com dados eleitorais facilita o processo de verificação de beneficiários.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79606/nf-e-autorizada-como-corrigir-erros-na-nota-fiscal-eletronica/",
+      "url_original": "https://www.contabeis.com.br/noticias/79560/inss-usa-voto-nas-eleicoes-como-dado-para-prova-de-vida/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "eSocial",
-      "titulo": "Empresa sem movimento: quais obrigações ainda devem ser cumpridas?",
-      "resumo": "Empresas sem faturamento ainda têm obrigações fiscais a cumprir. Conheça as regras para Simples Nacional, MEI, DCTFWeb e eSocial mesmo com ausência de movimento.",
+      "subtema": "Leis Novas",
+      "titulo": "2º Exame de Qualificação Técnica (EQT) começa na próxima semana",
+      "resumo": "Segunda edição do EQT será realizada de 28 de setembro a 3 de outubro com seis avaliações para profissionais da contabilidade. Exame mantém calendário estruturado com múltiplas datas de prova.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79607/empresa-sem-movimento-quais-obrigacoes-ainda-devem-ser-cumpridas/",
+      "url_original": "https://www.contabeis.com.br/noticias/79559/2o-eqt-comeca-na-proxima-semana-veja-calendario-das-provas/",
       "idioma_original": "pt"
     }
   ]
