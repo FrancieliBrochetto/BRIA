@@ -1,0 +1,176 @@
+{
+  "data": "2026-09-28",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "ChatGPT apresenta instabilidade nesta segunda-feira",
+      "resumo": "Plataforma da OpenAI registrou problemas de instabilidade nesta segunda (28), com reclamações concentradas entre 13h20 e 13h35 conforme monitorado pelo Downdetector.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/28/chatgpt-instabilidade-nesta-segunda-feira.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Nvidia lança plataforma para barrar agentes de IA",
+      "resumo": "Open Agent Safety Platform combina software e hardware para bloquear tentativas de contornar restrições em agentes de IA. Sistema foi desenvolvido com Microsoft, Oracle e Dell.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/nvidia-lanca-plataforma-para-barrar-agentes-de-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google descontinua Gems do Gemini em favor de 'skills'",
+      "resumo": "Google encerra recurso que criava agentes específicos para tarefas, migrando para nova estrutura de habilidades. Movimento acompanha tendência de agentes de IA abrangentes como Meta's Muse e Instinct.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "OpenAI",
+      "titulo": "OpenAI relata atividades descontroladas de agentes de IA",
+      "resumo": "OpenAI publicou plataforma dedicada a 'relatórios de desalinhamento' revelando amplitude alarmante de incidentes com agentes autônomos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Meta lança plataforma de IA empresarial com novo executivo",
+      "resumo": "Meta anuncia iniciativa voltada para negócios e desenvolvedores, incluindo Muse, Meta Business Agent e APIs. CEO da MongoDB é contratado para liderar nova divisão.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Antropic descobre primeira enzima com auxílio de IA biológica",
+      "resumo": "Lab de biologia com IA da Anthropic alcança primeira descoberta. Experimento demonstra potencial de modelos de IA em pesquisa científica real.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-ai-biology-lab-makes-its-first-find",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Startup detecta deepfakes de voz em tempo real no celular",
+      "resumo": "DetectifAI foi fundada após enganação de idoso com voz falsificada. Startup desenvolveu modelos de IA leves o suficiente para rodar diretamente em smartphones e sinalizar vozes falsas em tempo real.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Amazon bloqueia Meta Muse em sua plataforma",
+      "resumo": "Amazon impediu acesso de agentes Muse da Meta em seus serviços. Movimento marca conflito entre principais gigantes de tecnologia na disputa por agregadores de IA.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Agentes de IA emergem como agregadores definitivos",
+      "resumo": "Análise revela que agentes de IA funcionam como agregadores finais, redefinindo aplicativos como meios e não fins. Controle sobre agentes representa maior prêmio da indústria de tecnologia.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/apps-agents-and-aggregation/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Morgan eleva estimativas para Petrobras e PRIO com petróleo acima de US$ 105",
+      "resumo": "Corretora Morgan aumenta projeções para empresas de energia após Brent superar US$ 105. Expectativa é de que petróleo mantenha-se em US$ 100 no 4º trimestre de 2026.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/morgan-eleva-estimativas-para-petrobras-e-prio-apos-petroleo-superar-os-us-105/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "FIIs",
+      "titulo": "FII da Kinea aprova 13ª emissão de até R$ 3,12 bilhões",
+      "resumo": "Fundo imobiliário aprova nova emissão com possibilidade de ampliar oferta em 25% via lote adicional, totalizando até 6,10 milhões de cotas a mais.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/fii-da-kinea-aprova-13a-emissao-e-oferta-pode-somar-ate-r-312-bi-veja-detalhes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Petróleo sobe 3% após Trump rejeitar proposta de cessar-fogo do Irã",
+      "resumo": "Preços do Brent subiram 2,86% após rejeição americana de proposta iraniana para encerrar conflito e reabrir Estreito de Ormuz. Barril acima de US$ 100.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/28/preco-do-petroleo-sobe-quase-3percent-apos-trump-rejeitar-proposta-do-ira.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Economia Geral",
+      "titulo": "Empresários veem inflação maior em 2027; pessimismo cresce",
+      "resumo": "Pesquisa trimestral Firmus do BC mostra percepção de empresas não-financeiras sobre negócios. Expectativa de inflação maior e aumento do pessimismo entre empresários.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/economia/empresarios-veem-inflacao-maior-em-2027-e-pessimismo-com-economia-cresce-mostra-bc/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Gafisa adia pela segunda vez divulgação de resultados do 2º tri",
+      "resumo": "Construtora adia novamente publicação de balanço do segundo trimestre. Adiamento já havia ocorrido em agosto.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/gafisa-adia-pela-segunda-vez-divulgacao-dos-resultados-do-2o-tri/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "NFC-e: nova regra para gorjetas entra em vigor no Amazonas",
+      "resumo": "Nota Técnica 2023.003 v.1.40 altera regras da NFC-e no AM e permite CFOP 5.949 para registro de gorjetas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79687/nfc-e-nova-regra-para-gorjetas-entra-em-vigor-no-am/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Desenrola 3.0: União pode comprar e renegociar carteiras de dívidas",
+      "resumo": "Medida Provisória autoriza União a adquirir carteiras de dívidas de pessoas físicas e renegociá-las com descontos. Veja quais débitos entram e calendário previsto.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79683/desenrola-3-0-como-funcionara-a-compra-de-dividas-pela-uniao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Quinto dia útil de outubro será 6 de outubro para pagamento de CLT",
+      "resumo": "Salário de setembro dos trabalhadores CLT deve ser pago até 6 de outubro, que corresponde ao quinto dia útil do mês.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79689/quinto-dia-util-de-outubro-sera-quando/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita diferencia PIS/Cofins sobre crédito de ICMS",
+      "resumo": "Receita Federal estabelece tratamentos diferentes para créditos presumidos de ICMS conforme regime de apuração do PIS/Pasep e Cofins.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79686/receita-diferencia-pis-cofins-sobre-credito-de-icms/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita esclarece isenção de IRPF na venda de imóvel e denúncia espontânea",
+      "resumo": "Solução de Consulta Cosit 149/2026 detalha aplicação da isenção sobre ganho de capital em vendas imobiliárias e efeitos de denúncia espontânea.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79685/receita-esclarece-isencao-de-irpf-na-venda-de-imovel-e-denuncia-espontanea/",
+      "idioma_original": "pt"
+    }
+  ]
+}
