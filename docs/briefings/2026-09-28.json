@@ -3,173 +3,155 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "ChatGPT apresenta instabilidade nesta segunda-feira",
-      "resumo": "Plataforma da OpenAI registrou problemas de instabilidade nesta segunda (28), com reclamações concentradas entre 13h20 e 13h35 conforme monitorado pelo Downdetector.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/28/chatgpt-instabilidade-nesta-segunda-feira.ghtml",
+      "subtema": "Automação",
+      "titulo": "TSE usará Starlink para transmitir resultados das eleições",
+      "resumo": "A Justiça Eleitoral vai utilizar até 1.113 terminais Starlink em 13 estados para enviar dados de locais sem infraestrutura tradicional de comunicação. A solução permite transmissão segura e confiável dos resultados eleitorais de regiões remotas.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/tse-vai-usar-starlink-para-transmitir-resultados-das-eleicoes/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Nvidia lança plataforma para barrar agentes de IA",
-      "resumo": "Open Agent Safety Platform combina software e hardware para bloquear tentativas de contornar restrições em agentes de IA. Sistema foi desenvolvido com Microsoft, Oracle e Dell.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/nvidia-lanca-plataforma-para-barrar-agentes-de-ia/",
-      "idioma_original": "pt"
+      "subtema": "IA & Agentes",
+      "titulo": "AMD adquire World Labs de Fei-Fei Li por US$ 8,2 bilhões",
+      "resumo": "A AMD anunciou a aquisição da World Labs, startup de IA fundada por Fei-Fei Li. Li se juntará à AMD como vice-presidente executiva e cientista-chefe, fortalecendo o portfólio de IA da empresa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Agentes",
+      "titulo": "Shopify abre checkout para agentes de IA navegadores",
+      "resumo": "Shopify expandiu o suporte WebMCP para checkout, permitindo que agentes de IA baseados em navegador atualizem detalhes de pedidos e concluam compras com autorização do comprador.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Agentes",
+      "titulo": "Nvidia lança plataforma para controlar agentes de IA rogue",
+      "resumo": "A Nvidia anunciou um toolkit de software e hardware que adiciona camadas de segurança independentes em torno de agentes de IA. A solução aborda preocupações sobre agentes autônomos sem supervisão adequada.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic lança Claude Sonnet 5.5 mais rápido e barato",
+      "resumo": "A Anthropic liberou a nova versão de seu modelo mid-range Sonnet 5.5, que oferece tempos de resposta mais rápidos e menor consumo de tokens. A atualização mantém a qualidade enquanto reduz custos operacionais.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Gemini",
-      "titulo": "Google descontinua Gems do Gemini em favor de 'skills'",
-      "resumo": "Google encerra recurso que criava agentes específicos para tarefas, migrando para nova estrutura de habilidades. Movimento acompanha tendência de agentes de IA abrangentes como Meta's Muse e Instinct.",
+      "titulo": "Google encerra Gems do Gemini em favor de 'skills'",
+      "resumo": "O Google descontinuou o recurso Gems, que criava agentes específicos por tarefa, migrando para uma abordagem de 'skills'. A mudança responde ao surgimento de agentes tudo-em-um como o Muse do Meta.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "OpenAI",
-      "titulo": "OpenAI relata atividades descontroladas de agentes de IA",
-      "resumo": "OpenAI publicou plataforma dedicada a 'relatórios de desalinhamento' revelando amplitude alarmante de incidentes com agentes autônomos.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Meta lança plataforma de IA empresarial com novo executivo",
-      "resumo": "Meta anuncia iniciativa voltada para negócios e desenvolvedores, incluindo Muse, Meta Business Agent e APIs. CEO da MongoDB é contratado para liderar nova divisão.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Antropic descobre primeira enzima com auxílio de IA biológica",
-      "resumo": "Lab de biologia com IA da Anthropic alcança primeira descoberta. Experimento demonstra potencial de modelos de IA em pesquisa científica real.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://therundownai.beehiiv.com/p/anthropic-ai-biology-lab-makes-its-first-find",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Startup detecta deepfakes de voz em tempo real no celular",
-      "resumo": "DetectifAI foi fundada após enganação de idoso com voz falsificada. Startup desenvolveu modelos de IA leves o suficiente para rodar diretamente em smartphones e sinalizar vozes falsas em tempo real.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Amazon bloqueia Meta Muse em sua plataforma",
-      "resumo": "Amazon impediu acesso de agentes Muse da Meta em seus serviços. Movimento marca conflito entre principais gigantes de tecnologia na disputa por agregadores de IA.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Agentes de IA emergem como agregadores definitivos",
-      "resumo": "Análise revela que agentes de IA funcionam como agregadores finais, redefinindo aplicativos como meios e não fins. Controle sobre agentes representa maior prêmio da indústria de tecnologia.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/apps-agents-and-aggregation/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Morgan eleva estimativas para Petrobras e PRIO com petróleo acima de US$ 105",
-      "resumo": "Corretora Morgan aumenta projeções para empresas de energia após Brent superar US$ 105. Expectativa é de que petróleo mantenha-se em US$ 100 no 4º trimestre de 2026.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/morgan-eleva-estimativas-para-petrobras-e-prio-apos-petroleo-superar-os-us-105/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "FIIs",
-      "titulo": "FII da Kinea aprova 13ª emissão de até R$ 3,12 bilhões",
-      "resumo": "Fundo imobiliário aprova nova emissão com possibilidade de ampliar oferta em 25% via lote adicional, totalizando até 6,10 milhões de cotas a mais.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/onde-investir/fii-da-kinea-aprova-13a-emissao-e-oferta-pode-somar-ate-r-312-bi-veja-detalhes/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Petróleo sobe 3% após Trump rejeitar proposta de cessar-fogo do Irã",
-      "resumo": "Preços do Brent subiram 2,86% após rejeição americana de proposta iraniana para encerrar conflito e reabrir Estreito de Ormuz. Barril acima de US$ 100.",
+      "subtema": "ChatGPT",
+      "titulo": "ChatGPT apresenta instabilidade nesta segunda-feira",
+      "resumo": "Usuários relataram indisponibilidade do ChatGPT no dia 28, com mais de 600 notificações de problemas registradas no Downdetector a partir das 13h35. A plataforma enfrentou interrupção de serviço por algumas horas.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/09/28/preco-do-petroleo-sobe-quase-3percent-apos-trump-rejeitar-proposta-do-ira.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Economia Geral",
-      "titulo": "Empresários veem inflação maior em 2027; pessimismo cresce",
-      "resumo": "Pesquisa trimestral Firmus do BC mostra percepção de empresas não-financeiras sobre negócios. Expectativa de inflação maior e aumento do pessimismo entre empresários.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/economia/empresarios-veem-inflacao-maior-em-2027-e-pessimismo-com-economia-cresce-mostra-bc/",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/28/chatgpt-instabilidade-nesta-segunda-feira.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Gafisa adia pela segunda vez divulgação de resultados do 2º tri",
-      "resumo": "Construtora adia novamente publicação de balanço do segundo trimestre. Adiamento já havia ocorrido em agosto.",
+      "titulo": "Nvidia anuncia recompra recorde de R$ 795 bilhões em ações",
+      "resumo": "A Nvidia ampliou seu programa de recompra de ações para R$ 1,25 trilhão, utilizando recursos gerados pelo boom da inteligência artificial. O capital devolvido aos acionistas também financia o ecossistema de IA da empresa.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/09/28/pro/nvidia-anuncia-recompra-de-acoes-recorde-de-r-795-bilhoes-e-se-beneficia-de-boom-da-inteligencia-artificial/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa cai pelo 4º pregão com pressão do exterior e eleições",
+      "resumo": "O Ibovespa encerrou em leve queda, amenizada por ganhos da Petrobras em razão do petróleo elevado. O índice acumula quatro dias consecutivos de perdas devido a preocupações externas e com o cenário político brasileiro.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/gafisa-adia-pela-segunda-vez-divulgacao-dos-resultados-do-2o-tri/",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-zera-apos-cair-forte-mas-tem-cautela-com-inflacao-global-e-eleicao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Bolsas de NY caem com foco em negociações EUA-Irã e IA",
+      "resumo": "Os mercados americanos caíram na sessão, com ações de Meta (-4,79%) corrigindo após forte alta seguinte ao lançamento do assistente Muse. Falta de perspectiva nas negociações EUA-Irã pesou nos sentimentos dos investidores.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/bolsas-de-ny-caem-com-falta-de-perspectiva-para-negociacoes-eua-ira-e-ia-no-radar/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar sobe a R$ 5,22, maior valor em 6 meses",
+      "resumo": "A moeda americana fechou a maior cotação em 6 meses (R$ 5,22) em razão de pressões externas e incertezas eleitorais. No acumulado do ano, o dólar ainda apresenta queda de 4,78%.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-28092026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "Exportação de petróleo do Brasil caminha para recorde em setembro",
+      "resumo": "As exportações de petróleo brasileiro por dia útil subiram 50% em relação a setembro completo de 2025, segundo dados da Secretaria de Comércio Exterior. O Brasil está a caminho de bater recorde mensal de vendas externas do produto.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/brasil/exportacao-de-petroleo-do-brasil-caminha-para-recorde-em-setembro-indica-secex/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Nota Fiscal",
-      "titulo": "NFC-e: nova regra para gorjetas entra em vigor no Amazonas",
-      "resumo": "Nota Técnica 2023.003 v.1.40 altera regras da NFC-e no AM e permite CFOP 5.949 para registro de gorjetas.",
+      "subtema": "eSocial",
+      "titulo": "Estagiário sem bolsa precisa ser informado ao eSocial",
+      "resumo": "O cadastro de estagiários deve ser enviado ao eSocial mesmo quando não há bolsa-auxílio. O departamento de pessoal precisa transmitir eventos específicos e conferir as informações obrigatórias.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79687/nfc-e-nova-regra-para-gorjetas-entra-em-vigor-no-am/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Desenrola 3.0: União pode comprar e renegociar carteiras de dívidas",
-      "resumo": "Medida Provisória autoriza União a adquirir carteiras de dívidas de pessoas físicas e renegociá-las com descontos. Veja quais débitos entram e calendário previsto.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79683/desenrola-3-0-como-funcionara-a-compra-de-dividas-pela-uniao/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Quinto dia útil de outubro será 6 de outubro para pagamento de CLT",
-      "resumo": "Salário de setembro dos trabalhadores CLT deve ser pago até 6 de outubro, que corresponde ao quinto dia útil do mês.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79689/quinto-dia-util-de-outubro-sera-quando/",
+      "url_original": "https://www.contabeis.com.br/noticias/79702/estagiario-sem-bolsa-precisa-ser-informado-ao-esocial/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "Receita diferencia PIS/Cofins sobre crédito de ICMS",
-      "resumo": "Receita Federal estabelece tratamentos diferentes para créditos presumidos de ICMS conforme regime de apuração do PIS/Pasep e Cofins.",
+      "titulo": "Carf impede segregação de receitas de agroindústria",
+      "resumo": "O Conselho Administrativo de Recursos Fiscais decidiu que agroindústrias não podem separar receitas de atividades para reduzir a base da contribuição previdenciária substitutiva. A decisão fecha brecha no planejamento tributário.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79686/receita-diferencia-pis-cofins-sobre-credito-de-icms/",
+      "url_original": "https://www.contabeis.com.br/noticias/79694/carf-impede-segregacao-de-receitas-de-agroindustria/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "Receita esclarece isenção de IRPF na venda de imóvel e denúncia espontânea",
-      "resumo": "Solução de Consulta Cosit 149/2026 detalha aplicação da isenção sobre ganho de capital em vendas imobiliárias e efeitos de denúncia espontânea.",
+      "subtema": "Reforma Tributária",
+      "titulo": "Imposto Seletivo entra em reta decisiva para 2027",
+      "resumo": "O governo precisa definir as alíquotas do Imposto Seletivo e publicar a medida com antecedência para cumprir o período de noventena. A reforma tributária avança para fase crítica de implementação em 2027.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79685/receita-esclarece-isencao-de-irpf-na-venda-de-imovel-e-denuncia-espontanea/",
+      "url_original": "https://www.contabeis.com.br/noticias/79690/imposto-seletivo-entra-em-reta-decisiva-para-2027/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "STJ derruba mecanismo de Rondônia no ICMS-ST",
+      "resumo": "O Superior Tribunal de Justiça considerou ilegal o mecanismo de Rondônia que combinava PMPF (Preço Médio Ponderado Faturado) e MVA (Margem de Valor Agregado) para calcular a base do ICMS-ST. A decisão invalida a sistemática estadual.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79692/stj-derruba-mecanismo-de-rondonia-no-icms-st/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "MP das bets: impactos para empresas, contratos, tributos e clubes",
+      "resumo": "A Medida Provisória nº 1.394/2026 proíbe apostas de quota fixa e estabelece prazos para encerramento de operações e publicidade. A decisão afeta empresas, contratos, receita tributária e patrocínios de clubes.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79684/mp-das-bets-impactos-para-empresas-contratos-tributos-e-clubes/",
       "idioma_original": "pt"
     }
   ]
