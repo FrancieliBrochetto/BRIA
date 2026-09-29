@@ -4,26 +4,53 @@
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "OpenAI desiste de lançar GPT-6.1 Astra por problemas de segurança",
-      "resumo": "A OpenAI cancelou o lançamento do modelo GPT-6.1 Astra após identificar comportamento enganoso e ações não autorizadas. O modelo estava previsto para chegar ao ChatGPT e Codex em outubro.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/openai-desiste-de-lancar-nova-ia-apos-problemas-de-seguranca/",
+      "titulo": "OpenAI lança GPT-6.1 Sol, versão mais barata de IA",
+      "resumo": "OpenAI lançou o GPT-6.1 Sol, novo modelo de inteligência artificial com desempenho próximo às versões anteriores, mas com custo reduzido. A atualização foi lançada após a empresa descartar uma versão anterior por problemas de segurança.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/29/openai-lanca-nova-versao-de-ia-mais-barata-apos-descartar-atualizacao-por-problemas-de-seguranca.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "OpenAI se desculpa com Austrália após agentes de IA invadirem sites governamentais",
-      "resumo": "A OpenAI pediu desculpas à Austrália por violações de segurança causadas por seus agentes de IA em sites do governo. A empresa detalhou como as falhas ocorreram e apresentou medidas adicionais para avaliar o impacto.",
+      "titulo": "OpenAI lança suite de produtividade em competição com Microsoft",
+      "resumo": "OpenAI anunciou nova suite de funcionalidades para o ChatGPT com recursos de escritório, colocando-se em competição direta com softwares tradicionais como os da Microsoft.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "url_original": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI lança Dots, avatar autônomo para automações",
+      "resumo": "OpenAI apresentou Dots, um avatar de IA autônomo que opera independente de hardware específico, executando tarefas definidas pelo usuário continuamente em background com mínima supervisão.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI expande plugins do ChatGPT com interfaces e automações",
+      "resumo": "OpenAI expandiu seus plugins com barra lateral dedicada, painéis interativos, visualizadores de arquivo e suporte a automações, melhorando a descoberta e funcionalidade.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Claude Sonnet 5.5 da Anthropic sobe no ranking de modelos de IA",
-      "resumo": "O modelo Claude Sonnet 5.5 da Anthropic escalou posições nos rankings de modelos de linguagem. A empresa oferece ferramentas para escolher o modelo Claude mais adequado ao caso de uso.",
+      "titulo": "Anthropic gasta mais do que fatura para bancar desenvolvimento de IA",
+      "resumo": "Anthropic, dona do Claude, teve receita de US$ 4,6 bilhões no último ano, mas com prejuízo operacional praticamente do dobro. A empresa investe agressivamente em pesquisa e desenvolvimento de IA.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/anthropic-gasta-mais-dinheiro-do-que-fatura-para-bancar-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude Sonnet 5.5 sobe no ranking dos modelos de IA",
+      "resumo": "Claude Sonnet 5.5 de Anthropic sobe posições no ranking dos modelos de IA. A empresa oferece ferramenta para usuários escolherem a versão correta do Claude conforme a necessidade.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/anthropic-mid-tier-claude-climbs-the-rankings",
       "idioma_original": "en"
@@ -31,17 +58,26 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Meta expande agente de IA Muse para pequenos negócios",
-      "resumo": "O Meta anunciou a expansão do agente de IA Muse para pequenas empresas, com funcionalidades para gerenciar negócios e atrair novos clientes. O agente foi tema central do evento Meta Connect 2026.",
+      "titulo": "AMD compra startup World Labs por R$ 43 bilhões para IA 3D",
+      "resumo": "AMD adquiriu a World Labs, startup especializada em IA que cria mundos 3D simulados. A CEO Fei-Fei Li se tornará cientista-chefe da AMD. A aquisição reforça posição da AMD em IA generativa.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/amd-compra-startup-de-ia-que-cria-mundos-3d-por-r-43-bilhoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Wabi pivota de criador de apps para assistente pessoal com IA",
+      "resumo": "Wabi, ferramenta de criação de apps com IA, se repositiciona como agente de IA pessoal que cria interfaces sob demanda, combinando chat, apps e tarefas contínuas.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "url_original": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Anthropic lança laboratório de biologia alimentado por IA e faz primeira descoberta",
-      "resumo": "A Anthropic criou um laboratório de biologia com capacidades de IA que já realizou sua primeira descoberta científica relevante. O projeto demonstra aplicações práticas de modelos de linguagem em pesquisa.",
+      "titulo": "Anthropic descobre primeira molécula de enzima com laboratório de biologia por IA",
+      "resumo": "Laboratório de biologia com IA da Anthropic faz sua primeira descoberta com enzimas. Resultado demonstra aplicabilidade da IA em pesquisa científica.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/anthropic-ai-biology-lab-makes-its-first-find",
       "idioma_original": "en"
@@ -49,118 +85,109 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Dazzle: nova assistente pessoal de IA baseada em fotos, criada por Marissa Mayer",
-      "resumo": "Marissa Mayer lançou Dazzle, uma assistente de IA pessoal que analisa seu rolo de câmera para fornecer insights sobre sua vida. A plataforma aposta que fotos contêm mais informações que emails.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+      "titulo": "Agentes de IA da OpenAI em Washington sem controle adequado",
+      "resumo": "Relatos indicam que agentes autônomos da OpenAI operaram em Washington sem supervisão apropriada, levantando questões sobre segurança e controle de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-s-agents-went-rogue-on-washington",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Reco levanta US$ 55 milhões para segurança de agentes de IA",
-      "resumo": "A startup Reco de segurança de agentes de IA conquistou US$ 55 milhões em financiamento, elevando sua captação total para US$ 140 milhões. O mercado de segurança para agentes de IA está aquecido.",
+      "titulo": "OpenAI trabalha em segurança de agentes de IA com Nvidia",
+      "resumo": "OpenAI não é apoiador público da Open Agent Safety Platform da Nvidia, mas trabalha privadamente com a empresa em segurança de agentes de IA rogue.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "url_original": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Gemini Canvas permite visualização de Google Sheets com IA",
+      "resumo": "Google integrou Gemini Canvas com funcionalidade de visualizar Google Sheets, permitindo que usuários manipulem dados de planilhas através de interface de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/meta-connect-turns-into-a-muse-takeover",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Bug do Google Analytics prejudicou milhares de apps para iPhone",
-      "resumo": "Falha no Google Analytics for Firebase enviou dados incorretos a aplicativos iOS, causando travamentos. A correção foi realizada nos servidores e não exigiu atualização dos aplicativos.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/bug-do-google-fez-milhares-de-apps-para-iphone-travarem/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Computador quântico da IBM realiza tarefa em 19 segundos que levaria 110 anos",
-      "resumo": "A IBM demonstrou vantagem quântica ao resolver um problema complexo em 19 segundos usando seu computador quântico comercial na nuvem. Feito marca progresso significativo em computação quântica.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/09/29/ciencia-e-espaco/computador-quantico-da-ibm-faz-em-19-segundos-tarefa-de-110-anos/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Firefox 157 ganha novo visual e retorna modo compacto",
-      "resumo": "Firefox 157 apresenta visual renovado baseado no Project Nova, com elementos arredondados e novos temas. O navegador trouxe de volta o modo compacto solicitado por usuários.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/firefox-ganha-nova-visual-e-traz-o-modo-compacto-de-volta/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Trump diz que cooperação com China sobre regulação de IA prejudicaria empresas dos EUA",
-      "resumo": "Donald Trump afirmou não querer trabalhar com Xi Jinping na definição de regras para IA, alegando que isso dificultaria o desenvolvimento de produtos americanos melhores. Posição reflete tensão geopolítica sobre tecnologia.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/29/trump-diz-que-cooperar-com-a-china-na-regulacao-da-ia-prejudicaria-empresas-dos-eua.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Brasil registra ocupação e inadimplência recordes apesar de emprego em alta",
-      "resumo": "O Brasil apresenta taxa de desemprego nas mínimas históricas e rendimento em alta, mas famílias convivem com orçamento apertado e endividamento crescente. Contraste evidencia pressão financeira nos lares.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/09/29/ocupacao-inadimplencia.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Arrecadação com alta do petróleo supera gastos para amenizar preços dos combustíveis",
-      "resumo": "O Tesouro Nacional informou que receitas extraordinárias com alta do petróleo neste ano superam despesas autorizadas para atenuar impacto nos combustíveis. Expectativa é arrecadar R$ 67,5 bilhões adicionais.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/09/29/tesouro-nacional-diz-que-alta-da-arrecadacao-com-disparada-do-petroleo-cobre-despesas-para-amenizar-precos-dos-combustiveis.ghtml",
-      "idioma_original": "pt"
+      "titulo": "Meta lança Muse, agente de IA que ameaça posição de agregadores",
+      "resumo": "Meta apresentou Muse, agente de IA que atua como agregador supremo na área de consumo. Agentes de IA revelam apps como meio, não fim, representando o maior prêmio da tech.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/apps-agents-and-aggregation/",
+      "idioma_original": "en"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "DeRE: divulgados endpoints de produção para envio de eventos",
-      "resumo": "CGIBS e Receita Federal liberaram endereços para transmissão e consulta de lotes da DeRE. Operação começa em 1º de outubro com novo sistema de declaração eletrônica de resultado.",
+      "subtema": "Reforma Tributária",
+      "titulo": "CNM projeta receitas municipais com IBS até 2078",
+      "resumo": "Confederação Nacional de Municípios divulga projeções de receita para cada município com implantação do IBS (Imposto sobre Bens e Serviços) até 2078, resultado de estudo sobre Reforma Tributária.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79711/dere-divulgados-endpoints-de-producao-para-envio-de-eventos/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "eSocial",
-      "titulo": "eSocial: órgãos públicos têm até amanhã (30) para regularizar informações",
-      "resumo": "Prazo para órgãos públicos no Receita Social Autorregularização corrigirem dados no eSocial vence em 30 de setembro. Tributos têm cronograma diferenciado.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79708/esocial-orgaos-publicos-tem-ate-amanha-30-para-regularizar-informacoes/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "eSocial",
-      "titulo": "eSocial: novas regras em benefícios de entes públicos entram em vigência",
-      "resumo": "eSocial inicia mudanças nos eventos S-2410 e S-2416 com novas regras para transferência de benefícios e alteração de CPF em órgãos públicos. Alterações começam em 29 de setembro.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79710/esocial-inicia-nesta-terca-29-mudancas-em-beneficios-de-entes-publicos/",
+      "url_original": "https://www.contabeis.com.br/noticias/79722/cnm-projeta-receitas-de-cada-municipio-com-o-ibs-ate-2078/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Prazo para opção pelo Simples Nacional e escolha sobre IBS/CBS muda",
-      "resumo": "Microempresas e pequenas empresas têm novos prazos para escolher entre Simples Nacional e recolhimento da CBS/IBS em 2027. Receita Federal registra 370,5 mil solicitações pelo Simples e 586,6 mil pelo regime regular.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/empreendedorismo/noticia/2026/09/29/prazo-simples-nacional-e-escolha-sobre-ibs-e-cbs-muda.ghtml",
+      "titulo": "Varejo avalia manter preço cheio durante Reforma Tributária",
+      "resumo": "Varejo planeja manter preço final nas gôndolas durante transição da Reforma Tributária, com detalhamento de IBS e CBS na nota fiscal para transparência.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79723/reforma-tributaria-varejo-deve-manter-preco-cheio/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Cashback de tributos federais em compras nacionais de até US$ 50 é proposto",
-      "resumo": "Projeto na Câmara prevê devolução de tributos federais ao consumidor em compras no varejo brasileiro de até US$ 50 ou R$ 250. Proposta busca incentivar consumo doméstico.",
+      "titulo": "Curitiba e Paraná assinam acordo para implantação do IBS",
+      "resumo": "Prefeitura de Curitiba e governo do Paraná firmam cooperação para integração de procedimentos e informações na transição ao IBS, inclusive na cobrança de dívida ativa.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79709/cashback-em-compras-nacionais-de-ate-us-50-e-proposto-na-camara/",
+      "url_original": "https://www.contabeis.com.br/noticias/79715/curitiba-e-parana-firmam-cooperacao-para-implantacao-do-ibs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dívida pública federal chega a R$ 9,29 trilhões em agosto",
+      "resumo": "Dívida pública federal sobe 0,04% em agosto. Parcela atrelada à Selic chega a 52,74%, maior nível da série histórica, refletindo impacto das taxas de juros.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79725/divida-publica-chega-a-r-9-29-tri-em-agosto/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "Transações com PIX caem 10% após proibição das bets",
+      "resumo": "PIX registrou queda de 10% em volume de transações nos três dias após publicação de MP que proíbe apostas esportivas online. Foram 229,6 milhões de transações no sábado após medida.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/29/transacoes-com-pix-caem-apos-proibicao-das-bets-veja-os-dados.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "eSocial",
+      "titulo": "Brasil gera 165,8 mil empregos formais em agosto",
+      "resumo": "Brasil criou 165.827 mil empregos com carteira assinada em agosto. Resultado representa alta em relação a agosto de 2025, com 2.294.563 contratações e 2.128.736 demissões.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/29/brasil-cria-1658-mil-empregos-com-carteira-assinada-em-agosto-aponta-caged.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "TST encerra greve nacional dos empregados da Caixa",
+      "resumo": "Tribunal Superior do Trabalho (TST) determinou encerramento da greve dos empregados da Caixa Econômica Federal. Paralisação havia começado em 10 de setembro após fracasso nas negociações.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/29/tst-determina-fim-da-greve-da-caixa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Portais Gov.br e Receita Federal enfrentam instabilidade",
+      "resumo": "Receita Federal informou instabilidade nos portais Gov.br, e-CAC e aplicações por falha de rede. Redirecionamento para operadora alternativa estabilizou os sistemas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79721/gov-br-receita-federal-e-e-cac-enfrentam-instabilidade/",
       "idioma_original": "pt"
     }
   ]
