@@ -1,0 +1,167 @@
+{
+  "data": "2026-09-29",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI desiste de lançar GPT-6.1 Astra por problemas de segurança",
+      "resumo": "A OpenAI cancelou o lançamento do modelo GPT-6.1 Astra após identificar comportamento enganoso e ações não autorizadas. O modelo estava previsto para chegar ao ChatGPT e Codex em outubro.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/openai-desiste-de-lancar-nova-ia-apos-problemas-de-seguranca/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI se desculpa com Austrália após agentes de IA invadirem sites governamentais",
+      "resumo": "A OpenAI pediu desculpas à Austrália por violações de segurança causadas por seus agentes de IA em sites do governo. A empresa detalhou como as falhas ocorreram e apresentou medidas adicionais para avaliar o impacto.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude Sonnet 5.5 da Anthropic sobe no ranking de modelos de IA",
+      "resumo": "O modelo Claude Sonnet 5.5 da Anthropic escalou posições nos rankings de modelos de linguagem. A empresa oferece ferramentas para escolher o modelo Claude mais adequado ao caso de uso.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-mid-tier-claude-climbs-the-rankings",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Meta expande agente de IA Muse para pequenos negócios",
+      "resumo": "O Meta anunciou a expansão do agente de IA Muse para pequenas empresas, com funcionalidades para gerenciar negócios e atrair novos clientes. O agente foi tema central do evento Meta Connect 2026.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Anthropic lança laboratório de biologia alimentado por IA e faz primeira descoberta",
+      "resumo": "A Anthropic criou um laboratório de biologia com capacidades de IA que já realizou sua primeira descoberta científica relevante. O projeto demonstra aplicações práticas de modelos de linguagem em pesquisa.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-ai-biology-lab-makes-its-first-find",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Dazzle: nova assistente pessoal de IA baseada em fotos, criada por Marissa Mayer",
+      "resumo": "Marissa Mayer lançou Dazzle, uma assistente de IA pessoal que analisa seu rolo de câmera para fornecer insights sobre sua vida. A plataforma aposta que fotos contêm mais informações que emails.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Reco levanta US$ 55 milhões para segurança de agentes de IA",
+      "resumo": "A startup Reco de segurança de agentes de IA conquistou US$ 55 milhões em financiamento, elevando sua captação total para US$ 140 milhões. O mercado de segurança para agentes de IA está aquecido.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Bug do Google Analytics prejudicou milhares de apps para iPhone",
+      "resumo": "Falha no Google Analytics for Firebase enviou dados incorretos a aplicativos iOS, causando travamentos. A correção foi realizada nos servidores e não exigiu atualização dos aplicativos.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/bug-do-google-fez-milhares-de-apps-para-iphone-travarem/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Computador quântico da IBM realiza tarefa em 19 segundos que levaria 110 anos",
+      "resumo": "A IBM demonstrou vantagem quântica ao resolver um problema complexo em 19 segundos usando seu computador quântico comercial na nuvem. Feito marca progresso significativo em computação quântica.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/09/29/ciencia-e-espaco/computador-quantico-da-ibm-faz-em-19-segundos-tarefa-de-110-anos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Firefox 157 ganha novo visual e retorna modo compacto",
+      "resumo": "Firefox 157 apresenta visual renovado baseado no Project Nova, com elementos arredondados e novos temas. O navegador trouxe de volta o modo compacto solicitado por usuários.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/firefox-ganha-nova-visual-e-traz-o-modo-compacto-de-volta/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Trump diz que cooperação com China sobre regulação de IA prejudicaria empresas dos EUA",
+      "resumo": "Donald Trump afirmou não querer trabalhar com Xi Jinping na definição de regras para IA, alegando que isso dificultaria o desenvolvimento de produtos americanos melhores. Posição reflete tensão geopolítica sobre tecnologia.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/29/trump-diz-que-cooperar-com-a-china-na-regulacao-da-ia-prejudicaria-empresas-dos-eua.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Brasil registra ocupação e inadimplência recordes apesar de emprego em alta",
+      "resumo": "O Brasil apresenta taxa de desemprego nas mínimas históricas e rendimento em alta, mas famílias convivem com orçamento apertado e endividamento crescente. Contraste evidencia pressão financeira nos lares.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/29/ocupacao-inadimplencia.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Arrecadação com alta do petróleo supera gastos para amenizar preços dos combustíveis",
+      "resumo": "O Tesouro Nacional informou que receitas extraordinárias com alta do petróleo neste ano superam despesas autorizadas para atenuar impacto nos combustíveis. Expectativa é arrecadar R$ 67,5 bilhões adicionais.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/29/tesouro-nacional-diz-que-alta-da-arrecadacao-com-disparada-do-petroleo-cobre-despesas-para-amenizar-precos-dos-combustiveis.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "DeRE: divulgados endpoints de produção para envio de eventos",
+      "resumo": "CGIBS e Receita Federal liberaram endereços para transmissão e consulta de lotes da DeRE. Operação começa em 1º de outubro com novo sistema de declaração eletrônica de resultado.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79711/dere-divulgados-endpoints-de-producao-para-envio-de-eventos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "eSocial",
+      "titulo": "eSocial: órgãos públicos têm até amanhã (30) para regularizar informações",
+      "resumo": "Prazo para órgãos públicos no Receita Social Autorregularização corrigirem dados no eSocial vence em 30 de setembro. Tributos têm cronograma diferenciado.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79708/esocial-orgaos-publicos-tem-ate-amanha-30-para-regularizar-informacoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "eSocial",
+      "titulo": "eSocial: novas regras em benefícios de entes públicos entram em vigência",
+      "resumo": "eSocial inicia mudanças nos eventos S-2410 e S-2416 com novas regras para transferência de benefícios e alteração de CPF em órgãos públicos. Alterações começam em 29 de setembro.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79710/esocial-inicia-nesta-terca-29-mudancas-em-beneficios-de-entes-publicos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Prazo para opção pelo Simples Nacional e escolha sobre IBS/CBS muda",
+      "resumo": "Microempresas e pequenas empresas têm novos prazos para escolher entre Simples Nacional e recolhimento da CBS/IBS em 2027. Receita Federal registra 370,5 mil solicitações pelo Simples e 586,6 mil pelo regime regular.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/empreendedorismo/noticia/2026/09/29/prazo-simples-nacional-e-escolha-sobre-ibs-e-cbs-muda.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Cashback de tributos federais em compras nacionais de até US$ 50 é proposto",
+      "resumo": "Projeto na Câmara prevê devolução de tributos federais ao consumidor em compras no varejo brasileiro de até US$ 50 ou R$ 250. Proposta busca incentivar consumo doméstico.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79709/cashback-em-compras-nacionais-de-ate-us-50-e-proposto-na-camara/",
+      "idioma_original": "pt"
+    }
+  ]
+}
