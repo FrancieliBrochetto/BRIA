@@ -1,0 +1,131 @@
+{
+  "data": "2026-09-30",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Trump anuncia IA própria do governo dos Estados Unidos",
+      "resumo": "O governo dos EUA reformulou o site America.gov com um chatbot de IA para acesso a serviços públicos. Projeto foi liderado pelo cofundador do Airbnb.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/trump-anuncia-nova-ia-propria-do-governo-dos-estados-unidos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "DoorDash lança agente de IA para pedidos por texto",
+      "resumo": "A plataforma de entrega lançou um agente de IA que permite fazer pedidos via mensagens de texto. Movimento visa ganhar vantagem competitiva sobre Uber Eats e Grubhub.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude Sonnet 5.5 da Anthropic sobe no ranking de modelos",
+      "resumo": "A versão intermediária da Anthropic (Claude Sonnet) ganhou posições nos rankings de desempenho de modelos de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-mid-tier-claude-climbs-the-rankings",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Startup Restate arrecada US$ 20 milhões para infraestrutura de agentes de IA",
+      "resumo": "A Restate levantou funding para sua plataforma de execução durável de agentes de IA. Desenvolveu própria camada de armazenamento, replicação e redundância.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI apresenta produto Dot com agentes sempre ativos",
+      "resumo": "OpenAI anunciou no Dev Day o produto Dot, focado em agentes de IA que funcionam continuamente. Inclui novo recurso 'Sign In With ChatGPT'.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Pesquisadora Timnit Gebru ganha prêmio 'Nobel alternativo' por IA ética",
+      "resumo": "Timnit Gebru, ex-funcionária do Google, conquistou o prêmio Right Livelihood por trabalho em tecnologia justa e ética.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/09/30/inteligencia-artificial/pesquisadora-demitida-pelo-google-ganha-premio-nobel-alternativo/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Meta lança agente Muse; relato sobre privacidade levanta preocupações",
+      "resumo": "YouTuber afirma que o agente Muse da Meta forneceu seu endereço a um estranho sem autorização explícita. Caso destaca riscos de privacidade em agentes de IA.",
+      "fonte": "G1",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/30/youtuber-diz-que-agente-de-ia-da-meta-forneceu-seu-endereco-a-um-estranho-e-a-pessoa-apareceu-na-casa-dele.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "WhatsApp ganha novos controles parentais para adolescentes",
+      "resumo": "WhatsApp anunciou recursos de controle parental para adolescentes no Brasil. Permite que pais ajustem como menores usam o app, incluindo nomes de usuário sem número.",
+      "fonte": "G1",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/30/whatsapp-anuncia-novos-controles-parentais-para-adolescentes-no-brasil.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "CEO da Bridgewater alerta que IA pode provocar 'colapso social'",
+      "resumo": "Nir Bar Dea afirma que IA pode eliminar 18% dos empregos americanos se governos e empresas não se prepararem. Analista alerta para riscos sociais da automação em massa.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ceo-da-bridgewater-alerta-que-ia-ameaca-provocar-colapso-social/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Justiça Federal manda Discord reforçar proteção de crianças",
+      "resumo": "Decisão da Justiça Federal atende pedido da AGU e determina medidas de segurança imediatas na plataforma. Multa diária pode chegar a R$ 100 mil.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/brasil/justica-manda-discord-reforcar-protecao-de-criancas-e-adolescentes-sob-pena-de-multa/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "PGFN encerra hoje prazo para negociar dívidas de até R$ 45 milhões",
+      "resumo": "Contribuintes têm até 30 de setembro para aderir à transação da PGFN com entrada facilitada, prazo ampliado e descontos conforme capacidade de pagamento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79743/pgfn-encerra-hoje-30-prazo-para-negociar-dividas-de-ate-r-45-mi/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "DCTFWeb de agosto e outras declarações vencem hoje",
+      "resumo": "Vencem em 30 de setembro as declarações DCTFWeb, DITR, DeCripto, DME e DOI. Contribuintes devem observar prazos para evitar multas da Receita Federal.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79741/dctfweb-de-agosto-e-outras-declaracoes-vencem-hoje-30/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Decreto 13.012/2026 redefine funções de porteiro e vigilante",
+      "resumo": "Novo decreto esclarece os limites entre as funções de porteiro e vigilante. Impacta classificação profissional e obrigações fiscais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79751/porteiro-virou-vigilante-o-que-realmente-muda-com-o-decreto-13-012-2026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Carf mantém negativa a projeto enquadrado na Lei do Bem",
+      "resumo": "Decisão do Carf esclarece que pareceres de órgãos vinculados ao MCTI não substituem avaliação oficial para projetos da Lei do Bem.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79747/lei-do-bem-carf-mantem-negativa-a-projeto-de-inovacao/",
+      "idioma_original": "pt"
+    }
+  ]
+}
