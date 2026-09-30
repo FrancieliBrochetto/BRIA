@@ -3,27 +3,36 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Trump anuncia IA própria do governo dos Estados Unidos",
-      "resumo": "O governo dos EUA reformulou o site America.gov com um chatbot de IA para acesso a serviços públicos. Projeto foi liderado pelo cofundador do Airbnb.",
+      "subtema": "Automação",
+      "titulo": "IA do Instagram ajuda influenciadores a melhorarem posts",
+      "resumo": "O assistente Edits do Instagram analisa métricas das contas para sugerir temas, roteiros e legendas que podem melhorar o desempenho dos conteúdos de influenciadores.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/trump-anuncia-nova-ia-propria-do-governo-dos-estados-unidos/",
+      "url_original": "https://tecnoblog.net/noticias/ia-do-instagram-ajuda-influenciadores-a-melhorarem-os-posts/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "DoorDash lança agente de IA para pedidos por texto",
-      "resumo": "A plataforma de entrega lançou um agente de IA que permite fazer pedidos via mensagens de texto. Movimento visa ganhar vantagem competitiva sobre Uber Eats e Grubhub.",
-      "fonte": "TechCrunch",
-      "url_original": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "titulo": "McDonald's usa IA para mudar preços e pressionar franqueados",
+      "resumo": "A McDonald's implementa sistema de IA que altera preços dinamicamente entre lojas da mesma cidade, com diferenças chegando a 21% no valor de lanches, impactando a rentabilidade dos franqueados.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/mcdonalds-usa-ia-para-mudar-precos-e-pressionar-franqueados/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI apresenta Dot, novo agente de IA sempre ativo",
+      "resumo": "OpenAI lançou o Dot, um agente de IA que funciona continuamente para auxiliar usuários. A empresa também apresenta a Decisions API, um serviço que oferece inteligência rápida e econômica.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-connects-the-dots-on-always-on-agents",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Claude Sonnet 5.5 da Anthropic sobe no ranking de modelos",
-      "resumo": "A versão intermediária da Anthropic (Claude Sonnet) ganhou posições nos rankings de desempenho de modelos de IA.",
+      "titulo": "Claude Sonnet 5.5 sobe em rankings de modelos de IA",
+      "resumo": "O modelo mid-tier Claude Sonnet 5.5 da Anthropic avançou nos rankings de desempenho, consolidando a posição da empresa no mercado de modelos de linguagem.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/anthropic-mid-tier-claude-climbs-the-rankings",
       "idioma_original": "en"
@@ -31,100 +40,127 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Startup Restate arrecada US$ 20 milhões para infraestrutura de agentes de IA",
-      "resumo": "A Restate levantou funding para sua plataforma de execução durável de agentes de IA. Desenvolveu própria camada de armazenamento, replicação e redundância.",
-      "fonte": "TechCrunch",
-      "url_original": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI apresenta produto Dot com agentes sempre ativos",
-      "resumo": "OpenAI anunciou no Dev Day o produto Dot, focado em agentes de IA que funcionam continuamente. Inclui novo recurso 'Sign In With ChatGPT'.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/",
+      "titulo": "Startup de IA de voz ElevenLabs dobra valuation para US$ 22 bilhões",
+      "resumo": "A ElevenLabs, especializada em síntese de voz por IA, duplicou sua avaliação através de uma rodada de investimento de US$ 300 milhões liderada por Wellington e T. Rowe Price.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Pesquisadora Timnit Gebru ganha prêmio 'Nobel alternativo' por IA ética",
-      "resumo": "Timnit Gebru, ex-funcionária do Google, conquistou o prêmio Right Livelihood por trabalho em tecnologia justa e ética.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/09/30/inteligencia-artificial/pesquisadora-demitida-pelo-google-ganha-premio-nobel-alternativo/",
-      "idioma_original": "pt"
+      "titulo": "Reddit encerra RSS e acesso à API pública para conter bots de IA",
+      "resumo": "Reddit descontinua suporte a feeds RSS e encerra acesso público à API como medida para controlar bots de IA que acessam conteúdo gerado por usuários sem permissão.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Meta lança agente Muse; relato sobre privacidade levanta preocupações",
-      "resumo": "YouTuber afirma que o agente Muse da Meta forneceu seu endereço a um estranho sem autorização explícita. Caso destaca riscos de privacidade em agentes de IA.",
-      "fonte": "G1",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/30/youtuber-diz-que-agente-de-ia-da-meta-forneceu-seu-endereco-a-um-estranho-e-a-pessoa-apareceu-na-casa-dele.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "WhatsApp ganha novos controles parentais para adolescentes",
-      "resumo": "WhatsApp anunciou recursos de controle parental para adolescentes no Brasil. Permite que pais ajustem como menores usam o app, incluindo nomes de usuário sem número.",
-      "fonte": "G1",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/30/whatsapp-anuncia-novos-controles-parentais-para-adolescentes-no-brasil.ghtml",
-      "idioma_original": "pt"
+      "titulo": "Meta nega acesso de agente Muse a mensagens privadas sem permissão",
+      "resumo": "Meta rebate alegações de que seu agente Muse acessou mensagens privadas sem autorização explícita, afirmando que o sistema só acessa mensagens com consentimento do usuário.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "CEO da Bridgewater alerta que IA pode provocar 'colapso social'",
-      "resumo": "Nir Bar Dea afirma que IA pode eliminar 18% dos empregos americanos se governos e empresas não se prepararem. Analista alerta para riscos sociais da automação em massa.",
+      "titulo": "Agentes de IA do OpenAI invadem sistemas; FTC abre investigação inédita",
+      "resumo": "A FTC abriu primeira investigação regulatória sobre IA após agentes do OpenAI e Anthropic invadirem sistemas de computadores. OpenAI confirma que o ataque atingiu mais alvos do que inicialmente divulgado.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/09/30/eua-abrem-investigacao-inedita-sobre-openai-e-anthropic-apos-agentes-de-ia-invadirem-sistemas.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Economia questionável da IA para consumidor preocupa empresas de tecnologia",
+      "resumo": "Laboratórios de IA têm se mostrado cautelosos com produtos de consumidor devido aos altos custos operacionais e dificuldades de monetização viável.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Brasil e EUA criam grupo de trabalho para negociar tarifas e comércio",
+      "resumo": "Após encontro entre Lula e Trump em agosto, representantes dos dois países decidiram acelerar negociações bilaterais para discutir barreiras tarifárias e não-tarifárias.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/ceo-da-bridgewater-alerta-que-ia-ameaca-provocar-colapso-social/",
+      "url_original": "https://www.infomoney.com.br/economia/brasil-e-eua-criam-grupo-de-trabalho-para-negociar-tarifas-e-ampliar-acordo-comercial/",
       "idioma_original": "pt"
     },
     {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Justiça Federal manda Discord reforçar proteção de crianças",
-      "resumo": "Decisão da Justiça Federal atende pedido da AGU e determina medidas de segurança imediatas na plataforma. Multa diária pode chegar a R$ 100 mil.",
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "IRB: redução de tarifas deve impulsionar resultados com ganho de até 30%",
+      "resumo": "Analistas apontam que a sanção integral da lei de redução de tarifas pode acelerar os resultados da IRB, com potencial de ganho de valor de até 30%.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/brasil/justica-manda-discord-reforcar-protecao-de-criancas-e-adolescentes-sob-pena-de-multa/",
+      "url_original": "https://www.infomoney.com.br/mercados/irb-reducao-de-tarifas-deve-impulsionar-resultados-e-ganho-de-valor-pode-ir-a-30/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Paramount recebe aprovação para completar compra da Warner Bros.",
+      "resumo": "Juíza dos EUA autoriza conclusão da aquisição da Warner Bros. pela Paramount, transação avaliada em US$ 110 bilhões que estava em impasse há meses.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/09/30/juiz-dos-eua-emite-ordem-permitindo-que-a-paramount-conclua-a-aquisicao-da-warner-bros.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Incerteza econômica recua em setembro, mas segue em patamar alto",
+      "resumo": "Índice de Incerteza da Economia (IIE-Br) da FGV caiu 0,9 ponto em setembro puxado por melhora nas expectativas de inflação, mas tensões políticas e internacionais impedem alívio sustentado.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/economia/recuo-da-incerteza-economica-em-setembro-e-pontual-e-patamar-segue-alto-diz-fgv/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "PGFN encerra hoje prazo para negociar dívidas de até R$ 45 milhões",
-      "resumo": "Contribuintes têm até 30 de setembro para aderir à transação da PGFN com entrada facilitada, prazo ampliado e descontos conforme capacidade de pagamento.",
+      "subtema": "eSocial",
+      "titulo": "Admissão preliminar no eSocial: prazo e riscos do S-2200",
+      "resumo": "Empresas que enviaram S-2190 devem completar admissão com S-2200 dentro do prazo. Não envio gera alerta no fechamento da folha e afeta outros eventos do eSocial.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79743/pgfn-encerra-hoje-30-prazo-para-negociar-dividas-de-ate-r-45-mi/",
+      "url_original": "https://www.contabeis.com.br/noticias/79744/admissao-preliminar-no-esocial-prazo-e-riscos-de-nao-enviar-o-s-2200/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "DCTFWeb de agosto e outras declarações vencem hoje",
-      "resumo": "Vencem em 30 de setembro as declarações DCTFWeb, DITR, DeCripto, DME e DOI. Contribuintes devem observar prazos para evitar multas da Receita Federal.",
+      "subtema": "Reforma Tributária",
+      "titulo": "Simples Nacional: quando contribuição patronal fica fora do DAS",
+      "resumo": "Empresas do Anexo IV do Simples Nacional recolhem contribuição previdenciária patronal fora do DAS. Sistema também se aplica a atividades mistas e MEI com empregado.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79741/dctfweb-de-agosto-e-outras-declaracoes-vencem-hoje-30/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Decreto 13.012/2026 redefine funções de porteiro e vigilante",
-      "resumo": "Novo decreto esclarece os limites entre as funções de porteiro e vigilante. Impacta classificação profissional e obrigações fiscais.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79751/porteiro-virou-vigilante-o-que-realmente-muda-com-o-decreto-13-012-2026/",
+      "url_original": "https://www.contabeis.com.br/noticias/79748/simples-nacional-quando-a-contribuicao-patronal-fica-fora-do-das/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "Carf mantém negativa a projeto enquadrado na Lei do Bem",
-      "resumo": "Decisão do Carf esclarece que pareceres de órgãos vinculados ao MCTI não substituem avaliação oficial para projetos da Lei do Bem.",
+      "titulo": "Pagou DAS-MEI duas vezes? Solicite restituição conforme o tributo",
+      "resumo": "Pagamento duplicado de DAS-MEI pode ser restituído, mas o procedimento depende do tipo de tributo e do órgão responsável pela cobrança.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/79747/lei-do-bem-carf-mantem-negativa-a-projeto-de-inovacao/",
+      "url_original": "https://www.contabeis.com.br/noticias/79752/pagou-das-mei-duas-vezes-veja-como-solicitar-a-restituicao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Dividendos: Justiça afasta IR de empresa do Simples Nacional",
+      "resumo": "Justiça Federal de São Paulo anulou retenção de 10% sobre dividendos pagos por empresa do Simples Nacional. Decisão ainda pode ser revista em instância superior.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79749/dividendos-justica-afasta-ir-de-empresa-do-simples/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Brasil cria 165,8 mil empregos formais em agosto",
+      "resumo": "Novo Caged registra criação de 165,8 mil vagas de emprego formal em agosto, com setor de serviços liderando a abertura de postos no período.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79750/novo-caged-brasil-cria-165-8-mil-vagas-em-agosto/",
       "idioma_original": "pt"
     }
   ]
