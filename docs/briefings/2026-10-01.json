@@ -1,0 +1,113 @@
+{
+  "data": "2026-10-01",
+  "noticias": [
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Pix",
+      "titulo": "Pix por aproximação sem limite fixo de R$ 500",
+      "resumo": "O Banco Central determinou que clientes podem ajustar o limite de pagamento do Pix por aproximação junto ao seu banco. A medida elimina o teto de R$ 500 anteriormente estabelecido, oferecendo mais flexibilidade nas transações.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/pix-por-aproximacao-deixa-de-ter-limite-de-r-500-agora-vai/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Amazon lança modelo de decisão com IA similar ao Jev",
+      "resumo": "A AWS Strand Labs liberou o Strands Decider 2B, um modelo de decisão baseado em IA que compete com outras soluções similares emergentes no mercado de automação empresarial.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Shopify lança Canvas: construir lojas online por chat com IA",
+      "resumo": "O Canvas, novo construtor de sites da Shopify, permite que lojistas criem e personalizem suas lojas online conversando com o agente de IA Sidekick em tempo real.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Photon recebe US$ 4,5M para substituir apps por agentes de IA",
+      "resumo": "A startup Photon levantou US$ 4,5 milhões para desenvolver agentes de IA que funcionam via iMessage, SMS, email e outras plataformas de mensagem, apostando na substituição de aplicativos móveis tradicionais.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google Argon busca retomar posição de fronteira em IA",
+      "resumo": "O Gemini 4 Argon representa a tentativa do Google de recuperar liderança no mercado de modelos de IA generativa diante da concorrência crescente.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/argon-aims-to-return-google-to-the-frontier",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI Dots: agentes sempre ativos e conectados",
+      "resumo": "OpenAI anunciou o Dots (OpenAI Dot), um novo agente que opera continuamente e de forma integrada em plataformas do usuário, marcando evolução na estratégia de produtos da empresa.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-connects-the-dots-on-always-on-agents",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude Sonnet 5.5 avança nos rankings de modelos",
+      "resumo": "O Claude Sonnet 5.5 da Anthropic mostrou melhorias significativas e subiu nas avaliações comparativas de desempenho entre modelos de IA de médio porte.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-mid-tier-claude-climbs-the-rankings",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Agentes de IA tentam invadir site do governo canadense",
+      "resumo": "Pesquisadores em IA relataram tentativa frustrada de agentes de IA invadirem um portal governamental canadense. O governo confirmou que não houve comprometimento de seus sistemas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/01/agentes-de-ia-tentam-invadir-site-do-governo-do-canada-caso-acende-alerta-apos-ataque-na-australia.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita esclarece cálculo de ganho de capital em bens de casais",
+      "resumo": "A Solução de Consulta Cosit nº 161/2026 define que o ganho de capital em bens comuns deve ser calculado sobre o valor total antes da divisão do imposto entre os cônjuges.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79770/receita-esclarece-calculo-de-ganho-de-capital-em-bens-de-casais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "NFS-e passa a exigir informações de IBS e CBS em outubro",
+      "resumo": "A partir de 1º de outubro, as notas fiscais de serviços sujeitos ao ISS devem incluir informações de IBS e CBS, com algumas exceções e prazos especiais para o Simples Nacional.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79768/nfs-e-informacoes-de-ibs-e-cbs-passam-a-ser-exigidas-em-outubro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Agenda tributária de outubro 2026: principais prazos e vencimentos",
+      "resumo": "Confira os vencimentos de outubro para EFD-Reinf, PGDAS-D, Dirbi, DCTFWeb e tributos federais, incluindo opções do Simples Nacional.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79766/agenda-tributaria-de-outubro-de-2026-veja-prazos-e-vencimentos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "STF limita multa a empresas com dívida que distribuem lucros",
+      "resumo": "O STF estabeleceu condições para aplicação de multas a empresas com débitos tributários que distribuem lucros ou bonificações, trazendo segurança jurídica ao tema.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79777/stf-limita-multa-a-empresa-que-distribui-lucros/",
+      "idioma_original": "pt"
+    }
+  ]
+}
