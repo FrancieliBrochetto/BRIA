@@ -1,0 +1,149 @@
+{
+  "data": "2026-10-02",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI lança agentes autônomos 'Dots' sempre conectados",
+      "resumo": "OpenAI apresentou 'Dots', agentes de IA que funcionam de forma autônoma e contínua, representando avanço na transição de chatbots para sistemas de agentes inteligentes. A funcionalidade promete maior automação de tarefas, mas levanta questões sobre segurança e controle.",
+      "fonte": "The Rundown AI / Stratechery",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-connects-the-dots-on-always-on-agents",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google lança Gemini 4 Argon para recuperar liderança em IA",
+      "resumo": "Google apresenta Gemini 4 Argon visando retomar posição de destaque na corrida da inteligência artificial, enfrentando competição de OpenAI e Anthropic. Novo modelo busca melhorias significativas em performance e capacidades.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/argon-aims-to-return-google-to-the-frontier",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude Sonnet 5.5 da Anthropic sobe nos rankings de modelos de IA",
+      "resumo": "Modelo intermediário Claude Sonnet 5.5 da Anthropic escala posições nos rankings de desempenho de modelos de linguagem. Resultado reforça oferta diversificada da empresa em diferentes camadas de capacidade.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-mid-tier-claude-climbs-the-rankings",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Meta e OpenAI desenvolvem agentes de IA autônomos (Muse e Dots)",
+      "resumo": "Meta lança Muse e OpenAI expande Dots como agentes autônomos de IA que executam tarefas sem supervisão constante, ampliando aplicações de IA mas gerando preocupações com privacidade e segurança. Tecnologia marca transição de ferramentas para agentes independentes.",
+      "fonte": "Olhar Digital / Stratechery",
+      "url_original": "https://olhardigital.com.br/2026/10/02/inteligencia-artificial/ia-que-age-sozinha-entenda-como-funcionam-muse-e-dots-agora/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Apple desenvolve câmera residencial com IA que descreve eventos em texto",
+      "resumo": "Apple trabalha em câmera inteligente que analisa ambiente e descreve eventos em linguagem natural, sem gravar vídeos. Dispositivo faz parte do novo ecossistema de casa inteligente da empresa.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/apple-pode-lancar-camera-residencial-com-ia-mas-que-nao-grava-videos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Papa critica arte gerada por IA por falta de humanidade",
+      "resumo": "Papa Leão XIV rejeita arte gerada por IA, argumentando que máquinas carecem de 'centelha de humanidade' apesar da capacidade técnica. Crítica aponta diferença ontológica entre criação humana e cálculo estatístico.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Tavus lança IA que vê, ouve e responde em tempo real",
+      "resumo": "Tavus apresenta tecnologia de IA generativa com capacidades de visão, audição e comunicação sincrônica em tempo real. Avanço visa aplicações em atendimento ao cliente, entrevistas e interações humano-máquina.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/tavus-ai-looks-listens-and-talks-back-live",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Nvidia bate recorde e se aproxima de valer US$ 6 trilhões",
+      "resumo": "Ações da Nvidia atingem novo patamar histórico com valorização de 2,9%, impulsionadas pelo otimismo com IA e resultados sólidos. Empresa se aproxima de avaliação de US$ 6 trilhões de valor de mercado.",
+      "fonte": "G1 Economia / Olhar Digital",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/02/acoes-da-nvidia-batem-recorde-e-empresa-se-aproxima-de-valer-us-6-trilhoes.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Embraer bate recorde de entregas trimestrais mas decepciona expectativas",
+      "resumo": "Embraer entregou 66 aeronaves no Q3 2026, melhor desempenho trimestral de sua história. Apesar do recorde, analistas esperavam volumes ainda maiores para o período.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/embraer-embj3-bate-recorde-mas-nao-entrega-tudo-o-que-os-bancos-esperavam-entenda",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar e Ibovespa fecham sessão volátil antes das eleições presidenciais",
+      "resumo": "Dólar e Ibovespa operam em leve alta no último pregão antes do 1º turno das eleições presidenciais brasileiras. Mercado monitora dados econômicos dos EUA e incerteza eleitoral.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/02/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Governo adia regulamentação do Imposto Seletivo para após eleições",
+      "resumo": "Governo brasileiro deixa para pós-eleições a Medida Provisória que define alíquotas do Imposto Seletivo, previsto para começar em 2027. Adiamento evita polêmica tributária em período eleitoral.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79844/imposto-seletivo-pode-ter-aliquotas-definidas-apos-eleicoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "São Paulo prepara ação conjunta para implementação do IBS",
+      "resumo": "Procurador-Geral do Município e Procurador-Geral do Estado de SP criam agenda conjunta para antecipar discussões jurídicas da implementação do IBS (Imposto sobre Bens e Serviços). Alinhamento visa preparação prévia para novo tributo.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79839/ibs-pgm-e-pge-de-sp-preparam-atuacao-conjunta-na-reforma-tributaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "NF-e e NFC-e ganham novos campos para informar valor líquido do produto",
+      "resumo": "Nota Técnica 2026.008 cria campos para informar valor líquido de produtos e serviços em NF-e e NFC-e. Mudança entra em vigor com cronograma específico e requer cuidados no cálculo das notas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79840/nf-e-e-nfc-e-ganham-campos-para-informar-valor-liquido-do-produto/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Nota técnica atualiza regras de seis Documentos Fiscais Eletrônicos com IBS e CBS",
+      "resumo": "Nota técnica atualiza emissão de CTe, NFCom, BPe, NF3e, NFAg e NFGas com implementação de campos de valor líquido e novas regras do IBS e CBS. Mudanças obrigatórias para conformidade com reforma tributária.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79838/nota-tecnica-atualiza-regras-de-emissao-de-seis-dfes-com-ibs-e-cbs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "PL prevê indenização de até 20% por atraso salarial",
+      "resumo": "Projeto de Lei propõe indenização de 2% mais 1% por dia útil de atraso salarial, limitada a 20% do salário. Medida inclui proteção contra assédio e retaliação, fortalecendo direitos trabalhistas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79847/projeto-preve-indenizacao-de-ate-20-por-atraso-salarial/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Produtor agrícola enfrenta dilema na decisão sobre nova tributação",
+      "resumo": "Agricultores com receita anual de até R$ 3,6 milhões precisam avaliar se vale aderir à tributação pelo consumo aprovada na Reforma Tributária. CNA orienta análise individual de cada operação.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/aderir-ou-nao-a-nova-tributacao-produtor-agricola-enfrenta-dilema-diz-cna/",
+      "idioma_original": "pt"
+    }
+  ]
+}
