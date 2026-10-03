@@ -1,0 +1,131 @@
+{
+  "data": "2026-10-03",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Agentes de IA",
+      "titulo": "Agentes de IA em mensagens de texto ganham destaque",
+      "resumo": "Plataformas de mensagens agora suportam agentes de IA capazes de interagir em tempo real, desde assistentes gerais até soluções especializadas para famílias, viagens e trabalho. Essa tecnologia promete integrar automação diretamente aos canais de comunicação mais utilizados.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google lança Gemini 4 Argon para recuperar liderança",
+      "resumo": "Google apresenta novo modelo Argon como resposta aos avanços recentes de concorrentes. A atualização reforça estratégia da empresa de retornar à fronteira da inteligência artificial.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/argon-aims-to-return-google-to-the-frontier",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI lança Dots: novo agente sempre ativo",
+      "resumo": "OpenAI apresenta Dots, um agente de IA projetado para operar continuamente e auxiliar usuários. A nova funcionalidade marca transição do ChatGPT para um modelo centrado em agentes autônomos.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-connects-the-dots-on-always-on-agents",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Modelo intermediário Claude Sonnet 5.5 sobe ranking",
+      "resumo": "Antropic lança Claude Sonnet 5.5, versão intermediária que ganha posições em benchmarks. Modelo oferece melhor custo-benefício entre as opções de IA disponíveis no mercado.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-mid-tier-claude-climbs-the-rankings",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA em Hardware",
+      "titulo": "Meta libera código do Muse para integração em gadgets",
+      "resumo": "Meta disponibiliza código-aberto do Muse para que fabricantes criem dispositivos com a tecnologia. Objetivo é expandir presença da plataforma em TVs, eletrodomésticos e outros aparelhos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança",
+      "titulo": "Apple reforça controles de privacidade contra riscos de agentes IA",
+      "resumo": "Apple anuncia novas restrições no Full Disk Access do macOS devido aos riscos crescentes de agentes IA acessarem arquivos, mensagens e histórico de navegação sem autorização.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Upscaling por IA",
+      "titulo": "DLSS, FSR e XeSS: entenda as tecnologias de upscaling",
+      "resumo": "Explora diferenças entre sistemas de upscaling de IA de NVIDIA, AMD e Intel, que aumentam desempenho gráfico mantendo qualidade visual. Guia esclarece qual tecnologia faz mais sentido para diferentes perfis de usuário.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/03/games-e-consoles/upscaling-por-ia-dlss-fsr-xess-explicando-sem-jargao-tecnico/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Generative AI",
+      "titulo": "Tavus lança avatar IA que interage em tempo real",
+      "resumo": "Tavus apresenta avatar de IA capaz de ouvir, processar e responder em tempo real, integrando visão, áudio e fala. Tecnologia abre novas possibilidades para atendimento e interação automática.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/tavus-ai-looks-listens-and-talks-back-live",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Bolsa de Valores",
+      "titulo": "Eleições 2026: especialista vê oportunidades em small caps",
+      "resumo": "Analista aponta euforia no mercado com expectativa de redução de juros pós-eleições, criando oportunidades em empresas de menor capitalização. Operadores de opções devem monitorar reações às urnas.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/eleicoes-2026-pedro-albuquerque-ve-euforia-na-bolsa-oportunidade-nas-small-caps/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Energia e Commodities",
+      "titulo": "IEA: países liberaram 325 milhões de barris de petróleo",
+      "resumo": "Agência Internacional de Energia reporta que membros da IEA já liberaram 325 milhões de barris de petróleo desde março para conter alta dos preços. Estratégia busca garantir segurança do fornecimento global.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/03/paises-ja-liberaram-325-milhoes-de-barris-de-petroleo-para-conter-alta-dos-precos-diz-iea.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "EFD-Reinf retificada: DCTFWeb fica em andamento",
+      "resumo": "Ao retificar EFD-Reinf, sistema DCTFWeb pode gerar declaração retificadora com status 'em andamento'. Material explica por que isso ocorre e como resolver a situação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79705/efd-reinf-retificada-por-que-a-dctfweb-fica-em-andamento/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "NFS-e São Paulo tem novas validações e classificações",
+      "resumo": "Prefeitura de São Paulo atualiza emissor de NFS-e com mudanças no Valor Total Recebido, novas validações de classificação tributária e integração com tabela NBS. Empresas devem se adequar às exigências.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79850/nfs-e-de-sao-paulo-passa-a-ter-novas-validacoes-no-emissor/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Recolhimento pelo adquirente muda gestão fiscal em 2027",
+      "resumo": "Reforma tributária altera modelo de recolhimento com introdução do IBS e CBS a partir de 2027, impactando relação com fornecedores. Empresas devem se preparar para mudanças estruturais no sistema tributário.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79846/recolhimento-pelo-adquirente-impacto-da-reforma-tributaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Trabalhista",
+      "titulo": "TST autoriza sindicatos a defender direitos de trabalhador único",
+      "resumo": "Tribunal Superior do Trabalho publica tese vinculante reconhecendo legitimidade de sindicatos para atuar em ações individuais ou coletivas nas fases de conhecimento, liquidação e execução.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/79774/tst-define-que-sindicatos-podem-defender-direitos-de-um-unico-trabalhador/",
+      "idioma_original": "pt"
+    }
+  ]
+}
