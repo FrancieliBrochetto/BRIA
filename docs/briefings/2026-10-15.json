@@ -1,0 +1,149 @@
+{
+  "data": "2026-10-15",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Meta confirma roubo de código e dados pessoais no GitHub",
+      "resumo": "A Meta confirmou incidente de segurança que afetou cerca de 1.500 pessoas, principalmente funcionários nos EUA. Código e dados pessoais foram roubados via GitHub. A empresa não detalhou quais dados pessoais foram expostos.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/meta-confirma-roubo-de-codigo-e-dados-pessoais-no-github/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Amazon lança dois novos dispositivos de IA pessoal a partir de $75",
+      "resumo": "A Bee (adquirida pela Amazon) lançou novos dispositivos de IA: um wearable atualizado e um gravador do tamanho de cartão de crédito acoplável a smartphones. Dispositivos resumem conversas, criam listas de tarefas e se integram com Alexa e compras Amazon.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Figma anuncia novas funcionalidades para definir como agentes funcionam na plataforma",
+      "resumo": "Figma lançou recursos para estruturar como agentes de IA trabalham em sua plataforma. A empresa também liberou em beta aberto seu recurso de camadas de código.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Ricursive Intelligence aposta em chips projetados por IA para resolver crise de processamento",
+      "resumo": "A startup está desenvolvendo IA capaz de projetar chips, aprender com cada iteração e melhorar designs subsequentes. Objetivo é automatizar e acelerar todo o processo de design de chips.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Gudea usa IA para ajudar organizações a prevenir crises em redes sociais",
+      "resumo": "A plataforma Gudea rastreia como histórias e rumores se propagam online, descrita como o \"rastreador de tempestades da internet\". Ajuda organizações a identificar e prevenir crises de misinformação, discurso de ódio e boatos antes de se tornarem controversiais.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI acusa ex-funcionário de transferir arquivos sobre aparelho não lançado para Apple",
+      "resumo": "A OpenAI acusa um ex-funcionário de ter transferido mais de 100 arquivos sobre um dispositivo não lançado para sua conta pessoal antes de se juntar à Apple. Caso levanta questões sobre propriedade intelectual e segurança de dados corporativos.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/15/openai-acusa-ex-funcionario-de-levar-arquivos-sobre-aparelho-nao-lancado-para-a-apple/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "IA canina ajuda a entender padrões em sons de cães",
+      "resumo": "Tecnologia identifica padrões em sons de animais para tentar decifrar comunicação canina. Pesquisadores afirmam que ainda há muito a descobrir sobre o significado real desses sinais.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/15/inteligencia-artificial/ia-canina-tecnologia-pode-ajudar-a-entender-o-que-os-caes-dizem/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Apple Intelligence aprovada na China; testes começam em outubro",
+      "resumo": "Tim Cook confirmou aprovação da IA da Apple (Apple Intelligence) na China com testes iniciando em outubro. Versão inicial incluirá tradução ao vivo, escrita assistida e limpeza de imagens.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/15/pro/apple-intelligence-e-aprovado-na-china-teste-comeca-em-outubro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Balanços dos grandes bancos devem ampliar distância entre vencedores e perdedores",
+      "resumo": "Segundo a XP, Itaú deve continuar como referência de rentabilidade no terceiro trimestre, beneficiado por crescimento disciplinado de crédito, margens resilientes e controle de custos. Resultado deve aprofundar diferenças de desempenho entre instituições.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/xp-balanco-dos-bancoes-deve-ampliar-distancia-entre-vencedores-e-perdedores-no-setor/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar abre em alta com foco em inflação americana e pesquisas eleitorais",
+      "resumo": "Dólar abriu a sessão em alta de 0,62%, cotado a R$ 5,0595. Cenário político brasileiro segue sob holofotes com repercussão de pesquisas eleitorais e aprovação da PEC que prevê fim da escala 6x1.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/15/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Câmara aprova novo teto do MEI e perdão de dívidas",
+      "resumo": "Projeto aprovado por 461 votos amplia limite de faturamento do MEI para R$ 140 mil em 2028. Prevê também perdão de dívidas e segue para votação no Senado.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80087/camara-aprova-novo-teto-do-mei-e-perdao-de-dividas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "FGTS: adesão à renegociação com desconto de até 65% começa hoje",
+      "resumo": "Empregadores podem negociar dívidas do FGTS inscritas em dívida ativa pelo programa Regularize. Adesão começou em 15 de outubro e segue até janeiro de 2027 com descontos de até 65%.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80092/fgts-adesao-a-renegociacao-com-desconto-de-ate-65-comeca-hoje-15/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Senado aprova fim da escala 6x1 e jornada de 40 horas semanais",
+      "resumo": "PEC aprovada por 75 votos a 1 prevê dois dias de descanso remunerado sem redução salarial e mudanças graduais nas jornadas de trabalho. Exceções incluem servidores, serviços essenciais e MEIs.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80089/senado-aprova-fim-da-escala-6x1-e-jornada-de-40-horas-semanais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "MCTI publica Guia da Lei do Bem 2026 sobre incentivos fiscais",
+      "resumo": "Ministério da Ciência, Tecnologia e Inovação divulgou orientações sobre como empresas podem utilizar incentivos fiscais em Pesquisa e Desenvolvimento. Guia detalha critérios, benefícios e documentação necessária.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80066/guia-da-lei-do-bem-2026-mcti-orienta-sobre-incentivos-fiscais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "ITI reestrutura certificação digital com novas estruturas de confiança",
+      "resumo": "Portaria ITI nº 102 apresenta mudanças na estrutura de certificação digital no Brasil. Reestruturação visa fortalecer a confiança digital e segurança dos processos digitais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80075/iti-e-certificacao-digital-novas-estruturas-de-confianca/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Correios oferecem descarte gratuito de eletrônicos em 6 mil agências",
+      "resumo": "A partir deste mês, Correios recebem equipamentos eletrônicos para descarte em mais de 6 mil agências com Balcão do Cidadão. Serviço gratuito sem agendamento prévio, limite de 30 kg por caixa.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/15/correios-oferecem-descarte-gratuito-de-eletronicos-em-6-mil-agencias/",
+      "idioma_original": "pt"
+    }
+  ]
+}
