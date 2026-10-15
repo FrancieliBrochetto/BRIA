@@ -3,164 +3,101 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI alerta Polícia Federal sobre ameaças contra Lula no ChatGPT",
-      "resumo": "A OpenAI compartilhou diálogos com autoridades brasileiras após identificar mensagens sobre possíveis ataques ao presidente Lula. O caso pode levar à abertura de dois inquéritos.",
+      "subtema": "Automação",
+      "titulo": "Amazon lança dispositivos de IA que resumem conversas e criam lembretes",
+      "resumo": "Amazon apresentou dois novos dispositivos da linha Bee capazes de transformar conversas em resumos, listas de tarefas e lembretes personalizados. Os aparelhos integram com Alexa e Amazon Shopping, com preços começando em R$ 74,99. Funcionalidades incluem resumo de conversas e criação automática de tarefas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/15/amazon-lanca-dispositivos-de-ia-que-resumem-conversas-e-criam-lembretes.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google lança ferramenta de compras integrada ao Gemini",
+      "resumo": "Google abriu acesso à sua ferramenta Universal Cart em busca e app Gemini nos EUA. Permite compras diretas através das plataformas de IA. Expansão para outros mercados ainda não foi anunciada.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "ByteDance cria equipe global para conter riscos da IA",
+      "resumo": "Dona do TikTok reforça segurança de seus modelos de IA com novos pesquisadores na China e EUA. Foco em garantir agentes autônomos seguros. Iniciativa reflete crescente preocupação da indústria com riscos de IA.",
       "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/10/15/pro/openai-alerta-policia-federal-sobre-ameacas-contra-lula-feitas-no-chatgpt/",
+      "url_original": "https://olhardigital.com.br/2026/10/15/inteligencia-artificial/dona-do-tiktok-bytedance-cria-time-global-focado-em-conter-riscos-da-ia/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Amazon lança dois novos dispositivos de IA pessoal a partir de R$ 75",
-      "resumo": "A Bee, subsidiária da Amazon, lançou um wearable atualizado e um gravador do tamanho de cartão de crédito que podem resumir conversas, criar listas de tarefas e integrar com Alexa.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "titulo": "IA chega aos carros elétricos Rivian",
+      "resumo": "Rivian anunciará integração de agentes de IA em seus veículos durante evento 'AI & Autonomy Day' em dezembro. Detalhes sobre funcionalidades ainda serão revelados. Movimento segue tendência de montadoras incorporarem IA avançada.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Ricursive Intelligence desenvolve IA para design automatizado de chips",
-      "resumo": "Startup está desenvolvendo IA que projeta chips, aprende com cada iteração e melhora designs subsequentes para acelerar o processo de design de chips.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Figma anuncia novas funcionalidades para definir como agentes trabalham na plataforma",
-      "resumo": "Figma lança recursos para controlar comportamento de agentes de IA em seu ecossistema e anuncia código layers em beta aberto.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Meta lança modelo de fronteira Watermelon",
-      "resumo": "Meta apresenta novo modelo de IA Watermelon, posicionado como uma fronteira model para aplicações avançadas.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://therundownai.beehiiv.com/p/meta-watermelon-ripens-into-a-frontier-model",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Microsoft discute lacuna de produtos em IA com novo Copilot",
-      "resumo": "Jacob Andreou, da Microsoft, apresenta como a empresa reconstruiu o novo Copilot com capacidades para preencher a lacuna crescente em produtos de IA.",
+      "subtema": "ChatGPT",
+      "titulo": "Microsoft atualiza Copilot com novas capacidades de IA",
+      "resumo": "Microsoft reconstruiu o novo Copilot para fechar lacuna identificada em produtos de IA. Jacob Andreou (Microsoft) detalha esforços para melhorar funcionalidades práticas. Update busca aumentar utilidade no dia a dia.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/microsoft-s-jacob-andreou-on-ai-s-product-gap",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Segurança",
-      "titulo": "FBI fecha fazendas de notebooks usadas em fraude norte-coreana",
-      "resumo": "Operação no Texas atingiu mais de 40 endereços. Esquema usava identidades falsas para obter empregos remotos em empresas dos EUA.",
+      "subtema": "Automação",
+      "titulo": "Microsoft lança antivírus Defender para desktops Linux",
+      "resumo": "Microsoft estende seu antivírus Defender para computadores com Linux, usando mesma estrutura dos servidores. Recurso requer planos corporativos. Movimento amplia presença da empresa no ecossistema Linux.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/fbi-fecha-fazendas-de-notebooks-usadas-em-fraude-norte-coreana/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Segurança",
-      "titulo": "Grupo brasileiro invade sistema bancário em ataque ligado ao Pix",
-      "resumo": "Grupo explorou a nuvem de instituição financeira e buscou credenciais ligadas a ativos digitais. Não há perdas confirmadas.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/10/15/seguranca/grupo-brasileiro-invade-sistema-bancario-em-ataque-ligado-ao-pix/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Segurança",
-      "titulo": "OpenAI acusa ex-funcionário de transferir arquivos sobre aparelho não lançado para Apple",
-      "resumo": "Ex-colaborador transferiu mais de 100 arquivos da empresa para conta pessoal e saiu para trabalhar na Apple. OpenAI quer ação legal.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/15/openai-acusa-ex-funcionario-de-levar-arquivos-sobre-aparelho-nao-lancado-para-a-apple.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Câmbio",
-      "titulo": "Dólar sobe 0,61% em dia focado em inflação americana e pesquisas eleitorais",
-      "resumo": "Dólar cotado a R$ 5,0589 nesta quinta. Investidores acompanham dados americanos e cenário político brasileiro.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/10/15/dolar-ibovespa.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Ibovespa cai 0,89% pressionado por pesquisas eleitorais e risco fiscal",
-      "resumo": "Principal índice da bolsa em queda de 0,89% para 204.668 pontos. Inflação persistente nos EUA mantém dúvidas sobre trajetória de juros americanos.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/mercados/ibovespa-pesquisas-eleitorais-eua-fim-da-6x1-em-foco-o-que-faz-indice-ter-nova-queda-nesta-5a/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Juros, risco fiscal e capital estrangeiro influenciam rumo da bolsa brasileira",
-      "resumo": "Analista da Clear explica influência do DI sobre o mercado e alerta para riscos fiscais que podem mudar cenário para ações.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/juros-risco-fiscal-e-capital-estrangeiro-o-que-pode-mudar-o-rumo-da-bolsa/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "China aumenta transferências de títulos americanos; ceticismo cresce sobre venda",
-      "resumo": "Movimento atípico do Canadá alimenta suspeitas em Wall Street de que Pequim está transferindo, não vendendo, exposição à dívida americana.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/china-esta-mesmo-se-desfazendo-dos-titulos-dos-eua-cresce-o-ceticismo-sobre-a-tese/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Governo quer prorrogar cobrança de IPI até janeiro de 2027",
-      "resumo": "Proposta prevê manter IPI para setores afetados pelo Imposto Seletivo durante transição para evitar intervalo sem tributação.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80101/governo-quer-prorrogar-cobranca-do-ipi-ate-janeiro-de-2027/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "EFD ICMS/IPI versão 7.8 esclarece preenchimento após reforma tributária",
-      "resumo": "Perguntas frequentes esclarecem preenchimento de registros na EFD ICMS/IPI após notas técnicas sobre valores líquidos em documentos fiscais.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80097/efd-icms-ipi-versao-7-8-esclarece-valores-na-reforma-tributaria/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "Abono salarial paga lote extra a partir de hoje (15)",
-      "resumo": "Pagamento complementar do PIS/Pasep começa hoje para 1,03 milhão de trabalhadores. Consulte elegibilidade e valores.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80095/abono-salarial-paga-lote-extra-a-partir-de-hoje-15/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Portaria regulamenta concessão provisória de salário-maternidade após 30 dias",
-      "resumo": "Portaria MPS/INSS nº 49/2026 regulamenta concessão provisória quando análise ultrapassa 30 dias. Conheça regras e exceções.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80093/salario-maternidade-portaria-regulamenta-concessao-provisoria-apos-30-dias/",
+      "url_original": "https://tecnoblog.net/noticias/mais-microsoft-no-linux-antivirus-defender-chega-aos-desktops/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Legislação",
-      "titulo": "MEIs em atividade atingem recorde de 92% na pesquisa do Sebrae",
-      "resumo": "Pesquisa aponta que 92% dos MEIs estão em atividade, maior percentual da série histórica e 20 pontos acima de 2019.",
+      "titulo": "Simples Nacional: prazo para adesão encerra nesta quinta",
+      "resumo": "Prazo para adesão ao regime tributário simplificado termina em 15 de outubro para empresas com faturamento até R$ 4,8 milhões. Mudanças entram em vigor em 2027. Regime oferece simplificação de obrigações fiscais.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/15/pro/simples-nacional-prazo-para-adesao-termina-nesta-quinta-feira-15-veja-o-que-muda-em-2027/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Empresas de games terão CNAEs específicos com Marco Legal",
+      "resumo": "Marco Legal dos Games prevê códigos de classificação próprios para desenvolvimento, edição e licenciamento de jogos eletrônicos. Facilita identificação de atividades no setor. Regulamentação fortalece setor de games no Brasil.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80096/meis-em-atividade-chegam-a-92-recorde-da-pesquisa-do-sebrae/",
+      "url_original": "https://www.contabeis.com.br/noticias/80110/empresas-de-games-terao-cnaes-especificos-com-regulamentacao-do-setor/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "STJ afasta contribuição previdenciária sobre stock options",
+      "resumo": "Tribunal definiu que compra de ações via stock options não gera contribuição patronal nem a terceiros no exercício da opção. Decisão favorece empresas que oferecem planos de ações. Beneficia colaboradores que recebem stock options.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80107/stj-afasta-contribuicao-previdenciaria-sobre-stock-options/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Apuração Assistida e crédito na Reforma Tributária",
+      "resumo": "Portal Contábeis promove webinar sobre Apuração Assistida e aproveitamento de créditos sob nova Reforma Tributária. Foco nos impactos para empresas. Preparação essencial para adaptação às novas regras.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80090/apuracao-assistida-e-credito-cumulatividade-ampla/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Taxas do Tesouro amenizam queda, mas IPCA+ segue em alta",
+      "resumo": "Prefixado 2032 sobe 3 pontos-base às 13h após forte queda dos Treasuries. IPCA+ longo mantém maior nível desde primeiro turno eleitoral. Mercado aguarda próximo Datafolha para direcionamento.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-15102026/",
       "idioma_original": "pt"
     }
   ]
