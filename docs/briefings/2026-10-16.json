@@ -1,0 +1,131 @@
+{
+  "data": "2026-10-16",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google destaca links nos resumos de IA",
+      "resumo": "Google promete dar mais destaque aos links nos resumos gerados por inteligência artificial para mitigar danos aos publicadores. A empresa também lança novo carrossel com principais notícias nos resultados de busca com IA.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/google-vai-dar-mais-destaque-aos-links-nos-resumos-de-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Gmail ganha busca por voz com inteligência artificial",
+      "resumo": "Google lança Gmail Live, permitindo buscas de informações em e-mails por comando de voz. Novas ferramentas de IA também são liberadas para criar documentos e organizar notas.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/16/inteligencia-artificial/google-leva-busca-por-voz-com-ia-ao-gmail-veja-como-funciona/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Agentes de IA usados em invasões de sistemas corporativos na Índia",
+      "resumo": "Criminosos utilizam ferramentas de IA para acelerar invasões em sistemas corporativos na Índia. Identificar acessos suspeitos é essencial para proteger dados empresariais.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/16/inteligencia-artificial/agentes-de-inteligencia-artificial-invadem-sistemas-corporativos-na-india/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "CEO da Replit imagina futuro das 'empresas autônomas'",
+      "resumo": "Amjad Masad, CEO da Replit, apresenta visão de futuro onde agentes de IA executam tarefas diárias enquanto humanos focam em decisões estratégicas de alto nível.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Meta lança modelo de IA que roda em computadores Mac",
+      "resumo": "Meta e Apple se unem para lançar Muse Spark Open, modelo de IA aberto que executa localmente em chips Apple silicon sem necessidade de conexão com nuvem.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Amazon quer substituir apps por dispositivos de IA ambiente",
+      "resumo": "Chefe de dispositivos da Amazon descreve futuro onde aparelhos com IA ambiente trabalham discretamente em segundo plano, antecipando necessidades dos usuários sem aguardar comandos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic permite acesso de pesquisadores da METR ao Claude",
+      "resumo": "Anthropic concede acesso em nível de funcionário aos pesquisadores da METR para avaliar riscos, incidentes e práticas. A empresa renunciou ao direito de bloquear publicações dos resultados.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Prévia do PIB do Banco Central cresce 0,3% em agosto",
+      "resumo": "O Índice de Atividade Econômica (IBC-Br) registrou expansão de 0,3% em agosto após ajuste sazonal. É o primeiro aumento da série em três meses, sinalizando recuperação econômica.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/16/previa-do-pib-do-banco-central-tem-crescimento-de-03percent-em-agosto.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar abre em queda com pesquisas e reforma trabalhista no radar",
+      "resumo": "Dólar abriu em queda de 0,08% a R$ 5,08 nesta sexta-feira. Pesquisas eleitorais e aprovação da escala 6x1 pelo Senado influenciam mercado.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/16/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Escala 6x1 é promulgada nesta sexta-feira",
+      "resumo": "Congresso realiza promulgação da emenda constitucional que encerra a escala 6x1. Mudanças terão período de transição.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80123/fim-da-escala-6x1-promulgacao-esta-marcada-para-hoje-16/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Receita atualiza notas fiscais de 10,99 milhões de empresas",
+      "resumo": "Receita divulga terceiro ciclo 2026 do Receita Sintonia, classificando empresas por conformidade tributária. 38,8% receberam notas A+ ou A.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80132/receita-atualiza-notas-fiscais-de-10-99-milhoes-de-empresas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Testes de novos campos do IBS e CBS são adiados",
+      "resumo": "Encat adia para até 26 de outubro a homologação de novas Notas Técnicas para seis documentos fiscais do IBS e CBS. Produção permanece programada para 16 de novembro.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80124/ibs-e-cbs-testes-de-novos-campos-sao-adiados-para-ate-26-10/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Receita registra 891 mil pedidos para IBS e CBS",
+      "resumo": "Receita contabiliza 891 mil solicitações para regime regular do IBS e CBS, e 549 mil para o Simples. Prazos para apresentação de pedidos seguem em andamento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80125/receita-registra-891-mil-pedidos-para-ibs-e-cbs-no-regime-regular/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Novo teto do MEI e perdão de dívidas avançam no Congresso",
+      "resumo": "Projeto eleva limite do MEI para R$ 140 mil em 2028 e prevê perdão de dívidas. Impacto fiscal estimado em R$ 11,1 bilhões até 2029.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80128/novo-teto-do-mei-e-perdao-de-dividas-avancam/",
+      "idioma_original": "pt"
+    }
+  ]
+}
