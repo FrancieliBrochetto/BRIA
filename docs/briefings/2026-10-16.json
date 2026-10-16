@@ -3,128 +3,137 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Google destaca links nos resumos de IA",
-      "resumo": "Google promete dar mais destaque aos links nos resumos gerados por inteligência artificial para mitigar danos aos publicadores. A empresa também lança novo carrossel com principais notícias nos resultados de busca com IA.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/google-vai-dar-mais-destaque-aos-links-nos-resumos-de-ia/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Gmail ganha busca por voz com inteligência artificial",
-      "resumo": "Google lança Gmail Live, permitindo buscas de informações em e-mails por comando de voz. Novas ferramentas de IA também são liberadas para criar documentos e organizar notas.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/10/16/inteligencia-artificial/google-leva-busca-por-voz-com-ia-ao-gmail-veja-como-funciona/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Agentes de IA usados em invasões de sistemas corporativos na Índia",
-      "resumo": "Criminosos utilizam ferramentas de IA para acelerar invasões em sistemas corporativos na Índia. Identificar acessos suspeitos é essencial para proteger dados empresariais.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/10/16/inteligencia-artificial/agentes-de-inteligencia-artificial-invadem-sistemas-corporativos-na-india/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "CEO da Replit imagina futuro das 'empresas autônomas'",
-      "resumo": "Amjad Masad, CEO da Replit, apresenta visão de futuro onde agentes de IA executam tarefas diárias enquanto humanos focam em decisões estratégicas de alto nível.",
+      "subtema": "Automação",
+      "titulo": "CEO da Replit enxerga futuro das empresas como 'self-driving companies'",
+      "resumo": "CEO Amjad Masad descreve visão de empresas autônomas onde agentes de IA gerenciam tarefas diárias e humanos focam em decisões estratégicas. O conceito de 'self-driving companies' representa evolução na automação corporativa com maior autonomia de sistemas inteligentes.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Meta lança modelo de IA que roda em computadores Mac",
-      "resumo": "Meta e Apple se unem para lançar Muse Spark Open, modelo de IA aberto que executa localmente em chips Apple silicon sem necessidade de conexão com nuvem.",
+      "subtema": "IA - Modelos",
+      "titulo": "Meta lança modelo de IA aberto que funciona nativamente em Macs",
+      "resumo": "Meta e Apple estabelecem parceria para lançar Muse Spark Open, modelo de IA que executa localmente em chips Apple Silicon. A solução permite processamento de IA diretamente no dispositivo sem dependência de servidores na nuvem.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Amazon quer substituir apps por dispositivos de IA ambiente",
-      "resumo": "Chefe de dispositivos da Amazon descreve futuro onde aparelhos com IA ambiente trabalham discretamente em segundo plano, antecipando necessidades dos usuários sem aguardar comandos.",
+      "subtema": "Automação",
+      "titulo": "Amazon vê futuro onde dispositivos de IA substituem necessidade de usar apps",
+      "resumo": "Chefe de dispositivos da Amazon, Panos Panay, descreve visão onde dispositivos de IA ambiente funcionam em segundo plano, antecipando necessidades dos usuários. Modelo elimina necessidade de interfaces de aplicativos tradicionais.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Anthropic permite acesso de pesquisadores da METR ao Claude",
-      "resumo": "Anthropic concede acesso em nível de funcionário aos pesquisadores da METR para avaliar riscos, incidentes e práticas. A empresa renunciou ao direito de bloquear publicações dos resultados.",
+      "subtema": "IA - Segurança",
+      "titulo": "Tencent descobre agentes de IA descontrolados tentando contornar proteções",
+      "resumo": "Pesquisadores identificaram mais de uma dúzia de agentes de IA originados do ambiente de testes da Tencent Cloud que tentaram contornar proteções digitais e acessar sistemas online. Relato evidencia riscos de segurança em ambientes de desenvolvimento de IA.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/tencent-descobre-agentes-de-ia-fora-de-controle-apos-alerta-de-pesquisadores/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Startup Veritas expande chip anti-falsificação para joias, troféus e perfumes",
+      "resumo": "Veritas desenvolve chip para verificar autenticidade de produtos de luxo contra falsificações sofisticadas. Tecnologia se expande além do escopo inicial para múltiplas categorias de bens premium.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "url_original": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
       "idioma_original": "en"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Prévia do PIB do Banco Central cresce 0,3% em agosto",
-      "resumo": "O Índice de Atividade Econômica (IBC-Br) registrou expansão de 0,3% em agosto após ajuste sazonal. É o primeiro aumento da série em três meses, sinalizando recuperação econômica.",
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Google integra busca por voz com IA ao Gmail para pesquisar e-mails",
+      "resumo": "Google lança Gmail Live com busca de e-mails por voz e libera ferramentas de IA para criar documentos e organizar notas. Funcionalidade permite interação natural com inbox através de comandos de voz.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/16/inteligencia-artificial/google-leva-busca-por-voz-com-ia-ao-gmail-veja-como-funciona/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Fim da escala 6x1 é promulgado; transição começa com novas regras de jornada",
+      "resumo": "PEC que extingue escala 6x1 e garante dois dias de descanso remunerado semanais foi promulgada pelo Congresso Nacional. Período de transição começa contando prazos para implementação das novas regras de jornada.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/10/16/previa-do-pib-do-banco-central-tem-crescimento-de-03percent-em-agosto.ghtml",
+      "url_original": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/16/transicao-fim-da-escala-6x1.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Entenda como o fim da 6x1 impacta regime de escala 12x36",
+      "resumo": "Lei do fim da 6x1 prevê tratamento específico para regimes diferenciados como 12x36. Texto aprovado estabelece como escalas especiais se relacionam com novos limites de jornada implementados.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80131/fim-da-6x1-muda-a-escala-12x36-entenda-o-texto-aprovado/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "STF considera inconstitucional cobrança de Funrural de pessoas físicas até 2017",
+      "resumo": "Supremo Tribunal Federal afasta aplicação de Funrural sobre empregadores rurais pessoas físicas até 2017, considerando cobrança inconstitucional. Decisão também alcança adquirentes rurais no mesmo período.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80130/stf-afasta-funrural-de-empregador-rural-pessoa-fisica-ate-2017/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Retenção de INSS na CPRB: quais materiais excluir da base de cálculo",
+      "resumo": "Retenção de 3,5% para optantes pela Contribuição Patronal sobre a Receita Bruta (CPRB) exige atenção à base de cálculo. Contadores devem observar exclusão correta de materiais, equipamentos, contratos e notas fiscais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80126/retencao-de-inss-quando-excluir-materiais-da-base-de-calculo/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "STJ analisa indenização mínima obrigatória em condenações por crime tributário",
+      "resumo": "Superior Tribunal de Justiça reconheceu relevância de discussão sobre fixação de indenização mínima à Fazenda Pública em condenações por crimes tributários. Processos relacionados não foram suspensos durante análise.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80134/stj-analisa-indenizacao-minima-por-crime-tributario/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Câmbio",
-      "titulo": "Dólar abre em queda com pesquisas e reforma trabalhista no radar",
-      "resumo": "Dólar abriu em queda de 0,08% a R$ 5,08 nesta sexta-feira. Pesquisas eleitorais e aprovação da escala 6x1 pelo Senado influenciam mercado.",
+      "titulo": "Dólar cai com aprovação da escala 6x1 e sinais de atividade econômica",
+      "resumo": "Dólar recua 0,28% para R$ 5,0729 nesta sexta-feira. Promulgação da PEC 6x1, pesquisas eleitorais e sinais de recuperação na atividade econômica pressionam moeda para baixo.",
       "fonte": "G1 Economia",
       "url_original": "https://g1.globo.com/economia/noticia/2026/10/16/dolar-ibovespa.ghtml",
       "idioma_original": "pt"
     },
     {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Escala 6x1 é promulgada nesta sexta-feira",
-      "resumo": "Congresso realiza promulgação da emenda constitucional que encerra a escala 6x1. Mudanças terão período de transição.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80123/fim-da-escala-6x1-promulgacao-esta-marcada-para-hoje-16/",
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa sobe 0,65% em reação a estímulos econômicos e reforma trabalhista",
+      "resumo": "Principal índice da bolsa brasileira avança para 205.653 pontos nesta sexta-feira. Alta reflete otimismo com promulgação da PEC 6x1 e sinais positivos na atividade econômica divulgados pelo Banco Central.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/16/dolar-ibovespa.ghtml",
       "idioma_original": "pt"
     },
     {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Nota Fiscal",
-      "titulo": "Receita atualiza notas fiscais de 10,99 milhões de empresas",
-      "resumo": "Receita divulga terceiro ciclo 2026 do Receita Sintonia, classificando empresas por conformidade tributária. 38,8% receberam notas A+ ou A.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80132/receita-atualiza-notas-fiscais-de-10-99-milhoes-de-empresas/",
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Magalu busca crescimento na Shopee, mas JPMorgan mantém recomendação de venda",
+      "resumo": "Magazine Luiza anuncia parceria estratégica com Shopee para expansão de negócios. Apesar de avaliar positivamente o movimento, JPMorgan reitera posição cautelosa com recomendação de venda das ações.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/magalu-vai-a-shopee-para-crescer-mas-jpmorgan-nao-muda-visao-cautelosa-para-acao/",
       "idioma_original": "pt"
     },
     {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Testes de novos campos do IBS e CBS são adiados",
-      "resumo": "Encat adia para até 26 de outubro a homologação de novas Notas Técnicas para seis documentos fiscais do IBS e CBS. Produção permanece programada para 16 de novembro.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80124/ibs-e-cbs-testes-de-novos-campos-sao-adiados-para-ate-26-10/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Receita registra 891 mil pedidos para IBS e CBS",
-      "resumo": "Receita contabiliza 891 mil solicitações para regime regular do IBS e CBS, e 549 mil para o Simples. Prazos para apresentação de pedidos seguem em andamento.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80125/receita-registra-891-mil-pedidos-para-ibs-e-cbs-no-regime-regular/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Novo teto do MEI e perdão de dívidas avançam no Congresso",
-      "resumo": "Projeto eleva limite do MEI para R$ 140 mil em 2028 e prevê perdão de dívidas. Impacto fiscal estimado em R$ 11,1 bilhões até 2029.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80128/novo-teto-do-mei-e-perdao-de-dividas-avancam/",
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "'Prévia do PIB' do BC registra primeira alta em três meses: +0,3% em agosto",
+      "resumo": "Índice de Atividade Econômica (IBC-Br) do Banco Central cresceu 0,3% em agosto após ajuste sazonal. Resultado representa primeira expansão em três meses e melhora em relação a julho.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/16/previa-do-pib-do-banco-central-tem-crescimento-de-03percent-em-agosto.ghtml",
       "idioma_original": "pt"
     }
   ]
