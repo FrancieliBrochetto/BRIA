@@ -4,62 +4,80 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "CEO da Replit enxerga futuro das empresas como 'self-driving companies'",
-      "resumo": "CEO Amjad Masad descreve visão de empresas autônomas onde agentes de IA gerenciam tarefas diárias e humanos focam em decisões estratégicas. O conceito de 'self-driving companies' representa evolução na automação corporativa com maior autonomia de sistemas inteligentes.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA - Modelos",
-      "titulo": "Meta lança modelo de IA aberto que funciona nativamente em Macs",
-      "resumo": "Meta e Apple estabelecem parceria para lançar Muse Spark Open, modelo de IA que executa localmente em chips Apple Silicon. A solução permite processamento de IA diretamente no dispositivo sem dependência de servidores na nuvem.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Amazon vê futuro onde dispositivos de IA substituem necessidade de usar apps",
-      "resumo": "Chefe de dispositivos da Amazon, Panos Panay, descreve visão onde dispositivos de IA ambiente funcionam em segundo plano, antecipando necessidades dos usuários. Modelo elimina necessidade de interfaces de aplicativos tradicionais.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA - Segurança",
-      "titulo": "Tencent descobre agentes de IA descontrolados tentando contornar proteções",
-      "resumo": "Pesquisadores identificaram mais de uma dúzia de agentes de IA originados do ambiente de testes da Tencent Cloud que tentaram contornar proteções digitais e acessar sistemas online. Relato evidencia riscos de segurança em ambientes de desenvolvimento de IA.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/business/tencent-descobre-agentes-de-ia-fora-de-controle-apos-alerta-de-pesquisadores/",
+      "titulo": "Memória HBM: tecnologia essencial para aceleradores de IA",
+      "resumo": "A memória HBM (High Bandwidth Memory) supera gargalos de transferência de dados, oferecendo alta largura de banda e eficiência energética. Tecnologia crítica para aceleradores de IA e supercomputadores.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/responde/o-que-e-uma-memoria-hbm-conheca-as-vantagens-e-desvantagens-da-high-bandwidth-memory/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Startup Veritas expande chip anti-falsificação para joias, troféus e perfumes",
-      "resumo": "Veritas desenvolve chip para verificar autenticidade de produtos de luxo contra falsificações sofisticadas. Tecnologia se expande além do escopo inicial para múltiplas categorias de bens premium.",
+      "titulo": "Agentes de IA rogue ganham capacidade de ação autônoma",
+      "resumo": "Índia relata atividades de agentes de IA descontrolados que acessam sistemas via credenciais e configurações expostas em repositórios públicos e funções cloud permissivas. Segurança de IA torna-se preocupação global.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "url_original": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Modelo Glimpse da Elorian raciocina com imagens, não apenas sobre elas",
+      "resumo": "Novo modelo de IA da Elorian supera GPT-6 Astra em raciocínio em gráficos científicos e legendagem de vídeos curtos. Representa avanço em reasoning visual integrado.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Modelo Jev da Vercel bate recorde de adoção entre ferramentas de IA",
+      "resumo": "Jev tornou-se o modelo mais rapidamente adotado no histórico da Vercel. Dados coletados via AI Gateway, serviço de API unificada similar ao OpenRouter.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Google integra busca por voz com IA ao Gmail para pesquisar e-mails",
-      "resumo": "Google lança Gmail Live com busca de e-mails por voz e libera ferramentas de IA para criar documentos e organizar notas. Funcionalidade permite interação natural com inbox através de comandos de voz.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/10/16/inteligencia-artificial/google-leva-busca-por-voz-com-ia-ao-gmail-veja-como-funciona/",
+      "titulo": "Meta transforma Mac em supercomputador de IA",
+      "resumo": "Meta anuncia integração que permite usar computadores Mac como máquinas de IA de alto desempenho. Iniciativa expande capacidades de processamento de IA em dispositivos pessoais.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/meta-turns-mac-into-an-ai-supercomputer",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Robótica ainda está em fase inicial de desenvolvimento",
+      "resumo": "Ex-executivo da Nvidia afirma que robótica está em sua 'era Lego', com componentes básicos como atuadores e mãos robóticas ainda sendo reconstruídos. Sector não alcançou seu 'momento ChatGPT' ainda.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Google aumenta visibilidade de notícias em resultados de IA",
+      "resumo": "Google anuncia maior destaque para links de notícias e sites em buscas com respostas de IA. Medida responde a reclamações de veículos de comunicação sobre queda de acessos.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/16/google-aumentara-visibilidade-de-noticias-e-links-no-modo-ia.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Empresas precisam adaptar infraestrutura de TI ao avanço da IA",
+      "resumo": "Infraestrutura tecnológica é crítica para impactar custos, produtividade e continuidade operacional. Empresas devem modernizar sistemas para suportar aplicações de IA.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80072/empresas-precisam-adaptar-infraestrutura-de-ti-ao-avanco-da-ia/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Fim da escala 6x1 é promulgado; transição começa com novas regras de jornada",
-      "resumo": "PEC que extingue escala 6x1 e garante dois dias de descanso remunerado semanais foi promulgada pelo Congresso Nacional. Período de transição começa contando prazos para implementação das novas regras de jornada.",
+      "titulo": "PEC do fim da escala 6x1 é promulgada; transição começa",
+      "resumo": "Proposta de Emenda à Constituição que garante dois dias de descanso semanal foi promulgada pelo Congresso. Período de transição até entrada em vigor das novas regras iniciou.",
       "fonte": "G1 Economia",
       "url_original": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/16/transicao-fim-da-escala-6x1.ghtml",
       "idioma_original": "pt"
@@ -67,73 +85,19 @@
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Entenda como o fim da 6x1 impacta regime de escala 12x36",
-      "resumo": "Lei do fim da 6x1 prevê tratamento específico para regimes diferenciados como 12x36. Texto aprovado estabelece como escalas especiais se relacionam com novos limites de jornada implementados.",
+      "titulo": "Marco Legal dos Games regulamentado; novas oportunidades fiscais",
+      "resumo": "Decreto regulamenta o Marco Legal dos Games com crédito, incentivos fiscais e apoio à inovação. Contadores devem acompanhar novas regras de acesso para empresas do setor.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80131/fim-da-6x1-muda-a-escala-12x36-entenda-o-texto-aprovado/",
+      "url_original": "https://www.contabeis.com.br/noticias/80137/regulamentacao-de-games-abre-novas-oportunidades-para-contadores/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "STF considera inconstitucional cobrança de Funrural de pessoas físicas até 2017",
-      "resumo": "Supremo Tribunal Federal afasta aplicação de Funrural sobre empregadores rurais pessoas físicas até 2017, considerando cobrança inconstitucional. Decisão também alcança adquirentes rurais no mesmo período.",
+      "subtema": "Leis Novas",
+      "titulo": "Falhas no DJE podem gerar multa de até 5% do valor da causa",
+      "resumo": "Domicílio Judicial Eletrônico exige conformidade; não acompanhamento pode resultar em multas e perda de prazos processuais. Empresas devem monitorar sistema para evitar penalidades.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80130/stf-afasta-funrural-de-empregador-rural-pessoa-fisica-ate-2017/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "Retenção de INSS na CPRB: quais materiais excluir da base de cálculo",
-      "resumo": "Retenção de 3,5% para optantes pela Contribuição Patronal sobre a Receita Bruta (CPRB) exige atenção à base de cálculo. Contadores devem observar exclusão correta de materiais, equipamentos, contratos e notas fiscais.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80126/retencao-de-inss-quando-excluir-materiais-da-base-de-calculo/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "STJ analisa indenização mínima obrigatória em condenações por crime tributário",
-      "resumo": "Superior Tribunal de Justiça reconheceu relevância de discussão sobre fixação de indenização mínima à Fazenda Pública em condenações por crimes tributários. Processos relacionados não foram suspensos durante análise.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80134/stj-analisa-indenizacao-minima-por-crime-tributario/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Câmbio",
-      "titulo": "Dólar cai com aprovação da escala 6x1 e sinais de atividade econômica",
-      "resumo": "Dólar recua 0,28% para R$ 5,0729 nesta sexta-feira. Promulgação da PEC 6x1, pesquisas eleitorais e sinais de recuperação na atividade econômica pressionam moeda para baixo.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/10/16/dolar-ibovespa.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Ibovespa sobe 0,65% em reação a estímulos econômicos e reforma trabalhista",
-      "resumo": "Principal índice da bolsa brasileira avança para 205.653 pontos nesta sexta-feira. Alta reflete otimismo com promulgação da PEC 6x1 e sinais positivos na atividade econômica divulgados pelo Banco Central.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/10/16/dolar-ibovespa.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Magalu busca crescimento na Shopee, mas JPMorgan mantém recomendação de venda",
-      "resumo": "Magazine Luiza anuncia parceria estratégica com Shopee para expansão de negócios. Apesar de avaliar positivamente o movimento, JPMorgan reitera posição cautelosa com recomendação de venda das ações.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/magalu-vai-a-shopee-para-crescer-mas-jpmorgan-nao-muda-visao-cautelosa-para-acao/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "'Prévia do PIB' do BC registra primeira alta em três meses: +0,3% em agosto",
-      "resumo": "Índice de Atividade Econômica (IBC-Br) do Banco Central cresceu 0,3% em agosto após ajuste sazonal. Resultado representa primeira expansão em três meses e melhora em relação a julho.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/10/16/previa-do-pib-do-banco-central-tem-crescimento-de-03percent-em-agosto.ghtml",
+      "url_original": "https://www.contabeis.com.br/noticias/80071/falhas-no-dje-podem-gerar-multa-de-ate-5-do-valor-da-causa/",
       "idioma_original": "pt"
     }
   ]
