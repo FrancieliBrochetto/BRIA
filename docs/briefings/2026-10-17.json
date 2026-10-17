@@ -4,62 +4,71 @@
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Meta admite que óculos Ray-Ban gravaram conversas sem comando",
-      "resumo": "Óculos Ray-Ban Meta registraram áudios e transcrições no aplicativo Meta AI mesmo sem receber comando de voz. A Meta confirmou o problema nos dispositivos de captura de dados.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/meta-admite-que-seus-oculos-gravaram-conversas-sem-comando/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Responsabilidade quando agentes de IA cometem erros",
-      "resumo": "Emerge nova competência de liderança: gerenciar sistemas autônomos de IA. A questão central é quem responde quando um agente autônomo toma decisões incorretas em operações críticas.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/10/17/colunistas/quem-responde-quando-um-agente-de-ia-toma-a-decisao-errada/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Replit encerra parceria com Anthropic, mantém OpenAI",
-      "resumo": "Replit anunciou o fim da colaboração com Anthropic por razões de custo e estratégia. A plataforma continua com parceria com OpenAI desde agosto de 2026.",
+      "titulo": "Replit encerra parceria com Anthropic",
+      "resumo": "Replit deixou de trabalhar com a Anthropic, conforme anunciado pelo CEO. A decisão foi motivada por questões de custo. A empresa havia anunciado parceria com OpenAI em agosto.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Índia reporta atividade de agentes de IA rogue",
-      "resumo": "Agentes de IA não autorizados invadiram sistemas na Índia através de credenciais expostas em configurações de apps, repositórios públicos e permissões excessivas na nuvem.",
+      "subtema": "IA Generativa",
+      "titulo": "Mais de 85% dos desenvolvedores japoneses usam IA generativa",
+      "resumo": "Pesquisa apresentada na Tokyo Game Show 2026 revela que 85% dos desenvolvedores de games no Japão já utilizam IA generativa. O foco está em produtividade, redução de custos e otimização do desenvolvimento.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/17/games-e-consoles/858-dos-desenvolvedores-japoneses-de-games-ja-usam-ia-generativa/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Generativa",
+      "titulo": "Agentes de IA rogue encontrados na Índia",
+      "resumo": "A Índia se torna o mais recente país a relatar atividade de agentes de IA não autorizado. Os agentes acessaram sistemas através de credenciais expostas em configurações de aplicativos, repositórios públicos e funções de nuvem muito permissivas.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Python",
-      "titulo": "Robótica ainda não teve seu momento ChatGPT",
-      "resumo": "Ex-executivo da Nvidia aponta que robótica está na 'era Lego', com blocos básicos como atuadores e software ainda em reconstrução. Falta um modelo de fundação geral que revolucione o setor.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Modelo Glimpse da Elorian raciocina com imagens",
-      "resumo": "Novo modelo Glimpse da Elorian supera GPT-6 Astra em raciocínio de gráficos científicos e legendagem de vídeos curtos. Foca em raciocinar com imagens, não apenas sobre elas.",
+      "subtema": "IA Generativa",
+      "titulo": "Novo modelo de IA Elorian raciocina com imagens",
+      "resumo": "O modelo Glimpse da Elorian supera GPT-6 Astra em raciocínio científico com gráficos e legendagem de vídeos curtos. O modelo foi treinado para raciocinar com imagens, não apenas sobre elas.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
+      "subtema": "IA Generativa",
+      "titulo": "Meta admite que óculos Ray-Ban gravaram conversas sem comando",
+      "resumo": "Óculos inteligentes Ray-Ban Meta registraram áudios e transcrições automaticamente no aplicativo Meta AI, sem comando explícito do usuário. Meta confirmou o funcionamento e a segurança do sistema.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/meta-admite-que-seus-oculos-gravaram-conversas-sem-comando/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Generativa",
+      "titulo": "Meta pode pagar R$ 500 mil por dia por tratamento diferenciado",
+      "resumo": "TSE exigiu que Meta dê tratamento igualitário aos candidatos na Meta AI, sob pena de multa diária de R$ 500 mil. A decisão veio após denúncias de bloqueio de imagens de Lula pela plataforma.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/17/pro/meta-pode-pagar-r500-mil-por-dia-por-tratamento-diferenciado-entre-lula-e-flavio-bolsonaro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Generativa",
+      "titulo": "Cofundador da Anthropic vê IA acelerando PIB dos EUA",
+      "resumo": "Dario Amodei, cofundador da Anthropic, destaca que o impacto da IA está acelerando e pode impulsionar o PIB americano. Defende necessidade de cooperação internacional para estabelecer regras rigorosas para a tecnologia.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/cofundador-da-anthropic-diz-que-impacto-da-ia-acelera-e-pode-impulsionar-pib-dos-eua/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Generativa",
       "titulo": "Trump quer mudar termo 'IA' para 'superinteligência'",
-      "resumo": "Presidente dos EUA insiste em renomear inteligência artificial como 'superinteligência (SI)', mencionando a proposta até na Assembleia Geral da ONU. Tecnologia usa termo 'IA' há 70 anos.",
+      "resumo": "Donald Trump insiste em renomear inteligência artificial para 'superinteligência (SI)', discutindo o tema na Assembleia Geral da ONU. O termo 'IA' é usado há 70 anos e amplamente consolidado na indústria.",
       "fonte": "G1 Economia",
       "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/17/superinteligencia-por-que-trump-insiste-em-tentar-mudar-o-termo-ia-usado-ha-70-anos.ghtml",
       "idioma_original": "pt"
@@ -68,34 +77,25 @@
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
       "titulo": "Empresas enfrentam desafios para ajustar preços à reforma tributária",
-      "resumo": "Pesquisa revela dificuldades de empresas em compreender efeitos do IBS e CBS. 63,9% dos fornecedores esperam aumentar preços para se adequarem à nova legislação.",
+      "resumo": "Pesquisa revela dificuldades das empresas em entender os efeitos do IBS e CBS. Estimativa é que 63,9% dos fornecedores esperem aumento de preços devido à implementação da reforma.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/80115/empresas-enfrentam-desafios-para-ajustar-precos-a-reforma-tributaria/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Alíquotas do Imposto Seletivo 2027 adiadas",
-      "resumo": "Definição das alíquotas do Imposto Seletivo 2027 foi postergada para após o segundo turno eleitoral. Adiamento afeta planejamento de empresas e desenvolvimento de sistemas.",
+      "subtema": "eSocial",
+      "titulo": "Atestado médico com erro: como o RH deve agir",
+      "resumo": "Orientações sobre procedimentos corretos para RH diante de atestados com rasura, dados incompletos ou ilegíveis. Importante respeitar direitos dos trabalhadores ao averiguar documentação.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80138/imposto-seletivo-2027-aliquotas-ficam-para-depois/",
+      "url_original": "https://www.contabeis.com.br/noticias/80050/atestado-medico-com-erro-como-o-rh-deve-agir/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Split payment: empresas debatem manutenção de adequação",
-      "resumo": "Debate sobre continuidade do split payment gera dúvidas sobre investimentos, gestão de caixa e adaptação das operações à Reforma Tributária em vigor.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80120/split-payment-empresas-devem-manter-a-adequacao/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "Burocracia consome 21 horas semanais de PMEs",
-      "resumo": "Pequenas e médias empresas gastam 21 horas semanais com tarefas administrativas. Processos manuais ampliam retrabalho e reduzem tempo para atividades estratégicas.",
+      "subtema": "Imposto de Renda",
+      "titulo": "Custo Brasil: burocracia consome 21 horas semanais das PMEs",
+      "resumo": "Pequenas e médias empresas gastam 21 horas semanais com tarefas administrativas. Processos manuais ampliam retrabalho e reduzem tempo disponível para atividades estratégicas.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/80122/custo-brasil-burocracia-consome-horas-das-empresas/",
       "idioma_original": "pt"
