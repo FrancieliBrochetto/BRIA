@@ -3,81 +3,90 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Meta admite gravação de áudio em óculos Ray-Ban sem comando",
-      "resumo": "Óculos Ray-Ban Meta registraram áudios e transcrições no app Meta AI sem comando direto do usuário. Revelação levanta preocupações sobre privacidade e coleta de dados não autorizada.",
+      "subtema": "Segurança e Privacidade",
+      "titulo": "Meta admite gravação de áudio em óculos sem comando do usuário",
+      "resumo": "Óculos Ray-Ban Meta registraram áudios e transcrições no aplicativo Meta AI sem que o usuário ativasse a função. A empresa reconheceu o problema que levanta preocupações sobre privacidade no uso de dispositivos wearables com IA integrada.",
       "fonte": "Tecnoblog",
       "url_original": "https://tecnoblog.net/noticias/meta-admite-que-seus-oculos-gravaram-conversas-sem-comando/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Antes de investir em IA, empresa deve automatizar processos básicos",
-      "resumo": "Maioria das empresas ainda não automatizou processos operacionais básicos antes de adotar IA. Especialistas alertam que é essencial resolver automação fundamental antes de investir em soluções de IA.",
+      "subtema": "Deepfakes e Conteúdo Sintético",
+      "titulo": "Deepfakes podem dificultar análise de provas em investigações",
+      "resumo": "OpenAI e Meta alertam que vídeos e áudios gerados por inteligência artificial estão cada vez mais realistas e indistinguíveis de conteúdo autêntico. Especialistas das empresas apontam riscos para análise forense e investigações criminais.",
       "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/10/18/colunistas/antes-de-investir-em-ia-sua-empresa-ja-automatizou-o-basico-a-maioria-ainda-nao/",
+      "url_original": "https://olhardigital.com.br/2026/10/18/inteligencia-artificial/deepfakes-podem-dificultar-analise-de-provas-alertam-openai-e-meta/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Replit adota OpenAI como provedor padrão substituindo Anthropic",
-      "resumo": "Plataforma Replit substituiu Anthropic/Claude por OpenAI como modelo padrão. Claude ainda permanece disponível como opção aos usuários.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Antropic muda composição de força de trabalho e aumenta tempo em reuniões",
-      "resumo": "Equipe da Anthropic se tornou menos júnior e passa mais tempo em reuniões no último ano. Mudança reflete transformação na composição e dinâmica de trabalho da empresa.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Agentes de IA rogue atuam na Índia explorado vulnerabilidades em credenciais expostas",
-      "resumo": "Índia registra atividade de agentes de IA não autorizados. Invasores exploram credenciais deixadas em repositórios públicos, configurações de apps e permissões excessivas na nuvem.",
+      "subtema": "Agentes de IA",
+      "titulo": "Agentes de IA rogue detectados na Índia por credenciais expostas",
+      "resumo": "A Índia registra atividade de agentes de IA maliciosos que exploram credenciais e configurações deixadas expostas em repositórios públicos e permissões excessivas em nuvem. Trata-se do mais recente país a relatar tal incidente de segurança.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Robótica ainda espera seu momento 'ChatGPT', diz ex-executivo da Nvidia",
-      "resumo": "Especialista em robótica afirma que setor está na 'era Lego', com blocos construtivos básicos ainda sendo reconstruídos. Faltam modelos foundacionais para impulsionar a indústria.",
+      "subtema": "Claude",
+      "titulo": "Replit muda para OpenAI como modelo padrão, abandona Anthropic",
+      "resumo": "Plataforma Replit substituiu Anthropic (Claude) por OpenAI como provedor de modelo padrão. Claude continuará disponível como opção alternativa para usuários da plataforma.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "url_original": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Meta muda termos sobre web scraping e treinamento de IA",
-      "resumo": "Meta remove linguagem que levantava preocupações sobre coleta de dados e uso para treinamento de IA. Porta-voz nega mudança em práticas de crawling.",
+      "subtema": "Empresas e Negócios",
+      "titulo": "Disney contrata maioria dos funcionários da Character.AI após falência",
+      "resumo": "Após a Character.AI entrar em falência, Disney adquiriu alguns dos seus ativos por US$ 20 milhões e contratará a maioria de seus funcionários. O ex-CEO da startup agora ocupa cargo de CTO na empresa de entretenimento.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "url_original": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "idioma_original": "en"
     },
     {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Meta transforma Mac em supercomputador para IA",
+      "resumo": "Meta desenvolveu solução que transforma computadores Mac em supercomputadores para processamento de inteligência artificial. O projeto faz parte dos esforços da empresa em expandir capacidades de IA em dispositivos locais.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/meta-turns-mac-into-an-ai-supercomputer",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "Experiência de El Salvador com bitcoin como moeda não trouxe resultados esperados",
+      "resumo": "O experimento de Nayib Bukele para transformar El Salvador no 'país do bitcoin' não alcançou os objetivos de prosperidade e inclusão financeira prometidos. Análise avalia os resultados limitados da adoção como moeda oficial.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/18/o-que-aconteceu-com-o-experimento-de-bukele-para-transformar-el-salvador-no-pais-do-bitcoin.ghtml",
+      "idioma_original": "pt"
+    },
+    {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Perdão de dívidas de MEIs alivia contas mas não resolve causas estruturais",
-      "resumo": "Senado e Câmara aprovam perdão de dívidas e aumento do teto para MEIs. Especialistas alertam que medida alivia situação financeira imediata mas não elimina problemas que levam ao endividamento.",
+      "subtema": "Legislação",
+      "titulo": "Perdão de dívidas de MEIs aprovado, mas não resolve causas estruturais",
+      "resumo": "Senado e Câmara aprovaram perdão de dívidas para microempreendedores individuais e aumento do teto de faturamento. Especialistas alertam que a medida alivia financeiramente mas não resolve problemas estruturais que levam ao endividamento.",
       "fonte": "G1 Economia",
       "url_original": "https://g1.globo.com/empreendedorismo/noticia/2026/10/18/perdao-de-dividas-de-meis-pode-aliviar-contas-mas-nao-resolve-causas-dizem-especialistas.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Saída de sócio exige observância a contrato social e cálculo de haveres",
-      "resumo": "Processo de retirada de sócio envolve verificar contrato social, formalizar saída e calcular haveres devidos. Etapa exige atualização do registro da empresa.",
+      "subtema": "Legislação",
+      "titulo": "DP deve conferir regras de trabalho em feriados no comércio",
+      "resumo": "Departamento Pessoal deve observar as regras da Portaria MTE nº 1.316/2026 para trabalho em feriados no setor de comércio. Verificação inclui convenção coletiva, escala de trabalho e pagamento de feriados.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80054/trabalho-em-feriados-o-que-o-dp-deve-conferir-no-comercio/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Saída de sócio de empresa exige cumprimento de etapas legais",
+      "resumo": "Retirada de sócio de empresa deve seguir etapas formais: observar contrato social, formalizar retirada, calcular haveres e atualizar registro. Processo requer cuidados legais para evitar conflitos e irregularidades.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/80049/socio-quer-sair-da-empresa-veja-as-etapas-legais/",
       "idioma_original": "pt"
