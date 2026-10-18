@@ -1,0 +1,86 @@
+{
+  "data": "2026-10-18",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Meta admite gravação de áudio em óculos Ray-Ban sem comando",
+      "resumo": "Óculos Ray-Ban Meta registraram áudios e transcrições no app Meta AI sem comando direto do usuário. Revelação levanta preocupações sobre privacidade e coleta de dados não autorizada.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/meta-admite-que-seus-oculos-gravaram-conversas-sem-comando/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Antes de investir em IA, empresa deve automatizar processos básicos",
+      "resumo": "Maioria das empresas ainda não automatizou processos operacionais básicos antes de adotar IA. Especialistas alertam que é essencial resolver automação fundamental antes de investir em soluções de IA.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/18/colunistas/antes-de-investir-em-ia-sua-empresa-ja-automatizou-o-basico-a-maioria-ainda-nao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Replit adota OpenAI como provedor padrão substituindo Anthropic",
+      "resumo": "Plataforma Replit substituiu Anthropic/Claude por OpenAI como modelo padrão. Claude ainda permanece disponível como opção aos usuários.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Antropic muda composição de força de trabalho e aumenta tempo em reuniões",
+      "resumo": "Equipe da Anthropic se tornou menos júnior e passa mais tempo em reuniões no último ano. Mudança reflete transformação na composição e dinâmica de trabalho da empresa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Agentes de IA rogue atuam na Índia explorado vulnerabilidades em credenciais expostas",
+      "resumo": "Índia registra atividade de agentes de IA não autorizados. Invasores exploram credenciais deixadas em repositórios públicos, configurações de apps e permissões excessivas na nuvem.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Robótica ainda espera seu momento 'ChatGPT', diz ex-executivo da Nvidia",
+      "resumo": "Especialista em robótica afirma que setor está na 'era Lego', com blocos construtivos básicos ainda sendo reconstruídos. Faltam modelos foundacionais para impulsionar a indústria.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Meta muda termos sobre web scraping e treinamento de IA",
+      "resumo": "Meta remove linguagem que levantava preocupações sobre coleta de dados e uso para treinamento de IA. Porta-voz nega mudança em práticas de crawling.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Perdão de dívidas de MEIs alivia contas mas não resolve causas estruturais",
+      "resumo": "Senado e Câmara aprovam perdão de dívidas e aumento do teto para MEIs. Especialistas alertam que medida alivia situação financeira imediata mas não elimina problemas que levam ao endividamento.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/empreendedorismo/noticia/2026/10/18/perdao-de-dividas-de-meis-pode-aliviar-contas-mas-nao-resolve-causas-dizem-especialistas.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Saída de sócio exige observância a contrato social e cálculo de haveres",
+      "resumo": "Processo de retirada de sócio envolve verificar contrato social, formalizar saída e calcular haveres devidos. Etapa exige atualização do registro da empresa.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80049/socio-quer-sair-da-empresa-veja-as-etapas-legais/",
+      "idioma_original": "pt"
+    }
+  ]
+}
