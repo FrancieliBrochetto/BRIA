@@ -3,92 +3,119 @@
   "noticias": [
     {
       "tema": "IA & Tech",
+      "subtema": "IA Generativa",
+      "titulo": "Instagram admite dificuldade em combater deep fakes",
+      "resumo": "Chefe do Instagram reconheceu que a plataforma ainda não possui estratégias efetivas contra perfis que usam avatares gerados por IA para reproduzir conteúdo original. O desafio envolve identificar e remover deep fakes em larga escala.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/chefe-do-instagram-admite-que-ainda-nao-sabe-como-combater-deep-fakes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Usuários usam IA para customizar interfaces de smart TVs",
+      "resumo": "Projetos como Claude Code estão sendo utilizados para criar launchers personalizados que removem anúncios e modificam interfaces de TVs inteligentes. Usuários buscam retomar controle sobre dispositivos com bloatware e tracking.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/usuarios-usam-ia-para-remover-anuncios-e-mudar-interfaces-de-tvs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Anthropic dedica 5% das ações a fundo de benefício público",
-      "resumo": "Anthropic anunciou o compromisso de destinar 5% de suas ações a um fundo de benefício público. A iniciativa reflete o posicionamento da empresa em relação à responsabilidade social corporativa.",
+      "titulo": "Anthropic estabelece limites extremos para bloqueio de modelos de IA",
+      "resumo": "Anthropic propõe que modelos de IA sejam barrados apenas em casos de risco extremo: ameaças de mais de 50 mortes, ferimentos graves ou prejuízos acima de US$ 1 bilhão. Projeto busca definir critérios de segurança mais específicos.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/anthropic-quer-barrar-ias-apenas-diante-de-riscos-extremos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Generativa",
+      "titulo": "Anthropic compromete 5% das ações com fundo de benefício público",
+      "resumo": "Anthropic anunciou alocação de 5% de suas ações para um fundo de benefício público, reforçando seu compromisso com responsabilidade social e alinhamento com interesse público.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Replit adota OpenAI como modelo padrão em substituição a Anthropic",
-      "resumo": "A plataforma Replit passou a usar OpenAI como provedor de modelo padrão, substituindo Anthropic. Claude ainda permanecerá disponível como opção para clientes.",
+      "subtema": "IA Generativa",
+      "titulo": "Nvidia lança modelos abertos para agentes de IA em empresas e PCs",
+      "resumo": "Nvidia introduziu novos modelos de código aberto para permitir que empresas executem agentes de IA em seus próprios data centers e em dispositivos locais. Iniciativa busca democratizar acesso a IA privada e autossuficiente.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "url_original": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA Geral",
-      "titulo": "Meta remove linguagem que levantava preocupações sobre scraping e treinamento de IA",
-      "resumo": "Meta removeu termos de serviço que geravam preocupações sobre coleta de dados e treinamento de modelos de IA. A empresa afirma que as mudanças não refletem alterações em suas práticas de crawling.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Geral",
+      "subtema": "IA Generativa",
       "titulo": "Disney contrata maioria dos funcionários da Character.AI",
-      "resumo": "Disney acertou a contratação da grande maioria dos funcionários da Character.AI. A transação está em fase de oferta inicial, permitindo que outras empresas apresentem propostas concorrentes.",
+      "resumo": "Disney concordou em contratar a vasta maioria dos funcionários da Character.AI após proposta em leilão. Contrato ainda está aberto para ofertas concorrentes.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Anthropic: força de trabalho menos junior e mais tempo em reuniões",
-      "resumo": "A composição da força de trabalho da Anthropic mudou significativamente no último ano, com redução de profissionais juniores e aumento de tempo dedicado a reuniões.",
+      "subtema": "IA Generativa",
+      "titulo": "Meta remove termos sobre coleta de dados para treinamento de IA",
+      "resumo": "Meta removeu linguagem de seus termos de serviço que gerava preocupações sobre web scraping e uso de dados para treinamento de IA. Meta insistiu que a mudança não reflete alteração em suas práticas de coleta.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "url_original": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
       "idioma_original": "en"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Câmbio",
-      "titulo": "Dólar recua com novas pesquisas eleitorais no radar",
-      "resumo": "O dólar recuou nesta segunda-feira (19) com novos dados eleitorais. Pesquisas BTG/Nexus e AtlasIntel mostraram reduções nas intenções de voto e avanços em outras candidaturas.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-19102026/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Ibovespa Futuro cai com pesquisas eleitorais após debate",
-      "resumo": "O Ibovespa Futuro caiu no radar das pesquisas eleitorais e preocupações com contas públicas internacionais. Na Europa, os principais índices também sentiram pressão.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-com-pesquisas-eleitorais-no-radar-apos-debate-entre-flavio-e-lula/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "eSocial",
-      "titulo": "eSocial: novas regras entram em produção em 26 de outubro",
-      "resumo": "A etapa da NT 07/2026 revisada alterará informações sobre afastamentos, deficiência e processos trabalhistas no eSocial. As mudanças entram em vigor na próxima semana.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80146/esocial-novas-regras-entram-em-producao-em-26-de-outubro/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "MAT 2.0 começa nesta segunda e muda abertura de empresas",
-      "resumo": "Nova versão do sistema da Receita Federal integra a abertura de empresas à escolha tributária. Permite definir como IBS e CBS serão recolhidos no mesmo processo.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80145/mat-2-0-comeca-nesta-segunda-19-e-muda-abertura-de-empresas/",
+      "tema": "IA & Tech",
+      "subtema": "IA Generativa",
+      "titulo": "ANPD notifica Meta sobre suspensão de contas e remoção de posts",
+      "resumo": "Agência Nacional de Proteção de Dados (ANPD) concedeu cinco dias úteis para Meta explicar possíveis violações de direitos de usuários em suspensão de contas e remoção de publicações. Ofícios foram enviados após denúncias de restrição arbitrária de conteúdo.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/19/anpd-da-cinco-dias-para-meta-explicar-suspensao-de-contas-e-remocao-de-posts.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Trabalho em feriados: o que o DP deve conferir no comércio",
-      "resumo": "A Portaria MTE nº 1.316/2026 estabelece novas regras para trabalho em feriados no comércio. Departamento Pessoal deve verificar convenção coletiva, escala e pagamento.",
+      "titulo": "Emenda 141 reduz jornada para 40 horas e garante dois dias de repouso",
+      "resumo": "Emenda Constitucional 141 estabelece jornada máxima de 40 horas semanais com dois dias de repouso remunerado, sem redução salarial. Mudança impacta sistemas de folha de pagamento e acordos coletivos.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80054/trabalho-em-feriados-o-que-o-dp-deve-conferir-no-comercio/",
+      "url_original": "https://www.contabeis.com.br/noticias/80151/emenda-141-muda-jornada-e-garante-mais-descanso/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Fim da escala 6x1 pressiona empresas a revisar custos e jornadas",
+      "resumo": "Implementação do fim da escala 6x1 exige revisão de acordos coletivos, jornadas, folha de pagamento e custos operacionais. Empresas têm prazo determinado para adequação às novas regras.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80155/fim-da-escala-6x1-pressiona-empresas-a-rever-custos-e-jornadas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Impostos",
+      "titulo": "Impactos tributários do fim da escala 6x1 em análise",
+      "resumo": "Redução da jornada de trabalho afetará contribuições sobre folha e regime do Simples Nacional, sem aumento automático de alíquotas. Mudanças impõem ajustes em planejamento tributário empresarial.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80152/fim-da-escala-6x1-quais-sao-os-impactos-tributarios/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Impostos",
+      "titulo": "STF julga exclusão de ISS do PIS/Cofins com impacto de R$ 35,4 bilhões",
+      "resumo": "Supremo Tribunal Federal analiusa Tema 118 sobre exclusão de ISS da base de cálculo do PIS/Cofins, com votação 4 a 2 favorável aos contribuintes. Decisão pode impactar arrecadação em R$ 35,4 bilhões.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80153/stf-julga-exclusao-do-iss-do-pis-cofins-com-impacto-de-r-35-4-bi/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "MEI poderá participar de licitações exclusivas de até R$ 25 mil",
+      "resumo": "Congresso aprovou proposta permitindo licitações exclusivas para Microempreendedores Individuais de até R$ 25 mil via Contrata+Brasil. Texto aguarda sanção presidencial.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80156/mei-podera-ter-licitacoes-exclusivas-de-ate-r-25-mil/",
       "idioma_original": "pt"
     }
   ]
