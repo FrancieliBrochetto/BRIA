@@ -1,0 +1,95 @@
+{
+  "data": "2026-10-19",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic dedica 5% das ações a fundo de benefício público",
+      "resumo": "Anthropic anunciou o compromisso de destinar 5% de suas ações a um fundo de benefício público. A iniciativa reflete o posicionamento da empresa em relação à responsabilidade social corporativa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Replit adota OpenAI como modelo padrão em substituição a Anthropic",
+      "resumo": "A plataforma Replit passou a usar OpenAI como provedor de modelo padrão, substituindo Anthropic. Claude ainda permanecerá disponível como opção para clientes.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Meta remove linguagem que levantava preocupações sobre scraping e treinamento de IA",
+      "resumo": "Meta removeu termos de serviço que geravam preocupações sobre coleta de dados e treinamento de modelos de IA. A empresa afirma que as mudanças não refletem alterações em suas práticas de crawling.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Disney contrata maioria dos funcionários da Character.AI",
+      "resumo": "Disney acertou a contratação da grande maioria dos funcionários da Character.AI. A transação está em fase de oferta inicial, permitindo que outras empresas apresentem propostas concorrentes.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic: força de trabalho menos junior e mais tempo em reuniões",
+      "resumo": "A composição da força de trabalho da Anthropic mudou significativamente no último ano, com redução de profissionais juniores e aumento de tempo dedicado a reuniões.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar recua com novas pesquisas eleitorais no radar",
+      "resumo": "O dólar recuou nesta segunda-feira (19) com novos dados eleitorais. Pesquisas BTG/Nexus e AtlasIntel mostraram reduções nas intenções de voto e avanços em outras candidaturas.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-19102026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa Futuro cai com pesquisas eleitorais após debate",
+      "resumo": "O Ibovespa Futuro caiu no radar das pesquisas eleitorais e preocupações com contas públicas internacionais. Na Europa, os principais índices também sentiram pressão.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-com-pesquisas-eleitorais-no-radar-apos-debate-entre-flavio-e-lula/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "eSocial",
+      "titulo": "eSocial: novas regras entram em produção em 26 de outubro",
+      "resumo": "A etapa da NT 07/2026 revisada alterará informações sobre afastamentos, deficiência e processos trabalhistas no eSocial. As mudanças entram em vigor na próxima semana.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80146/esocial-novas-regras-entram-em-producao-em-26-de-outubro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "MAT 2.0 começa nesta segunda e muda abertura de empresas",
+      "resumo": "Nova versão do sistema da Receita Federal integra a abertura de empresas à escolha tributária. Permite definir como IBS e CBS serão recolhidos no mesmo processo.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80145/mat-2-0-comeca-nesta-segunda-19-e-muda-abertura-de-empresas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Trabalho em feriados: o que o DP deve conferir no comércio",
+      "resumo": "A Portaria MTE nº 1.316/2026 estabelece novas regras para trabalho em feriados no comércio. Departamento Pessoal deve verificar convenção coletiva, escala e pagamento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80054/trabalho-em-feriados-o-que-o-dp-deve-conferir-no-comercio/",
+      "idioma_original": "pt"
+    }
+  ]
+}
