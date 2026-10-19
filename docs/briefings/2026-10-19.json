@@ -3,119 +3,164 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "IA Generativa",
-      "titulo": "Instagram admite dificuldade em combater deep fakes",
-      "resumo": "Chefe do Instagram reconheceu que a plataforma ainda não possui estratégias efetivas contra perfis que usam avatares gerados por IA para reproduzir conteúdo original. O desafio envolve identificar e remover deep fakes em larga escala.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/chefe-do-instagram-admite-que-ainda-nao-sabe-como-combater-deep-fakes/",
-      "idioma_original": "pt"
+      "subtema": "Automação",
+      "titulo": "Amazon lança TorchNeuron para desafiar domínio da Nvidia no PyTorch",
+      "resumo": "Amazon desenvolveu nova ferramenta de desenvolvimento para quebrar a hegemonia da Nvidia no PyTorch, permitindo que mais desenvolvedores executem aplicações de IA em chips alternativos, incluindo seus próprios processadores.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Invasores acessam OpenCode e roubam chaves de API de usuários",
+      "resumo": "Hackers comprometeram plataforma online da ferramenta de codificação com IA OpenCode, roubando chaves de API de usuários e gerando cobranças não autorizadas em contas de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Usuários usam IA para customizar interfaces de smart TVs",
-      "resumo": "Projetos como Claude Code estão sendo utilizados para criar launchers personalizados que removem anúncios e modificam interfaces de TVs inteligentes. Usuários buscam retomar controle sobre dispositivos com bloatware e tracking.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/usuarios-usam-ia-para-remover-anuncios-e-mudar-interfaces-de-tvs/",
+      "titulo": "Tolan levanta US$ 30 milhões para seu assistente de IA pessoal",
+      "resumo": "App de companhia de IA Tolan arrecadou mais US$ 30 milhões após atrair mais de 250 mil usuários ativos, oferecendo assistente inteligente para ajudar usuários a navegar a vida.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Fundadora da Replika lança Wabi, assistente de IA pessoal gratuita",
+      "resumo": "Eugenia Kuyda criou nova startup Wabi oferecendo assistente de IA pessoal gratuita e disponível para download, retomando conceito que apresentou em 2014.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Tenstorrent atinge avaliação de US$ 6,2 bilhões para chips de IA abertos",
+      "resumo": "Startup rival da Nvidia arrecadou US$ 1,5 bilhão e rejeitou ofertas de aquisição, atingindo valuation de US$ 6,2 bilhões para escalar sua plataforma de chips de IA de peso aberto.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Meta transforma Mac em supercomputador de IA",
+      "resumo": "Meta desenvolveu solução que converte computadores Mac em supercomputadores para processamento de IA, ampliando capacidades de processamento local.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/meta-turns-mac-into-an-ai-supercomputer",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Noruega quer restringir TikTok, Snapchat e Roblox para menores de 16 anos",
+      "resumo": "Projeto de lei norueguês propõe incluir plataformas como TikTok, Snapchat e Roblox em restrições etárias, obrigando empresas a implementar sistemas de verificação de idade.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/19/internet-e-redes-sociais/noruega-quer-restringir-tiktok-snapchat-e-roblox-para-menores-de-16-anos/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Anthropic estabelece limites extremos para bloqueio de modelos de IA",
-      "resumo": "Anthropic propõe que modelos de IA sejam barrados apenas em casos de risco extremo: ameaças de mais de 50 mortes, ferimentos graves ou prejuízos acima de US$ 1 bilhão. Projeto busca definir critérios de segurança mais específicos.",
+      "subtema": "ChatGPT",
+      "titulo": "Apple questiona confiança em investir mais no ecossistema com Siri AI",
+      "resumo": "Análise estratégica levanta dúvida se promessas da Siri AI justificam maiores investimentos dos usuários no ecossistema Apple, apesar da confiança em integração de produtos.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/do-you-trust-apple/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Apple HomeView: questões sobre mercado endereçável de dispositivos baseados em IA inferior",
+      "resumo": "Apple apresenta oficialmente HomeView, mas análise questiona o tamanho do mercado endereçável para dispositivos caros baseados em IA com desempenho ainda inferior.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Impacto da IA em Hollywood discutido com super-agente Ari Emanuel",
+      "resumo": "Entrevista com o poderoso agente de entretenimento Ari Emanuel sobre seu livro, o impacto da IA em Hollywood e a importância das relações pessoais no setor.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Itaú permite usar pontos acumulados para pagar Pix",
+      "resumo": "Clientes do Itaú agora podem usar saldo de pontos para realizar transações via Pix, sem cobrança de taxa, ampliando formas de utilização do programa de pontuação.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/anthropic-quer-barrar-ias-apenas-diante-de-riscos-extremos/",
+      "url_original": "https://tecnoblog.net/noticias/itau-agora-permite-usar-pontos-acumulados-para-pagar-pix/",
       "idioma_original": "pt"
     },
     {
-      "tema": "IA & Tech",
-      "subtema": "IA Generativa",
-      "titulo": "Anthropic compromete 5% das ações com fundo de benefício público",
-      "resumo": "Anthropic anunciou alocação de 5% de suas ações para um fundo de benefício público, reforçando seu compromisso com responsabilidade social e alinhamento com interesse público.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Generativa",
-      "titulo": "Nvidia lança modelos abertos para agentes de IA em empresas e PCs",
-      "resumo": "Nvidia introduziu novos modelos de código aberto para permitir que empresas executem agentes de IA em seus próprios data centers e em dispositivos locais. Iniciativa busca democratizar acesso a IA privada e autossuficiente.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Generativa",
-      "titulo": "Disney contrata maioria dos funcionários da Character.AI",
-      "resumo": "Disney concordou em contratar a vasta maioria dos funcionários da Character.AI após proposta em leilão. Contrato ainda está aberto para ofertas concorrentes.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Generativa",
-      "titulo": "Meta remove termos sobre coleta de dados para treinamento de IA",
-      "resumo": "Meta removeu linguagem de seus termos de serviço que gerava preocupações sobre web scraping e uso de dados para treinamento de IA. Meta insistiu que a mudança não reflete alteração em suas práticas de coleta.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA Generativa",
-      "titulo": "ANPD notifica Meta sobre suspensão de contas e remoção de posts",
-      "resumo": "Agência Nacional de Proteção de Dados (ANPD) concedeu cinco dias úteis para Meta explicar possíveis violações de direitos de usuários em suspensão de contas e remoção de publicações. Ofícios foram enviados após denúncias de restrição arbitrária de conteúdo.",
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Apple pode pagar mais centenas de milhões em disputa de patentes",
+      "resumo": "Taction Technology pediu indenização adicional e juros após vencer processo de US$ 5,7 bilhões contra Apple por patentes usadas em iPhones e Apple Watches, podendo aumentar o valor total.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/19/anpd-da-cinco-dias-para-meta-explicar-suspensao-de-contas-e-remocao-de-posts.ghtml",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/19/apple-pode-ter-de-pagar-mais-em-caso-de-patente-com-indenizacao-de-us-57-bilhoes.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Quase 500 mil brasileiros na malha fina receberão carta da Receita Federal",
+      "resumo": "Receita Federal enviará cartas a 498.487 contribuintes com declaração de Imposto de Renda retida na malha fina, com prazo de defesa começando em 23 de março de 2026.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/19/quase-500-mil-brasileiros-na-malha-fina-receberao-carta-da-receita-federal.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Emenda 141 reduz jornada para 40 horas e garante dois dias de repouso",
-      "resumo": "Emenda Constitucional 141 estabelece jornada máxima de 40 horas semanais com dois dias de repouso remunerado, sem redução salarial. Mudança impacta sistemas de folha de pagamento e acordos coletivos.",
+      "titulo": "Projeto aprovado prevê perdão de dívidas federais do MEI",
+      "resumo": "Congresso aprovou projeto que condona débitos federais de MEIs condicionado a pagamentos em dia, ainda aguardando sanção presidencial.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80151/emenda-141-muda-jornada-e-garante-mais-descanso/",
+      "url_original": "https://www.contabeis.com.br/noticias/80176/perdao-de-dividas-do-mei-veja-condicoes-previstas-no-projeto/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Perdão de dívidas MEI pode impactar benefícios de aposentadoria",
+      "resumo": "Análise aponta como perdão de débitos MEI reflete na aposentadoria, com orientações sobre consulta de pendências e avaliação de parcelamento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80175/perdao-das-dividas-do-mei-e-os-reflexos-na-aposentadoria/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Fim da escala 6x1 pressiona empresas a revisar custos e jornadas",
-      "resumo": "Implementação do fim da escala 6x1 exige revisão de acordos coletivos, jornadas, folha de pagamento e custos operacionais. Empresas têm prazo determinado para adequação às novas regras.",
+      "titulo": "STJ afasta cobrança de IPTU em área de preservação ambiental",
+      "resumo": "Superior Tribunal de Justiça determina que restrições ambientais que impedem construção e exploração econômica afastam cobrança de IPTU em terrenos de Guarulhos (SP).",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80155/fim-da-escala-6x1-pressiona-empresas-a-rever-custos-e-jornadas/",
+      "url_original": "https://www.contabeis.com.br/noticias/80169/stj-afasta-cobranca-de-iptu-em-area-de-preservacao/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Impostos",
-      "titulo": "Impactos tributários do fim da escala 6x1 em análise",
-      "resumo": "Redução da jornada de trabalho afetará contribuições sobre folha e regime do Simples Nacional, sem aumento automático de alíquotas. Mudanças impõem ajustes em planejamento tributário empresarial.",
+      "subtema": "Reforma Tributária",
+      "titulo": "STJ mantém inclusão de ICMS no cálculo de PIS/Cofins por volume",
+      "resumo": "Primeira Turma do Superior Tribunal de Justiça afasta exclusão de ICMS no regime de alíquotas fixas por metro cúbico de álcool combustível.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80152/fim-da-escala-6x1-quais-sao-os-impactos-tributarios/",
+      "url_original": "https://www.contabeis.com.br/noticias/80168/stj-mantem-icms-no-calculo-do-pis-cofins-por-volume/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Impostos",
-      "titulo": "STF julga exclusão de ISS do PIS/Cofins com impacto de R$ 35,4 bilhões",
-      "resumo": "Supremo Tribunal Federal analiusa Tema 118 sobre exclusão de ISS da base de cálculo do PIS/Cofins, com votação 4 a 2 favorável aos contribuintes. Decisão pode impactar arrecadação em R$ 35,4 bilhões.",
+      "subtema": "Imposto de Renda",
+      "titulo": "Bahia oferece descontos de até 95% para quitar dívidas tributárias",
+      "resumo": "Estado da Bahia oferece negociação de débitos inscritos em dívida ativa para 50 mil contribuintes, com descontos de até 95% em multas e acréscimos moratórios.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80153/stf-julga-exclusao-do-iss-do-pis-cofins-com-impacto-de-r-35-4-bi/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "MEI poderá participar de licitações exclusivas de até R$ 25 mil",
-      "resumo": "Congresso aprovou proposta permitindo licitações exclusivas para Microempreendedores Individuais de até R$ 25 mil via Contrata+Brasil. Texto aguarda sanção presidencial.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80156/mei-podera-ter-licitacoes-exclusivas-de-ate-r-25-mil/",
+      "url_original": "https://www.contabeis.com.br/noticias/80167/bahia-oferece-descontos-para-quitar-dividas-tributarias/",
       "idioma_original": "pt"
     }
   ]
