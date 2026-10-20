@@ -1,0 +1,149 @@
+{
+  "data": "2026-10-20",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "GPUs avaliadas em R$ 2,5 milhões desaparecem do aeroporto de Guarulhos",
+      "resumo": "Placas gráficas Nvidia RTX 5090, avaliadas em R$ 2,5 milhões, foram furtadas do aeroporto de Guarulhos. Cada placa pode custar R$ 35 mil no mercado brasileiro. O caso representa um roubo significativo de equipamentos de alto valor.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/gpus-avaliadas-em-r-25-milhoes-somem-do-aeroporto-de-guarulhos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Figma busca suporte a múltiplos padrões sem expor todos os dados",
+      "resumo": "Cofundador da Figma, Dylan Field, questiona se o protocolo MCP é perfeito para suas necessidades. A empresa planeja suportar múltiplos padrões mantendo controle sobre exposição de dados.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "EUA ordenam remoção de IA DeepSeek dos sistemas federais por questões de segurança",
+      "resumo": "Agências federais civis americanas foram ordenadas a remover produtos DeepSeek de seus sistemas. A decisão cita preocupações com segurança nacional relacionadas à tecnologia chinesa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Otter.ai levanta US$ 320 milhões para expansão de ferramenta de notas em reuniões",
+      "resumo": "Plataforma de transcrição de reuniões Otter.ai obteve investimento de US$ 320 milhões do General Catalyst. Recursos serão usados para crescimento empresarial, expansão internacional e inovação de produtos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "IA prevê chances de sobrevivência em câncer a partir de selfie",
+      "resumo": "Modelo de IA treinado com mais de 40 milhões de fotos pode ajudar médicos a avaliar riscos de pacientes com câncer. Ferramenta analisa selfies para prever probabilidades de sobrevivência antes de tratamentos.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/20/medicina-e-saude/ia-preve-chances-de-sobrevivencia-de-pacientes-com-cancer-a-partir-de-selfie/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Yelp introduz chamadas de IA para verificar tempo de espera em restaurantes",
+      "resumo": "Yelp agora permite que IA faça chamadas telefônicas em nome do usuário para verificar filas. Novo recurso integra recomendações personalizadas que memorizam preferências do usuário.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Meta e Apple anunciam parceria para rodar modelo open source localmente",
+      "resumo": "Meta lançou novo modelo open source e surpreendeu ao anunciar parceria com Apple para execução local. Colaboração visa permitir uso de IA em dispositivos Apple sem dependência de servidores remotos.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ação da General Motors desaba após lucro ficar aquém de expectativas",
+      "resumo": "Ações da GM caíram após a empresa divulgar lucro trimestral abaixo das previsões de Wall Street. Ebit ajustado cresceu 22% para US$ 4,1 bilhões, mas não atendeu expectativas do mercado.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/acao-da-gm-desaba-apos-previsao-de-lucro-ficar-aquem-das-expectativas-de-wall-street/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Maior risco da Bolsa americana é estar fora dela, avalia XP Asset",
+      "resumo": "Executivo da XP Asset alerta que ficar sem exposição ao mercado global significa abrir mão de oportunidades de crescimento. Especialista orienta investidores brasileiros sobre como evitar erros comuns.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/o-maior-risco-da-bolsa-americana-e-estar-fora-dela-avalia-xp-asset/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Risco-país da Argentina ultrapassa 710 pontos básicos, maior nível desde outubro de 2025",
+      "resumo": "Indicador de risco-país argentino atingiu 710 pontos básicos nesta terça-feira. Aumento ocorre em meio à queda dos títulos da dívida argentina negociados no exterior.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/20/risco-divida-argentina.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Preço do diesel dispara 6,67% e chega a R$ 7,20 por litro no Brasil",
+      "resumo": "Diesel comum subiu 6,67% na primeira quinzena de outubro, alcançando média de R$ 7,20 por litro. Alta é impulsionada pela disparada do petróleo no mercado internacional devido ao agravamento de conflitos no Oriente Médio.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/20/preco-do-diesel-dispara-667percent-e-chega-a-r-720-por-litro-no-brasil-aponta-pesquisa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária: CNPJ alfanumérico muda cadastro de empresas na Bahia",
+      "resumo": "Novo modelo de CNPJ alfanumérico, que combina letras e números, amplia possibilidades de inscrições. Mudança exige adaptações nos sistemas fiscais das empresas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80191/reforma-tributaria-cnpj-alfanumerico-muda-cadastro-de-empresas-na-bahia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Perdão de dívidas do MEI pode começar em janeiro de 2027",
+      "resumo": "Medida aprovada pelo Congresso pode beneficiar 3,6 milhões de MEIs com débitos inscritos na Dívida Ativa até 13 de outubro de 2026. Programa de perdão está previsto para iniciar em janeiro de 2027.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80192/perdao-de-dividas-do-mei-pode-comecar-em-janeiro-de-2027/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Simples Nacional pode ter limites atualizados e impactar empresas em 2027",
+      "resumo": "Estudo projeta até 1,42 milhão de empregos com a correção das faixas de faturamento do Simples Nacional. Mudanças para microempresas e pequenas empresas seguem em discussão.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80190/simples-nacional-pode-ter-limites-atualizados-e-impactar-empresas-em-2027/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Desconto indevido em salário ou benefício pode dar até 8 anos de prisão",
+      "resumo": "PL 3312/26 prevê reclusão e multa para fraudes com descontos não autorizados em salários, aposentadorias, pensões e benefícios. Pena pode chegar a 8 anos de prisão.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80188/desconto-indevido-em-salario-ou-beneficio-pode-dar-ate-8-anos-de-prisao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Fazenda abre consulta sobre Taxonomia Sustentável até 20 de novembro",
+      "resumo": "Segunda edição da Taxonomia Sustentável Brasileira recebe sugestões de público até 20 de novembro. Consulta aborda critérios ambientais e sociais para empresas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80189/fazenda-abre-consulta-sobre-taxonomia-sustentavel-ate-20-de-novembro/",
+      "idioma_original": "pt"
+    }
+  ]
+}
