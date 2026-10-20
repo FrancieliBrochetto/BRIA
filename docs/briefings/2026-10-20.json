@@ -3,146 +3,146 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "GPUs avaliadas em R$ 2,5 milhões desaparecem do aeroporto de Guarulhos",
-      "resumo": "Placas gráficas Nvidia RTX 5090, avaliadas em R$ 2,5 milhões, foram furtadas do aeroporto de Guarulhos. Cada placa pode custar R$ 35 mil no mercado brasileiro. O caso representa um roubo significativo de equipamentos de alto valor.",
+      "subtema": "ChatGPT",
+      "titulo": "ChatGPT agora permite bloquear conversas privadas",
+      "resumo": "OpenAI lançou recurso para proteger chats privados ao compartilhar dispositivo com amigos ou família. Funcionalidade ideal para situações envolvendo assuntos pessoais ou surpresas que precisam de privacidade.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic recebe investimento público e Eric Schmidt detém 1% da empresa",
+      "resumo": "Eric Schmidt, ex-CEO do Google, possui aproximadamente 1% de participação na Anthropic, metade da participação do CEO Dario Amodei. Informação revelada por relatório da Bloomberg.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Meta Muse atinge 10 milhões de downloads nos EUA em 40 dias",
+      "resumo": "Assistente de IA da Meta alcançou marco histórico em apenas 40 dias, entrando em grupo seleto de apenas 12 apps. Dados mostram retenção de usuários superior aos rivais de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Spotify remove 50 milhões de faixas de IA das recomendações",
+      "resumo": "Plataforma alterou algoritmo para priorizar artistas humanos, reduzindo reclamações de usuários. Ação reflete maior cuidado com qualidade do conteúdo recomendado.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/gpus-avaliadas-em-r-25-milhoes-somem-do-aeroporto-de-guarulhos/",
+      "url_original": "https://tecnoblog.net/noticias/spotify-removeu-mais-de-50-milhoes-de-faixas-de-ia-das-recomendacoes/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Figma busca suporte a múltiplos padrões sem expor todos os dados",
-      "resumo": "Cofundador da Figma, Dylan Field, questiona se o protocolo MCP é perfeito para suas necessidades. A empresa planeja suportar múltiplos padrões mantendo controle sobre exposição de dados.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "EUA ordenam remoção de IA DeepSeek dos sistemas federais por questões de segurança",
-      "resumo": "Agências federais civis americanas foram ordenadas a remover produtos DeepSeek de seus sistemas. A decisão cita preocupações com segurança nacional relacionadas à tecnologia chinesa.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Otter.ai levanta US$ 320 milhões para expansão de ferramenta de notas em reuniões",
-      "resumo": "Plataforma de transcrição de reuniões Otter.ai obteve investimento de US$ 320 milhões do General Catalyst. Recursos serão usados para crescimento empresarial, expansão internacional e inovação de produtos.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "IA prevê chances de sobrevivência em câncer a partir de selfie",
-      "resumo": "Modelo de IA treinado com mais de 40 milhões de fotos pode ajudar médicos a avaliar riscos de pacientes com câncer. Ferramenta analisa selfies para prever probabilidades de sobrevivência antes de tratamentos.",
+      "subtema": "IA Geral",
+      "titulo": "China exige que EUA revoguem proibição do DeepSeek em órgãos federais",
+      "resumo": "Governo chinês contesta sanções americanas contra DeepSeek e cinco entidades chinesas. Disputa reflete tensões crescentes em torno de tecnologia e segurança.",
       "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/10/20/medicina-e-saude/ia-preve-chances-de-sobrevivencia-de-pacientes-com-cancer-a-partir-de-selfie/",
+      "url_original": "https://olhardigital.com.br/2026/10/20/inteligencia-artificial/china-exige-que-eua-retirem-deepseek-de-lista-de-proibicoes-em-orgaos-federais/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Yelp introduz chamadas de IA para verificar tempo de espera em restaurantes",
-      "resumo": "Yelp agora permite que IA faça chamadas telefônicas em nome do usuário para verificar filas. Novo recurso integra recomendações personalizadas que memorizam preferências do usuário.",
+      "subtema": "Python",
+      "titulo": "Google e Amazon facilitam migração de aplicações de GPUs Nvidia",
+      "resumo": "Google se junta à Amazon lançando ferramentas para desenvolvedores PyTorch migrarem apps de GPUs Nvidia. Movimento desafia dominância Nvidia entre desenvolvedores de IA.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "url_original": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Meta e Apple anunciam parceria para rodar modelo open source localmente",
-      "resumo": "Meta lançou novo modelo open source e surpreendeu ao anunciar parceria com Apple para execução local. Colaboração visa permitir uso de IA em dispositivos Apple sem dependência de servidores remotos.",
+      "subtema": "IA Geral",
+      "titulo": "Startup cria modelo de IA para traduzir linguagem elétrica das plantas",
+      "resumo": "Electric Plant desenvolveu tradutor de IA para decodificar sinais elétricos emitidos pelas plantas. Inovação abre caminho para comunicação entre humanos e reino vegetal.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Meta e Apple parceriam em modelo open source local",
+      "resumo": "Meta lançou modelo open source Muse Spark Open em parceria com Apple para execução local. Colaboração surpreendente entre gigantes de tech para democratizar IA.",
       "fonte": "Stratechery",
       "url_original": "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/",
       "idioma_original": "en"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Ação da General Motors desaba após lucro ficar aquém de expectativas",
-      "resumo": "Ações da GM caíram após a empresa divulgar lucro trimestral abaixo das previsões de Wall Street. Ebit ajustado cresceu 22% para US$ 4,1 bilhões, mas não atendeu expectativas do mercado.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/acao-da-gm-desaba-apos-previsao-de-lucro-ficar-aquem-das-expectativas-de-wall-street/",
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Anatel determina bloqueio de chamadas abusivas a partir de 12/11",
+      "resumo": "Operadoras terão de bloquear linhas por 15 dias que realizarem chamadas em massa ou ligações relâmpago. Regulação visa combater spam telefônico e chamadas intrusivas.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/20/seguranca/operadoras-terao-de-bloquear-chamadas-abusivas-a-partir-de-12-11/",
       "idioma_original": "pt"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Maior risco da Bolsa americana é estar fora dela, avalia XP Asset",
-      "resumo": "Executivo da XP Asset alerta que ficar sem exposição ao mercado global significa abrir mão de oportunidades de crescimento. Especialista orienta investidores brasileiros sobre como evitar erros comuns.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/onde-investir/o-maior-risco-da-bolsa-americana-e-estar-fora-dela-avalia-xp-asset/",
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Reino Unido propõe abrir NFC do iPhone para rivais do Apple Pay",
+      "resumo": "Autoridade britânica propõe acesso mais barato à tecnologia NFC para bancos e carteiras digitais concorrentes. Medida busca aumentar concorrência no segmento de pagamentos móveis.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/reino-unido-propoe-abrir-nfc-do-iphone-a-rivais-do-apple-pay/",
       "idioma_original": "pt"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Câmbio",
-      "titulo": "Risco-país da Argentina ultrapassa 710 pontos básicos, maior nível desde outubro de 2025",
-      "resumo": "Indicador de risco-país argentino atingiu 710 pontos básicos nesta terça-feira. Aumento ocorre em meio à queda dos títulos da dívida argentina negociados no exterior.",
+      "tema": "IA & Tech",
+      "subtema": "IA Geral",
+      "titulo": "Conab sofre ataques hackers e alerta para vulnerabilidades em sistemas",
+      "resumo": "Companhia Nacional de Abastecimento relata ataques cibernéticos contra seus sistemas e serviços digitais. Estatal alerta sobre risco de segurança em seu ambiente tecnológico.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/10/20/risco-divida-argentina.ghtml",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/20/conab-sofre-ataques-hackers-e-alerta-para-possiveis-falhas-em-seus-sistemas.ghtml",
       "idioma_original": "pt"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Câmbio",
-      "titulo": "Preço do diesel dispara 6,67% e chega a R$ 7,20 por litro no Brasil",
-      "resumo": "Diesel comum subiu 6,67% na primeira quinzena de outubro, alcançando média de R$ 7,20 por litro. Alta é impulsionada pela disparada do petróleo no mercado internacional devido ao agravamento de conflitos no Oriente Médio.",
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Receita Federal identifica 600 milhões de notas sem CBS em 30 dias",
+      "resumo": "Receita Federal detectou 600 milhões de documentos fiscais sem destaque da CBS. Empresas precisam revisar e ajustar sistemas antes de 2027.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80201/cbs-600-milhoes-de-notas-sairam-sem-o-tributo/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Federal devolve recorde de R$ 41 bilhões em restituições do IR 2026",
+      "resumo": "Receita Federal reverteu R$ 41 bilhões a 35,9 milhões de contribuintes da declaração de 2026. Cerca de 80% do total foi devolvido em até um mês após conclusão do processamento.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/10/20/preco-do-diesel-dispara-667percent-e-chega-a-r-720-por-litro-no-brasil-aponta-pesquisa.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Reforma Tributária: CNPJ alfanumérico muda cadastro de empresas na Bahia",
-      "resumo": "Novo modelo de CNPJ alfanumérico, que combina letras e números, amplia possibilidades de inscrições. Mudança exige adaptações nos sistemas fiscais das empresas.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80191/reforma-tributaria-cnpj-alfanumerico-muda-cadastro-de-empresas-na-bahia/",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/20/receita-federal-imposto-de-renda-2026.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Perdão de dívidas do MEI pode começar em janeiro de 2027",
-      "resumo": "Medida aprovada pelo Congresso pode beneficiar 3,6 milhões de MEIs com débitos inscritos na Dívida Ativa até 13 de outubro de 2026. Programa de perdão está previsto para iniciar em janeiro de 2027.",
+      "titulo": "Receita cria código Darf 6793 para contribuição em ações trabalhistas",
+      "resumo": "Novo código identifica contribuição previdenciária do segurado com recolhimento pela Justiça do Trabalho. Conforme ADE Codar nº 84/2026.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80192/perdao-de-dividas-do-mei-pode-comecar-em-janeiro-de-2027/",
+      "url_original": "https://www.contabeis.com.br/noticias/80199/receita-cria-codigo-darf-6793-para-contribuicao-em-acoes-trabalhistas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "STF reconhece imunidade de ITBI para imobiliárias",
+      "resumo": "Decisão do STF afasta cobrança de ITBI na integralização de capital com imóveis. Benefício aplica-se mesmo para empresas com atividade imobiliária predominante.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80205/stf-reconhece-imunidade-de-itbi-para-imobiliarias/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Simples Nacional pode ter limites atualizados e impactar empresas em 2027",
-      "resumo": "Estudo projeta até 1,42 milhão de empregos com a correção das faixas de faturamento do Simples Nacional. Mudanças para microempresas e pequenas empresas seguem em discussão.",
+      "titulo": "Congresso prorroga MPs de apoio a exportadores e combustíveis",
+      "resumo": "Medidas provisórias mantêm suspensão de tributos para exportadores, crédito de R$ 7 bilhões e subsídios a produtores e importadores de combustíveis.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80190/simples-nacional-pode-ter-limites-atualizados-e-impactar-empresas-em-2027/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Desconto indevido em salário ou benefício pode dar até 8 anos de prisão",
-      "resumo": "PL 3312/26 prevê reclusão e multa para fraudes com descontos não autorizados em salários, aposentadorias, pensões e benefícios. Pena pode chegar a 8 anos de prisão.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80188/desconto-indevido-em-salario-ou-beneficio-pode-dar-ate-8-anos-de-prisao/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Fazenda abre consulta sobre Taxonomia Sustentável até 20 de novembro",
-      "resumo": "Segunda edição da Taxonomia Sustentável Brasileira recebe sugestões de público até 20 de novembro. Consulta aborda critérios ambientais e sociais para empresas.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80189/fazenda-abre-consulta-sobre-taxonomia-sustentavel-ate-20-de-novembro/",
+      "url_original": "https://www.contabeis.com.br/noticias/80207/congresso-prorroga-mps-de-apoio-a-exportadores-e-setor-de-combustiveis/",
       "idioma_original": "pt"
     }
   ]
