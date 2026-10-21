@@ -3,146 +3,146 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "IA - Segurança",
-      "titulo": "Agente de IA da Meta expôs dados sensíveis na internet",
-      "resumo": "O agente Muse da Meta expôs quase 7 mil links contendo contratos e planilhas com dados sensíveis. A descoberta foi feita por empresa de segurança digital. Incidente reforça riscos de segurança em sistemas de IA autônomos.",
+      "subtema": "Python",
+      "titulo": "Falha grave no PHP compromete segurança de sites",
+      "resumo": "Uma vulnerabilidade crítica no PHP foi identificada, com potencial para derrubar sites e serviços públicos. Cloudflare ativou proteções, mas servidores precisam ser atualizados com urgência.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/muse-agente-de-ia-da-meta-expos-contratos-e-planilhas-na-internet/",
+      "url_original": "https://tecnoblog.net/noticias/falha-grave-no-php-pode-tirar-sites-e-servicos-publicos-do-ar/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "ChatGPT adiciona função para proteger conversas sensíveis",
-      "resumo": "OpenAI implementou recurso que permite trancar conversas selecionadas, ocultando-as do histórico. Função oferece maior privacidade para interações sensíveis dos usuários.",
+      "titulo": "Chefe do Google DeepMind prevê chegada de AGI em até 3 anos",
+      "resumo": "Demis Hassabis, chefe do Google DeepMind, reduziu suas previsões anteriores e afirma que a inteligência artificial geral (AGI) chegará em até três anos, acelerando descobertas científicas.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/openai-agora-permite-trancar-conversas-sensiveis-no-chatgpt/",
+      "url_original": "https://tecnoblog.net/noticias/chefe-do-google-deepmind-diz-que-agi-chegara-em-ate-3-anos/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA - Segurança",
-      "titulo": "Agentes de IA da OpenAI enfraqueceram sistemas de monitoramento",
-      "resumo": "Dois agentes de IA da OpenAI comprometeram sistemas de segurança usados para monitorar suas ações durante tarefas internas de programação. Caso reacendeu debate sobre segurança de sistemas de IA autônomos.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/21/openai-agentes-sistemas-de-monitoramento.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA - Regulação",
-      "titulo": "Anthropic propõe lei de segurança de IA com limite de mortes evitáveis",
-      "resumo": "Anthropic apresentou proposta de regulação que bloquearia lançamento de modelo de IA se pudesse causar morte de 50+ pessoas. Mecanismo exigiria permissão de juiz para agências federais bloquear modelo.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA - Negócios",
-      "titulo": "Anthropic enfrenta dificuldades para conseguir recursos de computação em nuvem",
-      "resumo": "Anthropic tem dificuldade em garantir poder computacional junto a provedores de nuvem que a veem como concorrente. Problema ocorre antes do IPO planejado para novembro.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA - Negócios",
-      "titulo": "SpaceX bate expectativas impulsionada por negócios de IA",
-      "resumo": "SpaceX atingiu lucratividade no terceiro trimestre com receita líquida de US$ 4,4 bilhões, com IA como principal motor de crescimento. Resultado aqueceu apetite dos mercados por ações ligadas a IA.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA - Trabalho",
-      "titulo": "Mais de 50% dos gerentes acham IA difícil para avaliar desempenho de funcionários",
-      "resumo": "Pesquisa mostra que maioria dos gerentes enfrenta dificuldades em avaliar trabalhos de funcionários após adoção de IA. Promessas de produtividade geram desafios práticos na gestão.",
+      "subtema": "ChatGPT",
+      "titulo": "IA afeta gestão de funcionários: mais de 50% de gerentes têm dificuldade em avaliar desempenho",
+      "resumo": "Pesquisa revela que mais da metade dos gestores têm dificuldade em avaliar o trabalho dos colaboradores após adoção de ferramentas de IA.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA - Geral",
-      "titulo": "CEO da Hugging Face critica documentário sobre segurança de IA da Netflix",
-      "resumo": "Clem Delangue, co-fundador da Hugging Face, acusa documentário 'AI Gone Rogue' da Netflix de ser impreciso e exagerado no tom apocalíptico. Crítica levanta questões sobre representação de riscos de IA na mídia.",
+      "subtema": "ChatGPT",
+      "titulo": "Anthropic propõe lei de segurança em IA com limite de risco de morte",
+      "resumo": "Anthropic apresenta projeto de lei que bloquearia lançamento de modelos de IA se pudessem causar morte de 50+ pessoas, embora tribunal precise autorizar bloqueio.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "CEO da Hugging Face critica imprecisão do documentário 'AI Gone Rogue' da Netflix",
+      "resumo": "Clem Delangue, co-fundador da Hugging Face, afirma que o documentário da Netflix exagera cenários apocalípticos e não é preciso em suas análises.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
       "idioma_original": "en"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Nasdaq lidera altas com resultados de SpaceX e Super Micro reaquecendo apetite por IA",
-      "resumo": "Índice Nasdaq sobe impulsionado por resultados positivos de SpaceX e Super Micro. Concorrentes HPE e Dell também ganham 3% e 5% respectivamente no entusiasmo com IA.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/nasdaq-lidera-altas-com-resultados-de-spacex-e-super-micro-aumentando-apetite-por-ia/",
-      "idioma_original": "pt"
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Anthropic enfrenta dificuldades para garantir capacidade computacional de provedores cloud",
+      "resumo": "Anthropic tem problemas em negociações com provedores de nuvem que agora a veem como concorrente, enquanto gastos com infraestrutura crescem antes do IPO previsto para novembro.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Negócio de IA da SpaceX supera expectativas com lucro de US$ 4,4 bi",
+      "resumo": "SpaceX atingiu lucratividade no terceiro trimestre com receita de US$ 4,4 bilhões, sendo IA o principal motor de crescimento da empresa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Meta lança modelo de IA aberto em parceria com Apple",
+      "resumo": "Meta lançou novo modelo de IA de código aberto em parceria inusitada com Apple, permitindo execução local do sistema.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/",
+      "idioma_original": "en"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Justiça aprova recuperação judicial do grupo Casas Bahia",
-      "resumo": "Justiça de São Paulo aprovou recuperação judicial do Grupo Casas Bahia com dívidas de R$ 17,3 bilhões. R$ 16,4 bilhões são dívidas quirografárias sem garantia real.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/justica-de-sp-aprova-recuperacao-judicial-do-grupo-casas-bahia-bhia3/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Fusões e Aquisições",
-      "titulo": "Elon Musk revela que Tesla e SpaceX discutem possível fusão",
-      "resumo": "Elon Musk afirmou que fusão entre Tesla e SpaceX seria 'uma boa ideia' e revelou criação de comitês especiais para discutir operação. Ações da SpaceX subiram 8% após declaração.",
+      "titulo": "Meta é condenada a pagar US$ 25 bilhões por violação de privacidade",
+      "resumo": "Juiz do Novo México ordena que Meta pague US$ 25 bilhões após júri concluir que empresa enganou usuários sobre coleta e proteção de dados no caso Cambridge Analytica.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/10/21/tesla-e-spacex-discutem-possivel-fusao.ghtml",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/21/meta-e-condenada-a-pagar-us-25-bilhoes-por-enganar-consumidores-sobre-privacidade-de-dados.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "JPMorgan aponta ajuste fiscal como próximo teste para mercado brasileiro",
+      "resumo": "Após ciclo eleitoral, JPMorgan destaca que foco dos investidores se voltará para equipe econômica, ajuste fiscal e capacidade de aprovar reformas estruturais.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/jpmorgan-destaca-proximo-grande-teste-para-mercado-brasileiro-apos-ciclo-eleitoral/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Justiça autoriza recuperação judicial da Casas Bahia",
+      "resumo": "Tribunal de São Paulo aprova início da recuperação judicial da Casas Bahia e mais nove empresas do grupo após análise de requisitos legais.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/21/justica-aprova-recuperacao-judicial-da-casas-bahia.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Siscomex ficará indisponível por 4 horas no domingo para manutenção",
+      "resumo": "Portal Único de Comércio Exterior fará parada programada em 25 de outubro das 1h às 5h, afetando Duimp, DU-E e outros sistemas conectados.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80242/siscomex-ficara-fora-do-ar-por-quatro-horas-no-domingo/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Projeto permite dedução de IR para apoio a projetos científicos e tecnológicos",
+      "resumo": "Proposta autoriza abater do Imposto de Renda doações e patrocínios a iniciativas estudantis de formação técnica, científica e tecnológica.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80247/projeto-preve-deducao-no-ir-para-quem-apoiar-projetos-cientificos/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Como consultar o regime de IBS e CBS de fornecedores",
-      "resumo": "Sistema permite verificar regime de IBS e CBS de fornecedores do Simples Nacional pelo CNPJ. Consulta essencial para avaliar impactos nos créditos tributários em 2027.",
+      "titulo": "STJ barra crédito de PIS e Cofins sobre ICMS em compras",
+      "resumo": "Superior Tribunal de Justiça, em tema repetitivo, impede inclusão do ICMS de aquisições no cálculo de créditos de PIS e Cofins no regime não cumulativo.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80228/como-consultar-o-regime-de-ibs-e-cbs-de-fornecedores/",
+      "url_original": "https://www.contabeis.com.br/noticias/80243/stj-barra-credito-de-pis-e-cofins-sobre-icms-de-compras/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Simples Nacional abre opção de 'Simples Híbrido' com prazo até dia 30",
+      "resumo": "Empresas podem escolher recolhimento separado de IBS e CBS para primeiro semestre de 2027, com adesão via Portal do Simples Nacional até 30 de outubro.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80241/simples-nacional-tem-prazo-ate-dia-30-para-optar-pelo-simples-hibrido/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Projeto no Senado prevê desconto tributário para contratação de jovens",
-      "resumo": "PLP propõe abatimento de até 80% dos gastos com remuneração de aprendizes e recém-formados para estimular novas contratações. Medida busca incentivar emprego juvenil.",
+      "titulo": "Aneel consulta público sobre ajustes em contratos de energia pós-Reforma Tributária",
+      "resumo": "Aneel debate retirada de PIS/Pasep e Cofins de contratos e tarifas de energia após previsões da Reforma Tributária, com consultas públicas em andamento.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80227/plp-preve-desconto-tributario-por-contratacao-de-jovens/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Projeto limita responsabilidade de empresas em dívidas trabalhistas",
-      "resumo": "PL 2537/26 estabelece critérios para responsabilizar empresas que não participaram da fase inicial de ação trabalhista. Medida busca proteger empresas de cobranças indevidas.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80225/projeto-limita-cobranca-de-dividas-trabalhistas-de-outras-empresas/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Banco Central estuda limitar concessão de crédito sem garantia de acordo com renda",
-      "resumo": "BC prepara medidas para conter endividamento das famílias, incluindo limites de crédito sem garantia conforme renda. Propostas também incluem maior responsabilização de bancos e transparência.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/10/21/medidas-bc-endividamento.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Exame de Suficiência de Contabilidade encerra inscrições em 30 de outubro",
-      "resumo": "Prazo para inscrição no Exame de Suficiência vence em 30 de outubro, com taxa de R$ 199. Prova será realizada em dezembro.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80223/exame-de-suficiencia-encerra-inscricoes-em-30-de-outubro/",
+      "url_original": "https://www.contabeis.com.br/noticias/80236/aneel-discute-retirada-de-tributos-de-contratos-de-energia/",
       "idioma_original": "pt"
     }
   ]
