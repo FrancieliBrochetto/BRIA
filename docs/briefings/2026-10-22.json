@@ -3,128 +3,146 @@
   "noticias": [
     {
       "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Uber coloca todos os 30 mil funcionários no ChatGPT Work",
+      "resumo": "A Uber expandiu o acesso ao ChatGPT Work para toda a empresa, saindo de um piloto menor. A implementação empresa-wide visa aumentar a produtividade dos funcionários com assistentes de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Claude Duet: Anthropic lança agente com navegador próprio",
-      "resumo": "Claude Duet é um novo agente de IA disponível em fase de teste para usuários de planos Pro e Max. Possui navegador integrado para acessar a internet 24/7, competindo diretamente com ChatGPT, Google e Meta.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/claude-ganha-agente-24x7-para-brigar-com-chatgpt-google-e-meta/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Segurança",
-      "titulo": "IA descobre falha crítica no PHP que compromete 70% da web",
-      "resumo": "Duas vulnerabilidades graves foram encontradas em PHP por inteligência artificial, levando governos e empresas a desativarem sistemas. No Brasil, Anatel e tribunais suspenderam o SEI por precaução.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/22/falhas-no-php-levam-tribunais-no-brasil-e-anatel-a-suspender-sistemas-governo-emite-alerta.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Deepseek",
-      "titulo": "DeepSeek capta US$ 15 bilhões dias após restrições dos EUA",
-      "resumo": "A empresa chinesa de IA levantou US$ 15 bilhões em um dos maiores rounds de financiamento da China, pouco depois de os EUA ordenarem remoção de sua tecnologia por razões de segurança nacional.",
+      "titulo": "Claude Duet: a aposta da Anthropic em agentes de IA",
+      "resumo": "Anthropic lançou o Claude Duet, disponível por lista de espera para usuários de planos Pro e Max. O aplicativo representa a estratégia da empresa para agentes de IA autônomos.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions",
+      "url_original": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Hardware",
-      "titulo": "Nirva levanta US$ 33 milhões para pendente de IA com privacidade",
-      "resumo": "A startup Nirva obteve investimento para seu pendente de IA ambient que responde apenas ao seu usuário. Dispositivo será lançado por US$ 249 até o final do ano.",
+      "subtema": "IA & Medicina",
+      "titulo": "IA da Microsoft supera médicos generalistas em casos complexos",
+      "resumo": "Sistema de diagnóstico de IA da Microsoft venceu médicos generalistas em casos difíceis, conforme estudo na Science. A maioria da melhoria vem dos modelos de IA subjacentes, não do sistema em si.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you",
+      "url_original": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Segurança",
-      "titulo": "Segundo bissexto será aposentado para proteger sincronização digital",
-      "resumo": "Conferência internacional aprovou fim do segundo bissexto após alertas sobre riscos de sincronização em servidores, redes elétricas e dispositivos digitais.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/segundo-bissexto-sera-aposentado-apos-alerta-sobre-riscos-digitais/",
-      "idioma_original": "pt"
+      "subtema": "Segurança & Cibersegurança",
+      "titulo": "Hackers chineses invadem ConnectWise e usam agentes de IA para atacar milhares",
+      "resumo": "Hackers alinhados à China exploraram falha na ConnectWise e usaram agentes de IA para invadir milhares de clientes da empresa. Microsoft identificou o grupo responsável pelo ataque.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "TSMC busca motores sem terras raras para proteger produção de chips",
-      "resumo": "A fabricante avalia motores alternativos para mitigar restrições da China e proteger produção de chips avançados. Movimento busca garantir continuidade de supply chain.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/10/22/pro/tsmc-busca-motores-sem-terras-raras-para-proteger-chips-avancados/",
-      "idioma_original": "pt"
+      "subtema": "IA & Segurança",
+      "titulo": "IA encontra falha de segurança em 70% da web",
+      "resumo": "Pesquisa revela que IA conseguiu identificar vulnerabilidades de segurança em 70% dos sites. A descoberta aponta para a importância de auditorias automatizadas de segurança.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/ai-finds-a-security-hole-in-70-of-the-web",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Música",
+      "titulo": "Spotify aposta em ser o serviço escolhido por agentes de IA",
+      "resumo": "Spotify vê oportunidade no crescimento de agentes de IA como parceiros. Co-CEO Gustav Söderström explica por que a ascensão dos agentes é positiva para a plataforma de streaming.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Segurança",
+      "titulo": "Sam Altman aponta três possíveis desfechos para a corrida da segurança em IA",
+      "resumo": "CEO da OpenAI discute cenários para o futuro da segurança em IA. As análises abordam diferentes trajetórias possíveis para o desenvolvimento seguro de sistemas avançados.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/sam-altman-three-endings-for-the-ai-safety-race",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Segurança",
+      "titulo": "Co-fundador da Anthropic diz que singularidade está em andamento",
+      "resumo": "Executivo da Anthropic comenta sobre o progresso da IA e sugere que estamos entrando em uma fase de transformação significativa. A declaração reforça a intensidade do desenvolvimento atual.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-co-founder-says-the-singularity-is-underway",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Meta",
+      "titulo": "Meta transforma Mac em supercomputador de IA",
+      "resumo": "Meta apresenta solução que potencializa capacidades de IA em computadores Mac. A estratégia visa democratizar o acesso a modelos de IA potentes localmente.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/meta-turns-mac-into-an-ai-supercomputer",
+      "idioma_original": "en"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Meta recua em bolsa com investidores preocupados com custos de IA",
-      "resumo": "Apesar de receita trimestral acima do esperado, ação da Meta caiu com foco em custos crescentes de inteligência artificial e crescimento abaixo de expectativas.",
+      "titulo": "XP aponta ações de bens de capital mais beneficiadas pela 'tese Brasil'",
+      "resumo": "Casa de análise identifica Randoncorp como empresa mais sensível à melhora econômica brasileira. WEG e Embraer podem perder tração com real forte e juros em queda.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/meta-acao-recua-com-investidores-olhando-crescimento-da-muse-e-alta-de-custos-de-ia/",
+      "url_original": "https://www.infomoney.com.br/mercados/como-capturar-tese-brasil-nas-acoes-de-bens-de-capital-xp-aponta-mais-beneficiadas/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
-      "subtema": "Câmbio",
-      "titulo": "Dólar sobe 0,03% com petróleo em alta e eleições no radar",
-      "resumo": "Dólar operava a R$ 5,0285 em leve alta; Ibovespa recuava 0,37%. Movimentação reflete incerteza política nas eleições presidenciais e dinâmica de mercados internacionais.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/10/22/dolar-ibovespa.ghtml",
+      "subtema": "Bolsa de Valores",
+      "titulo": "Ibovespa recua com exterior e eleições; VALE3 cai mais de 3%",
+      "resumo": "Bolsa brasileira fecha em queda acompanhando mercados americanos negativos e contexto eleitoral. Ações de commodities como Vale lideram as perdas do dia.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-22102026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação & Regulamentação",
+      "titulo": "Mesário no segundo turno: veja regras de folgas remuneradas",
+      "resumo": "Funcionários convocados para mesários nas eleições têm direito a folgas remuneradas. Saiba como calcular os dias de descanso e organizar a escala de trabalho.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80286/mesario-no-segundo-turno-veja-as-regras-para-folgas/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "Arrecadação federal bate recorde em setembro com R$ 239,4 bilhões",
-      "resumo": "Receita federal alcançou R$ 239,4 bilhões em setembro, maior valor registrado para o mês desde 2000. Aumento real de 5,6% comparado ao mesmo período de 2025.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/10/22/arrecadacao-federal-sobe-para-r-239-bilhoes-em-setembro-novo-recorde-para-o-mes.ghtml",
+      "titulo": "Receita Saúde com erro: como cancelar e corrigir o recibo",
+      "resumo": "Recibos do Receita Saúde podem ser cancelados em até dez dias da emissão. Conheça o processo para correção de informações e verificar reflexos no Carnê-Leão.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80261/receita-saude-com-erro-como-cancelar-e-corrigir-o-recibo/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação Tributária",
-      "titulo": "Receita esclarece tributação em distrato de imóvel na planta",
-      "resumo": "Solução de Consulta Cosit nº 158/2026 diferencia tratamento tributário entre devolução de parcelas, multa contratual e juros em distratos de imóveis na planta.",
+      "subtema": "Legislação Trabalhista",
+      "titulo": "Trabalho temporário ou experiência: qual contrato usar no fim do ano?",
+      "resumo": "Modalidades têm regras diferentes de contratação, prazos e responsabilidades. Confira o que a legislação prevê para reforçar equipes no período de fim de ano.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80263/receita-esclarece-tributacao-em-distrato-de-imovel-na-planta/",
+      "url_original": "https://www.contabeis.com.br/noticias/80277/trabalho-temporario-ou-experiencia-qual-contrato-usar-no-fim-do-ano/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Nota Fiscal",
-      "titulo": "ICMS em SP: kits devem ter discriminação individual na nota fiscal",
-      "resumo": "Fazenda paulista orienta que kits com produtos distintos devem ser discriminados individualmente na NF-e, com NCM, valores e CFOPs próprios.",
+      "subtema": "Legislação & Regulamentação",
+      "titulo": "Sebrae cria simulador para reorganizar escala de trabalho",
+      "resumo": "Ferramenta Escala Sebrae ajuda micro e pequenas empresas a calcular custos e redistribuir equipes. Simulador avalia impacto de mudanças na jornada de trabalho.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80265/icms-em-sp-entenda-emissao-de-nota-fiscal-de-kits/",
+      "url_original": "https://www.contabeis.com.br/noticias/80271/sebrae-cria-simulador-para-reorganizar-escala-de-trabalho/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Desenrola 3.0 prevê renegociação de até R$ 90 bilhões em dívidas",
-      "resumo": "Bancos e fundos terão cinco dias úteis para apresentar carteiras de crédito ao governo com deságio mínimo de 90% para renegociação de dívidas.",
+      "subtema": "Legislação & Regulamentação",
+      "titulo": "MEI: projeto prevê devolução de contribuições previdenciárias",
+      "resumo": "PLP 271/2026 propõe devolver até 24 contribuições previdenciárias de MEIs. Texto aguarda despacho no Senado, mas ainda não garante o pagamento.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80264/desenrola-3-0-preve-renegociacao-de-ate-r-90-bilhoes-em-dividas/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação Tributária",
-      "titulo": "Refis 2026 do Ceará oferece desconto de até 100% em multas e juros",
-      "resumo": "Programa abrange débitos de ICMS, IPVA, ITCD, taxas do Detran-CE e dívidas de operações de crédito do BEC com condições favoráveis de renegociação.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80273/refis-2026-do-ceara-preve-desconto-de-ate-100-em-multas-e-juros/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "Créditos de PIS/Cofins: prazos e procedimentos de defesa",
-      "resumo": "Receita Federal detalha procedimentos de fiscalização de créditos de PIS/Cofins e diferentes prazos para contestação de autuações e compensações não homologadas.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80256/creditos-de-pis-cofins-fiscalizacao-e-prazos-para-defesa/",
+      "url_original": "https://www.contabeis.com.br/noticias/80260/mei-projeto-preve-devolucao-de-contribuicoes-previdenciarias/",
       "idioma_original": "pt"
     }
   ]
