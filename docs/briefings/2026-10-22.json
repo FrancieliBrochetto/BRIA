@@ -1,0 +1,131 @@
+{
+  "data": "2026-10-22",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude Duet: Anthropic lança agente com navegador próprio",
+      "resumo": "Claude Duet é um novo agente de IA disponível em fase de teste para usuários de planos Pro e Max. Possui navegador integrado para acessar a internet 24/7, competindo diretamente com ChatGPT, Google e Meta.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/claude-ganha-agente-24x7-para-brigar-com-chatgpt-google-e-meta/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança",
+      "titulo": "IA descobre falha crítica no PHP que compromete 70% da web",
+      "resumo": "Duas vulnerabilidades graves foram encontradas em PHP por inteligência artificial, levando governos e empresas a desativarem sistemas. No Brasil, Anatel e tribunais suspenderam o SEI por precaução.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/22/falhas-no-php-levam-tribunais-no-brasil-e-anatel-a-suspender-sistemas-governo-emite-alerta.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Deepseek",
+      "titulo": "DeepSeek capta US$ 15 bilhões dias após restrições dos EUA",
+      "resumo": "A empresa chinesa de IA levantou US$ 15 bilhões em um dos maiores rounds de financiamento da China, pouco depois de os EUA ordenarem remoção de sua tecnologia por razões de segurança nacional.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Hardware",
+      "titulo": "Nirva levanta US$ 33 milhões para pendente de IA com privacidade",
+      "resumo": "A startup Nirva obteve investimento para seu pendente de IA ambient que responde apenas ao seu usuário. Dispositivo será lançado por US$ 249 até o final do ano.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança",
+      "titulo": "Segundo bissexto será aposentado para proteger sincronização digital",
+      "resumo": "Conferência internacional aprovou fim do segundo bissexto após alertas sobre riscos de sincronização em servidores, redes elétricas e dispositivos digitais.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/segundo-bissexto-sera-aposentado-apos-alerta-sobre-riscos-digitais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "TSMC busca motores sem terras raras para proteger produção de chips",
+      "resumo": "A fabricante avalia motores alternativos para mitigar restrições da China e proteger produção de chips avançados. Movimento busca garantir continuidade de supply chain.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/22/pro/tsmc-busca-motores-sem-terras-raras-para-proteger-chips-avancados/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Meta recua em bolsa com investidores preocupados com custos de IA",
+      "resumo": "Apesar de receita trimestral acima do esperado, ação da Meta caiu com foco em custos crescentes de inteligência artificial e crescimento abaixo de expectativas.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/meta-acao-recua-com-investidores-olhando-crescimento-da-muse-e-alta-de-custos-de-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar sobe 0,03% com petróleo em alta e eleições no radar",
+      "resumo": "Dólar operava a R$ 5,0285 em leve alta; Ibovespa recuava 0,37%. Movimentação reflete incerteza política nas eleições presidenciais e dinâmica de mercados internacionais.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/22/dolar-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Arrecadação federal bate recorde em setembro com R$ 239,4 bilhões",
+      "resumo": "Receita federal alcançou R$ 239,4 bilhões em setembro, maior valor registrado para o mês desde 2000. Aumento real de 5,6% comparado ao mesmo período de 2025.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/22/arrecadacao-federal-sobe-para-r-239-bilhoes-em-setembro-novo-recorde-para-o-mes.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Tributária",
+      "titulo": "Receita esclarece tributação em distrato de imóvel na planta",
+      "resumo": "Solução de Consulta Cosit nº 158/2026 diferencia tratamento tributário entre devolução de parcelas, multa contratual e juros em distratos de imóveis na planta.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80263/receita-esclarece-tributacao-em-distrato-de-imovel-na-planta/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "ICMS em SP: kits devem ter discriminação individual na nota fiscal",
+      "resumo": "Fazenda paulista orienta que kits com produtos distintos devem ser discriminados individualmente na NF-e, com NCM, valores e CFOPs próprios.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80265/icms-em-sp-entenda-emissao-de-nota-fiscal-de-kits/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Desenrola 3.0 prevê renegociação de até R$ 90 bilhões em dívidas",
+      "resumo": "Bancos e fundos terão cinco dias úteis para apresentar carteiras de crédito ao governo com deságio mínimo de 90% para renegociação de dívidas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80264/desenrola-3-0-preve-renegociacao-de-ate-r-90-bilhoes-em-dividas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Tributária",
+      "titulo": "Refis 2026 do Ceará oferece desconto de até 100% em multas e juros",
+      "resumo": "Programa abrange débitos de ICMS, IPVA, ITCD, taxas do Detran-CE e dívidas de operações de crédito do BEC com condições favoráveis de renegociação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80273/refis-2026-do-ceara-preve-desconto-de-ate-100-em-multas-e-juros/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Créditos de PIS/Cofins: prazos e procedimentos de defesa",
+      "resumo": "Receita Federal detalha procedimentos de fiscalização de créditos de PIS/Cofins e diferentes prazos para contestação de autuações e compensações não homologadas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80256/creditos-de-pis-cofins-fiscalizacao-e-prazos-para-defesa/",
+      "idioma_original": "pt"
+    }
+  ]
+}
