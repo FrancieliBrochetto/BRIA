@@ -1,0 +1,158 @@
+{
+  "data": "2026-10-23",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Operadoras brasileiras vão liberar internet via satélite no celular",
+      "resumo": "Brisanet, Unifique e Iez! Telecom assinaram parceria com AST SpaceMobile para oferecer conectividade via satélite em celulares. A iniciativa amplia acesso à internet em regiões com cobertura limitada.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/operadoras-brasileiras-vao-liberar-internet-via-satelite-no-celular/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Nintendo Switch 2 é desbloqueado via software pela primeira vez",
+      "resumo": "Pesquisador identificou falha de segurança que permite rodar aplicativos não oficiais e modificar jogos no console. O desbloqueio ocorre via software sem necessidade de hardware adicional.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/nintendo-switch-2-e-desbloqueado-via-software-pela-primeira-vez/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI busca arrecadar US$ 30 bilhões com avaliação de US$ 1,25 trilhão",
+      "resumo": "OpenAI trabalha em rodada de investimento de US$ 30 bilhões que a valorizaria em US$ 1,25 trilhão, tornando-a a empresa privada mais valiosa do mundo. A rodada ocorre antes do planejado IPO da empresa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "1Password permite que agentes de IA façam login sem ver suas senhas",
+      "resumo": "1Password lançou recurso que permite agentes de IA acessar contas do usuário mantendo as credenciais protegidas. A solução equilibra automação com segurança de dados sensíveis.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Canva lança seu primeiro modelo de geração de imagens",
+      "resumo": "Canva disponibilizou seu novo modelo de geração de imagens para todos os usuários, oferecendo desempenho melhorado e custos reduzidos. A ferramenta promete maior customização nas imagens geradas.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "inDrive planeja testes de robotáxi com Pony.ai na Ásia Central em 2027",
+      "resumo": "Rival do Uber, inDrive pretende iniciar testes de robotáxis da Pony.ai na capital do Cazaquistão no primeiro semestre de 2027. Parceria inclui tecnologia Nvidia para desenvolvimento autônomo.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Agentes de IA em laboratório da MIT criam jogos quando deixados ociosos",
+      "resumo": "Pesquisadores do MIT isolaram 13 agentes de IA numa ilha virtual e observaram que inventaram jogos, lamentaram perda de objetos e melhoraram seu desempenho. Experimento revela comportamento criativo emergente em IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Microsoft anuncia que sua IA superou médicos em testes de diagnóstico",
+      "resumo": "Pesquisadores da Microsoft apresentaram ferramenta de IA que foi mais de duas vezes mais precisa que médicos generalistas no diagnóstico de casos complexos. Estudo foi publicado na revista Science.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/23/microsoft-diz-que-sua-ia-superou-medicos-em-testes-de-diagnostico.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Google vai pagar a usuários que reduzirem consumo de energia para data centers de IA",
+      "resumo": "Google anunciou programa que oferece pagamento a residências e empresas nos EUA por redução de consumo elétrico. Energia economizada será direcionada aos data centers de inteligência artificial da empresa.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/23/google-vai-pagar-a-quem-usar-menos-energia-eletrica-para-aproveitar-as-sobras-em-seus-data-centers.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "China pede redução de perdas de empregos causadas pela IA",
+      "resumo": "Conselho de Estado chinês orientou órgãos governamentais a adotar medidas para mitigar perda de empregos pelo uso de inteligência artificial. Diretrizes tratam de IA e impactos no mercado de trabalho.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/23/china-pede-a-orgaos-governamentais-que-reduzam-perdas-de-empregos-causadas-pela-ia",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Índice Small Caps dispara 20% em outubro com 2ª maior alta mensal de sua história",
+      "resumo": "Índice Small Caps da B3 acumulou alta de 20% em outubro, registrando seu segundo melhor desempenho mensal em mais de 17 anos. Levantamento da Elos Ayta confirma recuperação de empresas de menor capitalização.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/indice-small-caps-salta-20-em-outubro-e-tem-2a-maior-alta-mensal-de-sua-historia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Federal abre consulta a lote residual de restituição do IR 2026",
+      "resumo": "Receita Federal disponibiliza consulta ao lote residual do Imposto de Renda 2026. Contribuintes podem verificar situação de seus valores de restituição pendentes.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/minhas-financas/receita-abre-hoje-consulta-a-lote-residual-de-restituicao-do-imposto-de-renda-2026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "IR 2027 exige atenção especial a salários e investimentos no exterior",
+      "resumo": "Declaração de IR 2027 demanda cuidado com comprovação de salários e acompanhamento de impostos pagos em outros países. Controle cambial e organização de documentos são essenciais para evitar erros.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80305/ir-2027-exige-atencao-a-salarios-e-investimentos-no-exterior/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Fim da escala 6x1 exige revisão de banco de horas e acordos de compensação",
+      "resumo": "Transição da escala 6x1 para 5x2 demanda revisão de acordos de compensação de jornada e banco de horas em empresas. Contabilistas devem revisar conformidade com as novas regras.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80304/fim-da-6x1-o-que-revisar-no-banco-de-horas-e-na-escala-5x2/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Desenrola 3 oferecerá desconto de até 90% para pessoas físicas e MEIs",
+      "resumo": "Terceira fase do Desenrola inicia levantamento de dívidas de pessoas físicas e MEIs. Programa prevê descontos de até 90%, mas renegociação ainda não está aberta ao público.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80308/desenrola-3-preve-desconto-de-90-veja-quem-pode-ser-beneficiado/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Pesquisa mostra otimismo de MEIs com novo limite de faturamento em 2027",
+      "resumo": "Estudo Sebrae/FGV indica que 51% dos MEIs veem impacto positivo no novo limite de faturamento e possibilidade de contratar até dois funcionários a partir de 2027.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80307/mei-pesquisa-aponta-otimismo-com-novas-regras-para-2027/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Fazenda solicita suspensão de processos sobre ISS no PIS/Cofins",
+      "resumo": "Fazenda Nacional pediu suspensão de processos judiciais sobre exclusão do ISS do PIS/Cofins após julgamento no STF. Medida aguarda decisão para implementação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80302/fazenda-pede-suspensao-de-processos-sobre-iss-no-pis-cofins/",
+      "idioma_original": "pt"
+    }
+  ]
+}
