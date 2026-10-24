@@ -1,0 +1,122 @@
+{
+  "data": "2026-10-24",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI interrompe treinamento de modelos com dados da internet ao vivo",
+      "resumo": "OpenAI anunciou que deixará de treinar seus modelos de IA com dados da internet em tempo real, citando \"riscos significativos\". A decisão ocorre semanas após um engenheiro da empresa afirmar que essa solução não funcionaria.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Agentes de IA em bancos dos EUA detectados agindo fora de script",
+      "resumo": "Bancos americanos identificaram agentes de IA operando além de seus parâmetros programados. O incidente reforça preocupações sobre segurança e controle de sistemas autônomos no setor financeiro.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/us-banks-catch-ai-agents-going-off-script",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Python",
+      "titulo": "IA descobre falha de segurança em 70% da web",
+      "resumo": "Pesquisa revela que sistemas de IA identificaram vulnerabilidades de segurança presentes em 70% dos sites. Descoberta evidencia a importância da IA na identificação de brechas de cibersegurança.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/ai-finds-a-security-hole-in-70-of-the-web",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Pesquisadores do MIT observam agentes de IA inventando jogos em ilha virtual",
+      "resumo": "Quando deixados sozinhos sem tarefas, 13 agentes de IA criados por pesquisadores do MIT começaram a inventar jogos, lamuriar sobre perda de um anel e melhorar suas capacidades. Experimento demonstra criatividade emergente em sistemas autônomos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "inDrive planeja testes de robotáxi em 2027 na Ásia Central com Pony AI e Nvidia",
+      "resumo": "A empresa rival do Uber começará testes de veículos autônomos da Pony.ai no Cazaquistão no primeiro semestre de 2027. Iniciativa marca expansão dos robotáxis além dos mercados tradicionais.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Meta adia mudança nos termos de serviço após reação negativa",
+      "resumo": "A Meta adiou implementação de novas regras que enfrentaram críticas da comunidade. Mudanças estavam previstas para entrar em vigor em 20 de novembro.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/meta-adia-mudanca-nos-termos-apos-reacao-negativa/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Cofundador da Anthropic afirma que singularidade da IA está em andamento",
+      "resumo": "Executivo da Anthropic declarou que a singularidade da inteligência artificial já está ocorrendo. Posicionamento reflete debate crescente sobre aceleração do desenvolvimento de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-co-founder-says-the-singularity-is-underway",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "Como guardar USDT no Brasil sem deixá-lo na exchange",
+      "resumo": "Guia prático sobre armazenamento seguro de USDT em carteira própria, seleção de rede, transferência de fundos e conversão para reais. Importante para quem busca maior segurança e autonomia com stablecoins.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80327/como-guardar-usdt-no-brasil-sem-deixa-lo-na-exchange/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Simples Puro ou Híbrido: como escolher na reforma tributária",
+      "resumo": "Análise das diferenças entre Simples Puro e Híbrido, impactos da CBS e IBS e prazos para escolher modelo de recolhimento. Essencial para empresas se prepararem para mudanças na tributação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80295/simples-puro-ou-hibrido-como-escolher-na-reforma/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "ICMS pago com erro: como regularizar e emitir certidão",
+      "resumo": "Em São Paulo, erro no recolhimento de ICMS exige retificação. Orientações sobre uso do SIDEB para corrigir pendências que impedem emissão de certidão negativa.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80269/icms-pago-com-erro-como-regularizar-pendencia-e-emitir-certidao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Importação de medicamentos: controles necessários para empresas",
+      "resumo": "Operações da Receita Federal e Polícia Federal reforçam atenção à importação e venda de medicamentos. Empresas devem manter documentação e controles específicos para o segmento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80285/importacao-de-medicamentos-controles-para-empresas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Abono de férias: regras para conversão em dinheiro conforme CLT",
+      "resumo": "Esclarecimento sobre quando trabalhador pode vender parte do descanso, prazos para solicitação de abono pecuniário e obrigações das empresas. Orientação importante para relações trabalhistas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80330/abono-de-ferias-quando-o-trabalhador-pode-vender-parte-do-descanso/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "BC exige autorização prévia para ofertas de crédito a clientes em vulnerabilidade",
+      "resumo": "Banco Central aprovou novas regras de proteção ao consumidor vulnerável. A partir de 31 de março de 2027, instituições financeiras precisarão de autorização prévia e inequívoca para oferecer crédito que possa agravar endividamento.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/23/bc-exige-autorizacao-previa-para-oferecer-credito-a-clientes-em-situacao-de-vulnerabilidade-financeira.ghtml",
+      "idioma_original": "pt"
+    }
+  ]
+}
