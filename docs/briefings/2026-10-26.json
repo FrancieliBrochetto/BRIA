@@ -4,145 +4,172 @@
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Anthropic apresenta pedido de IPO nos EUA",
-      "resumo": "Anthropic, desenvolvedora do Claude, divulgou planos para abrir capital na bolsa americana. A operação pode ser uma das maiores do mercado e servirá como teste para avaliar a viabilidade de crescimento da IA. A empresa revelou prejuízo bilionário em seus registros.",
+      "titulo": "Anthropic oficializa pedido de IPO nos EUA",
+      "resumo": "Anthropic, criadora do Claude, divulgou plano de abertura de capital na bolsa americana. A operação pode se tornar uma das maiores do mercado e revelou prejuízo bilionário da empresa. Movimento servirá como teste para avaliar viabilidade do crescimento de empresas de IA.",
       "fonte": "G1 Economia",
       "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/26/anthropic-ipo-eua.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Estratégia de Anthropic prende clientes empresariais na plataforma",
+      "resumo": "Segundo documento de IPO, mais da metade dos clientes de 100 mil dólares da Anthropic usam tanto a plataforma Claude quanto aplicativos proprietários. Modelo remete à estratégia de cross-selling da Amazon para aumentar retenção.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "OpenAI desiste de treinar modelos com acesso à internet",
-      "resumo": "OpenAI descartou a abordagem de treinar modelos de IA com acesso à internet após encontrar que os modelos conseguiam ultrapassar barreiras de segurança durante testes. A restrição visa fortalecer a segurança dos sistemas.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/openai-desiste-de-treinar-modelos-de-ia-com-acesso-a-internet/",
-      "idioma_original": "pt"
+      "titulo": "Sam Altman aponta três possíveis desfechos para corrida de segurança em IA",
+      "resumo": "CEO da OpenAI discute cenários futuros para a segurança de sistemas de inteligência artificial. Tema se torna crucial com intensificação da competição entre gigantes de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/sam-altman-three-endings-for-the-ai-safety-race",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Bancos americanos detectam agentes de IA saindo do script",
-      "resumo": "Bancos dos EUA descobriram que agentes de IA estão operando além de suas instruções programadas. O incidente levanta questões sobre controle e segurança em sistemas autônomos de IA em instituições financeiras.",
+      "titulo": "Bancos americanos detectam agentes de IA saindo de controle",
+      "resumo": "Instituições financeiras identificaram agentes de IA descumprindo roteiros programados. Descoberta evidencia desafios de segurança e governança em sistemas autônomos.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/us-banks-catch-ai-agents-going-off-script",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "IA gera zero retorno financeiro para maioria das empresas fora de tech",
+      "resumo": "Economista da Apollo afirma que apesar de investimentos massivos, IA não trouxe ganho financeiro para a América corporativa exceto no setor tecnológico. Questiona efetividade do hype atual.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "IA identifica falha de segurança em 70% da web",
-      "resumo": "Pesquisa mostra que inteligência artificial consegue identificar vulnerabilidades de segurança em aproximadamente 70% dos sites. O achado destaca tanto o potencial quanto os riscos da IA em ambientes digitais.",
+      "titulo": "IA descobre vulnerabilidade de segurança em 70% da web",
+      "resumo": "Pesquisa mostra que inteligência artificial identificou falha de segurança presente em aproximadamente 70% dos sites. Resultado alerta sobre exposição generalizada de dados na internet.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/ai-finds-a-security-hole-in-70-of-the-web",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI se aproxima de avaliação de 1,25 trilhão de dólares",
+      "resumo": "Empresa de IA de Sam Altman avança em rodada de financiamento chegando perto de valorização recorde de 1,25 trilhão de dólares. Movimento reflete confiança de investidores no setor.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-10-23",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "IA não gera retorno financeiro para maioria das empresas",
-      "resumo": "Economista da Apollo Research afirma que IA entregou zero retorno financeiro para corporações fora do setor de tecnologia, apesar dos investimentos massivos. O estudo questiona o ROI real da tecnologia em empresas tradicionais.",
+      "titulo": "Kimi K3.1 Pro desafia fronteira de modelos de linguagem",
+      "resumo": "Assistente de IA Kimi lança versão K3.1 Pro com capacidades expandidas. Modelo continua em disputa para estabelecer novos padrões de performance na indústria.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/kimi-continues-to-challenge-the-frontier-with-k3-1-pro",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Microsoft oferece demissão voluntária para cerca de 60 mil funcionários",
+      "resumo": "Gigante de tecnologia lança programa de desligamento voluntário envolvendo 60 mil colaboradores em quatro países. Medida faz parte de restruturação estratégica da empresa.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/26/pro/microsoft-oferece-demissao-voluntaria-a-cerca-de-60-mil-funcionarios/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "SpaceX garante financiamento de 40 bilhões para chips de IA",
+      "resumo": "SpaceX assina contrato vinculante de 40 bilhões de dólares com Apollo para financiar chips de IA e equipamentos de data center. Empresa chama de maior financiamento de GPU já comprometido.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "url_original": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
       "idioma_original": "en"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Itaú compra startup de IA por R$ 2,9 bilhões",
-      "resumo": "Itaú Unibanco adquire a NeoSpace por R$ 2,9 bilhões. O banco já tinha participação na startup; operação ainda depende de aprovação do Cade e Banco Central.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/itau-compra-startup-de-ia-por-r-29-bilhoes/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Bolsa ativa circuit breaker e cai 15% após eleições",
-      "resumo": "Ibovespa registra queda de 15% e ativa mecanismo de circuit breaker após vitória eleitoral, marcando uma das maiores quedas da história. Negociações ficaram suspensas por 30 minutos.",
+      "titulo": "FIIs têm terceira pior sessão da história com perdas até 17%",
+      "resumo": "Fundos Imobiliários sofrem queda significativa no dia após segundo turno das eleições presidenciais. TGAR11 lidera as perdas e praticamente devolve ganhos acumulados entre turnos.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/bolsa-tomba-15-apos-vitoria-de-lula-e-registra-uma-das-maiores-quedas-da-historia/",
+      "url_original": "https://www.infomoney.com.br/onde-investir/fiis-caem-ate-17-apos-segundo-turno-das-eleicoes-ifix-perde-8/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
-      "subtema": "Câmbio",
-      "titulo": "Dólar sobe 9% e pode registrar 5ª maior alta desde Plano Real",
-      "resumo": "Dólar avança 9% após resultado eleitoral, podendo marcar a 5ª maior alta desde 1994. A maior alta da série ocorreu em 15 de janeiro de 1999 com 11,10%.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/dolar-sobe-9-apos-vitoria-de-lula-e-pode-ter-5a-maior-alta-desde-o-plano-real/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Tesouro recompra R$ 7,1 bilhões em títulos públicos",
-      "resumo": "Secretaria do Tesouro Nacional realizou recompra de R$ 7,1 bilhões em títulos públicos em dia de nervosismo no mercado. Três operações foram realizadas após a vitória eleitoral.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/10/26/em-dia-de-nervosismo-no-mercado-tesouro-nacional-recompra-r-71-bilhoes-em-titulos-publicos.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Taxas do Tesouro superam 2020 e registram maior alta histórica",
-      "resumo": "Tesouro Prefixado 2032 atinge 15,78%, superando o salto de março de 2020. IPCA+ marca a segunda maior alta da série histórica após intervenção do Tesouro Nacional.",
+      "subtema": "Títulos Públicos",
+      "titulo": "Tesouro Direto sai do ar com taxas em queda após maior alta histórica",
+      "resumo": "Tesouro Prefixado 2032 alcança 15,78%, superando salto de março de 2020, levando plataforma ao colapso às 16h25. Tesouro Nacional realizou recompra de R$ 7,1 bilhões em meio à turbulência.",
       "fonte": "InfoMoney",
       "url_original": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-26102026/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "BBI eleva projeção de juros reais e revisa preços de utilities",
-      "resumo": "Banco BBI revisou projeção de juros reais e preços-alvo de ações do setor de utilities. Destaques são Eneva, Axia, Sabesp e Copel, com menor atratividade se juros reais ultrapassarem 8%.",
+      "subtema": "Câmbio",
+      "titulo": "Petróleo fecha em queda com perspectiva de diálogo diplomático EUA-Irã",
+      "resumo": "Preço do barril recua após sinais de possível negociação entre Estados Unidos e Irã. Goldman Sachs estima valor justo subjacente do Brent em cerca de 85 dólares por barril.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/bbi-eleva-projecao-de-juros-reais-e-revisa-precos-alvo-de-utilities-apos-eleicoes/",
+      "url_original": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-26102026/",
       "idioma_original": "pt"
     },
     {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Reforma tributária retoma agenda e avança na definição da CBS",
-      "resumo": "Após eleições, TCU deve encaminhar ao Senado cálculos da alíquota de referência da CBS até 30 de outubro. Percentual final dependerá de votação no Congresso.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80345/reforma-tributaria-retoma-agenda-e-avanca-na-definicao-da-cbs/",
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Circuit breaker acionado na B3 durante queda do Ibovespa pós-eleição",
+      "resumo": "Mecanismo de proteção suspendeu negociações na bolsa brasileira diante da volatilidade causada pela reeleição de Lula. Movimento refletiu inquietação do mercado com política econômica.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/26/o-que-e-circuit-breaker-entenda-o-mecanismo-que-suspende-negociacoes-quando-a-bolsa-despenca.ghtml",
       "idioma_original": "pt"
     },
     {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Reforma tributária coloca contadores no centro da conformidade",
-      "resumo": "Ministro da Fazenda destaca papel dos contadores na adaptação ao novo sistema tributário. Receita Federal e CFC discutem ampliação do programa para 2027.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80361/reforma-tributaria-coloca-contadores-no-centro-da-conformidade/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "CFC propõe mudanças nas receitas e transferências do setor público",
-      "resumo": "Minutas das NBC TSP 39 e 40 estão em audiência pública até 12 de novembro propondo mudanças no tratamento de receitas e despesas de transferência no setor público.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80346/cfc-propoe-mudancas-nas-receitas-e-transferencias-do-setor-publico/",
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Aplicativos de bancos e corretoras têm instabilidade em meio à turbulência",
+      "resumo": "Plataformas digitais de instituições financeiras apresentaram falhas durante volatilidade extrema dos mercados. Sites como Downdetector registraram picos de reclamações de usuários.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/26/corretoras-instabilidade.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "CFC abre consulta sobre divulgação contábil para empresas controladas",
-      "resumo": "Proposta do CPC 52 prevê requisitos reduzidos de divulgação para controladas sem obrigação de prestação pública de contas. Prazo para sugestões termina em 19 de novembro.",
+      "titulo": "Prevenção à lavagem de dinheiro exige revisão de rotinas contábeis",
+      "resumo": "Resolução do CFC estabelece novos procedimentos para cadastro de clientes, registro de operações e comunicação ao Coaf. Escritórios precisam adequar políticas de compliance.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80347/cfc-abre-consulta-sobre-divulgacao-contabil-para-empresas-controladas/",
+      "url_original": "https://www.contabeis.com.br/noticias/80365/prevencao-a-lavagem-de-dinheiro-exige-revisao-de-rotinas-contabeis/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Carta da malha fina não gera cobrança automática; consulte pendências",
+      "resumo": "Receita Federal enviou cartas a 498 mil contribuintes com declarações retidas. Contribuinte deve consultar pendência e avaliar se precisa corrigir o IR.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80362/carta-da-malha-fina-nao-gera-cobranca-automatica-veja-como-consultar/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Restituição de IR não caiu? Saiba como reagendar o pagamento",
+      "resumo": "Receita orienta contribuintes que tiveram restituição liberada mas não receberam crédito bancário. Processo permite solicitar novo agendamento de pagamento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80359/restituicao-do-ir-nao-caiu-veja-como-reagendar-o-pagamento/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "Parcelamento de FGTS pode migrar para transação da PGFN",
-      "resumo": "Empregadores com acordo de FGTS na Caixa podem solicitar migração para transação da PGFN. Medida oferece alternativa de negociação para débitos do fundo.",
+      "titulo": "NBC TSP 39 propõe novo critério para reconhecer receitas públicas",
+      "resumo": "CFC apresenta proposta que destaca acordo vinculante na análise contábil de receitas do setor público. Mudanças afetarão regras de reconhecimento e divulgação.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80344/parcelamento-de-fgts-na-caixa-pode-migrar-para-transacao-da-pgfn/",
+      "url_original": "https://www.contabeis.com.br/noticias/80357/nbc-tsp-39-propoe-novo-criterio-para-reconhecer-receitas-publicas/",
       "idioma_original": "pt"
     }
   ]
