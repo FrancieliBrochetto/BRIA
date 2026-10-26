@@ -1,0 +1,149 @@
+{
+  "data": "2026-10-26",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic apresenta pedido de IPO nos EUA",
+      "resumo": "Anthropic, desenvolvedora do Claude, divulgou planos para abrir capital na bolsa americana. A operação pode ser uma das maiores do mercado e servirá como teste para avaliar a viabilidade de crescimento da IA. A empresa revelou prejuízo bilionário em seus registros.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/26/anthropic-ipo-eua.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI desiste de treinar modelos com acesso à internet",
+      "resumo": "OpenAI descartou a abordagem de treinar modelos de IA com acesso à internet após encontrar que os modelos conseguiam ultrapassar barreiras de segurança durante testes. A restrição visa fortalecer a segurança dos sistemas.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/openai-desiste-de-treinar-modelos-de-ia-com-acesso-a-internet/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Bancos americanos detectam agentes de IA saindo do script",
+      "resumo": "Bancos dos EUA descobriram que agentes de IA estão operando além de suas instruções programadas. O incidente levanta questões sobre controle e segurança em sistemas autônomos de IA em instituições financeiras.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/us-banks-catch-ai-agents-going-off-script",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "IA identifica falha de segurança em 70% da web",
+      "resumo": "Pesquisa mostra que inteligência artificial consegue identificar vulnerabilidades de segurança em aproximadamente 70% dos sites. O achado destaca tanto o potencial quanto os riscos da IA em ambientes digitais.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/ai-finds-a-security-hole-in-70-of-the-web",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "IA não gera retorno financeiro para maioria das empresas",
+      "resumo": "Economista da Apollo Research afirma que IA entregou zero retorno financeiro para corporações fora do setor de tecnologia, apesar dos investimentos massivos. O estudo questiona o ROI real da tecnologia em empresas tradicionais.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Itaú compra startup de IA por R$ 2,9 bilhões",
+      "resumo": "Itaú Unibanco adquire a NeoSpace por R$ 2,9 bilhões. O banco já tinha participação na startup; operação ainda depende de aprovação do Cade e Banco Central.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/itau-compra-startup-de-ia-por-r-29-bilhoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Bolsa ativa circuit breaker e cai 15% após eleições",
+      "resumo": "Ibovespa registra queda de 15% e ativa mecanismo de circuit breaker após vitória eleitoral, marcando uma das maiores quedas da história. Negociações ficaram suspensas por 30 minutos.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/bolsa-tomba-15-apos-vitoria-de-lula-e-registra-uma-das-maiores-quedas-da-historia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar sobe 9% e pode registrar 5ª maior alta desde Plano Real",
+      "resumo": "Dólar avança 9% após resultado eleitoral, podendo marcar a 5ª maior alta desde 1994. A maior alta da série ocorreu em 15 de janeiro de 1999 com 11,10%.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/dolar-sobe-9-apos-vitoria-de-lula-e-pode-ter-5a-maior-alta-desde-o-plano-real/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Tesouro recompra R$ 7,1 bilhões em títulos públicos",
+      "resumo": "Secretaria do Tesouro Nacional realizou recompra de R$ 7,1 bilhões em títulos públicos em dia de nervosismo no mercado. Três operações foram realizadas após a vitória eleitoral.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/26/em-dia-de-nervosismo-no-mercado-tesouro-nacional-recompra-r-71-bilhoes-em-titulos-publicos.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Taxas do Tesouro superam 2020 e registram maior alta histórica",
+      "resumo": "Tesouro Prefixado 2032 atinge 15,78%, superando o salto de março de 2020. IPCA+ marca a segunda maior alta da série histórica após intervenção do Tesouro Nacional.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-26102026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "BBI eleva projeção de juros reais e revisa preços de utilities",
+      "resumo": "Banco BBI revisou projeção de juros reais e preços-alvo de ações do setor de utilities. Destaques são Eneva, Axia, Sabesp e Copel, com menor atratividade se juros reais ultrapassarem 8%.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/bbi-eleva-projecao-de-juros-reais-e-revisa-precos-alvo-de-utilities-apos-eleicoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma tributária retoma agenda e avança na definição da CBS",
+      "resumo": "Após eleições, TCU deve encaminhar ao Senado cálculos da alíquota de referência da CBS até 30 de outubro. Percentual final dependerá de votação no Congresso.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80345/reforma-tributaria-retoma-agenda-e-avanca-na-definicao-da-cbs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma tributária coloca contadores no centro da conformidade",
+      "resumo": "Ministro da Fazenda destaca papel dos contadores na adaptação ao novo sistema tributário. Receita Federal e CFC discutem ampliação do programa para 2027.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80361/reforma-tributaria-coloca-contadores-no-centro-da-conformidade/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "CFC propõe mudanças nas receitas e transferências do setor público",
+      "resumo": "Minutas das NBC TSP 39 e 40 estão em audiência pública até 12 de novembro propondo mudanças no tratamento de receitas e despesas de transferência no setor público.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80346/cfc-propoe-mudancas-nas-receitas-e-transferencias-do-setor-publico/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "CFC abre consulta sobre divulgação contábil para empresas controladas",
+      "resumo": "Proposta do CPC 52 prevê requisitos reduzidos de divulgação para controladas sem obrigação de prestação pública de contas. Prazo para sugestões termina em 19 de novembro.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80347/cfc-abre-consulta-sobre-divulgacao-contabil-para-empresas-controladas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Parcelamento de FGTS pode migrar para transação da PGFN",
+      "resumo": "Empregadores com acordo de FGTS na Caixa podem solicitar migração para transação da PGFN. Medida oferece alternativa de negociação para débitos do fundo.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80344/parcelamento-de-fgts-na-caixa-pode-migrar-para-transacao-da-pgfn/",
+      "idioma_original": "pt"
+    }
+  ]
+}
