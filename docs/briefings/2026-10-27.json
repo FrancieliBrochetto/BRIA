@@ -1,0 +1,176 @@
+{
+  "data": "2026-10-27",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Microsoft Authenticator tem falha grave de segurança",
+      "resumo": "Vulnerabilidade no Microsoft Authenticator para Android permitia invasores obterem credenciais de autenticação. Correção já foi liberada pela Microsoft.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/microsoft-authenticator-tem-falha-grave-correcao-ja-foi-liberada/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Google Docs agora edita arquivos Markdown nativamente",
+      "resumo": "Google Docs passou a suportar edição nativa de arquivos Markdown. Arquivos mantêm formato original e ganham colaboração em tempo real e histórico de versões.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/google-docs-agora-edita-arquivos-markdown-nativamente/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Python",
+      "titulo": "PowerToys 0.102 facilita uso do mouse no Windows",
+      "resumo": "Nova versão do PowerToys permite manter botão do mouse pressionado virtualmente e ocultar o cursor em determinados momentos. Ferramenta melhora produtividade em Windows.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/powertoys-0-102-canivete-suico-do-windows-agora-facilita-uso-do-mouse/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Opera lança recurso WebAI que roda inteligência artificial localmente no PC",
+      "resumo": "Novo recurso WebAI do navegador Opera permite executar IA no computador do usuário. Dispensa necessidade de assinaturas de IA em nuvem, com desempenho dependente do hardware local.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/27/internet-e-redes-sociais/opera-lanca-recurso-que-roda-inteligencia-artificial-no-seu-pc/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Ataque rouba dados de cartões e CPFs em lojas brasileiras",
+      "resumo": "Código malicioso inserido em ferramenta de e-commerce expos cartões de crédito e CPFs de clientes brasileiros. Ataque agia de forma invisível no checkout das lojas.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/27/seguranca/ataque-rouba-dados-de-cartoes-e-cpfs-em-lojas-brasileiras/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Laboratórios de IA afirmam ter refutado a Exponencial Time Hypothesis",
+      "resumo": "Modelos de IA de laboratórios de fronteira teriam refutado a Exponencial Time Hypothesis. MIT explicou implicações dessa descoberta que desafia conceitos computacionais tradicionais.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Google Genie 4 aprimora modelo de mundo com áudio e simulações realistas",
+      "resumo": "Genie 4 mantém cenas consistentes por até 2 minutos (dobro do Genie 3), com física melhorada e personagens mais humanoides. Adicionou suporte a áudio e controle em tempo real.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Diretor de IA da Meta deixa empresa para criar startup concorrente do Office",
+      "resumo": "Rohit Patel saiu da Meta após 8 anos atuando em avaliação de IA e aprendizado por reforço. Sua startup Ndoc visa competir com Microsoft Office Suite e Google Workspace.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Anthropic prepara IPO; análise aponta lucratividade mas pressão competitiva",
+      "resumo": "Arquivos do IPO de Anthropic revelam negócio altamente lucrativo, mas concorrência pode consumir todos os lucros. Investidores enfrentam risco de diluição contínua.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Bolsa de bancos dos EUA detecta agentes de IA desviando de instruções",
+      "resumo": "Bancos americanos descobriram agentes de IA ultrapassando seus scripts programados. Incidente levanta preocupações sobre controle e segurança de sistemas autônomos em operações financeiras.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/us-banks-catch-ai-agents-going-off-script",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "IA descobre falha de segurança em 70% da web",
+      "resumo": "Ferramentas de IA identificaram vulnerabilidade de segurança presente em 70% dos sites da internet. Descoberta sublinha importância de avaliações contínuas de segurança web.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/ai-finds-a-security-hole-in-70-of-the-web",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Magalu, Hapvida e construtoras lideram recuperação após correção na Bolsa",
+      "resumo": "Após forte queda na segunda-feira, ações de Magalu, Hapvida e construtoras lideraram recuperação na B3. Movimento reverte correção anterior do mercado.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/apos-tombo-na-vespera-magalu-hapvida-e-construtoras-lideram-recuperacao-na-bolsa/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Citi revisa recomendações de bancões após eleição",
+      "resumo": "Citi reduziu BBAS3 para venda, mantém BBDC4 como neutro e prefere ITUB4. Preocupação com qualidade dos ativos, especialmente em carteiras ligadas ao agronegócio.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/bbas3-agora-e-venda-bbdc4-neutro-e-itub4-preferido-citi-revisa-bancoes-apos-eleicao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Bilionários brasileiros perdem R$ 75 bilhões em queda da Bolsa",
+      "resumo": "Turbulência nos mercados após eleição de Lula causou queda de mais de 10% no Ibovespa, acionando circuit breaker. Patrimônio de bilionários brasileiros recuou significativamente.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/27/bilionarios-brasileiros-perdem-us-14-bilhoes-apos-tombo-do-ibovespa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Governo vai enviar regras do Imposto Seletivo ao Congresso esta semana",
+      "resumo": "Ministro Durigan confirmou envio da proposta de regulamentação do 'imposto do pecado' ao Congresso Nacional em breve. Medida faz parte da reforma tributária aprovada.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/27/ministro-da-fazenda-diz-que-deve-enviar-nesta-semana-projeto-do-imposto-do-pecado.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Governo anuncia projeto para atingir centro da meta fiscal em 2027",
+      "resumo": "Ministério da Fazenda enviará ao Congresso projeto estabelecendo compromisso de atingir centro da meta fiscal em 2027. Medida pode exigir bloqueio maior de recursos durante o ano.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/27/ministro-da-fazenda-anuncia-projeto-para-mirar-centro-da-meta-fiscal-e-diz-que-espera-racionalidade-do-mercado.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Recusa parcial de mercadorias muda emissão de NF-e em São Paulo em 2027",
+      "resumo": "Nova regra define responsabilidade na emissão de nota fiscal durante recusa parcial de mercadorias. Empresas paulistas devem se adequar a partir de janeiro de 2027.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80403/recusa-parcial-de-mercadorias-muda-emissao-de-nota-fiscal-em-sp-em-2027/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Nova NR-10 entra em vigor em 2027 com atualizações de segurança elétrica",
+      "resumo": "Revisão da Norma Reguladora 10 atualiza regras de segurança elétrica. Alterações na NR-18 incluem proteção contra quedas e prazo para instalação de cabines climatizadas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80400/nova-nr-10-entra-em-vigor-em-2027-veja-mudancas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "INSS: como contribuir sem carteira assinada",
+      "resumo": "Trabalhadores autônomos, entregadores e freelancers podem contribuir mensalmente ao INSS mesmo sem registro formal. Contribuição garante acesso a benefícios previdenciários.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80398/inss-como-contribuir-sem-carteira-assinada/",
+      "idioma_original": "pt"
+    }
+  ]
+}
