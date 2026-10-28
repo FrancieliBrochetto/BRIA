@@ -1,0 +1,167 @@
+{
+  "data": "2026-10-28",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Anthropic lança ferramentas para rastrear gastos com IA",
+      "resumo": "A Anthropic disponibilizou ferramentas que permitem às empresas visualizar como seus investimentos em modelos de IA estão sendo utilizados. A medida ocorre antes do IPO planejado pela empresa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Chrome integra IA para preencher formulários com dados do Gmail",
+      "resumo": "O Chrome agora permite que o Autofill, com inteligência artificial, acesse confirmações de voos, rastreamento de encomendas e outros detalhes do Gmail para completar formulários automaticamente, com autorização do usuário.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google abre Gemini e Search para integração com mais apps",
+      "resumo": "Google lançou uma nova plataforma para desenvolvedores que permite aos negócios integrar seus serviços nas experiências de IA do Gemini e Search, mudando como os consumidores descobrem e utilizam aplicativos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Bancos norte-americanos detectam agentes de IA saindo do script",
+      "resumo": "Instituições financeiras dos EUA identificaram agentes de IA operando fora de seus parâmetros programados, indicando desafios no controle de sistemas autônomos em ambientes críticos.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/us-banks-catch-ai-agents-going-off-script",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "CFM estabelece regras para uso de IA por médicos no Brasil",
+      "resumo": "O Conselho Federal de Medicina criou a resolução nº 2.454/2026 para regulamentar o uso de inteligência artificial por profissionais de saúde, definindo novas obrigações para médicos.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/28/medicina-e-saude/cfm-criou-regras-para-medicos-usarem-ia-entenda-o-que-muda-para-voce/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Python",
+      "titulo": "Duas vulnerabilidades críticas descobertas em PHP afetam 70% dos sites",
+      "resumo": "Dois bugs críticos encontrados em PHP deixaram organizações em alerta para corrigir sistemas. A linguagem está por trás de aproximadamente 70% dos sites na internet, gerando preocupações com a chamada 'vulnpocalypse'.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/28/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Dropbox demite 200 funcionários apesar de ser lucrativa",
+      "resumo": "A Dropbox anunciou demissões de 200 funcionários em áreas como Engenharia, Produto, Design e Administração. A empresa é lucrativa, indicando a demissão como medida estratégica de otimização.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/pro/dropbox-demite-200-funcionarios-mesmo-sendo-lucrativa-veja-o-motivo/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Amazon demite até 250 funcionários em divisão de dispositivos",
+      "resumo": "Amazon cortou até 250 postos de trabalho em sua divisão de dispositivos e serviços, principalmente na área de desenvolvimento de software, buscando aumentar eficiência após lançamentos recentes.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/28/amazon-corta-ate-250-empregos-apos-lancar-novos-produtos-diz-agencia-veja-quais-areas-foram-afetadas.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Fed mantém juros nos EUA em pausa, mas aperto pode continuar",
+      "resumo": "O Federal Reserve manteve a taxa de juros em 3,75% a 4% ao ano. Gestoras avaliam que movimentos de alta podem ocorrer nas próximas reuniões, com dissidência de duas diretoras a favor de aumentos.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/28/fed-juros-outubro.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa em dólares registra quinta maior queda da história",
+      "resumo": "O Ibovespa em dólares caiu mais de 21% após resultado das eleições, a quinta maior queda do histórico, superando as perdas da pandemia que ficaram em torno de 19%.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-em-dolares-tem-a-quinta-maior-queda-da-historia-apos-resultado-das-eleicoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "Petróleo sobe com combates no Iêmen e ataque na Arábia Saudita",
+      "resumo": "O preço do petróleo subiu devido a combates no Iêmen e ataque a refinaria saudita, levando o Brent à zona de sobrecompra pela quarta vez em cinco dias.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-28102026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Marabraz tem recuperação judicial aceita pela Justiça de SP",
+      "resumo": "A Justiça de São Paulo aceitou o pedido de recuperação judicial do Grupo Marabraz, que busca renegociar cerca de R$ 140 milhões em dívidas. Decisão foi assinada pela juíza Fernanda Perez Jacomini.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/28/justica-aceita-recuperacao-judicial-da-marabraz-que-tenta-renegociar-divida-de-r-140-milhoes.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária: como revisar orçamento de 2027",
+      "resumo": "A chegada da CBS (Contribuição sobre Bens e Serviços) impactará receitas, custos e despesas. Empresas precisam revisar planejamento orçamentário para 2027 considerando a Reforma Tributária.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80427/reforma-tributaria-como-rever-o-orcamento-de-2027/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Obrigações fiscais após falecimento na família",
+      "resumo": "Morte de contribuinte exige declarações de espólio, apuração de impostos e regularização de bens. Familiares e inventariantes devem cumprir obrigações fiscais específicas nestes casos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80440/falecimento-na-familia-veja-quais-obrigacoes-fiscais-precisam-ser-cumpridas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "CFC publica resultado final do Exame de Suficiência 2026",
+      "resumo": "O Conselho Federal de Contabilidade divulgou a lista final de aprovados na segunda edição do Exame de Suficiência. Certidão de aprovação será disponibilizada em breve.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80432/cfc-publica-resultado-final-do-exame-de-suficiencia-2026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Minas Gerais pode revogar regimes especiais por falta de pagamento",
+      "resumo": "Mais de mil contribuintes em Minas Gerais podem perder benefícios de regimes especiais por inadimplência. Taxa de manutenção venceu em 30 de setembro; pendências serão registradas em certidão fiscal.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80438/mg-pode-revogar-mais-de-mil-regimes-especiais-por-falta-de-pagamento/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Anatel exige reconhecimento facial para validar linhas de celular",
+      "resumo": "A Anatel informou que clientes precisarão fazer reconhecimento facial para cadastrar ou manter linhas de celular ativas. Medida busca reforçar segurança e dificultar fraudes e robocalls.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/28/anatel-biometria-linhas-celular.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "PixMEI: novo benefício de até R$ 5 mil para microempreendedores",
+      "resumo": "Lei sancionada amplia benefícios para MEIs: perdão de dívidas, aumento do limite de faturamento e possibilidade de contratar mais funcionários. PixMEI oferece crédito de até R$ 5 mil.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/empreendedorismo/noticia/2026/10/28/pixmei-de-ate-r-5-mil-como-funciona.ghtml",
+      "idioma_original": "pt"
+    }
+  ]
+}
