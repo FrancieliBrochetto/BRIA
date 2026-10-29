@@ -1,0 +1,158 @@
+{
+  "data": "2026-10-29",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Novo processo relaciona ChatGPT à morte de mulher de 31 anos",
+      "resumo": "Chatbot da OpenAI minimizou sintomas relatados antes da morte de Bowen Wan em fevereiro de 2026. Caso em discussão judicial.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/novo-processo-liga-chatgpt-a-morte-de-mulher-de-31-anos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google lança Gemini 4 Carbon com avanços em cibersegurança",
+      "resumo": "Novo modelo supera Anthropic e OpenAI em testes gerais e avança em capacidades de segurança. Ainda não está disponível para o público.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/google-lanca-gemini-4-carbon-com-avancos-em-ciberseguranca-mas-voce-ainda-nao-pode-usa-lo/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google fatura menos com Modo IA do que com busca tradicional",
+      "resumo": "Buscas com IA aumentam número de consultas, mas geram menos receita. Desafio de monetização para o novo modelo.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/google-fatura-menos-com-modo-ia-do-que-com-a-busca-tradicional/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Cloud Rebuild: Windows 11 agora pode ser reinstalado via nuvem",
+      "resumo": "Novo recurso permite reinstalar Windows 11 sem pendrive ou partição. Sistema também baixa drivers automaticamente.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/cloud-rebuild-modo-que-restaura-o-windows-11-a-partir-das-nuvens-e-oficial/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Microsoft acusada de usar 'dark patterns' para promover Edge",
+      "resumo": "Browser Choice Alliance acusa Microsoft de práticas desonestas para induzir uso do Edge. Táticas questionáveis reveladas.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/microsoft-e-acusada-de-trapacear-para-promover-o-edge/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "IAs chinesas usaram dados do GPT-6 Astra para treinar modelos",
+      "resumo": "Técnica de destilação permitiu criar modelos de IA mais rápidos a partir de dados da OpenAI. Debate sobre proteção de dados em destaque.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/29/inteligencia-artificial/ias-chinesas-usaram-dados-do-gpt-6-astra-para-treinar-modelos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Deepgram adquire Daily para fortalecer infraestrutura de voz",
+      "resumo": "Aquisição do criador do Pipecat permite Deepgram aprofundar capacidades de infraestrutura de voz e vídeo em tempo real.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Amazon atualiza Alexa para gerenciar listas de compras e assinaturas",
+      "resumo": "Alexa agora cria, registra e gerencia listas de compras, além de controlar assinaturas e instruções de entrega.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Wabi, agente de IA que cria mini apps, chega a avaliação de US$ 1,25 bi",
+      "resumo": "Startup levantou US$ 55 milhões em rodada de financiamento. Agente pessoal de IA segue em expansão.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Ex-executivos da Palantir lançam Dream com US$ 17 mi para IA em construção",
+      "resumo": "Startup financiada por a16z treina em 100 milhões de pés quadrados de permissões de construção. Quer desafiar Autodesk com IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "EUA investigam possível trama de espionagem chinesa contra CEO da Nvidia",
+      "resumo": "Executiva chinesa de empresa de IA teria atuado como agente de inteligência mantendo contato próximo com Jensen Huang. Investigação em andamento.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/29/governo-trump-aponta-plano-de-espionagem-chines-contra-ceo-da-nvidia-diz-jornal.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Indústria de moda quer substituir modelos por imagens de IA",
+      "resumo": "IA reduz custos de produção de imagens em 90% comparado com sessões com modelos humanos. Tecnologia ganha espaço como diferencial competitivo.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/29/em-dois-anos-toda-a-industria-sera-robos-marcas-de-roupa-querem-substituir-modelos-por-imagens-de-ia.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Convênios ICMS 127 e 128/2026 elevam tributação de combustíveis",
+      "resumo": "Confaz atualiza ICMS monofásico sobre gasolina, diesel e gás de cozinha com entrada em vigor em fevereiro de 2027.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80457/convenios-icms-127-e-128-2026-elevam-tributacao-de-combustiveis/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "TST fixa novas regras sobre negociação coletiva e direitos trabalhistas",
+      "resumo": "Teses vinculantes abrangem divisor 220, cerceamento de defesa, atuação sindical e reconhecimento de prescrição na Justiça do Trabalho.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80459/tst-fixa-novas-regras-sobre-negociacao-coletiva-e-direitos-trabalhistas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "União empresta R$ 950 milhões para implantação do CGIBS",
+      "resumo": "Recursos estruturarão o Comitê Gestor do IBS, com devolução à União com Selic a partir de 2029.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80453/uniao-empresta-r-950-milhoes-para-implantacao-do-cgibs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa acelera queda e perde os 170 mil pontos",
+      "resumo": "Bolsa brasileira recua junto com mercados dos EUA em meio a novos balanços corporativos, dados de PIB e PCE.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-29102026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar forte após eleição coloca exportadoras no radar",
+      "resumo": "Com real pressionado e juros mais altos, bancos veem empresas dolarizadas como principais vencedoras. Companhias ligadas ao ciclo local sob cautela.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/dolar-forte-apos-eleicao-coloca-exportadoras-no-radar-quais-sao-as-acoes-preferidas/",
+      "idioma_original": "pt"
+    }
+  ]
+}
