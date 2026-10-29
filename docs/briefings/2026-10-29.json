@@ -3,155 +3,155 @@
   "noticias": [
     {
       "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Amazon critica métricas baseadas em tokens para medir produtividade com IA",
+      "resumo": "Companhia questiona a efetividade de usar mais IA como indicador de produtividade. Alerta que métricas baseadas em tokens e linhas de código não refletem qualidade do trabalho. Posiciona-se contra uso indiscriminado de ferramentas de IA sem análise de resultados reais.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/usar-mais-ia-nao-significa-trabalhar-melhor-diz-amazon/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic publica S-1 e revela números de negócio rentável",
+      "resumo": "Anthropic divulga seu IPO com S-1 mostrando core business lucrativo, mas enfrenta pressão de competição. Análise indica que lucros podem ser consumidos pela concorrência acirrada no mercado de IA. Investidores podem sofrer diluição contínua com novas rodadas de financiamento.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Novo processo relaciona ChatGPT à morte de mulher de 31 anos",
-      "resumo": "Chatbot da OpenAI minimizou sintomas relatados antes da morte de Bowen Wan em fevereiro de 2026. Caso em discussão judicial.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/novo-processo-liga-chatgpt-a-morte-de-mulher-de-31-anos/",
+      "titulo": "Thrive Holdings, apoiada por OpenAI, adquire ADT por US$ 15,3 bilhões",
+      "resumo": "Fundo de investimento vinculado à OpenAI compra empresa de segurança residencial ADT. Plano inclui integração de IA aos sistemas de segurança doméstica. Negócio sinaliza expansão de tecnologias da OpenAI para o mercado de smart homes.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Microsoft registra quase 11% de receita trimestral originária da OpenAI",
+      "resumo": "Acordos comerciais com OpenAI geraram US$ 10 bilhões à Microsoft no primeiro trimestre do ano fiscal 2027. Demonstra importância crescente da parceria para receita total da companhia. Contrato reforça dependência estratégica entre as duas gigantes de tecnologia.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/startups-microsoft-tem-quase-11-da-receita-trimestral-vinda-da-openai/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Gemini",
-      "titulo": "Google lança Gemini 4 Carbon com avanços em cibersegurança",
-      "resumo": "Novo modelo supera Anthropic e OpenAI em testes gerais e avança em capacidades de segurança. Ainda não está disponível para o público.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/google-lanca-gemini-4-carbon-com-avancos-em-ciberseguranca-mas-voce-ainda-nao-pode-usa-lo/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Google fatura menos com Modo IA do que com busca tradicional",
-      "resumo": "Buscas com IA aumentam número de consultas, mas geram menos receita. Desafio de monetização para o novo modelo.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/google-fatura-menos-com-modo-ia-do-que-com-a-busca-tradicional/",
-      "idioma_original": "pt"
+      "titulo": "Gemini 4 Carbon do Google lidera rankings de desempenho",
+      "resumo": "Novo modelo Gemini 4 Carbon ocupa posição top em benchmarks de IA. Modelo apresenta melhorias em eficiência e capacidade de processamento. Google consolida presença no mercado competitivo de grandes modelos de linguagem.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/google-gemini-4-carbon-tops-the-charts-for-now",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Cloud Rebuild: Windows 11 agora pode ser reinstalado via nuvem",
-      "resumo": "Novo recurso permite reinstalar Windows 11 sem pendrive ou partição. Sistema também baixa drivers automaticamente.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/cloud-rebuild-modo-que-restaura-o-windows-11-a-partir-das-nuvens-e-oficial/",
-      "idioma_original": "pt"
+      "titulo": "Meta lança aplicativo Style Sketch com IA para moda e guarda-roupa virtual",
+      "resumo": "Meta releases Style Sketch, app que integra-se ao Instagram para criar guarda-roupa virtual usando fotos já compartilhadas. Usuários podem adicionar itens manualmente via foto, vídeo ou upload. Estratégia expande ecossistema de IA aplicada ao e-commerce e lifestyle.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Microsoft acusada de usar 'dark patterns' para promover Edge",
-      "resumo": "Browser Choice Alliance acusa Microsoft de práticas desonestas para induzir uso do Edge. Táticas questionáveis reveladas.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/microsoft-e-acusada-de-trapacear-para-promover-o-edge/",
-      "idioma_original": "pt"
+      "titulo": "Mistral libera pesos de modelo trilionário voltado à cibersegurança",
+      "resumo": "Mistral lança modelo com trilhão de parâmetros em open-source focado em defesa cibernética. Abordagem oferece às organizações maior controle sobre segurança em comparação a modelos fechados. Estratégia marca movimento de IA aberta para aplicações críticas de segurança.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "IAs chinesas usaram dados do GPT-6 Astra para treinar modelos",
-      "resumo": "Técnica de destilação permitiu criar modelos de IA mais rápidos a partir de dados da OpenAI. Debate sobre proteção de dados em destaque.",
+      "titulo": "Granola adiciona ditação a app de anotações para competir com Wispr",
+      "resumo": "Granola integra recurso de ditação de voz ao seu aplicativo de anotações de reuniões. Movimento responde a Wispr, que adicionou geração de notas a seu app de ditação. Guerra de recursos entre startups de IA de voz e notas aquece competição no segmento.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Executiva ligada à Nvidia suspeita de espionagem para China",
+      "resumo": "Autoridades dos EUA concluíram que executiva de empresa de cloud IA repassava informações à China sobre chips Nvidia. Presidente Trump foi informado sobre caso há um ano. Incidente revela riscos de segurança em torno de tecnologia crítica de IA e semiconductores.",
       "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/10/29/inteligencia-artificial/ias-chinesas-usaram-dados-do-gpt-6-astra-para-treinar-modelos/",
+      "url_original": "https://olhardigital.com.br/2026/10/29/pro/executiva-ligada-a-nvidia-e-suspeita-de-espionagem-para-a-china-diz-jornal/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Deepgram adquire Daily para fortalecer infraestrutura de voz",
-      "resumo": "Aquisição do criador do Pipecat permite Deepgram aprofundar capacidades de infraestrutura de voz e vídeo em tempo real.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Amazon atualiza Alexa para gerenciar listas de compras e assinaturas",
-      "resumo": "Alexa agora cria, registra e gerencia listas de compras, além de controlar assinaturas e instruções de entrega.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Wabi, agente de IA que cria mini apps, chega a avaliação de US$ 1,25 bi",
-      "resumo": "Startup levantou US$ 55 milhões em rodada de financiamento. Agente pessoal de IA segue em expansão.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Ex-executivos da Palantir lançam Dream com US$ 17 mi para IA em construção",
-      "resumo": "Startup financiada por a16z treina em 100 milhões de pés quadrados de permissões de construção. Quer desafiar Autodesk com IA.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "EUA investigam possível trama de espionagem chinesa contra CEO da Nvidia",
-      "resumo": "Executiva chinesa de empresa de IA teria atuado como agente de inteligência mantendo contato próximo com Jensen Huang. Investigação em andamento.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/29/governo-trump-aponta-plano-de-espionagem-chines-contra-ceo-da-nvidia-diz-jornal.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Indústria de moda quer substituir modelos por imagens de IA",
-      "resumo": "IA reduz custos de produção de imagens em 90% comparado com sessões com modelos humanos. Tecnologia ganha espaço como diferencial competitivo.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/10/29/em-dois-anos-toda-a-industria-sera-robos-marcas-de-roupa-querem-substituir-modelos-por-imagens-de-ia.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "Convênios ICMS 127 e 128/2026 elevam tributação de combustíveis",
-      "resumo": "Confaz atualiza ICMS monofásico sobre gasolina, diesel e gás de cozinha com entrada em vigor em fevereiro de 2027.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80457/convenios-icms-127-e-128-2026-elevam-tributacao-de-combustiveis/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "TST fixa novas regras sobre negociação coletiva e direitos trabalhistas",
-      "resumo": "Teses vinculantes abrangem divisor 220, cerceamento de defesa, atuação sindical e reconhecimento de prescrição na Justiça do Trabalho.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80459/tst-fixa-novas-regras-sobre-negociacao-coletiva-e-direitos-trabalhistas/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "União empresta R$ 950 milhões para implantação do CGIBS",
-      "resumo": "Recursos estruturarão o Comitê Gestor do IBS, com devolução à União com Selic a partir de 2029.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80453/uniao-empresta-r-950-milhoes-para-implantacao-do-cgibs/",
+      "subtema": "Claude",
+      "titulo": "Anthropic alerta sobre riscos existenciais que ela mesma pode criar",
+      "resumo": "Empresa de IA avalia seus próprios riscos potenciais e limitações de segurança. Relatório inclui alertas sobre cenários de risco existencial relacionados a sistemas de IA avançados. Postura reflexiva busca equilibrar inovação com responsabilidade em desenvolvimento de IA.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/10/29/pro/por-que-a-anthropic-alerta-sobre-riscos-que-ela-mesma-pode-criar/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Ibovespa acelera queda e perde os 170 mil pontos",
-      "resumo": "Bolsa brasileira recua junto com mercados dos EUA em meio a novos balanços corporativos, dados de PIB e PCE.",
+      "titulo": "Dívida pública federal sobe para R$ 9,383 trilhões em setembro",
+      "resumo": "Dívida pública federal cresceu 0,97% em setembro, atingindo R$ 9,383 trilhões. Dívida externa recuou 0,82% no mês, somando R$ 345,41 bilhões. Tendência reflete pressão fiscal contínua e limitações para expansão de gastos públicos.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-29102026/",
+      "url_original": "https://www.infomoney.com.br/economia/divida-publica-federal-sobe-097-em-setembro-para-r-9383-trilhoes-diz-tesouro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Débenturas incentivadas caem 30% no ano, mas mercado secundário ganha força",
+      "resumo": "Emissões de debêntures incentivadas caíram 30% em 2026, com volume 61% abaixo de um ano atrás. Mercado secundário se fortalece e concentra 45% das negociações com esse instrumento. Recuperação modesta em setembro não compensa queda geral do ano.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/debentures-incentivadas-emissoes-se-recuperam-em-setembro-mas-caem-30-no-ano/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Câmbio",
-      "titulo": "Dólar forte após eleição coloca exportadoras no radar",
-      "resumo": "Com real pressionado e juros mais altos, bancos veem empresas dolarizadas como principais vencedoras. Companhias ligadas ao ciclo local sob cautela.",
+      "titulo": "Petróleo cai com negociações EUA-Irã ofuscando possíveis ataques",
+      "resumo": "Preço do petróleo recua acompanhando declarações do vice-presidente americano JD Vance sobre negociações com Irã. Mercado reduz expectativa de escalada de conflito que poderia pressionar oferta. Câmbio e commodities refletem dinâmica geopolítica entre EUA e Irã.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/dolar-forte-apos-eleicao-coloca-exportadoras-no-radar-quais-sao-as-acoes-preferidas/",
+      "url_original": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-29102026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Déficit de estatais federais bate novo recorde em R$ 8,5 bilhões",
+      "resumo": "Empresas estatais federais registraram déficit de R$ 8,5 bilhões de janeiro a setembro de 2026. Resultado é o pior para o período em série histórica do Banco Central desde 2002. Prejuízos refletem dificuldades operacionais e pressão em receitas de estatais.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/29/deficit-das-estatais-federais-sobe-para-r-85-bilhoes-ate-setembro-e-bata-novo-recorde.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Retirada de PIS/Cofins em tarifa de água não é revisão contratual",
+      "resumo": "ANA diferencia a retirada de PIS/Cofins das tarifas de água da revisão contratual de saneamento. Mudança integral entra em vigor em 2027 com reforma tributária. Reguladores evitam reabertura de contratos de saneamento, mantendo estabilidade dos acordos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80477/tarifa-de-agua-retirada-de-pis-cofins-nao-e-revisao-contratual/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Sefaz-AM centraliza IPVA e ITCMD em plataforma digital única",
+      "resumo": "Sistema permite consultar débitos, emitir documentos e acessar descontos de até 20% no IPVA. Plataforma integra serviços estaduais de tributação imobiliária. Iniciativa melhora acesso de contribuintes a informações fiscais e incentivos tributários.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80475/sefaz-am-reune-servicos-de-ipva-e-itcmd-em-plataforma-digital/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Bancos devem investir R$ 16 milhões em educação financeira via Desenrola 2.0",
+      "resumo": "Instituições participantes do programa Desenrola 2.0 devem destinar recursos a ações de educação financeira. Parte do valor ainda aguarda definição de uso específico. Medida busca melhorar literacy financeiro de população endividada.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80476/bancos-devem-investir-r-16-milhoes-em-educacao-financeira/",
       "idioma_original": "pt"
     }
   ]
