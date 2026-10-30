@@ -1,0 +1,113 @@
+{
+  "data": "2026-10-30",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Google encerra agente de IA que programa sozinho",
+      "resumo": "O Jules, agente de IA que programava automaticamente, deixará de aceitar novas tarefas em 11 de novembro. Os aprendizados do projeto serão aproveitados no desenvolvimento do Antigravity.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/google-vai-encerrar-agente-de-ia-que-programa-sozinho/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Amazon prorroga acesso grátis à Alexa turbinada",
+      "resumo": "O acesso antecipado à Alexa+ foi prorrogado até fevereiro de 2027, mantendo gratuitamente os recursos aprimorados da assistente de IA.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/amazon-prorroga-acesso-gratis-a-alexa-turbinada/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "DoorDash recebe centenas de pedidos de agentes de IA",
+      "resumo": "A plataforma de delivery afirmou ter recebido apenas 'várias centenas' de pedidos de agentes de IA e está aberta a parcerias com outros desenvolvedores.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Startup produz data centers de IA em escala industrial",
+      "resumo": "A Runware está construindo uma fábrica para produzir data centers de IA em linha de montagem, similar à indústria automotiva, com objetivo de entregar unidades em 48 horas.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Anthropic divulga S-1 para IPO com números de rentabilidade",
+      "resumo": "O IPO da Anthropic foi anunciado com dados financeiros mostrando um negócio altamente lucrativo, mas enfrentando competição que pode comprimir margens futuras.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "Binance sofre maior roubo hacker da história das criptomoedas",
+      "resumo": "US$ 6,3 bilhões em ativos digitais foram afetados por ataque hacker à Binance. Aproximadamente metade dos valores foi congelada, mas ainda há valores em poder dos invasores.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/binance-sofre-ataque-de-us-63-bilhoes-o-que-se-sabe-sobre-o-possivel-maior-roubo-da-historia-das-criptomoedas.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa cai pela 5ª vez consecutiva rumo a queda histórica semanal",
+      "resumo": "O índice continua em trajetória descendente com preocupações sobre fiscal doméstico e cenário externo incerto para o próximo ano.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-cai-pela-5a-vez-com-temor-fiscal-e-externo-queda-historica-semanal/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Vale considera recompra de ações após queda expressiva",
+      "resumo": "CFO da Vale apontou queda recente como oportunidade para recompras de ações. Dividendos extraordinários foram descartados para este ano.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/vale3-vale-balanco-3t26-teleconferencia-coletiva/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "NFS-e nacional torna-se obrigatória para ME e EPP no domingo",
+      "resumo": "Empresas do Simples Nacional que prestam serviços sujeitos à emissão de NFS-e deverão usar o Emissor Nacional a partir de 1º de novembro de 2026.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80500/nfs-e-nacional-passa-a-ser-obrigatoria-para-me-e-epp-neste-domingo-1o/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Federal paga R$ 531,6 milhões em restituições do IR",
+      "resumo": "Lote residual do Imposto de Renda contempla 184.442 restituições nesta sexta-feira (30), com valores disponíveis para consulta.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80509/receita-paga-r-531-6-milhoes-em-restituicoes-do-ir-nesta-sexta/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Pix MEI aguarda regras operacionais; inscrições não estão abertas",
+      "resumo": "Programa de apoio de até R$ 5 mil previsto para 2027 ainda depende de definição de regras operacionais. Governo alerta que não há inscrições nem pagamentos disponíveis.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80506/pix-mei-inscricoes-nao-estao-abertas-veja-o-que-falta-definir/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "MDIC abre consulta para alterar códigos da Nomenclatura Brasileira de Serviços",
+      "resumo": "Formulário eletrônico permite enviar propostas de mudanças na NBS e suas Notas Explicativas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80504/mdic-abre-consulta-para-alterar-codigos-da-nbs/",
+      "idioma_original": "pt"
+    }
+  ]
+}
