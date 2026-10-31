@@ -1,0 +1,113 @@
+{
+  "data": "2026-10-31",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Entire, rival do GitHub, expande operações para o Brasil",
+      "resumo": "A plataforma Entire, fundada pelo ex-CEO do GitHub, iniciou operações no Brasil com infraestrutura de servidores locais para hospedagem e colaboração Git. A expansão oferece alternativa à Microsoft para desenvolvimento de código.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/entire-do-ex-ceo-do-github-ja-hospeda-codigos-no-brasil/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Anthropic apresenta IPO com números reais de lucratividade",
+      "resumo": "Anthropic divulgou seu prospecto (S-1) para oferta pública de ações, demonstrando que o negócio é lucrativo, mas enfrenta competição que pode consumir lucros. Investidores devem se preparar para potencial diluição contínua.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Gemini 4 Carbon lidera ranking de modelos de IA",
+      "resumo": "Google apresentou o Gemini 4 Carbon, que atualmente ocupa o primeiro lugar entre os modelos de inteligência artificial no mercado. A atualização reflete avanço contínuo da empresa na competição por modelos frontier.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/google-gemini-4-carbon-tops-the-charts-for-now",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Assistente de IA com foco em privacidade Ollie encerra operações",
+      "resumo": "Ollie, um assistente de IA que priorizava a privacidade do usuário, anunciou seu encerramento em uma semana, citando a saturação do mercado com múltiplos assistentes concorrentes.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "Binance cobre 90% das perdas após ataque hacker de US$ 6,3 bilhões",
+      "resumo": "A Binance mobilizou uma 'sala de guerra' com 100 pessoas após sofrer hack de US$ 6,3 bilhões, conseguindo recuperar fundos e cobrir 90% das perdas com recursos próprios. A operação envolveu funcionários, investigadores e autoridades em rastreamento global.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/31/binance-diz-ter-coberto-90percent-das-perdas-apos-ataque-hacker-de-mais-de-us-6-bilhoes.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa cai 18% em uma semana após resultado eleitoral",
+      "resumo": "O Ibovespa acumulou queda de 18% em cinco pregões consecutivos após reeleição do presidente Lula, fechando aos 167.922 pontos. Queda iguala a registrada em 11 de setembro e aproxima-se dos níveis de pandemia.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/10/31/ibovespa-o-que-esperar-apos-o-tombo.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "Mercado cripto entra em nova fase com fim de prazo para licenças do BC",
+      "resumo": "Exchanges, fintechs e instituições financeiras avançam na adequação às novas regras regulatórias do Banco Central. Custos crescentes devem acelerar consolidação do setor.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/negocios/regulacao-cripto-banco-central-mercado-nova-fase/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Como contabilizar cliente que não pagou nota fiscal",
+      "resumo": "Guia prático sobre o registro contábil de notas fiscais não pagas e reconhecimento de perdas com clientes inadimplentes, diferenciando tratamento contábil do fiscal.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80434/cliente-nao-pagou-a-nota-fiscal-veja-como-contabilizar/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Salário de novembro deve ser pago até 6 de novembro",
+      "resumo": "Prazo para pagamento do salário de novembro vence no quinto dia útil, que cai na sexta-feira, 6 de novembro. Sábados entram na contagem, mas domingos e feriados ficam de fora.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80483/salario-de-novembro-deve-ser-pago-ate-que-dia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "MEI pode contratar funcionário; veja custos em 2026",
+      "resumo": "Microempreendedor individual (MEI) pode registrar empregado e deve cumprir obrigações trabalhistas, previdenciárias e fiscais. Entenda os encargos para contratação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80436/mei-pode-contratar-funcionario-veja-custos-em-2026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Diferenças entre cobrança de IRPF e malha fiscal",
+      "resumo": "A malha fiscal verifica informações da declaração, enquanto cobrança exige regularização de débitos. Entenda como identificar cada situação e procedimentos a seguir.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80462/cobranca-de-irpf-e-malha-fiscal-entenda-as-diferencas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "55% dos estabelecimentos não destacam CBS em todos os CT-es",
+      "resumo": "Levantamento da Receita Federal revela que 55,14% dos estabelecimentos não destacaram a Contribuição sobre Seguridade Social (CBS) em todos os Conhecimentos de Transporte Eletrônicos emitidos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80495/cbs-no-ct-e-55-nao-destacam-o-tributo-em-todos/",
+      "idioma_original": "pt"
+    }
+  ]
+}
