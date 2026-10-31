@@ -3,36 +3,45 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Entire, rival do GitHub, expande operações para o Brasil",
-      "resumo": "A plataforma Entire, fundada pelo ex-CEO do GitHub, iniciou operações no Brasil com infraestrutura de servidores locais para hospedagem e colaboração Git. A expansão oferece alternativa à Microsoft para desenvolvimento de código.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/entire-do-ex-ceo-do-github-ja-hospeda-codigos-no-brasil/",
-      "idioma_original": "pt"
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI reduz meta de arrecadação em novo aporte",
+      "resumo": "OpenAI aparentemente não está atingindo as expectativas em sua rodada de financiamento mais recente. A empresa redefiniu suas metas de levantamento de capital para baixo.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Anthropic apresenta IPO com números reais de lucratividade",
-      "resumo": "Anthropic divulgou seu prospecto (S-1) para oferta pública de ações, demonstrando que o negócio é lucrativo, mas enfrenta competição que pode consumir lucros. Investidores devem se preparar para potencial diluição contínua.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/",
+      "subtema": "Claude",
+      "titulo": "Anthropic enfrenta classificação de junk bond após IPO",
+      "resumo": "Previsão indica que Anthropic receberá alta classificação de junk de agências de crédito após abrir capital. Isso dificultará e encarecerá futuras captações de recursos para financiar seus altos gastos operacionais.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Gemini",
-      "titulo": "Gemini 4 Carbon lidera ranking de modelos de IA",
-      "resumo": "Google apresentou o Gemini 4 Carbon, que atualmente ocupa o primeiro lugar entre os modelos de inteligência artificial no mercado. A atualização reflete avanço contínuo da empresa na competição por modelos frontier.",
+      "titulo": "Gemini 4 Carbon lidera benchmarks de modelos de IA",
+      "resumo": "Google lança Gemini 4 Carbon, que se destaca nos testes de desempenho de modelos de linguagem. O modelo promete eficiência com foco em sustentabilidade.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/google-gemini-4-carbon-tops-the-charts-for-now",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Assistente de IA com foco em privacidade Ollie encerra operações",
-      "resumo": "Ollie, um assistente de IA que priorizava a privacidade do usuário, anunciou seu encerramento em uma semana, citando a saturação do mercado com múltiplos assistentes concorrentes.",
+      "subtema": "Python",
+      "titulo": "Entire expande operações para o Brasil com hospedagem Git local",
+      "resumo": "Plataforma rival do GitHub, fundada por ex-CEO, inaugura infraestrutura de servidores no Brasil para hospedagem e colaboração de códigos. Oferece alternativa descentralizada para desenvolvedores brasileiros.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/entire-do-ex-ceo-do-github-ja-hospeda-codigos-no-brasil/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Assistente de IA focada em privacidade Ollie encerra operações",
+      "resumo": "Com o mercado de assistentes de IA saturado, Ollie — que prioriza privacidade do usuário — encerra suas atividades em uma semana. Competição intensa reduz espaço para alternativas especializadas.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
       "idioma_original": "en"
@@ -40,8 +49,8 @@
     {
       "tema": "Mercado Financeiro",
       "subtema": "Cripto",
-      "titulo": "Binance cobre 90% das perdas após ataque hacker de US$ 6,3 bilhões",
-      "resumo": "A Binance mobilizou uma 'sala de guerra' com 100 pessoas após sofrer hack de US$ 6,3 bilhões, conseguindo recuperar fundos e cobrir 90% das perdas com recursos próprios. A operação envolveu funcionários, investigadores e autoridades em rastreamento global.",
+      "titulo": "Binance cobre 90% das perdas após ataque hacker de US$ 6 bilhões",
+      "resumo": "Corretora Binance afirma ter compensado 90% do prejuízo resultado do roubo de mais de US$ 6 bilhões. Empresa usará recursos próprios para ressarcir clientes afetados pelo ataque cibernético.",
       "fonte": "G1 Economia",
       "url_original": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/31/binance-diz-ter-coberto-90percent-das-perdas-apos-ataque-hacker-de-mais-de-us-6-bilhoes.ghtml",
       "idioma_original": "pt"
@@ -49,62 +58,53 @@
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Ibovespa cai 18% em uma semana após resultado eleitoral",
-      "resumo": "O Ibovespa acumulou queda de 18% em cinco pregões consecutivos após reeleição do presidente Lula, fechando aos 167.922 pontos. Queda iguala a registrada em 11 de setembro e aproxima-se dos níveis de pandemia.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/10/31/ibovespa-o-que-esperar-apos-o-tombo.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Cripto",
-      "titulo": "Mercado cripto entra em nova fase com fim de prazo para licenças do BC",
-      "resumo": "Exchanges, fintechs e instituições financeiras avançam na adequação às novas regras regulatórias do Banco Central. Custos crescentes devem acelerar consolidação do setor.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/negocios/regulacao-cripto-banco-central-mercado-nova-fase/",
-      "idioma_original": "pt"
+      "titulo": "Ações da Intel caem e reduzem em US$ 12 bilhões participação do governo",
+      "resumo": "Queda de preço das ações da Intel impacta participação estatal. Demanda por PC em queda, enquanto indústria de IA absorve componentes de memória, aumentando custos de computadores.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "idioma_original": "en"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Nota Fiscal",
-      "titulo": "Como contabilizar cliente que não pagou nota fiscal",
-      "resumo": "Guia prático sobre o registro contábil de notas fiscais não pagas e reconhecimento de perdas com clientes inadimplentes, diferenciando tratamento contábil do fiscal.",
+      "titulo": "Como contabilizar nota fiscal não paga pelo cliente",
+      "resumo": "Guia sobre registros contábeis de notas fiscais não quitadas, reconhecimento de perdas com inadimplência e diferenças entre tratamento contábil e fiscal.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/80434/cliente-nao-pagou-a-nota-fiscal-veja-como-contabilizar/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Salário de novembro deve ser pago até 6 de novembro",
-      "resumo": "Prazo para pagamento do salário de novembro vence no quinto dia útil, que cai na sexta-feira, 6 de novembro. Sábados entram na contagem, mas domingos e feriados ficam de fora.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80483/salario-de-novembro-deve-ser-pago-ate-que-dia/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "MEI pode contratar funcionário; veja custos em 2026",
-      "resumo": "Microempreendedor individual (MEI) pode registrar empregado e deve cumprir obrigações trabalhistas, previdenciárias e fiscais. Entenda os encargos para contratação.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80436/mei-pode-contratar-funcionario-veja-custos-em-2026/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
       "titulo": "Diferenças entre cobrança de IRPF e malha fiscal",
-      "resumo": "A malha fiscal verifica informações da declaração, enquanto cobrança exige regularização de débitos. Entenda como identificar cada situação e procedimentos a seguir.",
+      "resumo": "Malha fiscal verifica dados da declaração; cobrança exige regularização de débitos pendentes. Conheça como identificar cada situação e procedimentos necessários.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/80462/cobranca-de-irpf-e-malha-fiscal-entenda-as-diferencas/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
+      "subtema": "eSocial",
+      "titulo": "Prazo de pagamento do salário de novembro é 6 de novembro",
+      "resumo": "Quinto dia útil de novembro cai em sexta-feira, 6 de novembro. Sábados entram na contagem, mas domingos e feriados não.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80483/salario-de-novembro-deve-ser-pago-ate-que-dia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "MEI pode contratar funcionário: confira custos em 2026",
+      "resumo": "Microempreendedor pode registrar empregado e deve cumprir obrigações trabalhistas, previdenciárias e fiscais. Conheça os encargos e procedimentos de contratação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80436/mei-pode-contratar-funcionario-veja-custos-em-2026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
       "subtema": "SPED",
-      "titulo": "55% dos estabelecimentos não destacam CBS em todos os CT-es",
-      "resumo": "Levantamento da Receita Federal revela que 55,14% dos estabelecimentos não destacaram a Contribuição sobre Seguridade Social (CBS) em todos os Conhecimentos de Transporte Eletrônicos emitidos.",
+      "titulo": "55% dos emitentes não destacam CBS em todos os CT-es",
+      "resumo": "Levantamento da Receita Federal mostra falha generalizada: mais da metade dos estabelecimentos não destacou CBS corretamente em todos os Conhecimentos de Transporte eletrônicos emitidos.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/80495/cbs-no-ct-e-55-nao-destacam-o-tributo-em-todos/",
       "idioma_original": "pt"
