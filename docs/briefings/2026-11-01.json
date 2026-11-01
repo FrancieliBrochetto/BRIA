@@ -1,0 +1,122 @@
+{
+  "data": "2026-11-01",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI reduz meta de captação de recursos",
+      "resumo": "OpenAI diminuiu o valor alvo para sua nova rodada de financiamento, sinalizando que as expectativas de investimento não estão sendo plenamente atendidas.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Gemini 4 Carbon lidera rankings de modelos de IA",
+      "resumo": "Google lança Gemini 4 Carbon, que atualmente ocupa a primeira posição nos benchmarks de desempenho de modelos de inteligência artificial.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/google-gemini-4-carbon-tops-the-charts-for-now",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic apresenta S-1 para IPO com números lucrativos",
+      "resumo": "Anthropic protocola seu registro de IPO mostrando negócio rentável, mas enfrenta competição acirrada que pode consumir todos os lucros e criar dilução para investidores.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Python",
+      "titulo": "Entire expande operações no Brasil com hospedagem Git local",
+      "resumo": "Entire, plataforma rival do GitHub fundada por ex-CEO do GitHub, inaugura infraestrutura de servidores no Brasil para hospedagem e colaboração de código.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/entire-do-ex-ceo-do-github-ja-hospeda-codigos-no-brasil/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Sam Altman defende processamento de IA em data centers, não em PCs",
+      "resumo": "CEO da OpenAI critica modelos de IA de código aberto rodando localmente, argumentando que RAM e processamento devem permanecer centralizados em data centers para eficiência.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/01/pro/sam-altman-diz-que-ram-deveria-ficar-em-data-centers-nao-nos-pcs-dos-usuarios/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Apple defende postura cautelosa em IA, rejeita 'IA pela IA'",
+      "resumo": "CEO da Apple afirma que a empresa não quer lançar produtos com IA sem um propósito claro, mantendo abordagem focada em valor real para usuários.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Nvidia estuda financiar data center de IA como avalista",
+      "resumo": "Nvidia considera atuar como avalista para empréstimo de construção de data center de IA da Nscale na Virgínia, refletindo preocupações do mercado com gastos em IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "Binance retoma saques de bitcoin e ether após roubo de US$ 6,3 bilhões",
+      "resumo": "Binance reativa saques de BTC, ETH e stablecoins após ataque da Coreia do Norte. Em poucas horas, US$ 3,64 bilhões foram retirados da plataforma.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/11/01/binance-retoma-saques-apos-roubo-de-us-63-bilhoes.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Meta cumpre promessas de Zuckerberg e investe em modelo Muse",
+      "resumo": "Meta apresenta resultados positivos alinhados com compromissos de Zuckerberg; investidores precisam confiar no gasto massivo em computação para modelo Muse.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Federal envia 498 mil cartas de malha fina sem cobrança automática",
+      "resumo": "Receita Federal notificou quase meio milhão de contribuintes sobre inconsistências. Cartas não geram cobrança automática, mas permitem consultar irregularidades e regularizar situação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80486/carta-da-malha-fina-nao-gera-cobranca-automatica/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Como contabilizar notas fiscais não pagas por clientes",
+      "resumo": "Orientação sobre registro contábil de inadimplência: diferenças entre reconhecimento contábil e fiscal, provisões e perdas com clientes que não pagam.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80434/cliente-nao-pagou-a-nota-fiscal-veja-como-contabilizar/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "São Paulo cria programa de educação fiscal entre Fazenda e Educação",
+      "resumo": "Novo decreto estabelece iniciativa com ações conjuntas das secretarias da Fazenda e Educação para aumentar conhecimento sobre tributos e recursos públicos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80484/sao-paulo-cria-programa-de-educacao-fiscal/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Exame de Suficiência: aprovação não substitui registro no CRC",
+      "resumo": "Aprovação no Exame de Suficiência não autoriza atuação como contador. É necessário registro no Conselho Regional de Contabilidade para exercer a profissão.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80460/exame-de-suficiencia-aprovacao-ja-permite-atuar-como-contador/",
+      "idioma_original": "pt"
+    }
+  ]
+}
