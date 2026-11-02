@@ -4,80 +4,125 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "IA impulsiona demanda por fitas magnéticas em data centers",
-      "resumo": "Fujifilm investirá R$ 344 milhões para quintuplicar a produção de fitas magnéticas. O crescimento é impulsionado pela demanda de data centers que usam as mídias para armazenar grandes volumes de dados gerados por IA.",
+      "titulo": "IA faz demanda por fitas magnéticas voltar a crescer",
+      "resumo": "Fujifilm investirá R$ 344 milhões para quintuplicar a produção de fitas magnéticas. Mídias são usadas por data centers para guardar grandes volumes de dados necessários ao treinamento de IA.",
       "fonte": "Tecnoblog",
       "url_original": "https://tecnoblog.net/noticias/boom-da-ia-faz-disparar-demanda-por-fitas-magneticas/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Segurança",
-      "titulo": "IA pode criar vírus autônomos para infectar eletrodomésticos",
-      "resumo": "Anthropic alerta que softwares maliciosos com IA poderão infectar a 'internet das coisas' de forma autônoma e se espalhar sem intervenção humana. O risco representa nova classe de ameaça cibernética.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/11/02/seguranca/ia-pode-criar-virus-que-infecta-eletrodomesticos-com-internet/",
-      "idioma_original": "pt"
+      "subtema": "Claude",
+      "titulo": "Anthropic avisa que está muito próximo da capacidade RSI (IA autorreplicante)",
+      "resumo": "Anthropic alertou que se aproxima da capacidade de Retorno sobre Investimento em Inteligência (RSI), ponto em que a IA fica tão boa no autotreino que desencadeia aceleração dramática de capacidades.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google Gemini 4 Carbon lidera comparação de desempenho",
+      "resumo": "O modelo Gemini 4 Carbon do Google foi reconhecido como um dos melhores em benchmarks de IA disponíveis no mercado atualmente.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/google-gemini-4-carbon-tops-the-charts-for-now",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Elon Musk limita uso do Grok devido a custos insustentáveis",
-      "resumo": "Musk reduz limites de uso do Grok Bot apesar de ter registrado crescimento recorde. O produto enfrenta pressão financeira e custos operacionais elevados.",
+      "titulo": "Elon Musk limita uso do Grok Bot por custos insustentavelmente altos",
+      "resumo": "Após descrever o Grok Bot como tendo o crescimento mais rápido de produto que já viu, Musk impôs limites operacionais devido aos custos operacionais elevados.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Startup 42AI lança modelo capaz de prever comportamento humano",
-      "resumo": "42AI saiu do modo secreto com US$ 62,5 milhões em financiamento. A empresa desenvolveu um 'world model' de IA que consegue prever ações humanas em situações nunca vistas antes.",
+      "subtema": "Automação",
+      "titulo": "Startup 42AI desenvolve modelo de IA capaz de prever comportamento humano",
+      "resumo": "42AI saiu do sigilo com US$ 62,5 milhões em financiamento apresentando um modelo de mundo que consegue prever ações humanas mesmo em situações completamente novas.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Google Gemini 4 Carbon lidera ranking de modelos de IA",
-      "resumo": "O novo modelo Gemini 4 Carbon do Google se destaca nos benchmarks de desempenho. Representa avanço na competição entre grandes modelos de linguagem.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://therundownai.beehiiv.com/p/google-gemini-4-carbon-tops-the-charts-for-now/",
-      "idioma_original": "en"
+      "subtema": "Automação",
+      "titulo": "IA consegue criar vírus que se espalha por conta própria em eletrodomésticos",
+      "resumo": "Pesquisas demonstram que sistemas de IA conseguem gerar vírus capazes de se propagar autonomamente em dispositivos de internet das coisas (IoT) conectados.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/virus-ia.ghtml",
+      "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "New York Times processa navegador Brave por raspagem de conteúdo",
-      "resumo": "NYT e outros veículos de imprensa processam a Brave por raspar conteúdo protegido por direitos autorais e distribuí-lo a clientes como Anthropic e Perplexity. Levanta questões sobre uso de conteúdo jornalístico para treinar IA.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "idioma_original": "en"
+      "titulo": "Google anuncia Googlebooks com teclado destacável funcionando como tablet",
+      "resumo": "Próxima linha de Googlebooks contará com teclado removível, permitindo que os dispositivos funcionem tanto como notebook quanto tablet.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/google-vai-anunciar-googlebooks-que-funcionam-como-tablets/",
+      "idioma_original": "pt"
     },
     {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Omen AI adquire Aquatic Labs para resolver problema de água em data centers",
-      "resumo": "Omen AI compra Aquatic Labs por US$ 16 milhões para integrar expertise em gestão de água. Iniciativa endereça desafio crítico de eficiência térmica e consumo hídrico de data centers.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "idioma_original": "en"
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Apple supera expectativas com receita recorde de US$ 114,5 bilhões",
+      "resumo": "Apple registrou crescimento de 12% em receita no quarto trimestre fiscal, atingindo US$ 114,5 bilhões, mas segue enfrentando desafios no mercado chinês.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/vendas-da-apple-superam-estimativas-mas-china-segue-como-ponto-fraco/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Palantir dobra lucro e dispara receita em 96% no terceiro trimestre",
+      "resumo": "Palantir atingiu receita de US$ 2,31 bilhões com crescimento de 96% comparado ao ano anterior, superando projeções de mercado e elevando outlook para 2026.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/palantir-ve-lucro-mais-que-dobrar-no-3o-trimestre-e-eleva-projecoes-para-2026/",
+      "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Cripto",
-      "titulo": "Coreia do Norte turbina hackers com IA para roubar criptomoedas",
-      "resumo": "Grupo norte-coreano responsável pelo roubo de US$ 6,3 bilhões da Binance agora usa IA para elevar sofisticação de ataques. Inteligência artificial oferece nova ferramenta para financiar expansão militar.",
+      "titulo": "Mercado Bitcoin suspende saques após ataque de segurança",
+      "resumo": "Plataforma Mercado Bitcoin interrompeu saques dias após roubo bilionário na Binance, enfatizando riscos de segurança no setor de criptomoedas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/mercado-bitcoin-incidente-seguranca.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Parlamentares criticam juros altos antes de reunião do Copom",
+      "resumo": "Deputados governistas intensificam críticas às projeções de aumento da taxa básica de juros após o segundo turno das eleições, antecedendo encontro do Copom.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mundo/coreia-do-norte-turbina-hackers-com-ia-roubo-de-us-63-bi-da-binance-e-so-o-comeco/",
+      "url_original": "https://www.infomoney.com.br/politica/parlamentares-governistas-aumentam-criticas-a-juros-altos-antes-de-reuniao-do-copom",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação Trabalhista",
-      "titulo": "Fim da escala 6x1: transição começa com limite de 42 horas semanais",
-      "resumo": "Novas regras trabalhistas eliminam a escala 6x1. Limite passa a 42 horas semanais imediatamente e cairá para 40 horas em 2027. Empresas devem revisar escalas, contratos e custos.",
+      "subtema": "Imposto de Renda",
+      "titulo": "Aumento de ICMS em combustíveis entra em vigor em 1º de fevereiro de 2027",
+      "resumo": "Confaz aprovou reajuste do ICMS sobre gasolina, diesel e gás de cozinha em todo território nacional, com implementação prevista para 1º de fevereiro de 2027.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/02/icms-sobre-os-combustiveis-veja-quanto-sera-o-aumento-na-gasolina-gas-de-cozinha-e-diesel-a-partir-de-1-de-fevereiro-de-2027-em-sp.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Interoperabilidade de vale-tíquete entra em vigor em 7 de novembro",
+      "resumo": "Todas as máquinas de pagamento de vale alimentação e refeição deverão aceitar qualquer cartão a partir de 7 de novembro, independentemente de operadora ou bandeira.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/02/vale-tiquete-maquinas-terao-de-aceitar-todos-os-cartoes-a-partir-de-7-de-novembro-diz-ministerio-do-trabalho.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Fim da escala 6x1 começa com limite de 42 horas semanais em 2026",
+      "resumo": "Nova jornada de trabalho implementa limite de 42 horas semanais imediatamente, reduzindo para 40 horas em 2027; empresas devem revisar contratos e custos.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/80482/fim-da-escala-6x1-veja-como-sera-a-transicao-nas-empresas/",
       "idioma_original": "pt"
@@ -85,46 +130,19 @@
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "ICMS de combustíveis terá reajuste a partir de 1º de fevereiro de 2027",
-      "resumo": "Conselho Nacional de Política Fazendária aprovou aumento do ICMS dos combustíveis em todo Brasil. Novos valores entram em vigor em 1º de fevereiro de 2027, afetando preços de gasolina, diesel e gás.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/02/icms-sobre-os-combustiveis-veja-quanto-sera-o-aumento-na-gasolina-gas-de-cozinha-e-diesel-a-partir-de-1-de-fevereiro-de-2027-em-sp.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Vale-refeição: interoperabilidade de cartões entra em vigor em 7 de novembro",
-      "resumo": "Ministério do Trabalho implementa 'interoperabilidade plena' do Programa de Alimentação do Trabalhador. Qualquer cartão de vale alimentação deverá ser aceito em qualquer maquininha a partir de 7 de novembro.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/11/02/vale-tiquete-maquinas-terao-de-aceitar-todos-os-cartoes-a-partir-de-7-de-novembro-diz-ministerio-do-trabalho.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "13º salário: horas extras e comissões entram no cálculo",
-      "resumo": "Clarificação sobre inclusão de horas extras e comissões no cálculo do 13º salário. Entenda como funciona pagamento proporcional e por que parcelas podem ter valores diferentes.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80469/13o-salario-horas-extras-e-comissoes-entram-no-calculo/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Falecimento na família: obrigações fiscais e de espólio",
-      "resumo": "Morte de contribuinte exige declaração de espólio, apuração de impostos e regularização de bens. Guia destaca principais cuidados para familiares e inventariantes.",
+      "titulo": "Falecimento na família exige cumprimento de obrigações fiscais",
+      "resumo": "Morte de contribuinte demanda declarações de espólio, apuração de impostos e regularização de bens; familiares e inventariantes precisam cumprir obrigações específicas.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/80517/falecimento-na-familia-veja-quais-obrigacoes-fiscais-precisam-ser-cumpridas/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Nota Fiscal",
-      "titulo": "Patrimônio de afetação e RET: controles contábeis em incorporações",
-      "resumo": "Guia sobre integração de escrituração, recebimentos, custos e documentos em incorporações imobiliárias com patrimônio de afetação e opção pelo RET.",
+      "subtema": "Imposto de Renda",
+      "titulo": "13º salário: como horas extras e comissões entram no cálculo",
+      "resumo": "Horas extras e comissões integram cálculo do 13º salário; pagamento proporcional pode resultar em parcelas de valores diferentes conforme atuação do empregado.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80464/patrimonio-de-afetacao-e-ret-controles-contabeis-essenciais/",
+      "url_original": "https://www.contabeis.com.br/noticias/80469/13o-salario-horas-extras-e-comissoes-entram-no-calculo/",
       "idioma_original": "pt"
     }
   ]
