@@ -1,0 +1,131 @@
+{
+  "data": "2026-11-03",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Regulação",
+      "titulo": "Navegador Brave é processado por coleta de dados para IA",
+      "resumo": "Navegador Brave enfrenta ação judicial por coletar dados de usuários para alimentar ferramentas de inteligência artificial e serviços anti-paywall. A ferramenta de busca com IA também é alvo da ação.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/navegador-brave-e-processado-por-coleta-de-dados-para-ia-e-ferramentas-anti-paywall/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança & Cibersegurança",
+      "titulo": "Polícia desmantelou botnet com 1,3 milhão de TV boxes",
+      "resumo": "Operação coordenada com a polícia japonesa desmantelou esquema atribuído à fabricante chinesa Videostrong que comprometia milhões de aparelhos de TV conectados à internet.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/policia-e-gigantes-de-tecnologia-derrubam-botnet-com-13-milhao-de-tv-boxes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação & Robótica",
+      "titulo": "Robô de entregas desrespeita sinal de trânsito e é atingido por ônibus",
+      "resumo": "Robô autônomo ignorou semáforo vermelho e foi atropelado por ônibus na capital da Estônia, deixando nove passageiros feridos. O incidente evidencia limitações de segurança em sistemas de entrega autônoma.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/robo-de-entregas-ignora-sinal-vermelho-e-e-atropelado-por-onibus/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic enfrenta desafio com economia de computação",
+      "resumo": "Apesar das expectativas de melhoria, as margens de computação da Anthropic estão piorando, revelando tensões financeiras na operação de modelos de IA de grande escala.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google integra ferramentas de IA ao Search e restringe desativação nas escolas",
+      "resumo": "Google permite que escolas desabilitem ferramentas de IA, mas com custo: perdem acesso ao Google Search, pois recursos de IA estão agora integrados ao buscador.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Regulação",
+      "titulo": "Apple restringe apps de namoro e companheiros IA para maiores de 18 anos",
+      "resumo": "Apple atualizou regras da App Store exigindo classificação 18+ para apps de namoro e companheiros de IA com conteúdo sexual ou romântico.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "MIT demonstra IA melhorando IA sem treinamento adicional",
+      "resumo": "Pesquisadores do MIT desenvolveram método onde modelos de IA podem melhorar outros modelos sem necessidade de treinamento convencional adicional.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/mit-shows-ai-improving-ai-no-training-required",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "OceanPact vende embarcações por US$ 86 mi e reforça dividendos",
+      "resumo": "Venda de duas embarcações por US$ 86 milhões gera ganho relevante para OceanPact (OPCT3), acelera desalavancagem e eleva expectativa de dividendos extraordinários, impulsionando ação.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/oceanpact-vende-embarcacoes-por-us-86-mi-e-eleva-espaco-para-dividendos-acao-salta/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "XP projeta pausa nos cortes de juros até fim de 2027",
+      "resumo": "Análise da XP aponta depreciação do real, petróleo elevado e inflação em alta, sugerindo pausa na redução de juros até fim de 2027 apesar da desaceleração econômica.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/economia/projecao-selic-xp-13-75-copom-03112026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "Hackers invadem Binance e roubam US$ 6,3 bilhões em criptoativos",
+      "resumo": "Hackers usaram entrevista de emprego falsa para comprometer sistema e ferramenta de IA interna da Binance, conseguindo acesso a carteiras e roubando US$ 6,3 bilhões em criptomoedas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/03/hackers-binance-entrevista-de-emprego.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Justiça afasta aumento de alíquota no lucro presumido para clínica médica",
+      "resumo": "Decisão da Justiça Federal permite que clínica calcule IRPJ e CSLL sem acréscimo nos percentuais de presunção, contrariando determinação anterior.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80550/justica-afasta-alta-no-lucro-presumido-para-clinica-medica/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "IVA Dual pode ultrapassar 30% no Brasil e superar alíquotas da OCDE",
+      "resumo": "Com CBS aprovada de 11,3% pelo TCU, tributação sobre consumo pode chegar a 30%+ em 2033, acima de países da OCDE. Senado define percentual até 15 de dezembro.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80549/iva-dual-pode-ultrapassar-30-no-brasil-e-superar-aliquotas-da-ocde/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Vale-refeição e vale-alimentação: novembro marca etapa de interoperabilidade",
+      "resumo": "Calendário do PAT atinge fase de interoperabilidade em novembro, modificando aceitação de cartões de vale-refeição e vale-alimentação entre diferentes operadoras.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80548/vale-refeicao-e-vale-alimentacao-veja-o-que-muda-em-novembro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Primeira parcela do 13º salário vence em 30 de novembro",
+      "resumo": "Primeira parcela do 13º de 2026 deve ser paga até 30 de novembro. Saiba quem tem direito, cálculo proporcional e datas da segunda parcela.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80546/primeira-parcela-do-13o-salario-vence-em-30-de-novembro/",
+      "idioma_original": "pt"
+    }
+  ]
+}
