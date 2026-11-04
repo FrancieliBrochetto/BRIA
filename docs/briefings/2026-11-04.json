@@ -1,0 +1,122 @@
+{
+  "data": "2026-11-04",
+  "noticias": [
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Anatel aprova roaming obrigatório para rodovias e pequenas localidades",
+      "resumo": "A Anatel aprovou medida que obriga operadoras de telecom a ofertar roaming em rodovias e regiões do interior, ampliando cobertura mesmo para clientes de operadoras que não atuam nos trechos.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/anatel-aprova-roaming-obrigatorio-para-rodovias-e-pequenas-localidades/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Anatel determina bloqueio de SMS usado em golpes",
+      "resumo": "Operadoras terão 90 dias para identificar e bloquear SMS de remetentes não cadastrados. Medida integra novo conjunto de regras para combater fraudes com mensagens falsas.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/anatel-decide-operadoras-deverao-bloquear-o-sms-de-empresas-sem-cadastro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Apple apresenta Siri Recaps com IA integrada",
+      "resumo": "Apple lança recurso Siri Recaps alimentado por IA que gera resumos de atividades do usuário. Funcionalidade provou ser útil, embora ainda levante questões sobre privacidade.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic desenvolve sistema FlashProve para validar identidade de modelos IA",
+      "resumo": "A Anthropic está criando o FlashProve, um sistema que permite verificar se uma resposta de IA provém realmente do modelo que alega ser, aumentando a confiabilidade e rastreabilidade.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google enfrenta reação adversa ao planejar desligar Search para escolas que restringem IA",
+      "resumo": "Google recebe críticas de políticos e reguladores por plano de desativar Google Search em escolas que restringem inteligência artificial, acusado de monopolização abusiva.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "MIT demonstra IA melhorando IA sem treinamento adicional",
+      "resumo": "Pesquisa do MIT mostra como sistemas de IA podem aprimorar outros modelos de IA sem necessidade de retreinamento, abrindo novo caminho para otimização de modelos.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/mit-shows-ai-improving-ai-no-training-required",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ações de Petrobras e petroleiras caem até 8% com queda do petróleo",
+      "resumo": "Petróleo Brent desaba até 9% com preocupações sobre conflitos no Irã pós-eleições americanas, levando ações de Petrobras e concorrentes a terceira sessão de perdas.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/petr4-petr3-acoes-da-petrobras-e-outras-petroleiras-desempenho-04112026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ações mundiais sobem após vitória democrata nos EUA",
+      "resumo": "Mercados globais operam em alta com a vitória democrata nas eleições americanas, reduzindo incertezas. Setores de tecnologia, serviços e consumo discricionário lideram ganhos em Wall Street.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/incerteza-menor-por-que-acoes-mundiais-sobem-apos-vitoria-democrata-nos-eua/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Emprego",
+      "titulo": "Brasil cria apenas 121 mil empregos formais em setembro, queda de 43%",
+      "resumo": "Criação de empregos formais em setembro ficou abaixo das expectativas (121 mil vs. 171 mil esperados) e representa queda de 43,5% comparado ao mesmo mês de 2025.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/04/brasil-cria-1213-mil-empregos-formais-em-setembro-queda-de-43percent-na-comparacao-com-mesmo-mes-de-2025.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "STF afasta PIS e Cofins sobre créditos presumidos de ICMS",
+      "resumo": "Supremo beneficia empresas com incentivos fiscais estaduais ao afastar cobrança de PIS e Cofins sobre créditos presumidos de ICMS, mas recuperação de valores depende de prazos e possíveis recursos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80586/stf-afasta-pis-e-cofins-sobre-creditos-presumidos-de-icms/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "STJ suspende ações e vai decidir futuro do Perse",
+      "resumo": "Superior Tribunal de Justiça suspende processos em todo o país para analisar se o benefício fiscal Perse (incentivo para inovação) poderia ser encerrado antes dos 60 meses previstos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80590/stj-suspende-acoes-e-vai-decidir-futuro-do-perse/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Trabalhista",
+      "titulo": "Projeto limita penhora de faturamento em dívidas trabalhistas a 10%",
+      "resumo": "PL 3.083/2019 estabelece teto de 10% das receitas mensais para penhora de empresas por dívidas trabalhistas e prevê emissão de certidão trabalhista com efeitos de negativa.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80588/projeto-limita-penhora-de-faturamento-de-empresas-por-dividas-trabalhistas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Receita Federal define tributação de treinamentos no Simples Nacional",
+      "resumo": "Solução de Consulta Cosit nº 166/2026 esclarece que treinamentos personalizados no Simples Nacional seguem o fator R para enquadramento nos Anexos III ou V.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80584/receita-define-tributacao-de-treinamentos-no-simples-nacional/",
+      "idioma_original": "pt"
+    }
+  ]
+}
