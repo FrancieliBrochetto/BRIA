@@ -1,0 +1,194 @@
+{
+  "data": "2026-11-05",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Axiom Math desenvolve verificação formal para provas matemáticas com IA",
+      "resumo": "Startup Axiom Math usa agentes de IA para verificar formalmente provas matemáticas e evitar conteúdo impreciso. A empresa verificou com sucesso o Stacks Project, uma das maiores bibliotecas de matemática do mundo.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Dropbox adquire Tigris Data por US$ 350 mi para fortalecer infraestrutura de IA",
+      "resumo": "Aquisição visa suportar desenvolvimento da DBX Agent Cloud, plataforma de armazenamento para desenvolvedores que constroem modelos e agentes de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Box integra Nvidia Nemotron para sistema de recuperação de conteúdo com agentes de IA",
+      "resumo": "Novo sistema responde consultas 4x mais rápido, com 20% menos erros e 90% menos tokens utilizados comparado aos métodos anteriores.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "YC startup oferece US$ 1 mi para resolver 5 problemas em ciência de materiais com IA",
+      "resumo": "Discovered Materials, startup que usa IA para descobrir materiais para chips, oferece US$ 200 mil para cada solução de cinco problemas abertos em ciência de materiais.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Anel inteligente Aina permite interação com agentes de IA via tela, joystick e microfone",
+      "resumo": "Dispositivo vestível possui tela integrada e permite fazer chamadas, ditar notas no Mac e conversar com agentes de IA através de controle por voz e joystick.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Agentes de IA agora conseguem fazer suas ligações telefônicas",
+      "resumo": "Nova capacidade permite que agentes de IA realizem chamadas automaticamente, expandindo possibilidades de automação em atendimento e gestão de tarefas.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/ai-agents-can-now-make-your-phone-calls",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Apple abre porta para Siri com recursos de IA",
+      "resumo": "Apple começa a integrar capacidades de IA ao assistente Siri, melhorando funcionalidades de reconhecimento e resposta contextual.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/apple-cracks-the-door-open-to-siri-ai",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "MIT demonstra IA melhorando IA sem necessidade de novo treinamento",
+      "resumo": "Pesquisa do MIT mostra que sistemas de IA podem ser otimizados sem retreinamento completo, reduzindo custos computacionais e tempo de desenvolvimento.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/mit-shows-ai-improving-ai-no-training-required",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Android permitirá backup automático de fotos e vídeos no Windows",
+      "resumo": "Novo recurso do Android usa Quick Share para enviar automaticamente fotos e vídeos para Windows, facilitando sincronização entre dispositivos.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/android-permitira-backup-automatico-de-fotos-e-videos-no-windows/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Intuit CEO discute como contabilidade está evoluindo com IA",
+      "resumo": "Entrevista com Sasan Goodarzi explora como empresa de software legada se adapta ao paradigma de IA e transforma suas soluções contábeis.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Google investe agressivamente em agentes de IA apesar de lucros em queda",
+      "resumo": "Resultados financeiros da Google revelam foco em tecnologia de agentes de IA enquanto enfrenta desempenho inferior ao esperado em receitas.",
+      "fonte": "Stratechery",
+      "url_original": "https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança",
+      "titulo": "Fundo Garantidor de Créditos sofre invasão e vaza dados de investidores",
+      "resumo": "FGC foi alvo de ataque que expôs nomes, CPFs e dados de pagamento de garantias. Órgão notificou investidores sobre o vazamento de dados.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/fgc-sofre-invasao-e-notifica-investidores-sobre-dados-vazados/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança",
+      "titulo": "TV boxes saíam de fábrica infectadas com vírus em esquema global",
+      "resumo": "Rede criminosa controlava mais de 1,3 milhão de aparelhos infectados desde a fabricação. Brasil foi segundo país mais afetado, atrás da Malásia.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/05/seguranca/tv-boxes-saiam-de-fabrica-com-virus-em-esquema-que-atingiu-o-brasil/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Infraestrutura",
+      "titulo": "Qualcomm fecha acordo com Starlink para implementar 5G terrestre nos EUA",
+      "resumo": "Empresa fornecerá componentes para tecnologia terrestre do Starlink Mobile, expandindo alcance de internet via satélite com suporte 5G.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/qualcomm-fecha-acordo-de-infraestrutura-5g-com-a-starlink/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Copom mantém Selic em 13,75% ao ano; impactos no crédito empresarial",
+      "resumo": "Banco Central manteve taxa de juros na mesma patamar, mas isso não congela taxas bancárias. Empresas devem revisar planejamento financeiro.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80617/selic-em-13-75-o-que-muda-para-o-credito-das-empresas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Base Exchange mira lançamento em 2027 como rival da B3",
+      "resumo": "Nova bolsa de valores planeja começar operações em 2027 e marcará retorno da negociação de ações no Rio de Janeiro após mais de 25 anos.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/base-exchange-mira-lancamento-em-2027-em-desafio-a-b3-no-mercado-de-acoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Governo define regras do Imposto Seletivo; veja produtos atingidos",
+      "resumo": "Medida provisória detalha cobrança do 'imposto do pecado' que entra em vigor em 2 de fevereiro de 2027 sobre produtos prejudiciais à saúde ou meio ambiente.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/carros/noticia/2026/11/05/imposto-do-pecado-governo-define-regras-para-taxar-carros-veja-o-que-pesa-no-calculo.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita Federalidentifica R$ 1,8 bi em créditos farmacêuticos irregulares",
+      "resumo": "Operação Fármacos II encontrou pedidos de ressarcimento incompatíveis com legislação. Prazo de regularização vai até 20 de janeiro de 2027.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80625/receita-aponta-r-1-8-bi-em-creditos-farmaceuticos-irregulares/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Receita lança novo portal para consulta de controle de cargas",
+      "resumo": "Subportal CCT oferece orientações sobre importação, manual atualizado para operações aéreas e novo guia para operações rodoviárias.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80619/receita-lanca-nova-versao-do-portal-para-consulta-do-controle-de-cargas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "INSS paga 13º em novembro a novos beneficiários",
+      "resumo": "Depósitos serão realizados de 24 de novembro a 7 de dezembro conforme calendário por final de benefício.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80616/inss-paga-13o-em-novembro-a-novos-beneficiarios/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "CNI questiona alíquota de CBS de 11,3% e pede revisão ao Senado",
+      "resumo": "Confederação critica cálculo do TCU alegando que alíquota pode elevar carga tributária e questiona período usado como referência.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80614/cni-questiona-cbs-de-11-3-e-pede-revisao-ao-senado/",
+      "idioma_original": "pt"
+    }
+  ]
+}
