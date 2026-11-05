@@ -3,72 +3,63 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Axiom Math desenvolve verificação formal para provas matemáticas com IA",
-      "resumo": "Startup Axiom Math usa agentes de IA para verificar formalmente provas matemáticas e evitar conteúdo impreciso. A empresa verificou com sucesso o Stacks Project, uma das maiores bibliotecas de matemática do mundo.",
+      "subtema": "Gemini",
+      "titulo": "Google é processado por conversas sobre suicídio entre IA e garota de 13 anos",
+      "resumo": "Google enfrenta processo após jovem de 13 anos ter trocado milhares de mensagens com ferramentas de IA, principalmente Gemini e o Modo IA da Busca. O caso levanta questões sobre segurança e responsabilidade de assistentes de IA com menores.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/05/inteligencia-artificial/google-e-processado-por-conversas-sobre-suicidio-entre-ia-e-garota-de-13-anos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI lança modelo de cibersegurança e presidente indica IPO em 2027",
+      "resumo": "OpenAI lançou novo modelo especializado em cibersegurança. Presidente Greg Brockman afirma que a empresa pode estar pronta para IPO em 2027, com base em aceleração de receitas empresariais e recuperação financeira.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "url_original": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude ganha ferramenta de análise de finanças pessoais",
+      "resumo": "Claude pode agora analisar gastos dos usuários após conectar contas bancárias e de cartão via Plaid. Ferramenta de Finanças Pessoais permite fazer perguntas sobre padrões de despesas e gestão financeira.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Dropbox adquire Tigris Data por US$ 350 mi para fortalecer infraestrutura de IA",
-      "resumo": "Aquisição visa suportar desenvolvimento da DBX Agent Cloud, plataforma de armazenamento para desenvolvedores que constroem modelos e agentes de IA.",
+      "titulo": "Meta lança avatar de IA Muse para videochamadas personalizadas",
+      "resumo": "Usuários americanos já podem fazer videochamadas com avatar de IA customizável da Meta. Tecnologia antecede lançamento de wearable tipo Tamagotchi designado para integrar Muse ao cotidiano.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "url_original": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Box integra Nvidia Nemotron para sistema de recuperação de conteúdo com agentes de IA",
-      "resumo": "Novo sistema responde consultas 4x mais rápido, com 20% menos erros e 90% menos tokens utilizados comparado aos métodos anteriores.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "YC startup oferece US$ 1 mi para resolver 5 problemas em ciência de materiais com IA",
-      "resumo": "Discovered Materials, startup que usa IA para descobrir materiais para chips, oferece US$ 200 mil para cada solução de cinco problemas abertos em ciência de materiais.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Anel inteligente Aina permite interação com agentes de IA via tela, joystick e microfone",
-      "resumo": "Dispositivo vestível possui tela integrada e permite fazer chamadas, ditar notas no Mac e conversar com agentes de IA através de controle por voz e joystick.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Agentes de IA agora conseguem fazer suas ligações telefônicas",
-      "resumo": "Nova capacidade permite que agentes de IA realizem chamadas automaticamente, expandindo possibilidades de automação em atendimento e gestão de tarefas.",
+      "titulo": "Agentes de IA agora conseguem fazer chamadas telefônicas automaticamente",
+      "resumo": "Agentes de IA avançam na automação ao conseguirem fazer e receber chamadas telefônicas. Tecnologia abre caminho para assistentes virtuais executarem tarefas mais complexas sem intervenção humana.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/ai-agents-can-now-make-your-phone-calls",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Apple abre porta para Siri com recursos de IA",
-      "resumo": "Apple começa a integrar capacidades de IA ao assistente Siri, melhorando funcionalidades de reconhecimento e resposta contextual.",
+      "subtema": "Gemini",
+      "titulo": "Apple começa a abrir portas para Siri com inteligência de IA",
+      "resumo": "Apple inicia movimentos para integrar capacidades mais avançadas de IA ao Siri. Estratégia marca mudança na abordagem da empresa para assistentes inteligentes.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/apple-cracks-the-door-open-to-siri-ai",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "MIT demonstra IA melhorando IA sem necessidade de novo treinamento",
-      "resumo": "Pesquisa do MIT mostra que sistemas de IA podem ser otimizados sem retreinamento completo, reduzindo custos computacionais e tempo de desenvolvimento.",
+      "subtema": "Python",
+      "titulo": "MIT demonstra IA que melhora IA sem necessidade de treinamento adicional",
+      "resumo": "Pesquisadores do MIT mostram que IA pode melhorar outras IA sem exigir treinamento novo. Descoberta promove mudança de paradigma em otimização de modelos.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/mit-shows-ai-improving-ai-no-training-required",
       "idioma_original": "en"
@@ -76,118 +67,73 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Android permitirá backup automático de fotos e vídeos no Windows",
-      "resumo": "Novo recurso do Android usa Quick Share para enviar automaticamente fotos e vídeos para Windows, facilitando sincronização entre dispositivos.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/android-permitira-backup-automatico-de-fotos-e-videos-no-windows/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Intuit CEO discute como contabilidade está evoluindo com IA",
-      "resumo": "Entrevista com Sasan Goodarzi explora como empresa de software legada se adapta ao paradigma de IA e transforma suas soluções contábeis.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Google investe agressivamente em agentes de IA apesar de lucros em queda",
-      "resumo": "Resultados financeiros da Google revelam foco em tecnologia de agentes de IA enquanto enfrenta desempenho inferior ao esperado em receitas.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Segurança",
-      "titulo": "Fundo Garantidor de Créditos sofre invasão e vaza dados de investidores",
-      "resumo": "FGC foi alvo de ataque que expôs nomes, CPFs e dados de pagamento de garantias. Órgão notificou investidores sobre o vazamento de dados.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/fgc-sofre-invasao-e-notifica-investidores-sobre-dados-vazados/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Segurança",
-      "titulo": "TV boxes saíam de fábrica infectadas com vírus em esquema global",
-      "resumo": "Rede criminosa controlava mais de 1,3 milhão de aparelhos infectados desde a fabricação. Brasil foi segundo país mais afetado, atrás da Malásia.",
+      "titulo": "Pressão política contra data centers ameaça expansão de IA",
+      "resumo": "Eleições americanas revelam forte rejeição a construção de data centers, especialmente com controle democrata no Congresso. Meta e Google alertam que barreira regulatória pode prejudicar investimentos em infraestrutura de IA nos EUA.",
       "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/11/05/seguranca/tv-boxes-saiam-de-fabrica-com-virus-em-esquema-que-atingiu-o-brasil/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Infraestrutura",
-      "titulo": "Qualcomm fecha acordo com Starlink para implementar 5G terrestre nos EUA",
-      "resumo": "Empresa fornecerá componentes para tecnologia terrestre do Starlink Mobile, expandindo alcance de internet via satélite com suporte 5G.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/qualcomm-fecha-acordo-de-infraestrutura-5g-com-a-starlink/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Selic",
-      "titulo": "Copom mantém Selic em 13,75% ao ano; impactos no crédito empresarial",
-      "resumo": "Banco Central manteve taxa de juros na mesma patamar, mas isso não congela taxas bancárias. Empresas devem revisar planejamento financeiro.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80617/selic-em-13-75-o-que-muda-para-o-credito-das-empresas/",
+      "url_original": "https://olhardigital.com.br/2026/11/05/pro/eleicoes-nos-eua-podem-travar-data-centers-mas-isso-ajudaria-big-techs/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Base Exchange mira lançamento em 2027 como rival da B3",
-      "resumo": "Nova bolsa de valores planeja começar operações em 2027 e marcará retorno da negociação de ações no Rio de Janeiro após mais de 25 anos.",
+      "titulo": "Fleury (FLRY3) registra alta de 42,9% no lucro líquido no 3º trimestre",
+      "resumo": "Fleury alcançou lucro líquido de R$ 264 milhões no terceiro trimestre, com crescimento de 42,9%. Crescimento orgânico do modelo B2C foi de 9,3%.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/base-exchange-mira-lancamento-em-2027-em-desafio-a-b3-no-mercado-de-acoes/",
+      "url_original": "https://www.infomoney.com.br/mercados/resultados-fleury-flry3-terceiro-trimestre-2026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Iochpe-Maxion salta 10% na B3 após balanço com melhora operacional",
+      "resumo": "Iochpe-Maxion (MYPK3) disparou 10% após divulgar resultado do 3º trimestre com melhora operacional, apesar de prejuízo de R$ 16 milhões (reversão do lucro de R$ 35,1 mi do ano anterior).",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/iochpe-maxion-mypk3-dispara-na-b3-apos-resultado-forte-e-melhora-operacional-no-3t/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Smart Fit, GPA e C&A sobem forte; Méliuz e Meli caem após divulgação de resultados",
+      "resumo": "Ações de varejistas dividiram mercado: CEAB3 (C&A) subiu 7,93%, PCAR3 (GPA) avançou 5,5%, SMFT3 (Smart Fit) registrou alta de 4,88%. Em contrapartida, CASH3 (Méliuz) caiu 9,01%.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/smart-fit-gpa-e-ca-sobem-forte-meliuz-e-meli-caem-apos-3t-veja-analises",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Governo define regras do Imposto Seletivo; veja produtos atingidos",
-      "resumo": "Medida provisória detalha cobrança do 'imposto do pecado' que entra em vigor em 2 de fevereiro de 2027 sobre produtos prejudiciais à saúde ou meio ambiente.",
+      "titulo": "Governo publica regras do Imposto Seletivo ('imposto do pecado') em medida provisória",
+      "resumo": "Governo publicou MP definindo cobrança do Imposto Seletivo, criado pela reforma tributária. Tributo incidirá sobre produtos prejudiciais e começará a ser cobrado em 2 de fevereiro de 2027, com regras específicas para carros.",
       "fonte": "G1 Economia",
       "url_original": "https://g1.globo.com/carros/noticia/2026/11/05/imposto-do-pecado-governo-define-regras-para-taxar-carros-veja-o-que-pesa-no-calculo.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "Receita Federalidentifica R$ 1,8 bi em créditos farmacêuticos irregulares",
-      "resumo": "Operação Fármacos II encontrou pedidos de ressarcimento incompatíveis com legislação. Prazo de regularização vai até 20 de janeiro de 2027.",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária impacta custos de empresas de tecnologia e contratos públicos",
+      "resumo": "Reforma Tributária pode elevar custos de tecnologia importada enquanto favorece exportadores. Espírito Santo revisa critérios de contratos públicos para adequar-se aos novos impostos IBS e CBS.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80625/receita-aponta-r-1-8-bi-em-creditos-farmaceuticos-irregulares/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Receita lança novo portal para consulta de controle de cargas",
-      "resumo": "Subportal CCT oferece orientações sobre importação, manual atualizado para operações aéreas e novo guia para operações rodoviárias.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80619/receita-lanca-nova-versao-do-portal-para-consulta-do-controle-de-cargas/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "INSS paga 13º em novembro a novos beneficiários",
-      "resumo": "Depósitos serão realizados de 24 de novembro a 7 de dezembro conforme calendário por final de benefício.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80616/inss-paga-13o-em-novembro-a-novos-beneficiarios/",
+      "url_original": "https://www.contabeis.com.br/noticias/80623/reforma-tributaria-muda-custos-de-empresas-de-tecnologia/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "CNI questiona alíquota de CBS de 11,3% e pede revisão ao Senado",
-      "resumo": "Confederação critica cálculo do TCU alegando que alíquota pode elevar carga tributária e questiona período usado como referência.",
+      "titulo": "Empresas do Simples têm até 20 de dezembro para cancelar opção pelo regime regular",
+      "resumo": "Empresas do Simples podem cancelar adesão ao regime regular até 20 de dezembro de 2026. Revisão deve considerar impactos de IBS e CBS em contratos, créditos, preços e fluxo de caixa.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80614/cni-questiona-cbs-de-11-3-e-pede-revisao-ao-senado/",
+      "url_original": "https://www.contabeis.com.br/noticias/80632/ibs-e-cbs-o-que-revisar-antes-de-cancelar-a-opcao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Fazenda prorroga debate sobre corte de benefícios fiscais por mais 30 dias",
+      "resumo": "Grupo de trabalho da Fazenda terá 30 dias adicionais para regulamentar critérios de avaliação, monitoramento e transparência de benefícios fiscais previstos na Lei Complementar 224/2025.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80630/fazenda-prorroga-debate-sobre-corte-de-beneficios-fiscais/",
       "idioma_original": "pt"
     }
   ]
