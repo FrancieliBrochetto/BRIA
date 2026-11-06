@@ -1,0 +1,194 @@
+{
+  "data": "2026-11-06",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA e Automação",
+      "titulo": "Microsoft patenteia IA que altera falas ao vivo com tradução e sincronia labial",
+      "resumo": "Microsoft busca patentear sistema de IA capaz de traduzir discursos e substituir palavras com poucos segundos de atraso. A tecnologia mantém sincronia labial automática durante a alteração de falas em tempo real.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/microsoft-quer-patentear-ia-que-altera-falas-ao-vivo/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA e Automação",
+      "titulo": "Gastos com IA desaceleram enquanto uso continua crescendo",
+      "resumo": "Dados do Ramp mostram que investimentos em IA estagnaram apesar do aumento de uso. Cortes de preços e controles de custos mais inteligentes entre grandes investidores podem desafiar expectativas de hipercrescimento do setor.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA e Automação",
+      "titulo": "Amazon permite que usuários textem Alexa para compras",
+      "resumo": "Amazon libera funcionalidade de mensagem de texto para Alexa auxiliar em compras. Recurso será distribuído para milhões de usuários nas próximas semanas.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA e Automação",
+      "titulo": "Modelo de fala de 32MB gera fala e música sem treino completo",
+      "resumo": "Startup Underdog apresenta modelo compacto de 32MB capaz de gerar tanto fala quanto música. Compacidade abre possibilidades para aplicações em dispositivos com recursos limitados.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA e Automação",
+      "titulo": "Physicl levanta $10M para adaptar robôs ao mundo digital",
+      "resumo": "Startup Physicl arrecada $10 milhões para solucionar problema de transferência de simulações digitais para robôs físicos. Utiliza pipeline originalmente desenvolvido para venda de produtos online.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA e Automação",
+      "titulo": "Palo Alto Networks negocia compra de startup de segurança para agentes de IA",
+      "resumo": "Palo Alto Networks em discussões para adquirir Clutch, especialista em segurança de agentes de IA, por $500 milhões. Clutch estava avaliada em $85 milhões e é apoiada por Lightspeed e SignalFire.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Agentes de IA conseguem fazer chamadas telefônicas automaticamente",
+      "resumo": "Novos agentes de IA adquirem capacidade de fazer ligações telefônicas de forma autônoma. Avanço marca expansão de funcionalidades dos assistentes inteligentes para tarefas de voz.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/ai-agents-can-now-make-your-phone-calls/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Apple abre porta para integração de IA em Siri",
+      "resumo": "Apple começa a implementar capacidades de IA em seu assistente Siri. Movimento sinaliza evolução do assistente para funcionalidades mais avançadas com inteligência artificial.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/apple-cracks-the-door-open-to-siri-ai/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "MIT demonstra IA melhorando IA sem necessidade de treinamento adicional",
+      "resumo": "Pesquisadores do MIT mostram que sistemas de IA conseguem melhorar outros modelos de IA sem passar por treinamento formal. Descoberta sugere nova abordagem para otimização de modelos.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/mit-shows-ai-improving-ai-no-training-required/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA e Automação",
+      "titulo": "Trump promete apoiar estados que investirem em inteligência artificial",
+      "resumo": "Presidente promete suporte federal a estados que investem em IA e data centers. Medida amplia debate sobre infraestrutura de IA enquanto investidores avaliam riscos para projetos do setor.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/06/inteligencia-artificial/trump-promete-apoiar-estados-que-investirem-em-inteligencia-artificial/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança",
+      "titulo": "Microsoft Paint tem falha de segurança grave que permite ataques remotos",
+      "resumo": "Microsoft liberou correção para vulnerabilidade no Paint que permitia ataques remotos. Usuários precisam buscar manualmente a atualização de segurança.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/microsoft-paint-tem-falha-grave-que-permite-ataques-remotos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança",
+      "titulo": "EUA descontinuam uso de disquetes em centros de controle de tráfego aéreo",
+      "resumo": "FAA vai modernizar sistemas em mais de 400 centros de controle que ainda usam disquetes. Migração deve ser concluída até o final de 2028.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/eua-vao-finalmente-deixar-de-usar-disquetes-no-controle-de-trafego-aereo/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança",
+      "titulo": "Japão anuncia pacote emergencial de cibersegurança com IA",
+      "resumo": "Japão lança iniciativa de segurança cibernética que inclui uso de IA e criação de equipes de resposta a ataques. Medida segue onda recente de incidentes cibernéticos no país.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/06/japao-anuncia-pacote-emergencial-de-ciberseguranca-apos-onda-de-ataques.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ações de big techs desabam no Nasdaq com retração de 5,52%",
+      "resumo": "Nasdaq sofre maior queda diária desde abril de 2025, com recuo de 5,52% impulsionado por desvalorização de TSLA, NVDA, META e MSFT. Bolsa da Coreia do Sul interrompeu negociações por 20 minutos após tombo.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/tsla-nvda-meta-msft-acoes-de-big-techs-derretem-nas-bolsas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic e Câmbio",
+      "titulo": "XP reduz projeção de PIB 2027 para 0,3% e projeta Selic em 13,75%",
+      "resumo": "XP reduz expectativa de crescimento para 2027 citando condições financeiras adversas, alta endividamento e juros elevados. Projeção inclui dólar a R$ 5,50 e Selic mantida em 13,75%.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/economia/xp-projecao-pib-2027-selic-dolar/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "FIIs",
+      "titulo": "FII GARE11 vende nove imóveis por R$ 791 milhões para outro fundo",
+      "resumo": "Fundo GARE11 vende nove propriedades ao FII Riza Renda Imobiliária Master. Cinco imóveis da carteira são alugados ao Atacadão.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/fii-vende-nove-imoveis-cinco-deles-alugados-ao-atacadao-por-r-791-milhoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "NT 13/2026 orienta transição da EFD-Contribuições para CBS",
+      "resumo": "Nota Técnica detalha continuidade da EFD-Contribuições em 2027 para saldos credores, créditos presumidos e outras finalidades durante migração para CBS.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80665/efd-contribuicoes-nt-13-2026-orienta-transicao-para-a-cbs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "SEFAZ-SP fará manutenção na NF-e no domingo 8 de novembro",
+      "resumo": "SEFAZ-SP realizará manutenção programada no ambiente de produção da NF-e em 8 de novembro das 8h às 9h30. SVC-AN permanecerá disponível em caso de falhas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80661/nf-e-em-sp-tera-manutencao-programada-em-8-de-novembro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Imposto Seletivo sobre carros considera motorização, eficiência e segurança",
+      "resumo": "Ministério da Fazenda define critérios para cálculo do Imposto Seletivo sobre veículos em 2027. Motorização, eficiência energética e recursos de segurança influenciam a tributação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80659/imposto-seletivo-sobre-carros-veja-o-que-pesa-no-calculo/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "CFC abre consulta pública para atualizar normas de receitas e despesas públicas",
+      "resumo": "Conselho Federal de Contabilidade recebe sugestões para atualizar NBC TSP 39 e 40 até 12 de novembro. Profissionais e interessados podem contribuir ao processo de modernização das normas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80660/cfc-recebe-sugestoes-para-atualizar-normas-de-receitas-e-despesas-publicas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Projeto prevê crédito fiscal para indústria nacional de leite",
+      "resumo": "PL 228/2025 propõe compensação tributária quando redução de Imposto de Importação sobre lácteos estrangeiros ocorrer. Medida visa proteger produção leiteira brasileira.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80663/projeto-preve-credito-fiscal-para-industria-nacional-de-leite/",
+      "idioma_original": "pt"
+    }
+  ]
+}
