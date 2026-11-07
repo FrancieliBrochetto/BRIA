@@ -1,0 +1,167 @@
+{
+  "data": "2026-11-07",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Geral",
+      "titulo": "OpenAI levanta US$ 11 bilhões adicionais em rodada de financiamento",
+      "resumo": "OpenAI arrecada mais US$ 11 bilhões em rodada de investimento que deve ser concluída nas próximas semanas. A empresa atinge avaliação de US$ 1,25 trilhão. Rodada não foi finalizada ainda mas deve ser fechada em breve.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA - Geral",
+      "titulo": "Meta adia implementação de regras sobre coleta de conteúdo jornalístico para treinar IA",
+      "resumo": "Meta adiou a aplicação de novas regras sobre coleta de conteúdo jornalístico para treinamento de modelos de IA. O adiamento ocorre após decisão judicial desfavorável à empresa no Brasil. Decisão gera discussão sobre direitos de criadores de conteúdo.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/07/pro/meta-adia-regras-sobre-coleta-de-conteudo-jornalistico-para-treinar-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Agentes de IA agora conseguem fazer ligações telefônicas",
+      "resumo": "Agentes de IA desenvolvidos por startups já conseguem realizar e gerenciar ligações telefônicas de forma autônoma. Tecnologia abre novos casos de uso para automação de atendimento e tarefas administrativas.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/ai-agents-can-now-make-your-phone-calls",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "MIT demonstra IA melhorando IA sem necessidade de treinamento adicional",
+      "resumo": "Pesquisadores do MIT apresentam técnica onde modelos de IA melhoram outros modelos de IA sem exigir treinamento novo. Descoberta abre caminho para otimização automática de sistemas de inteligência artificial.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/mit-shows-ai-improving-ai-no-training-required",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Apple abre porta para Siri com inteligência artificial aprimorada",
+      "resumo": "Apple apresenta movimentos para integrar IA mais avançada ao assistente Siri. Empresa começa a abraçar paradigma de IA após período de cautela em relação à tecnologia.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/apple-cracks-the-door-open-to-siri-ai",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Infraestrutura",
+      "titulo": "AMD prioriza data centers; produção de PCs e jogos em segundo plano",
+      "resumo": "AMD redireciona foco para data centers, principal fonte de receita da empresa, aproveitando boom de demanda por infraestrutura de IA. Produtos para jogos e PCs sofrem redução de prioridade.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/amd-agora-prioriza-data-centers-mas-e-os-jogos-e-os-pcs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Infraestrutura",
+      "titulo": "Crusoe vende projeto de data center do Wyoming para Google",
+      "resumo": "Empresa Crusoe vende projeto problemático de data center localizado no Wyoming para Google. Transação reflete dificuldades e custos elevados no desenvolvimento de mega-data centers para IA.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança",
+      "titulo": "Ferramentas hackers Artex expostas publicamente na internet",
+      "resumo": "Pesquisadores de segurança identificaram centenas de servidores com a ferramenta de teste de penetração Artex AI expostos publicamente. Exposição permite acesso não autorizado a técnicas de hacking por qualquer pessoa.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança",
+      "titulo": "Microsoft Paint corrige falha crítica que permitia ataques remotos",
+      "resumo": "Microsoft liberou correção para falha grave no Paint que permitia ataques remotos. Usuários podem precisar buscar atualização manualmente se não tiverem atualizações automáticas ativadas.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/microsoft-paint-tem-falha-grave-que-permite-ataques-remotos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança",
+      "titulo": "Hackers alteram temperatura de freezers em bancos de sangue da França remotamente",
+      "resumo": "Criminosos invadiram sistemas e modificaram remotamente a temperatura de equipamentos que armazenam plasma e amostras de sangue. Ataque segue série de invasões em infraestruturas críticas na França.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/apos-supermercados-hackers-atacam-freezers-de-bancos-de-sangue-na-franca/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar sobe 10% após eleição; bancos veem possível exagero",
+      "resumo": "Dólar aprecia 10% no período pós-eleitoral, com bancos como Commerzbank projetando cotação em R$ 5,20. Wells Fargo estima preço justo em R$ 5,30 e Goldman Sachs mantém postura cautelosa diante de incertezas fiscais.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/dolar-pos-eleicao-lula-bancos-estrangeiros-projecoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Selic mantida em 13,75%; economistas apontam que queda sustentável exige ajuste fiscal",
+      "resumo": "Banco Central mantém taxa Selic em 13,75% sem redução. Especialistas alertam que futuras quedas de juros dependem de responsabilidade fiscal do governo e ajustes nas contas públicas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80641/selic-a-13-75-queda-sustentavel-exige-ajuste-fiscal/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Commodities",
+      "titulo": "Açúcar acumula alta de 28,8% em um ano; atinge maior patamar desde dezembro de 2024",
+      "resumo": "Preço internacional do açúcar subiu 28,8% em outubro comparado com mesmo mês do ano anterior, alcançando o maior nível desde dezembro de 2024. Quarta alta mensal consecutiva da commodity aponta pressões no mercado global.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/07/acucar-acumula-alta-de-quase-30percent-em-um-ano-enquanto-alimentos-ficam-mais-baratos-aponta-fao.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Imposto Seletivo ('imposto do pecado') começará a ser cobrado em fevereiro de 2027",
+      "resumo": "Governo publica medida provisória definindo regras do Imposto Seletivo, que entra em vigor em 2 de fevereiro de 2027. Tributo incidirá sobre produtos e atividades consideradas prejudiciais, com veículos a diesel sendo mais impactados.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/carros/noticia/2026/11/07/imposto-do-pecado-carro-diesel.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "NF-e: como verificar se rejeição de IBS/CBS já é válida em produção",
+      "resumo": "Contadores devem consultar código de rejeição, versão da nota técnica e cronograma oficial para validar se rejeições de IBS e CBS já valem em ambiente de produção. Processo importante para regularizar fluxos de nota fiscal.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80561/nf-e-e-ibs-cbs-como-conferir-se-uma-rejeicao-ja-vale/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "eSocial",
+      "titulo": "INSS 2026: contribuintes domésticos podem pagar 5% do salário mínimo",
+      "resumo": "Pessoas sem renda própria dedicadas aos afazeres domésticos podem contribuir R$ 81,05 (5% do salário mínimo) ao INSS para garantir benefícios. Opção é destinada a contribuintes que atendem critérios específicos do instituto.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80649/inss-2026-quem-pode-pagar-5-do-salario-minimo-e-garantir-beneficios/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "PGDAS-D: como declarar venda cancelada em mês diferente",
+      "resumo": "Contribuintes do Simples Nacional precisam entender quando ajustar o mês de uma venda cancelada no PGDAS-D. Devolução de mercadoria segue regra diferente e requer atenção especial no preenchimento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80560/pgdas-d-como-declarar-venda-cancelada-em-outro-mes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Black Friday: empresas devem revisar 5 pontos fiscais para evitar prejuízos",
+      "resumo": "Empresas que vão participar da Black Friday devem revisar controle de estoque, emissão de notas, formação de preços e fluxo de caixa. Atenção aos detalhes fiscais é essencial para evitar problemas legais durante as promoções.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80672/black-friday-5-cuidados-fiscais-para-evitar-prejuizos/",
+      "idioma_original": "pt"
+    }
+  ]
+}
