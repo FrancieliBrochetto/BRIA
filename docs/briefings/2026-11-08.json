@@ -1,0 +1,194 @@
+{
+  "data": "2026-11-08",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "AMD prioriza data centers para atender demanda de IA",
+      "resumo": "A AMD aumentou o foco em data centers como principal fonte de receita, redirecionando recursos da linha de jogos e PCs. A decisão reflete o crescimento acelerado de aplicações de inteligência artificial nos centros de dados.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/amd-agora-prioriza-data-centers-mas-e-os-jogos-e-os-pcs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI levanta US$ 11 bilhões com avaliação de US$ 1,25 trilhão",
+      "resumo": "OpenAI anunciou rodada de financiamento adicional de US$ 11 bilhões, elevando sua avaliação para US$ 1,25 trilhão. O fechamento da rodada é esperado para as próximas semanas.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic acelera P&D e lança novos modelos",
+      "resumo": "Anthropic aumentou o ritmo de pesquisa e desenvolvimento, lançando atualizações em seus modelos de IA. A empresa continua expandindo capacidades de inferência e funcionalidades em suas plataformas.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-11-06",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Agentes de IA podem fazer ligações telefônicas automaticamente",
+      "resumo": "Nova capacidade permite que agentes de inteligência artificial realizem chamadas telefônicas de forma autônoma. Tecnologia expande aplicações práticas de IA em atendimento e comunicação.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/ai-agents-can-now-make-your-phone-calls",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "MIT demonstra IA melhorando IA sem necessidade de treinamento adicional",
+      "resumo": "Pesquisadores do MIT desenvolveram sistema onde IA melhora outras IAs automaticamente. Inovação elimina a necessidade de retreinamento manual e pode acelerar evolução de modelos.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/mit-shows-ai-improving-ai-no-training-required",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Python",
+      "titulo": "Apple abre portas para desenvolvimento de Siri com IA",
+      "resumo": "Apple permite que desenvolvedores participem do desenvolvimento de IA para Siri. Mudança marca abertura da empresa para ecossistema de desenvolvedores em assistentes de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/apple-cracks-the-door-open-to-siri-ai",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Criminosos usam rostos falsos para desviar R$ 700 milhões",
+      "resumo": "Trio utilizou inteligência artificial para clonar rostos de executivos e enganar funcionários em transferências fraudulentas. Golpe resultou em desvio de mais de R$ 700 milhões.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/08/seguranca/como-criminosos-usaram-rostos-falsos-para-desviar-mais-de-r-700-milhoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Hackers atacam freezers de bancos de sangue alterando temperatura remotamente",
+      "resumo": "Invasores comprometeram sistemas de refrigeração em bancos de sangue franceses, alterando remotamente a temperatura de plasma e amostras. Ataque representa novo tipo de ameaça a infraestrutura crítica de saúde.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/apos-supermercados-hackers-atacam-freezers-de-bancos-de-sangue-na-franca/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Microsoft Paint tem falha grave que permite ataques remotos",
+      "resumo": "Microsoft identificou vulnerabilidade crítica no Paint que possibilita ataques remotos. Correção já foi liberada, mas usuários podem precisar instalá-la manualmente.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/microsoft-paint-tem-falha-grave-que-permite-ataques-remotos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Centenas de ferramentas Artex de hacking expostas publicamente na internet",
+      "resumo": "Pesquisadores de segurança descobriram servidores com ferramentas de teste de penetração Artex acessíveis publicamente. Exposição permite que qualquer pessoa use as ferramentas de ataque.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Tesla reduz produção de Cybertruck para fabricar mais robotáxis",
+      "resumo": "Tesla anunciou redução na produção da picape Cybertruck a partir de 2027 no Texas. Fábrica será dedicada ao Cybercab, veículo autônomo, após vendas do Cybertruck ficarem abaixo das expectativas.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/tesla-vai-sacrificar-cybertruck-para-fabricar-mais-robotaxis/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Crusoe vende projeto de data center do Wyoming para Google",
+      "resumo": "Google adquiriu projeto problemático de data center em Wyoming da Crusoe. Transação evidencia desafios na construção de mega data centers para IA.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Espionagem industrial: executiva recrutada para espiar CEO da Nvidia",
+      "resumo": "Memorando de inteligência americana revelou que o Ministério da Segurança de Estado chinês recrutou executiva de tecnologia para espionar CEO da Nvidia. Incidente evidencia pressões geopolíticas na indústria de chips.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Transação tributária: como escolher o edital para cada dívida",
+      "resumo": "Guia prático sobre como identificar o órgão responsável, verificar inscrição de débito e escolher o edital correto para negociação de dívidas tributárias. Informação essencial para recuperação de débitos em atraso.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80559/transacao-tributaria-como-escolher-o-edital-para-cada-divida/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Bahia recupera R$ 222 milhões em cobrança de Difal",
+      "resumo": "Secretaria de Fazenda da Bahia notificou 484 empresas sem inscrição estadual que venderam a consumidores finais sem recolher o diferencial de alíquota (Difal). Operação recuperou R$ 222 milhões em tributos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80651/bahia-recupera-r-222-milhoes-em-cobranca-do-difal-de-empresas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "13º salário: como calcular primeira parcela com adicionais",
+      "resumo": "Orientações sobre inclusão de horas extras, comissões e adicionais no cálculo do 13º salário. Guia prático sobre como considerar médias e calcular o adiantamento corretamente.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80673/13o-salario-como-calcular-a-primeira-parcela-com-adicionais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "PGDAS-D: como declarar venda cancelada em outro mês",
+      "resumo": "Orientação sobre ajuste de mês de venda no PGDAS-D e particularidades das devoluções de mercadoria no Simples Nacional. Informação importante para conformidade de microempresas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80560/pgdas-d-como-declarar-venda-cancelada-em-outro-mes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Economista de Cambridge adverte sobre atalhos fiscais do governo Lula",
+      "resumo": "Professor Tiago Cavalcanti defende ajuste fiscal gradual e criável em vez de soluções de curto prazo. Economista alerta que Lula precisa anunciar rapidamente medidas para equilibrar contas públicas e reduzir juros.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/08/meu-medo-e-o-governo-lula-buscar-atalhos-e-brigar-com-o-mercado-por-que-professor-em-cambridge-defende-ajuste-fiscal-suave.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Brasil pode perder maior comprador de soja para China e EUA",
+      "resumo": "Relação de interdependência Brasil-China está ameaçada por três fatores conforme especialistas. Brasil é maior fornecedor de soja para China, mas disputa com EUA e planos asiáticos podem comprometer parceria.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/08/brasil-pode-perder-seu-maior-comprador-de-soja-entenda-os-planos-da-china-e-a-disputa-com-os-eua.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "CEO da Amazon Brasil diz que não teme ambiente instável no País",
+      "resumo": "Juliana Sztrajtman, CEO da Amazon Brasil, participou da Conferência MBA Brasil 2026 e expressou confiança mesmo com instabilidade econômica. Executiva abordou liderança em tempos de crise.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/ceo-da-amazon-brasil-diz-que-nao-teme-ambiente-instavel-no-pais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Combustíveis poderiam custar o dobro sem ação do governo",
+      "resumo": "Parte do setor considera que sem intervenção governamental, combustíveis custam o dobro. Diesel está em R$ 3,57 na Petrobras enquanto mercado internacional cotiza em R$ 7,49 por litro.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/economia/combustiveis-poderiam-custar-o-dobro-sem-acao-do-governo-avalia-parte-do-setor/",
+      "idioma_original": "pt"
+    }
+  ]
+}
