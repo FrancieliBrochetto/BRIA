@@ -3,90 +3,81 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Google apresenta versões mais potentes de seus chips de IA",
-      "resumo": "Google lançou os chips TPU 8tx e 8i Max, completando a família de quatro aceleradores de 8ª geração. As novas versões oferecem maior potência para processamento de IA.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/google-apresenta-versoes-mais-potentes-de-seus-chips-de-ia/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Anthropic lança modelos Fable e Mythos com melhorias em programação e raciocínio",
-      "resumo": "Anthropic apresentou novos modelos que mostram avanços em codificação, raciocínio e visão, com comunicação mais clara com usuários. O lançamento acontece uma semana antes de possível estreia na bolsa.",
+      "titulo": "Anthropic lança modelos Fable e Mythos mais potentes e baratos",
+      "resumo": "A Anthropic anunciou nova geração de modelos de IA com melhorias em codificação, raciocínio e visão. O lançamento acontece uma semana antes de possível estreia da empresa na bolsa. Os novos modelos oferecem melhor custo-benefício que versões anteriores.",
       "fonte": "G1 Economia",
       "url_original": "https://g1.globo.com/tecnologia/noticia/2026/11/09/anthropic-lanca-ia-bolsa.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA",
-      "titulo": "Meta lança Muse Ember, modelo leve para execução de agentes de IA",
-      "resumo": "Meta apresentou o Muse Ember com custo de 10 centavos por milhão de tokens de entrada, significativamente mais barato que competidores como Haiku e Luna.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA",
-      "titulo": "Anthropic investe US$ 3,4 bilhões em turbinas de gás natural para energia de IA",
-      "resumo": "Anthropic comprou bilhões em dólares em turbinas de gás natural em acordo que pode resultar em perdas futuras. A empresa segue tendência da indústria de IA em buscar energia abundante.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA",
-      "titulo": "Apple abre porta para IA em Siri com novos desenvolvimentos",
-      "resumo": "Apple avança em integração de IA no assistente Siri. Empresa sinaliza investimento em tecnologia de inteligência artificial para melhorar suas plataformas.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://therundownai.beehiiv.com/p/apple-cracks-the-door-open-to-siri-ai",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA",
-      "titulo": "Agentes de IA podem fazer ligações telefônicas em seu lugar",
-      "resumo": "Novos agentes de IA ganham capacidade de realizar chamadas telefônicas automaticamente. Tecnologia avança em direção a automação de tarefas comunicacionais.",
+      "subtema": "Automação",
+      "titulo": "Agentes de IA podem agora fazer ligações telefônicas por você",
+      "resumo": "Ferramentas de IA agora conseguem realizar chamadas telefônicas de forma autônoma. A tecnologia expande as capacidades de automação para tarefas que envolvem comunicação verbal. Representa novo patamar de autonomia dos agentes inteligentes.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/ai-agents-can-now-make-your-phone-calls",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Placa de vídeo AMD Radeon com bug crítico sobrecarrega SSD",
-      "resumo": "Falha na ferramenta AMD External Events Utility causa gravação contínua de dados no SSD. Usuários com placas Radeon devem estar atentos ao problema de desempenho.",
+      "subtema": "ChatGPT",
+      "titulo": "Apple começa a cobrar por uso extra de IA em apps profissionais",
+      "resumo": "Apple lançou pacote adicional de aproximadamente R$ 300 para continuar usando recursos de IA após limite mensal. Marca o início de monetização de funcionalidades de inteligência artificial em aplicativos. Modelo segue tendência de cobrança por uso em serviços de IA.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/tem-uma-placa-de-video-amd-radeon-cuidado-o-bug-que-sobrecarrega-o-ssd/",
+      "url_original": "https://tecnoblog.net/noticias/apple-comeca-a-cobrar-por-uso-extra-de-ia-em-apps-profissionais/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA",
-      "titulo": "França acusa Irã de ataque hacker que incendiou geladeiras em supermercados",
-      "resumo": "Ministério das Relações Exteriores francês responsabilizou Guarda Revolucionária iraniana por ataque cibernético em infraestrutura francesa. Governo anunciou medidas diplomáticas e sanções contra Teerã.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/11/09/seguranca/franca-acusa-ira-por-ataque-hacker-que-incendiou-geladeiras-de-supermercados/",
+      "subtema": "Automação",
+      "titulo": "MIT demonstra IA melhorando IA sem necessidade de treinamento",
+      "resumo": "Pesquisa do MIT mostra que modelos de IA conseguem melhorar outros modelos sem precisar de retreinamento. Avanço sugere potencial de otimização automática entre sistemas inteligentes. Técnica pode acelerar desenvolvimento futuro de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/mit-shows-ai-improving-ai-no-training-required",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Itaúsa tem alta de 25% no lucro recorrente no 3º trimestre",
+      "resumo": "A Itaúsa atingiu lucro recorrente de R$ 5,1 bilhões no terceiro trimestre, representando alta de 25%. Resultado do setor não financeiro mais que dobrou. Controladora do Itaú Unibanco registra desempenho robusto.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/resultados-itausa-itsa4-terceiro-trimestre-2026/",
       "idioma_original": "pt"
     },
     {
-      "tema": "IA & Tech",
-      "subtema": "IA",
-      "titulo": "Satélite perde contato e encerra missão de manutenção orbital da NASA",
-      "resumo": "Starfish Space perdeu contato com sua espaçonave de manutenção orbital, encerrando prematuramente demonstração tecnológica desenvolvida com NASA. Missão visava testar operações de serviço orbital.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/11/09/ciencia-e-espaco/satelite-perde-contato-com-a-terra-e-encerra-missao-da-nasa-antes-da-hora/",
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Caixa Seguridade lucra R$ 1,2 bi no 3T e anuncia R$ 1,08 bi em dividendo",
+      "resumo": "Caixa Seguridade registrou lucro de R$ 1,2 bilhão no terceiro trimestre, alta de 3,7%. Receitas operacionais cresceram 1,2% versus mesmo período de 2025. Companhia distribui R$ 1,08 bilhão em dividendos aos acionistas.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/caixa-seguridade-cxse3-resultados-terceiro-trimestre-2026-anuncio-dividendos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "PIX bate recorde com 319,7 milhões de transações em um dia",
+      "resumo": "O PIX atingiu novo recorde na última sexta-feira com 319,7 milhões de transações em 24 horas, movimentando R$ 180,5 bilhões. Superou anterior recorde de setembro deste ano. Demonstra crescimento contínuo do sistema de pagamentos instantâneos.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/09/pix-bate-novo-recorde-e-registra-3197-milhoes-de-transacoes-em-um-dia.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Reforma Tributária amplia demanda por consultoria, mas escritórios não calculam custos",
-      "resumo": "Pesquisa aponta que 73% dos profissionais esperam aumento na procura por serviços contábeis especializados, mas apenas 8% dos escritórios calculam os custos da transição. Setor enfrenta desafio de preparação.",
+      "titulo": "Reforma Tributária: pontos de atenção para médicos e clínicas",
+      "resumo": "Médicos e clínicas precisam se preparar para impactos da Reforma Tributária nos custos, preços, sistemas e fluxo de caixa. Mudanças na estrutura tributária exigem planejamento específico do setor de saúde. Atenção necessária para adequação às novas regras.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80683/reforma-tributaria-o-que-medicos-e-clinicas-precisam-saber/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária amplia demanda por consultoria especializada",
+      "resumo": "Pesquisa aponta que 73% dos profissionais esperam aumento na procura por serviços contábeis especializados. Apenas 8% dos escritórios já calculam os custos da transição tributária. Oportunidade de mercado para consultoria contábil durante período de transição.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/80699/reforma-tributaria-amplia-demanda-por-consultoria-mas-escritorios-nao-calculam-custos/",
       "idioma_original": "pt"
@@ -94,10 +85,19 @@
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Reforma Tributária: documentos necessários para auditar IBS e CBS",
-      "resumo": "Empresas devem reunir notas fiscais, contratos, cadastros e comprovantes para demonstrar correção das informações de IBS e CBS durante transição. Documentação essencial para conformidade.",
+      "titulo": "Documentação necessária para auditar IBS e CBS na Reforma Tributária",
+      "resumo": "Empresas devem reunir notas fiscais, contratos, cadastros e comprovantes para auditoria de IBS e CBS. Documentação crítica durante transição tributária para demonstrar conformidade. Preparação preventiva evita problemas futuros com fiscalização.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/80716/reforma-tributaria-documentos-para-auditar-ibs-e-cbs/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Prestação de contas em shopping centers exige organização de documentos",
+      "resumo": "Shopping centers precisam comprovação organizada de encargos e documentos ante prazos prescricionais divergentes. Gestão adequada de documentação essencial para conformidade. Atenção especial a diferentes prazos de guarda de registros.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80719/prestacao-de-contas-em-shopping-exige-documentos-organizados/",
       "idioma_original": "pt"
     }
   ]
