@@ -1,0 +1,104 @@
+{
+  "data": "2026-11-09",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google apresenta versões mais potentes de seus chips de IA",
+      "resumo": "Google lançou os chips TPU 8tx e 8i Max, completando a família de quatro aceleradores de 8ª geração. As novas versões oferecem maior potência para processamento de IA.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/google-apresenta-versoes-mais-potentes-de-seus-chips-de-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic lança modelos Fable e Mythos com melhorias em programação e raciocínio",
+      "resumo": "Anthropic apresentou novos modelos que mostram avanços em codificação, raciocínio e visão, com comunicação mais clara com usuários. O lançamento acontece uma semana antes de possível estreia na bolsa.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/11/09/anthropic-lanca-ia-bolsa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA",
+      "titulo": "Meta lança Muse Ember, modelo leve para execução de agentes de IA",
+      "resumo": "Meta apresentou o Muse Ember com custo de 10 centavos por milhão de tokens de entrada, significativamente mais barato que competidores como Haiku e Luna.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA",
+      "titulo": "Anthropic investe US$ 3,4 bilhões em turbinas de gás natural para energia de IA",
+      "resumo": "Anthropic comprou bilhões em dólares em turbinas de gás natural em acordo que pode resultar em perdas futuras. A empresa segue tendência da indústria de IA em buscar energia abundante.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA",
+      "titulo": "Apple abre porta para IA em Siri com novos desenvolvimentos",
+      "resumo": "Apple avança em integração de IA no assistente Siri. Empresa sinaliza investimento em tecnologia de inteligência artificial para melhorar suas plataformas.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/apple-cracks-the-door-open-to-siri-ai",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA",
+      "titulo": "Agentes de IA podem fazer ligações telefônicas em seu lugar",
+      "resumo": "Novos agentes de IA ganham capacidade de realizar chamadas telefônicas automaticamente. Tecnologia avança em direção a automação de tarefas comunicacionais.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/ai-agents-can-now-make-your-phone-calls",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Placa de vídeo AMD Radeon com bug crítico sobrecarrega SSD",
+      "resumo": "Falha na ferramenta AMD External Events Utility causa gravação contínua de dados no SSD. Usuários com placas Radeon devem estar atentos ao problema de desempenho.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/tem-uma-placa-de-video-amd-radeon-cuidado-o-bug-que-sobrecarrega-o-ssd/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA",
+      "titulo": "França acusa Irã de ataque hacker que incendiou geladeiras em supermercados",
+      "resumo": "Ministério das Relações Exteriores francês responsabilizou Guarda Revolucionária iraniana por ataque cibernético em infraestrutura francesa. Governo anunciou medidas diplomáticas e sanções contra Teerã.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/09/seguranca/franca-acusa-ira-por-ataque-hacker-que-incendiou-geladeiras-de-supermercados/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA",
+      "titulo": "Satélite perde contato e encerra missão de manutenção orbital da NASA",
+      "resumo": "Starfish Space perdeu contato com sua espaçonave de manutenção orbital, encerrando prematuramente demonstração tecnológica desenvolvida com NASA. Missão visava testar operações de serviço orbital.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/09/ciencia-e-espaco/satelite-perde-contato-com-a-terra-e-encerra-missao-da-nasa-antes-da-hora/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária amplia demanda por consultoria, mas escritórios não calculam custos",
+      "resumo": "Pesquisa aponta que 73% dos profissionais esperam aumento na procura por serviços contábeis especializados, mas apenas 8% dos escritórios calculam os custos da transição. Setor enfrenta desafio de preparação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80699/reforma-tributaria-amplia-demanda-por-consultoria-mas-escritorios-nao-calculam-custos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma Tributária: documentos necessários para auditar IBS e CBS",
+      "resumo": "Empresas devem reunir notas fiscais, contratos, cadastros e comprovantes para demonstrar correção das informações de IBS e CBS durante transição. Documentação essencial para conformidade.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80716/reforma-tributaria-documentos-para-auditar-ibs-e-cbs/",
+      "idioma_original": "pt"
+    }
+  ]
+}
