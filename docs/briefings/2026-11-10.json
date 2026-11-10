@@ -4,100 +4,154 @@
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Anthropic lança Claude Meetings para transformar discussões em planos",
-      "resumo": "Claude Meetings permite que o assistente drafts planos durante reuniões, mapeia cronogramas em quadro branco e integra apps de trabalho para recuperar informações. Funcionalidade acessa o chat da reunião para responder perguntas em tempo real.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "titulo": "Anthropic lança Claude Fable 5.2 e mantém ritmo de desenvolvimento",
+      "resumo": "Anthropic apresentou o novo modelo Claude Fable 5.2, reafirmando estratégia de 'pacing, not pausing' no desenvolvimento de IA. A empresa avança com melhorias contínuas apesar de pressões por desaceleração.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-says-pacing-not-pausing-with-fable-5-2",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Google expande portfólio de chips com duas novas TPUs especializadas",
-      "resumo": "Google lança duas novas tensor processing units (TPUs) para ampliar casos de uso de IA. Novos chips focam em treinamento confidencial de modelos e maior capacidade de memória.",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI adquire Odessia, startup de viagens fundada por criador do Sonder",
+      "resumo": "OpenAI adquiriu a Odessia, startup de viagens criada por Francis Davidson, fundador do Sonder. A empresa ainda não revelou seus planos específicos para o setor.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "url_original": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI e Anthropic enfrentam novo marco de segurança em Nova York",
+      "resumo": "Lei de segurança de IA em Nova York entra em vigor, exigindo que empresas como OpenAI e Anthropic se registrem, divulguem práticas de segurança e reportem incidentes críticos sob risco de multas.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Sete cofundadores da Anthropic arrecadam US$ 250 milhões cada no IPO",
+      "resumo": "Todos os sete cofundadores da Anthropic planejam vender a mesma quantidade de ações no IPO, gerando aproximadamente US$ 250 milhões por fundador no ponto médio da faixa de preço, mantendo controle da empresa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic IPO avaliada em até US$ 1,4 trilhão",
+      "resumo": "Oferta pública inicial da Anthropic pode avaliar a empresa em até US$ 1,4 trilhão (R$ 7,8 trilhões), abaixo das expectativas de alguns investidores em contexto de perda de confiança.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/11/10/ipo-anthropic-valor-estreia-na-bolsa.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Agentes de IA podem agora fazer ligações telefônicas automaticamente",
+      "resumo": "Novas capacidades de agentes de IA permitem automatizar chamadas telefônicas, expandindo aplicações de automação para atendimento e comunicação.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/ai-agents-can-now-make-your-phone-calls",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Assistente de IA Meta Muse chega a Apple Watch e Android Wear OS",
-      "resumo": "Meta expande seu assistente de IA para smartwatches permitindo interações por chamadas de voz, mensagens de texto ou ditação. Funcionalidade disponível em Apple Watch e dispositivos com Wear OS.",
+      "titulo": "PSI usa modelo Anthropic não lançado para resolver problema de computação quântica",
+      "resumo": "Startup PSI demonstra aplicação de IA em descoberta científica, usando modelo Anthropic não divulgado para resolver questão fundamental que cientistas perseguem há duas décadas.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "url_original": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Amazon lança Alexa+ em versão web para usuários no Brasil",
+      "resumo": "Amazon disponibilizou versão web do Alexa+ acessível por navegador, sem necessidade de dispositivos Echo ou aplicativos, expandindo acesso ao assistente no Brasil.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/amazon-anuncia-versao-web-da-alexa-para-usuarios-no-brasil/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Adobe integra agentes de IA e ferramentas criativas em Photoshop e Premiere",
-      "resumo": "Adobe adiciona agentes de IA aos seus produtos criativos e lança novo prototype builder tool em Firefly. Movimento posiciona Adobe como concorrente direto de Figma.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "titulo": "Apple abre caminho para IA em Siri com novo desenvolvimento",
+      "resumo": "Apple avança em integração de IA ao assistente Siri, sinalizando mudança estratégica em suas capacidades de automação e reconhecimento.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/apple-cracks-the-door-open-to-siri-ai",
       "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Galípolo alerta que falta de confiança pode manter juros altos por anos",
+      "resumo": "Presidente do Banco Central avisa que perda de confiança na economia brasileira pode desvalorizar o real e justificar manutenção de juros elevados por período prolongado. Copom aponta piora nas expectativas de inflação.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/10/galipolo-juros-confianca-mercado-economia-cambio.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Petróleo fecha em queda com moderação dos EUA sobre Irã e valorização do dólar",
+      "resumo": "Preço do petróleo caiu com indicações de moderação americana em relação ao Irã. Trump sinalizou que novos ataques não seriam necessários após pressão relacionada às eleições de meio de mandato.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-10112026/",
+      "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "TIM (TIMS3) sobe após resultados do trimestre alinhados com expectativas",
-      "resumo": "Ações da TIM avançam após divulgação de resultados trimestrais sem surpresas. Principais indicadores de desempenho ficaram em linha com as projeções do mercado.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/tim-tims3-acoes-sobem-apos-resultados-do-trimestre-sem-surpresas/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Commodities",
-      "titulo": "Petróleo Brent cai abaixo de US$ 90 pela primeira vez desde agosto",
-      "resumo": "Preço do barril Brent caiu abaixo de US$ 90 nesta terça-feira, primeira queda para esse patamar desde agosto. Redução ocorre em meio a expectativas de diminuição de tensões no Oriente Médio.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/11/10/petroleo-brent-cai-abaixo-de-us-90-pela-primeira-vez-desde-agosto.ghtml",
+      "titulo": "Nvidia e CEO processados por omissão de caso com executiva chinesa",
+      "resumo": "Acionistas processam Nvidia e CEO Jensen Huang por falta de divulgação de riscos relacionados a seu envolvimento com Alice Huang, ex-executiva da Megaspeed, gerando questionamentos sobre governança.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/nvidia-e-ceo-sao-processados-por-omitir-riscos-em-caso-com-executiva-chinesa/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Reforma tributária no aluguel: como funcionam IBS, CBS e redutor residencial",
-      "resumo": "Entenda as regras de incidência de IBS e CBS sobre aluguéis conforme a reforma tributária. Inclui funcionamento do redutor residencial e quais contratos podem adotar regime de 3,65%.",
+      "subtema": "Imposto de Renda",
+      "titulo": "IPVA 2027 em São Paulo: calendário e condições de pagamento",
+      "resumo": "Governo de SP divulga calendário do IPVA 2027 com opção de desconto de 3% para pagamento em janeiro ou parcelamento em até 5 vezes conforme decreto oficial.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80736/reforma-tributaria-no-aluguel-regras-para-pessoa-fisica-e-juridica/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Justiça suspende novas regras de vale-alimentação e refeição",
-      "resumo": "Liminar suspende limites de taxas, prazo de repasse e outras exigências do PAT (Programa de Alimentação do Trabalhador) para empresas associadas à ABBT. Decisão impacta regras recentes do programa.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80737/justica-suspende-novas-regras-do-vale-alimentacao-e-refeicao/",
+      "url_original": "https://www.contabeis.com.br/noticias/80755/ipva-2027-sp-confira-o-calendario-de-pagamento-e-parcelas/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "eSocial",
-      "titulo": "PGDAS-D de outubro de 2026: prazo de vencimento é 23 de novembro",
-      "resumo": "PGDAS-D e DAS de outubro vencem em 23 de novembro. Contribuintes devem revisar receitas, regime de caixa, ICMS-ST e faturamento acumulado antes do envio.",
+      "titulo": "Empregador doméstico: como recolher FGTS do 13º pela DAE",
+      "resumo": "Orientação técnica: adiantamento do 13º deve ser lançado no eSocial na competência do pagamento; FGTS correspondente é recolhido via DAE do mesmo mês.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80734/pgdas-d-de-outubro-de-2026-prazo-e-o-que-revisar/",
+      "url_original": "https://www.contabeis.com.br/noticias/80749/dae-de-outubro-veja-como-recolher-o-fgts-do-13o/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Petrobras solicita período de adaptação sem multas na reforma tributária",
+      "resumo": "Presidente da Petrobras apresentou à Fazenda proposta de transição sem penalidades durante implementação das novas regras tributárias e solicitou diálogo para esclarecer dúvidas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80751/petrobras-quer-adaptacao-a-reforma-tributaria-sem-multas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Como solicitar restituição de DAS em duplicidade",
+      "resumo": "Receita Federal orienta que restituição da parcela federal seja solicitada pelo e-CAC; ICMS e ISS devem ser requisitados aos estados e municípios respectivamente.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80750/das-em-duplicidade-saiba-como-pedir-a-restituicao/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "SPED",
-      "titulo": "e-Financeira: como testar XML de contas conjuntas antes da implantação",
-      "resumo": "Novo leiaute da e-Financeira entra em produção em 16 de novembro de 2026. Instituições financeiras devem testar campo de número de titulares em contas conjuntas antes da data de implementação.",
+      "titulo": "Simples Nacional no RS: conferir apuração assistida e entregar DeSTDA",
+      "resumo": "Empresas do Simples Nacional no Rio Grande do Sul devem verificar cálculos da apuração assistida e observar regras para substituição da DeSTDA.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80733/e-financeira-como-testar-o-xml-de-contas-conjuntas/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Artesãos de baixa renda podem ter acesso ao INSS em projeto do Senado",
-      "resumo": "Projeto em tramitação no Senado propõe incluir artesãos de baixa renda como segurados especiais da Previdência Social. Proposta estabelece critérios específicos de renda e atividade para enquadramento.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80732/artesaos-de-baixa-renda-podem-ter-acesso-ao-inss/",
+      "url_original": "https://www.contabeis.com.br/noticias/80754/simples-nacional-no-rs-como-conferir-a-apuracao-assistida-e-entregar-a-destda/",
       "idioma_original": "pt"
     }
   ]
