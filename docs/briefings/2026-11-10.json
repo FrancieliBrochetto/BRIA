@@ -1,0 +1,104 @@
+{
+  "data": "2026-11-10",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic lança Claude Meetings para transformar discussões em planos",
+      "resumo": "Claude Meetings permite que o assistente drafts planos durante reuniões, mapeia cronogramas em quadro branco e integra apps de trabalho para recuperar informações. Funcionalidade acessa o chat da reunião para responder perguntas em tempo real.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google expande portfólio de chips com duas novas TPUs especializadas",
+      "resumo": "Google lança duas novas tensor processing units (TPUs) para ampliar casos de uso de IA. Novos chips focam em treinamento confidencial de modelos e maior capacidade de memória.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Assistente de IA Meta Muse chega a Apple Watch e Android Wear OS",
+      "resumo": "Meta expande seu assistente de IA para smartwatches permitindo interações por chamadas de voz, mensagens de texto ou ditação. Funcionalidade disponível em Apple Watch e dispositivos com Wear OS.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Adobe integra agentes de IA e ferramentas criativas em Photoshop e Premiere",
+      "resumo": "Adobe adiciona agentes de IA aos seus produtos criativos e lança novo prototype builder tool em Firefly. Movimento posiciona Adobe como concorrente direto de Figma.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "TIM (TIMS3) sobe após resultados do trimestre alinhados com expectativas",
+      "resumo": "Ações da TIM avançam após divulgação de resultados trimestrais sem surpresas. Principais indicadores de desempenho ficaram em linha com as projeções do mercado.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/tim-tims3-acoes-sobem-apos-resultados-do-trimestre-sem-surpresas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Commodities",
+      "titulo": "Petróleo Brent cai abaixo de US$ 90 pela primeira vez desde agosto",
+      "resumo": "Preço do barril Brent caiu abaixo de US$ 90 nesta terça-feira, primeira queda para esse patamar desde agosto. Redução ocorre em meio a expectativas de diminuição de tensões no Oriente Médio.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/10/petroleo-brent-cai-abaixo-de-us-90-pela-primeira-vez-desde-agosto.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma tributária no aluguel: como funcionam IBS, CBS e redutor residencial",
+      "resumo": "Entenda as regras de incidência de IBS e CBS sobre aluguéis conforme a reforma tributária. Inclui funcionamento do redutor residencial e quais contratos podem adotar regime de 3,65%.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80736/reforma-tributaria-no-aluguel-regras-para-pessoa-fisica-e-juridica/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Justiça suspende novas regras de vale-alimentação e refeição",
+      "resumo": "Liminar suspende limites de taxas, prazo de repasse e outras exigências do PAT (Programa de Alimentação do Trabalhador) para empresas associadas à ABBT. Decisão impacta regras recentes do programa.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80737/justica-suspende-novas-regras-do-vale-alimentacao-e-refeicao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "eSocial",
+      "titulo": "PGDAS-D de outubro de 2026: prazo de vencimento é 23 de novembro",
+      "resumo": "PGDAS-D e DAS de outubro vencem em 23 de novembro. Contribuintes devem revisar receitas, regime de caixa, ICMS-ST e faturamento acumulado antes do envio.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80734/pgdas-d-de-outubro-de-2026-prazo-e-o-que-revisar/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "e-Financeira: como testar XML de contas conjuntas antes da implantação",
+      "resumo": "Novo leiaute da e-Financeira entra em produção em 16 de novembro de 2026. Instituições financeiras devem testar campo de número de titulares em contas conjuntas antes da data de implementação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80733/e-financeira-como-testar-o-xml-de-contas-conjuntas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Artesãos de baixa renda podem ter acesso ao INSS em projeto do Senado",
+      "resumo": "Projeto em tramitação no Senado propõe incluir artesãos de baixa renda como segurados especiais da Previdência Social. Proposta estabelece critérios específicos de renda e atividade para enquadramento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80732/artesaos-de-baixa-renda-podem-ter-acesso-ao-inss/",
+      "idioma_original": "pt"
+    }
+  ]
+}
