@@ -1,0 +1,122 @@
+{
+  "data": "2026-11-11",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI ultrapassa US$ 10 bi em receita trimestral",
+      "resumo": "Receita da OpenAI atingiu US$ 10 bilhões no trimestre, representando crescimento de quase 50% comparado aos US$ 6,7 bilhões do segundo trimestre. Marca o primeiro trimestre com receita acima de US$ 10 bi para a empresa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic lança Claude Fable 5.2 com ritmo de inovação acelerado",
+      "resumo": "Anthropic anunciou lançamento do Claude Fable 5.2, reafirmando sua estratégia de \"pacing, not pausing\" no desenvolvimento de IA. Empresa continua acelerando pesquisa e desenvolvimento sem pausas na inovação.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-says-pacing-not-pausing-with-fable-5-2",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Databricks lança agente IA Genie que fornece feedback crítico ao CEO",
+      "resumo": "Databricks implementou seu agente Genie revisado para ajudar CEO Ali Ghodsi a obter informações descarniçadas sobre problemas na empresa. Agente funciona como ferramenta de inteligência organizacional em empresa com 12 mil funcionários.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Agentes IA agora conseguem fazer ligações telefônicas automaticamente",
+      "resumo": "Desenvolvedoras de IA avançaram na capacidade de agentes autônomos executarem tarefas como realizar chamadas telefônicas. Inovação abre novas possibilidades de automação em atendimento e serviços.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/ai-agents-can-now-make-your-phone-calls",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI convida marcas a abrir lojas no ChatGPT",
+      "resumo": "OpenAI iniciou programa permitindo que brands estabeleçam presença comercial diretamente no ChatGPT. Modelo abre oportunidades de integração e vendas dentro da plataforma de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-invites-brands-to-set-up-shop-in-chatgpt",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Plurai utiliza abordagem de modelos end-to-end para melhorar agentes IA",
+      "resumo": "Startup Plurai está aplicando técnicas de treinamento similares aos carros autônomos para aprimorar performance de agentes IA em ambientes imprevisíveis. Estratégia baseia-se em sistemas probabilísticos e aprendizado contínuo.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Governo descarta adiamento da reforma tributária",
+      "resumo": "Governo confirmou que não vai adiar entrada em vigor da reforma tributária e negocia período de adaptação de 6 meses com isenção de multas. Intenção é trabalhar junto com setor privado sem abandonar o modelo de split payment.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/11/governo-descarta-adiamento-da-reforma-tributaria.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Simples Nacional recebe prorrogação até março para adaptar notas fiscais",
+      "resumo": "Microempresas e pequenas empresas do Simples Nacional têm até março de 2027 para adequar NF-e e NFC-e às novas regras da reforma tributária. Janeiro e fevereiro funcionarão em regime de transição, exceto para serviços.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/11/reforma-tributaria-governo-adia-para-marco-emissao-de-notas-fiscais-do-simples-nacional-exceto-de-prestacao-de-servico.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Alíquota do novo imposto cairia para 8,5% sem benefícios do Congresso",
+      "resumo": "Receita Federal estima que alíquota do futuro imposto sobre consumo caíria para 8,5% em 2027 sem as exceções aprovadas pelo Congresso. Benefícios concedidos aumentam carga tributária nos demais setores da economia.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/11/reforma-tributaria-sem-beneficios-aprovados-pelo-congresso-imposto-do-governo-cairia-de-113percent-para-85percent-estima-receita-federal.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "STJ suspende julgamento sobre IRRF de investidor estrangeiro",
+      "resumo": "Superior Tribunal de Justiça adiou análise sobre cálculo de imposto em ganho de capital (em dólares ou reais) para investidor estrangeiro. Diferença fiscal em discussão envolve montante de R$ 48,6 milhões.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80781/stj-suspende-julgamento-sobre-irrf-de-investidor-estrangeiro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "CARF barra crédito de imposto pago no exterior em estimativas mensais",
+      "resumo": "Conselho Administrativo de Recursos Fiscais mantém entendimento de que créditos de imposto pago no exterior só podem ser deduzidos na apuração anual de IRPJ e CSLL, não em estimativas mensais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80780/carf-barra-uso-de-ir-pago-no-exterior-em-estimativas-mensais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Bancos pleiteiam remuneração maior pelo processamento de split payment",
+      "resumo": "Instituições financeiras contestam proposta de R$ 0,39 por operação para remunerar o split payment estudada pelo governo. Bancos consideram valor insuficiente para cobrir custos de processamento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80777/bancos-pedem-remuneracao-maior-pelo-split-payment/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Dividendos da Petrobras caem e requerem rebalanceamento de carteira",
+      "resumo": "Petrobras distribuiu provento de R$ 1,19 por ação, abaixo do consenso devido a capex maior. Especialistas mantêm PETR4 em carteiras de renda, mas com peso moderado e expectativas recalibradas.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/onde-investir/dividendos-da-petrobras-encolheram-ainda-vale-ter-petr4-na-carteira-de-renda/",
+      "idioma_original": "pt"
+    }
+  ]
+}
