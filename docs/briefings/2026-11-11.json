@@ -3,18 +3,54 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI ultrapassa US$ 10 bi em receita trimestral",
-      "resumo": "Receita da OpenAI atingiu US$ 10 bilhões no trimestre, representando crescimento de quase 50% comparado aos US$ 6,7 bilhões do segundo trimestre. Marca o primeiro trimestre com receita acima de US$ 10 bi para a empresa.",
+      "subtema": "Infraestrutura de IA",
+      "titulo": "Desafios reais freiam expansão de data centers de IA",
+      "resumo": "Projetos de data centers enfrentam obstáculos significativos: oposição local, atrasos regulatórios e escassez de eletricidade. Bilhões anunciados em investimentos em infraestrutura de IA podem não se concretizar conforme planejado.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "url_original": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Infraestrutura de IA",
+      "titulo": "Meta perde chefe de infraestrutura após 17 anos na empresa",
+      "resumo": "Santosh Janardhan, que liderou infraestrutura da Meta desde 2009, deixa o cargo. Mudança ocorre em contexto de investimentos massivos da empresa em IA e data centers.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Infraestrutura de IA",
+      "titulo": "CoreWeave busca prepagamentos de clientes para financiar crescimento em IA",
+      "resumo": "Empresa de nuvem CoreWeave aumenta pedidos de pagamentos antecipados, contrata empréstimos contra contratos específicos e oferece acordos de curto prazo. Movimento reflete pressão de financiamento para expansão de infraestrutura.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Chips & Hardware",
+      "titulo": "Fractile britânica arrecada US$ 720 milhões para desenvolvimento de chips de IA",
+      "resumo": "Startup britânica Fractile se torna um dos principais players financiados na corrida por chips de IA customizados. Rodada posiciona empresa entre os desenvolvedores mais bem capitalizados do segmento.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI abre ChatGPT para marcas comerciais configurarem lojas",
+      "resumo": "OpenAI convida empresas a criar presença comercial dentro do ChatGPT. Iniciativa expande capacidades de monetização e integração de serviços na plataforma.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-invites-brands-to-set-up-shop-in-chatgpt",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Anthropic lança Claude Fable 5.2 com ritmo de inovação acelerado",
-      "resumo": "Anthropic anunciou lançamento do Claude Fable 5.2, reafirmando sua estratégia de \"pacing, not pausing\" no desenvolvimento de IA. Empresa continua acelerando pesquisa e desenvolvimento sem pausas na inovação.",
+      "titulo": "Anthropic acelera desenvolvimento com Claude Fable 5.2",
+      "resumo": "Anthropic reafirma compromisso com desenvolvimento acelerado de IA, rejeitando abordagem de pausa. Novo modelo Claude Fable 5.2 reflete continuação da estratégia de inovação rápida.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/anthropic-says-pacing-not-pausing-with-fable-5-2",
       "idioma_original": "en"
@@ -22,100 +58,136 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Databricks lança agente IA Genie que fornece feedback crítico ao CEO",
-      "resumo": "Databricks implementou seu agente Genie revisado para ajudar CEO Ali Ghodsi a obter informações descarniçadas sobre problemas na empresa. Agente funciona como ferramenta de inteligência organizacional em empresa com 12 mil funcionários.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Agentes IA agora conseguem fazer ligações telefônicas automaticamente",
-      "resumo": "Desenvolvedoras de IA avançaram na capacidade de agentes autônomos executarem tarefas como realizar chamadas telefônicas. Inovação abre novas possibilidades de automação em atendimento e serviços.",
+      "titulo": "Agentes de IA agora fazem ligações telefônicas automaticamente",
+      "resumo": "Tecnologia de IA avança para automação de comunicação telefônica. Agentes autônomos podem gerenciar chamadas e tarefas relacionadas sem intervenção humana.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/ai-agents-can-now-make-your-phone-calls",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI convida marcas a abrir lojas no ChatGPT",
-      "resumo": "OpenAI iniciou programa permitindo que brands estabeleçam presença comercial diretamente no ChatGPT. Modelo abre oportunidades de integração e vendas dentro da plataforma de IA.",
+      "subtema": "Outros",
+      "titulo": "CEO da Nvidia admite affair com suposta espiã chinesa",
+      "resumo": "Jensen Huang confirmou caso extraconjugal com mulher identificada como agente de inteligência chinesa. Congresso dos EUA prepara intimação; críticas pedem sua saída do cargo.",
       "fonte": "The Rundown AI",
-      "url_original": "https://therundownai.beehiiv.com/p/openai-invites-brands-to-set-up-shop-in-chatgpt",
+      "url_original": "https://therundownai.beehiiv.com/p/jensen-huang-admits-affair-amid-spy-claims",
       "idioma_original": "en"
     },
     {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Plurai utiliza abordagem de modelos end-to-end para melhorar agentes IA",
-      "resumo": "Startup Plurai está aplicando técnicas de treinamento similares aos carros autônomos para aprimorar performance de agentes IA em ambientes imprevisíveis. Estratégia baseia-se em sistemas probabilísticos e aprendizado contínuo.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Governo descarta adiamento da reforma tributária",
-      "resumo": "Governo confirmou que não vai adiar entrada em vigor da reforma tributária e negocia período de adaptação de 6 meses com isenção de multas. Intenção é trabalhar junto com setor privado sem abandonar o modelo de split payment.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/11/governo-descarta-adiamento-da-reforma-tributaria.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Nota Fiscal",
-      "titulo": "Simples Nacional recebe prorrogação até março para adaptar notas fiscais",
-      "resumo": "Microempresas e pequenas empresas do Simples Nacional têm até março de 2027 para adequar NF-e e NFC-e às novas regras da reforma tributária. Janeiro e fevereiro funcionarão em regime de transição, exceto para serviços.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/11/11/reforma-tributaria-governo-adia-para-marco-emissao-de-notas-fiscais-do-simples-nacional-exceto-de-prestacao-de-servico.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Alíquota do novo imposto cairia para 8,5% sem benefícios do Congresso",
-      "resumo": "Receita Federal estima que alíquota do futuro imposto sobre consumo caíria para 8,5% em 2027 sem as exceções aprovadas pelo Congresso. Benefícios concedidos aumentam carga tributária nos demais setores da economia.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/11/11/reforma-tributaria-sem-beneficios-aprovados-pelo-congresso-imposto-do-governo-cairia-de-113percent-para-85percent-estima-receita-federal.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "STJ suspende julgamento sobre IRRF de investidor estrangeiro",
-      "resumo": "Superior Tribunal de Justiça adiou análise sobre cálculo de imposto em ganho de capital (em dólares ou reais) para investidor estrangeiro. Diferença fiscal em discussão envolve montante de R$ 48,6 milhões.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80781/stj-suspende-julgamento-sobre-irrf-de-investidor-estrangeiro/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "CARF barra crédito de imposto pago no exterior em estimativas mensais",
-      "resumo": "Conselho Administrativo de Recursos Fiscais mantém entendimento de que créditos de imposto pago no exterior só podem ser deduzidos na apuração anual de IRPJ e CSLL, não em estimativas mensais.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80780/carf-barra-uso-de-ir-pago-no-exterior-em-estimativas-mensais/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Bancos pleiteiam remuneração maior pelo processamento de split payment",
-      "resumo": "Instituições financeiras contestam proposta de R$ 0,39 por operação para remunerar o split payment estudada pelo governo. Bancos consideram valor insuficiente para cobrir custos de processamento.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80777/bancos-pedem-remuneracao-maior-pelo-split-payment/",
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Bolsa de NY fecha em alta com CoreWeave; Nasdaq sobe 1,60%",
+      "resumo": "Resultados otimistas da CoreWeave dissipam temores sobre gastos excessivos com IA. Perspectiva de receita de US$ 13-13,3 bilhões impulsiona mercado tecnológico.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/wall-street-sobe-com-impulso-da-coreweave-a-negociacoes-relacionadas-a-ia/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Dividendos da Petrobras caem e requerem rebalanceamento de carteira",
-      "resumo": "Petrobras distribuiu provento de R$ 1,19 por ação, abaixo do consenso devido a capex maior. Especialistas mantêm PETR4 em carteiras de renda, mas com peso moderado e expectativas recalibradas.",
+      "titulo": "CoreWeave salta 25% com perspectivas otimistas para IA",
+      "resumo": "Provedora de computação em nuvem com IA projeta receita significativamente acima das estimativas. Resultado reforça confiança em rentabilidade de infraestrutura de IA.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/onde-investir/dividendos-da-petrobras-encolheram-ainda-vale-ter-petr4-na-carteira-de-renda/",
+      "url_original": "https://www.infomoney.com.br/mercados/coreweave-dissipa-temores-sobre-ia-com-perspectivas-otimistas-e-acoes-saltam-20/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa sobe aos 172 mil pontos com ambiente favorável e olho em medidas fiscais",
+      "resumo": "Ambiente de demanda por ativos de risco no exterior impulsa bolsa brasileira. Expectativa sobre medidas fiscais também influencia movimentação.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-sobe-com-exterior-e-noticiario-fiscal-e-corporativo-apesar-de-petrobras/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Petrobras cai após provento menor e capex maior frustrarem mercado",
+      "resumo": "Apesar de lucro de R$ 39,7 bilhões (alta de 21,5%), ações caem por provento abaixo de expectativa e capex mais elevado que o previsto.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-desempenho-acoes-resultados-3t26-proventos-novas-projecoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Energisa sobe forte; Engie cai 3% em resultados do 3T26",
+      "resumo": "Setor de energia apresenta desempenhos mistos: Energisa sobe com resultados; Engie recua 3%; Auren fecha estável.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/energisa-sobe-forte-apos-resultados-do-3t26-auren-e-engie-tem-desempenho-misto/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "BC avalia juros 'reunião a reunião' diante de incertezas econômicas",
+      "resumo": "Presidente do Banco Central, Gabriel Galípolo, reafirma que decisões sobre taxa Selic serão tomadas conforme contexto econômico. Cenário marcado por incertezas exige cautela.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/11/galipolo-decisoes-sobre-juros.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "CBS e IBS começam a valer em janeiro de 2027; primeiro recolhimento em fevereiro",
+      "resumo": "Novos impostos da reforma tributária (Contribuição sobre Bens e Serviços e Imposto sobre Bens e Serviços) entram em vigor janeiro. Governo propõe atrasar primeiro recolhimento da CBS para fevereiro.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/11/cbs-e-ibs-entenda-os-novos-impostos-da-reforma-tributaria.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "CNI propõe reduzir alíquota da CBS para 10,3%",
+      "resumo": "Confederação Nacional da Indústria sugere atualizar período de referência da reforma tributária. Medida poderia reduzir alíquota em 1 ponto percentual.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80792/cni-propoe-reduzir-aliquota-da-cbs-para-cerca-de-10-3/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "TJ-SP suspende decisões sobre IBS e CBS na base do ICMS",
+      "resumo": "Tribunal de Justiça de São Paulo suspende julgamentos sobre integração de IBS/CBS na base de cálculo do ICMS. Estado estima impacto de R$ 10,2 bilhões em 2027.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80793/tj-sp-suspende-decisoes-sobre-ibs-e-cbs-na-base-do-icms/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "Split payment exige adaptação de APIs de pagamento para IBS e CBS",
+      "resumo": "Fintechs e instituições de pagamento adequam APIs para split payment, que separa IBS e CBS na liquidação. Testes iniciados em ambiente controlado.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80776/split-payment-exige-adaptacao-das-apis-de-pagamento/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Imposto sobre combustíveis (PIS, Cofins, Cide) prorrogado até dezembro",
+      "resumo": "Decreto mantém zeragem de PIS/Pasep, Cofins e Cide sobre gasolina e etanol até 9 de dezembro. Medida de desoneração continua por mais 30 dias.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80791/desoneracao-da-gasolina-e-do-etanol-e-prorrogada-ate-dezembro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "13º salário 2026: prazos e regras de pagamento",
+      "resumo": "Confira direitos, cálculo, prazos de pagamento e descontos aplicáveis ao 13º salário em 2026.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80794/13o-salario-2026-veja-prazos-e-regras-de-pagamento/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Ajuste fiscal pode racionalizar R$ 60 bilhões em despesas para 2027",
+      "resumo": "Ministério do Planejamento negocia medidas fiscais com Senado para equilibrar contas públicas. Impacto potencial de R$ 60 bilhões em 2027 com racionalização de despesas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/politica/noticia/2026/11/11/ajuste-fiscal-em-negociacao-com-o-senado-vai-racionalizar-algumas-despesas-impacto-pode-chegar-a-r-60-bi-em-2027-diz-ministro.ghtml",
       "idioma_original": "pt"
     }
   ]
