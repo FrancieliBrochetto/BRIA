@@ -4,127 +4,145 @@
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "ChatGPT Wallet permite que agentes de IA façam compras em seu nome",
-      "resumo": "OpenAI lançou ChatGPT Wallet, sistema que permite agentes de IA (Dots) realizarem compras online e pagamentos em nome do usuário com segurança reforçada. O recurso está disponível inicialmente para assinantes do ChatGPT Pro nos Estados Unidos.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/chatgpt-wallet-permite-que-um-agente-de-ia-compre-e-pague-por-voce/",
+      "titulo": "ChatGPT Wallet permite que agentes de IA façam compras e pagamentos em nome do usuário",
+      "resumo": "OpenAI lançou ChatGPT Wallet, um sistema que permite que agentes de inteligência artificial (Dots) façam pagamentos e concluam compras online em nome dos usuários. A ferramenta começou com rollout limitado para assinantes Pro nos EUA. Desenvolvida em parceria com operadoras de cartões American Express.",
+      "fonte": "G1 Economia / TechCrunch AI / Tecnoblog",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/11/13/chat-gpt-wallet.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Tinder proíbe agentes de IA de conversarem pelos usuários",
-      "resumo": "Match Group implementou restrição para impedir que assistentes de IA escolham perfis e enviem mensagens no lugar das pessoas. A medida visa manter a autenticidade das interações na plataforma.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/tinder-proibe-que-agentes-de-ia-conversem-pelos-usuarios/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "ElevenLabs lança aplicativo de anotações e ditado para reuniões em equipe",
-      "resumo": "ElevenAI é um novo app de notas de reunião e ditado focado em times e empresas. A ferramenta integra tecnologia de IA para automação de documentação de encontros profissionais.",
+      "titulo": "ElevenLabs lança app de anotação de reuniões e ditado para equipes",
+      "resumo": "A ElevenLabs apresentou ElevenAI, um novo aplicativo que combina anotação de reuniões e funcionalidade de ditado voltado para times e empresas. A ferramenta automatiza o processo de documentação de discussões.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "url_original": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI convida marcas para estabelecer loja dentro do ChatGPT",
-      "resumo": "OpenAI está permitindo que empresas criem presença comercial diretamente na plataforma ChatGPT. Iniciativa amplia as possibilidades de monetização e integração de serviços na ferramenta.",
+      "subtema": "IA & Tech",
+      "titulo": "Startup LangChain atinge avaliação de US$ 3 bilhões",
+      "resumo": "LangChain, plataforma agnóstica de gerenciamento de agentes de IA, atingiu avaliação de US$ 3 bilhões. A empresa já conta com 7 mil clientes usando sua ferramenta LangSmith.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Tech",
+      "titulo": "Pesquisa revela que chips Nvidia banidos treinou modelos mais avançados da China",
+      "resumo": "Novo estudo mostra que os modelos de IA mais avançados da China foram treinados usando chips Nvidia proibidos para exportação. A descoberta levanta questões sobre eficácia das restrições comerciais dos EUA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Tech",
+      "titulo": "Jensen Huang renuncia à liderança da Nvidia em meio a escândalo pessoal",
+      "resumo": "CEO da Nvidia Jensen Huang renunciou ao cargo após revelações de casos extraconjugais, incluindo alegações de envolvimento com suposta espiã chinesa. Nvidia avalia CEO de empresa concorrente para substitui-lo.",
+      "fonte": "G1 Economia / TechCrunch AI / Stratechery",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/11/13/nvidia-rene-haas-arm-holdings.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Tech",
+      "titulo": "Microsoft encerra suporte a documentos antigos do Word (2007 e 2010)",
+      "resumo": "Microsoft começará a descontinuar suporte a documentos criados no Word 2007 e 2010 a partir de dezembro. A mudança pode desconfigurar arquivos legados no Windows.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/microsoft-vai-encerrar-suporte-a-documentos-antigos-do-word/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Tech",
+      "titulo": "Pane da Microsoft causada por falha técnica em infraestrutura de rede",
+      "resumo": "Microsoft atribuiu a pane recente a falhas técnicas em mudanças na infraestrutura de rede. A empresa esclareceu que o incidente não teve relação com ataques cibernéticos ou inteligência artificial.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/microsoft-atribui-pane-a-falha-tecnica-em-mudancas-na-infraestrutura-de-rede/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "OpenAI convida marcas a abrir lojas virtuais no ChatGPT",
+      "resumo": "OpenAI está permitindo que empresas configurem presença comercial dentro do ChatGPT, abrindo oportunidade de vendas diretas pela plataforma.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/openai-invites-brands-to-set-up-shop-in-chatgpt",
       "idioma_original": "en"
     },
     {
-      "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Anthropic avança com Fable 5.2 mantendo ritmo de desenvolvimento",
-      "resumo": "Anthropic confirmou prosseguimento do desenvolvimento com lançamento do Fable 5.2. Empresa reafirma estratégia de \"aceleração, não pausa\" no avanço de seus modelos de IA.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://therundownai.beehiiv.com/p/anthropic-says-pacing-not-pausing-with-fable-5-2",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Tesouro Nacional alerta sobre vazamento de dados pessoais e chaves Pix",
-      "resumo": "Secretaria do Tesouro Nacional identificou incidente no portal e-Serviços que expôs dados cadastrais de 30 mil pessoas e 4 mil chaves Pix. Instituição emitiu alerta de segurança aos afetados.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/tesouro-nacional-alerta-para-vazamento-de-dados-pessoais-e-chaves-pix/",
-      "idioma_original": "pt"
-    },
-    {
       "tema": "Mercado Financeiro",
-      "subtema": "Cripto",
-      "titulo": "Binance conclui cobertura de R$ 34 bilhões de prejuízo após maior roubo de criptomoedas",
-      "resumo": "Binance informou conclusão da cobertura dos ativos afetados pelo ataque hacker que desviou US$ 6,3 bilhões da plataforma. Empresa divulgou atualização de suas reservas e agradeceu paciência dos usuários.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/11/13/binance-criptomoeda-roubo.ghtml",
+      "subtema": "Câmbio",
+      "titulo": "Dólar atinge máxima em 18 meses e debate sobre R$ 6 ganha força",
+      "resumo": "Moeda americana atingiu máxima de 18 meses em reação ao pacote fiscal aprovado pelo Senado. Especulações sobre possível chegada ao patamar de R$ 6 ganham força no mercado.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/dolar-a-r-6-o-que-esperar-apos-moeda-atingir-maxima-em-18-meses",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Lucro do Banco do Brasil despenca 66,5% por inadimplência no agronegócio",
-      "resumo": "Banco do Brasil reportou queda de 66,5% no lucro do terceiro trimestre, principalmente devido ao aumento da inadimplência agrícola. Ações caíram 8,35% no Ibovespa após divulgação dos resultados.",
+      "titulo": "Lucro do Banco do Brasil cai 66,5% por inadimplência no agronegócio",
+      "resumo": "Banco do Brasil divulgou queda de 66,5% no lucro do terceiro trimestre, principalmente por aumento de inadimplência no agronegócio. Ações despencaram 8,35% na B3.",
       "fonte": "G1 Economia",
       "url_original": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/entenda-por-que-o-lucro-do-banco-do-brasil-despencou-e-derrubou-as-acoes.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
-      "subtema": "Selic",
-      "titulo": "Risco fiscal afeta dólar, juros e Bolsa no Brasil",
-      "resumo": "Trajetória da dívida pública preocupa investidores mais que seu tamanho absoluto e pode determinar comportamento dos ativos brasileiros. Cenário fiscal impacta diretamente câmbio, taxa de juros e performance da Bolsa.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/risco-fiscal-como-as-contas-publicas-podem-influenciar-dolar-juros-bolsa/",
+      "subtema": "Cripto",
+      "titulo": "Binance completa reposição de US$ 6,3 bilhões após maior roubo da história cripto",
+      "resumo": "Binance informou que recompôs todos os ativos afetados pelo maior roubo em criptomoedas da história, que desviou US$ 6,3 bilhões (R$ 34 bilhões) da plataforma. Empresa atualizou informações sobre suas reservas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/11/13/binance-criptomoeda-roubo.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Câmara debate CBS, Imposto Seletivo e créditos tributários",
+      "resumo": "Câmara realiza audiência em 18 de novembro com participação da Receita Federal para discutir alíquotas da CBS, Imposto Seletivo e impactos para pequenas empresas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80873/camara-debate-cbs-imposto-seletivo-e-creditos-tributarios/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Dispensa de CNPJ para produtor rural e autônomo em 2027 e 2028",
+      "resumo": "CGIBS anuncia que produtores rurais e transportadores autônomos de cargas poderão utilizar CPF em vez de CNPJ nos anos de 2027 e 2028.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80866/cgibs-anuncia-dispensa-de-cnpj-para-produtor-rural-e-autonomo/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "STF permite jornada de 8h24 na transição do fim da escala 6x1",
+      "resumo": "Liminar de Flávio Dino mantém jornada de 42 horas a partir de 16 de dezembro e permite distribuição em cinco dias sem cobrar hora extra pelos 24 minutos excedentes.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80872/fim-da-6x1-stf-permite-jornada-de-8h24-na-transicao/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Nota Fiscal",
-      "titulo": "NF-e e CT-e: mudanças previstas para 16 de novembro e dezembro",
-      "resumo": "Algumas mudanças na NF-e seguem previstas para 16 de novembro, enquanto notas técnicas da NF-e, NFC-e e CT-e ficarão para 14 de dezembro. Confira cronograma de alterações fiscais.",
+      "titulo": "NFS-e para plataformas digitais e TI adiada para março de 2027",
+      "resumo": "Prazo para emissão de NFS-e para plataformas digitais e serviços de tecnologia foi prorrogado para 1º de março de 2027.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80863/nf-e-e-ct-e-o-que-muda-em-16-11-e-o-que-fica-para-dezembro/",
+      "url_original": "https://www.contabeis.com.br/noticias/80865/nfs-e-plataformas-digitais-e-ti-tem-prazo-ate-marco-de-2027/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Sefaz-RJ e PGE-RJ emitem nova certidão conjunta de débitos",
-      "resumo": "Novo documento unificado da Sefaz-RJ e PGE-RJ reúne informações sobre débitos tributários e não tributários. Certidão pode ser emitida gratuitamente pela internet.",
+      "subtema": "Imposto de Renda",
+      "titulo": "DITR com divergência: Receita Federal orienta sobre retificação",
+      "resumo": "Receita Federal publica orientação sobre como corrigir erros na DITR (Declaração de Imposto Territorial Rural) e responder a intimações de malha fiscal do ITR.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80862/certidao-conjunta-da-sefaz-rj-e-pge-rj-ja-pode-ser-emitida/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "CT-e corrige schemas das notas técnicas 2026.004 e 2026.005",
-      "resumo": "Portal do CT-e republica schemas e ajusta campo de declaração de pagamento no evento de crédito presumido. Correção inclui regras e data de implantação dos ajustes.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80860/ct-e-corrige-schemas-das-nts-2026-004-e-2026-005/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Sala de situação inicia discussão de desafios da reforma tributária",
-      "resumo": "Sala de situação realizará reuniões semanais para discussão de problemas da reforma tributária, com prioridade para Simples Nacional e transição de PIS e Cofins.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80861/sala-de-situacao-comeca-a-discutir-desafios-da-reforma-tributaria/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "IBS e CBS: Receita e CGIBS alteram prazos de documentos fiscais",
-      "resumo": "Ato Conjunto nº 7/2026 muda prazos da NFS-e, outros documentos fiscais e DeRE. Alterações incluem novo calendário para operações do Simples Nacional.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80858/ibs-e-cbs-receita-e-cgibs-alteram-prazos-dos-documentos-fiscais/",
+      "url_original": "https://www.contabeis.com.br/noticias/80879/ditr-com-divergencia-quando-retificar-ou-enviar-documentos/",
       "idioma_original": "pt"
     }
   ]
