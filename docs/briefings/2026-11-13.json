@@ -1,0 +1,131 @@
+{
+  "data": "2026-11-13",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "ChatGPT Wallet permite que agentes de IA façam compras em seu nome",
+      "resumo": "OpenAI lançou ChatGPT Wallet, sistema que permite agentes de IA (Dots) realizarem compras online e pagamentos em nome do usuário com segurança reforçada. O recurso está disponível inicialmente para assinantes do ChatGPT Pro nos Estados Unidos.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/chatgpt-wallet-permite-que-um-agente-de-ia-compre-e-pague-por-voce/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Tinder proíbe agentes de IA de conversarem pelos usuários",
+      "resumo": "Match Group implementou restrição para impedir que assistentes de IA escolham perfis e enviem mensagens no lugar das pessoas. A medida visa manter a autenticidade das interações na plataforma.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/tinder-proibe-que-agentes-de-ia-conversem-pelos-usuarios/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "ElevenLabs lança aplicativo de anotações e ditado para reuniões em equipe",
+      "resumo": "ElevenAI é um novo app de notas de reunião e ditado focado em times e empresas. A ferramenta integra tecnologia de IA para automação de documentação de encontros profissionais.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI convida marcas para estabelecer loja dentro do ChatGPT",
+      "resumo": "OpenAI está permitindo que empresas criem presença comercial diretamente na plataforma ChatGPT. Iniciativa amplia as possibilidades de monetização e integração de serviços na ferramenta.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-invites-brands-to-set-up-shop-in-chatgpt",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic avança com Fable 5.2 mantendo ritmo de desenvolvimento",
+      "resumo": "Anthropic confirmou prosseguimento do desenvolvimento com lançamento do Fable 5.2. Empresa reafirma estratégia de \"aceleração, não pausa\" no avanço de seus modelos de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-says-pacing-not-pausing-with-fable-5-2",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Tesouro Nacional alerta sobre vazamento de dados pessoais e chaves Pix",
+      "resumo": "Secretaria do Tesouro Nacional identificou incidente no portal e-Serviços que expôs dados cadastrais de 30 mil pessoas e 4 mil chaves Pix. Instituição emitiu alerta de segurança aos afetados.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/tesouro-nacional-alerta-para-vazamento-de-dados-pessoais-e-chaves-pix/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "Binance conclui cobertura de R$ 34 bilhões de prejuízo após maior roubo de criptomoedas",
+      "resumo": "Binance informou conclusão da cobertura dos ativos afetados pelo ataque hacker que desviou US$ 6,3 bilhões da plataforma. Empresa divulgou atualização de suas reservas e agradeceu paciência dos usuários.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/11/13/binance-criptomoeda-roubo.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Lucro do Banco do Brasil despenca 66,5% por inadimplência no agronegócio",
+      "resumo": "Banco do Brasil reportou queda de 66,5% no lucro do terceiro trimestre, principalmente devido ao aumento da inadimplência agrícola. Ações caíram 8,35% no Ibovespa após divulgação dos resultados.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/entenda-por-que-o-lucro-do-banco-do-brasil-despencou-e-derrubou-as-acoes.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Selic",
+      "titulo": "Risco fiscal afeta dólar, juros e Bolsa no Brasil",
+      "resumo": "Trajetória da dívida pública preocupa investidores mais que seu tamanho absoluto e pode determinar comportamento dos ativos brasileiros. Cenário fiscal impacta diretamente câmbio, taxa de juros e performance da Bolsa.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/risco-fiscal-como-as-contas-publicas-podem-influenciar-dolar-juros-bolsa/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "NF-e e CT-e: mudanças previstas para 16 de novembro e dezembro",
+      "resumo": "Algumas mudanças na NF-e seguem previstas para 16 de novembro, enquanto notas técnicas da NF-e, NFC-e e CT-e ficarão para 14 de dezembro. Confira cronograma de alterações fiscais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80863/nf-e-e-ct-e-o-que-muda-em-16-11-e-o-que-fica-para-dezembro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Sefaz-RJ e PGE-RJ emitem nova certidão conjunta de débitos",
+      "resumo": "Novo documento unificado da Sefaz-RJ e PGE-RJ reúne informações sobre débitos tributários e não tributários. Certidão pode ser emitida gratuitamente pela internet.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80862/certidao-conjunta-da-sefaz-rj-e-pge-rj-ja-pode-ser-emitida/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "CT-e corrige schemas das notas técnicas 2026.004 e 2026.005",
+      "resumo": "Portal do CT-e republica schemas e ajusta campo de declaração de pagamento no evento de crédito presumido. Correção inclui regras e data de implantação dos ajustes.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80860/ct-e-corrige-schemas-das-nts-2026-004-e-2026-005/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Sala de situação inicia discussão de desafios da reforma tributária",
+      "resumo": "Sala de situação realizará reuniões semanais para discussão de problemas da reforma tributária, com prioridade para Simples Nacional e transição de PIS e Cofins.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80861/sala-de-situacao-comeca-a-discutir-desafios-da-reforma-tributaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "IBS e CBS: Receita e CGIBS alteram prazos de documentos fiscais",
+      "resumo": "Ato Conjunto nº 7/2026 muda prazos da NFS-e, outros documentos fiscais e DeRE. Alterações incluem novo calendário para operações do Simples Nacional.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80858/ibs-e-cbs-receita-e-cgibs-alteram-prazos-dos-documentos-fiscais/",
+      "idioma_original": "pt"
+    }
+  ]
+}
