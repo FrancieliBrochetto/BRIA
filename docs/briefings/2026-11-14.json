@@ -4,44 +4,26 @@
     {
       "tema": "Mercado Financeiro",
       "subtema": "Cripto",
-      "titulo": "Binance cobre prejuízo de R$ 34 bilhões em maior roubo de cripto da história",
-      "resumo": "A corretora Binance anunciou que cobriu 100% dos ativos roubados em ataque hacker ocorrido no final de outubro. Os clientes afetados serão reembolsados pela empresa. O incidente marcou o maior roubo de criptomoedas já registrado.",
+      "titulo": "Binance cobre R$ 34 bilhões de prejuízo do maior roubo de cripto da história",
+      "resumo": "A corretora Binance anunciou que cobriu 100% dos ativos roubados em ataque hacker no final de outubro. O roubo foi considerado o maior da história das criptomoedas.",
       "fonte": "Tecnoblog",
       "url_original": "https://tecnoblog.net/noticias/r-34-bilhoes-binance-cobriu-100-do-prejuizo-do-maior-roubo-de-cripto-da-historia/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "ChatGPT Wallet permite que agentes de IA comprem e façam checkout em nome do usuário",
-      "resumo": "OpenAI lançou a carteira digital ChatGPT Wallet que autoriza agentes de IA a realizar compras e processar transações em nome dos usuários. O recurso está em rollout limitado para assinantes Pro nos EUA.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
       "subtema": "Gemini",
-      "titulo": "Pesquisa revela que chips Nvidia banidos estão por trás dos modelos de IA mais poderosos da China",
-      "resumo": "Investigação mostra que a China treinou seus modelos de IA mais avançados utilizando chips Nvidia que foram banidos para exportação pelos EUA. A descoberta levanta questões sobre a efetividade das restrições tecnológicas americanas.",
+      "titulo": "Projetos e startups de IA que não conseguiram sucesso",
+      "resumo": "TechCrunch publica lista de projetos de IA que foram descontinuados ou não atingiram expectativas, incluindo Siri AI da Apple e lançamento problemático de super app da OpenAI.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Startup de agentes de IA LangChain atinge avaliação de US$ 3 bilhões",
-      "resumo": "A LangChain, desenvolvedora de ferramenta de gerenciamento de agentes de IA agnóstica a modelos, atingiu valuation de US$ 3 bilhões. A plataforma LangSmith já conta com 7 mil clientes.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
+      "url_original": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "OpenAI permite que marcas criem lojas e se estabeleçam no ChatGPT",
-      "resumo": "OpenAI abriu a possibilidade para marcas comerciais se registrarem e criar presença no ChatGPT, ampliando o ecossistema de negócios integrado ao assistente de IA.",
+      "titulo": "OpenAI convida marcas para abrir loja dentro do ChatGPT",
+      "resumo": "OpenAI está permitindo que empresas estabeleçam suas operações diretamente na plataforma ChatGPT, expandindo o modelo de negócios do aplicativo.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/openai-invites-brands-to-set-up-shop-in-chatgpt",
       "idioma_original": "en"
@@ -49,8 +31,8 @@
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Anthropic lança Claude Sheets: ferramenta para criar rastreadores compartilhados",
-      "resumo": "Anthropic apresentou Claude Sheets, uma funcionalidade que permite criar e gerenciar rastreadores compartilhados integrados ao Claude. A ferramenta facilita colaboração em planilhas e análise de dados.",
+      "titulo": "Anthropic afirma estar em ritmo, não pausa, com Fable 5.2",
+      "resumo": "Anthropic mantém o desenvolvimento acelerado e lança Claude Fable 5.2, reforçando compromisso com evolução contínua dos modelos de IA.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/anthropic-says-pacing-not-pausing-with-fable-5-2",
       "idioma_original": "en"
@@ -58,62 +40,62 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Saída de Jensen Huang gera incerteza em financiamento de startups de IA",
-      "resumo": "Com a saída de Jensen Huang da Nvidia, fundadores e VCs temem redução em investimentos e avaliações mais baixas. A empresa havia injetado dezenas de bilhões em startups de IA sob sua liderança.",
+      "titulo": "Startup LangChain atinge avaliação de US$ 3 bilhões",
+      "resumo": "LangChain, plataforma de gerenciamento de agentes de IA agnóstica a modelos, chega a US$ 3 bilhões de avaliação com 7 mil clientes do LangSmith.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Saída de Jensen Huang cria buraco em financiamento de startups de IA",
+      "resumo": "Fundadores e VCs expressam preocupação com impacto da saída de Jensen Huang da Nvidia, que havia investido dezenas de bilhões em startups de IA. Esperam-se investimentos menores e valuações mais baixas.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Meta sofre multa de R$ 5 bilhões da Itália por acesso não autorizado a dados de usuários Android",
-      "resumo": "Autoridade de proteção de dados italiana multa Meta em €805 milhões por acessar fotos e vídeos de 20 milhões de usuários Android sem consentimento ou informação prévia. A empresa usava recurso do Facebook para coletar dados.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/11/14/italia-multa-meta.ghtml",
-      "idioma_original": "pt"
+      "subtema": "Python",
+      "titulo": "Chips Nvidia banidos em exportação estão por trás dos modelos de IA mais poderosos da China",
+      "resumo": "Pesquisa revela que os modelos de IA mais avançados da China foram treinados com chips Nvidia proibidos de exportação, contradizendo políticas de restrição americana.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Microsoft alerta sobre campanha de golpes que explora falha global do Microsoft 365",
-      "resumo": "Microsoft alertou sobre e-mails fraudulentos que se aproveitam da instabilidade ocorrida no Microsoft 365 para roubar dados de usuários. Criminosos enviam mensagens falsas afirmando que e-mails foram retidos e serão apagados em 24 horas.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/11/14/golpe-microsoft-alerta-outlook.ghtml",
+      "titulo": "Euro-Office disponível para Windows, Mac e Linux",
+      "resumo": "Suíte de escritório Euro-Office agora oferece versões para desktops sob o nome Nextcloud Office, expandindo sua disponibilidade multiplataforma.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/euro-office-libera-versoes-para-windows-mac-e-linux/",
       "idioma_original": "pt"
     },
     {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Microsoft restabelece serviços após falha global que afetou Teams e Outlook",
-      "resumo": "Microsoft informou que restabeleceu completamente seus serviços após falha global que durou várias horas. A empresa resolveu a causa do incidente e normalizou os sistemas para todos os clientes.",
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Dívidas de MEI serão perdoadas automaticamente a partir de janeiro de 2027",
+      "resumo": "Receita Federal anunciou que perdão de dívidas de microempreendedores individuais será aplicado automaticamente a partir de 1º de janeiro. Empreendedores não precisam fazer pedido formal.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/11/14/microsoft-afirma-que-servicos-foram-totalmente-restabelecidos-apos-falha-global.ghtml",
+      "url_original": "https://g1.globo.com/empreendedorismo/noticia/2026/11/14/dividas-do-mei-serao-perdoadas-automaticamente.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Brasil e Espanha firmam acordo para discutir imposto sobre super-ricos",
-      "resumo": "Brasil e Espanha assinaram memorando para estudos conjuntos sobre tributação de pessoas com grandes patrimônios. Acordo prevê intercâmbio de dados e cooperação internacional para regulamentação de super-impostos.",
+      "titulo": "Brasil e Espanha assinam acordo para discutir imposto sobre super-ricos",
+      "resumo": "Memorando prevê estudos conjuntos, intercâmbio de dados e cooperação internacional sobre tributação de pessoas com grandes patrimônios.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/80867/brasil-e-espanha-firmam-acordo-para-discutir-imposto-sobre-super-ricos/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Crédito de ICMS do imobilizado: entenda prazos de homologação e compensação com IBS",
-      "resumo": "Novo procedimento estabelece prazos para homologação de crédito de ICMS em máquinas e equipamentos. Após a reforma tributária, o saldo pode ser compensado com o IBS (Imposto sobre Bens e Serviços).",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80841/credito-de-icms-do-imobilizado-prazo-de-homologacao/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "NFS-e: adesão municipal não define obrigação de preencher IBS e CBS",
-      "resumo": "Esclarecimento: a adesão do município à NFS-e Nacional não automática o sistema emissor nem obriga preenchimento dos campos de IBS e CBS em notas fiscais eletrônicas.",
+      "subtema": "Nota Fiscal",
+      "titulo": "NFS-e: adesão municipal e preenchimento de IBS e CBS",
+      "resumo": "Esclarecimento sobre por que a adesão municipal à NFS-e Nacional não define automaticamente o emissor nem a obrigatoriedade de preencher campos de IBS e CBS.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/80823/nfs-e-adesao-municipal-e-preenchimento-de-ibs-e-cbs/",
       "idioma_original": "pt"
@@ -121,28 +103,19 @@
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Imóveis em holding: atenção ao prazo de 2026 para ajuste de IBS e CBS",
-      "resumo": "Proprietários de imóveis em holdings devem observar a data de aquisição em 2026, pois isso afeta o redutor de ajuste e a base de cálculo do IBS e CBS em vendas futuras.",
+      "titulo": "Imóveis na holding: importância de observar prazo de 2026",
+      "resumo": "Data de aquisição de imóveis em holding pode alterar redutor de ajuste e base de cálculo de IBS e CBS em vendas futuras. Prazo de 2026 é crítico.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/80839/imoveis-na-holding-por-que-observar-o-prazo-de-2026/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Dívidas de MEI serão perdoadas automaticamente a partir de 2027",
-      "resumo": "Presidente Lula sancionou lei que perdoa automaticamente dívidas de microempreendedores individuais (MEIs) a partir de 1º de janeiro de 2027. Segundo Receita Federal, empreendedores não precisarão fazer pedidos.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/empreendedorismo/noticia/2026/11/14/dividas-do-mei-serao-perdoadas-automaticamente.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Inadimplência empresarial bate recorde com 9,4 milhões de CNPJs negativados",
-      "resumo": "Serasa Experian registra recorde de empresas inadimplentes em setembro com R$ 247,8 bilhões em dívidas. Micro e pequenas empresas concentram a maior parte dos casos de negativação.",
+      "subtema": "SPED",
+      "titulo": "Crédito de ICMS do imobilizado: prazo de homologação",
+      "resumo": "Orientações sobre quando solicitar homologação de crédito de ICMS de máquinas e equipamentos e como compensar saldo com IBS.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80875/inadimplencia-empresarial-chega-a-9-4-milhoes-de-cnpjs/",
+      "url_original": "https://www.contabeis.com.br/noticias/80841/credito-de-icms-do-imobilizado-prazo-de-homologacao/",
       "idioma_original": "pt"
     }
   ]
