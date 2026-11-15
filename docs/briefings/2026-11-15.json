@@ -1,0 +1,131 @@
+{
+  "data": "2026-11-15",
+  "noticias": [
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "Binance cobre R$ 34 bilhões em prejuízo do maior roubo de cripto da história",
+      "resumo": "A Binance anunciou que cobriu integralmente os ativos roubados em ataque hacker no final de outubro. O incidente foi o maior roubo de criptomoedas registrado. Clientes foram notificados sobre a cobertura total do prejuízo.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/r-34-bilhoes-binance-cobriu-100-do-prejuizo-do-maior-roubo-de-cripto-da-historia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Anthropic avança com Claude Fable 5.2 mantendo ritmo acelerado",
+      "resumo": "Anthropic reafirma seu compromisso com inovação em IA ao lançar Claude Fable 5.2. A empresa adota estratégia de \"pacing, not pausing\" para desenvolvimento contínuo. Nova versão integra capacidades aprimoradas de análise de dados.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-says-pacing-not-pausing-with-fable-5-2",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI abre ChatGPT para marcas estabelecerem lojas comerciais",
+      "resumo": "OpenAI convida marcas a criarem presença comercial dentro do ChatGPT através de integração de negócios. Iniciativa permite que empresas ofereçam produtos e serviços diretamente na plataforma. Busca monetização e expansão do ecossistema.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-invites-brands-to-set-up-shop-in-chatgpt",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Nvidia enfrenta transição após saída de Jensen Huang impacta financiamento de startups",
+      "resumo": "Saída de Jensen Huang como CEO da Nvidia gera preocupação no ecossistema de IA. Investidores e fundadores alertam para possível redução em investimentos, já que Nvidia injetava bilhões em startups de IA. VCs e empreendedores se preparam para valuações menores e cheques menores.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Cemitério de projetos IA: lista de iniciativas fracassadas da indústria",
+      "resumo": "TechCrunch documenta projetos de IA que fracassaram ou não cumpriram expectativas. Lista inclui Siri AI da Apple e lançamento \"super app\" do OpenAI. Análise revela desafios reais na implementação prática de soluções de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Pane global da Microsoft expõe riscos de concentração de serviços digitais",
+      "resumo": "Falha nos sistemas da Microsoft obrigou hospitais e tribunais a recorrerem a papel e fax. Incidente evidencia riscos de dependência de poucas gigantes de tecnologia. Levanta questões sobre resiliência da infraestrutura digital global.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/15/internet-e-redes-sociais/falha-da-microsoft-mostra-riscos-de-concentrar-servicos-digitais/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Itália multa Meta em € 805 milhões por uso não autorizado de fotos de usuários",
+      "resumo": "Reguladores italianos determinaram que Meta acessava galeria de fotos em smartphones sem consentimento explícito. Decisão afeta cerca de 20 milhões de usuários. Meta deve solicitar autorização clara antes de qualquer acesso a dados visuais.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/15/internet-e-redes-sociais/italia-multa-meta-em-e-805-milhoes-por-uso-de-fotos-sem-consentimento/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Cota de PcD exige mais que conformidade legal: acessibilidade e igualdade obrigatórias",
+      "resumo": "Cumprir a Lei de Cotas é apenas requisito básico para contratação de pessoas com deficiência. Empresas também devem garantir acessibilidade, adaptação razoável e oportunidades iguais no ambiente de trabalho. Conformidade trabalhista exige abordagem holística.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80876/cota-de-pcd-nao-garante-conformidade-trabalhista/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "CPC 47: critérios para reconhecimento de receita de vendas sob novo padrão contábil",
+      "resumo": "Norma contábil CPC 47 estabelece quando empresas devem reconhecer receita de vendas. Receita Federal planeja inscrever 2,6 milhões de CNPJ técnico em dezembro de 2026. Mudanças afetam registro e divulgação de receitas operacionais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80825/cpc-47-quando-reconhecer-a-receita-de-vendas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Crédito de ICMS do imobilizado: prazos para homologação e compensação com IBS",
+      "resumo": "Empresas precisam cumprir prazos específicos para solicitar homologação de crédito de ICMS em máquinas e equipamentos. Com transição para IBS, saldos podem ser compensados sob novas regras. Planejamento tributário essencial para otimização.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80841/credito-de-icms-do-imobilizado-prazo-de-homologacao/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Canadá investe até R$ 2,2 bilhões em fundo de proteção de florestas liderado pelo Brasil",
+      "resumo": "Canadá se compromete com 560 milhões de dólares canadenses ao Fundo Florestas Tropicais para Sempre (TFFF) ao longo de 4 anos. Iniciativa reforça cooperação internacional em proteção ambiental. Recursos devem financiar preservação de florestas tropicais.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/meio-ambiente/noticia/2026/11/15/canada-fundo-de-protecao-de-florestas-brasil.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Compras internacionais crescem 63% em outubro e pressionam varejo brasileiro",
+      "resumo": "Encomendas do exterior registram aumento expressivo em outubro, intensificando concorrência com empresas nacionais. Varejistas enfrentam pressão sobre preços e custos operacionais. Desafio exige estratégias de competitividade e diferenciação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80877/compras-internacionais-pressionam-varejo-brasileiro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Governo anuncia ajuste fiscal e espera votação na Câmara para o meio da semana",
+      "resumo": "Vice-presidente Alckmin reafirma que projeto de ajuste fiscal segue \"na direção correta\" sem afetar população mais pobre. Senado conclui votação para envio à Câmara na próxima quarta (18). Medida busca equilibrar contas públicas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/politica/noticia/2026/11/15/ajuste-fiscal-alckmin-afirma-que-projeto-do-governo-vai-na-direcao-correta-e-diz-esperar-votacao-na-camara-nesta-semana.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação",
+      "titulo": "Hackers invadem Maileva na França e expõem dados de 22 milhões de pessoas",
+      "resumo": "Subsidiária dos Correios franceses (La Poste) sofre ataque cibernético em setembro, afetando 22 milhões de usuários. Incidente coloca empresa sob investigação judicial francesa. Reforça importância de proteção de dados em infraestruturas críticas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/15/hackers-invadem-subsidiaria-dos-correios-da-franca-e-expoem-dados-de-22-milhoes.ghtml",
+      "idioma_original": "pt"
+    }
+  ]
+}
