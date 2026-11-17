@@ -3,146 +3,137 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Segurança & Crimes",
-      "titulo": "Hacker do Lapsus$ usou Fire TV Stick para invadir Rockstar e vazar GTA 6",
-      "resumo": "Integrante do grupo Lapsus$ confessou ataque de 2022 à Rockstar Games usando Fire TV Stick como vetor de invasão. Sentença será definida em 23 de novembro. Incidente resultou no vazamento de material do GTA 6.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/hacker-que-vazou-gta-6-usou-fire-tv-stick-para-invadir-a-rockstar/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Regulação & Legislação",
-      "titulo": "Cade deve abrir processo contra Apple por restrições ao NFC do iPhone",
-      "resumo": "Negociações entre Cade e Apple não avançaram. Órgão investigará se restrições ao NFC dificultam a oferta de Pix por aproximação no iOS, limitando a concorrência em pagamentos móveis.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/cade-deve-abrir-processo-contra-apple-por-restricoes-ao-nfc-do-iphone/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Regulação & Legislação",
-      "titulo": "PL das Big Techs: relator muda regras para limitar fiscalização do Cade",
-      "resumo": "Aliel Machado propõe mudanças que reduzem escopo de fiscalização do Cade sobre grandes empresas de tecnologia e impedem interferência na moderação de conteúdo. Votação pode ocorrer na próxima semana.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/11/17/pro/pl-das-big-techs-relator-muda-regras-para-limitar-fiscalizacao-do-cade/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Google estende retenção de chats do Gemini para 2 meses, mesmo com histórico desativado",
-      "resumo": "Google aumentará o período de retenção de conversas do Gemini de 72 horas para 2 meses globalmente. Mudança será implementada nas próximas semanas, mesmo quando usuários desativam histórico.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "Proton lança Lumo, alternativa focada em privacidade ao ChatGPT e Claude",
-      "resumo": "Proton apresenta Lumo Desktop para Windows, Mac e Linux com automação de tarefas entre arquivos e apps. Oferece controles granulares sobre acesso de dados e privacidade como diferencial.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-      "idioma_original": "en"
+      "titulo": "OpenAI lança GPT-6.2 Astra e Sol com novas restrições de segurança",
+      "resumo": "OpenAI apresentou GPT-6.2 Astra e Sol com melhorias em tarefas profissionais e cotidianas. As novas versões reduzem consumo de tokens e oferecem melhor custo-benefício. Incluem novas restrições de segurança implementadas.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/17/pro/openai-lanca-gpt-6-2-astra-e-sol-com-novas-restricoes-de-seguranca/",
+      "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Segurança & Crimes",
-      "titulo": "Modelos de IA podem ser enganados para identificar civis como alvo militar",
-      "resumo": "Startup Vals testou como modelos de IA líderes podem ser manipulados em participar de guerra autônoma. Pesquisadores conseguiram induzir identificação de civis como alvos militares usando gamificação.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "subtema": "Claude",
+      "titulo": "Empresas usam Claude Sheets para organizar dados compartilhados",
+      "resumo": "Claude Sheets permite transformar planos desordenados em planilhas compartilhadas. Ferramenta facilita colaboração em equipes. Integração com Claude oferece automação para rastreamento de projetos.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/nvidia-enters-life-without-jensen-huang",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Pedestal AI arrecada US$ 4,7 milhões para automatizar cadeias de suprimento",
-      "resumo": "Empresa usa IA agentic para acelerar e tornar mais confiáveis as cadeias de suprimento. Rodada de investimento destaca crescimento do uso de agentes autônomos em operações logísticas.",
+      "titulo": "Model ML levanta US$ 250M para automatizar trabalho em bancos de investimento",
+      "resumo": "Startup Model ML recebeu US$ 250 milhões de investimento para automatizar análise de deals bancários. Seus agentes de IA atualizam modelos financeiros e apresentações automaticamente. Solução reduz trabalho operacional de banqueiros e consultores.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "url_original": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI abre espaço para marcas abrirem lojas dentro do ChatGPT",
-      "resumo": "OpenAI permite que empresas configurem presença oficial no ChatGPT para interações com usuários. Iniciativa expande modelo de monetização da plataforma através de parcerias comerciais.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://therundownai.beehiiv.com/p/openai-invites-brands-to-set-up-shop-in-chatgpt",
-      "idioma_original": "en"
+      "subtema": "IA & Tech",
+      "titulo": "IA ajuda a encontrar falha crítica no Java usado por empresas Fortune 500",
+      "resumo": "Empresa de segurança Calif utilizou inteligência artificial para identificar vulnerabilidade grave no Java. A falha afeta praticamente todas as empresas da lista Fortune 500. Descoberta demonstra capacidade da IA em detectar riscos em softwares amplamente utilizados.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/global/ia-ajuda-a-achar-falha-critica-no-java-plataforma-de-software-vital-para-a-internet/",
+      "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Regulação & Legislação",
-      "titulo": "Califórnia processa OpenAI na justiça",
-      "resumo": "Estado da Califórnia move ação judicial contra OpenAI. Detalhes específicos não disponibilizados, mas marca novo movimento de regulação estatal contra empresas de IA.",
+      "subtema": "IA & Tech",
+      "titulo": "California processa OpenAI em corte",
+      "resumo": "Estado da Califórnia abriu ação judicial contra OpenAI. Processo relacionado a questões regulatórias e de conformidade. Detalhe completo da ação ainda não está disponível.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/california-takes-openai-to-court",
       "idioma_original": "en"
     },
     {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Nvidia dobra receita e prevê novo salto após saída de CEO",
+      "resumo": "Nvidia registrou receita de US$ 115,84 bilhões no 3º trimestre, dobrando em relação ao ano anterior (US$ 57 bilhões). Lucro líquido atingiu US$ 65,3 bilhões, superando expectativas de mercado. Ações subiram 3% após divulgação dos resultados.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/17/pro/nvidia-dobra-receita-e-preve-novo-salto-mesmo-apos-saida-de-ceo/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Nvidia não planeja reapointar Jensen Huang como CEO",
+      "resumo": "Nvidia confirmou que não pretende trazer de volta Jensen Huang à posição de CEO. Huang havia oferecido retornar ao cargo após sua saída na semana anterior. Empresa segue com liderança interina.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "SEC investiga Nvidia após saída de Jensen Huang",
+      "resumo": "Comissão de Valores Mobiliários dos EUA abriu investigação civil contra Nvidia. Órgão apura se fabricante violou regras de divulgação de informações aos investidores. Investigação relacionada à saída polêmica do CEO Jensen Huang.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Amazon e Google possuem 30% da Anthropic após IPO",
+      "resumo": "Amazon controlará 14,5% da Anthropic após oferta pública inicial de ações, com opção de aumentar participação. Google detém aproximadamente 14% das ações da startup. Juntas, as gigantes de tech possuem quase 30% da empresa de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Bolsas de NY fecham em queda com foco em resultados da Nvidia",
+      "resumo": "Bolsas de Nova York encerraram em queda com bancos pressionados e tecnológicas em foco. Investidores analisam balanço e projeções da Nvidia buscando sinais sobre trajetória do setor de IA. Volatilidade marcou o pregão.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/nasdaq-pregao-volatil-com-resultados-da-nvidia-em-foco/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa fecha em alta, mas cautela com cenário fiscal limita ganhos",
+      "resumo": "Índice Ibovespa encerrou a sessão em alta nesta terça-feira. Investidores mantêm cautela enquanto acompanham votação do projeto de ajuste fiscal no Senado. Proposta deve retornar para a Câmara dos Deputados após votação.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-sobe-mas-investidor-segue-cauteloso-a-espera-de-definicoes-do-governo-lula/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Receita amplia prazo para consulta pública sobre Adicional da CSLL",
+      "resumo": "Receita Federal estendeu prazo de consulta pública até 22 de novembro. Empresas podem enviar contribuições sobre mudanças nas regras do Adicional da CSLL. Alterações também afetam tributação de lucros no exterior.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80945/adicional-da-csll-receita-amplia-prazo-para-consulta-publica/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "INSS muda regras de processos previdenciários e consulta de benefícios",
+      "resumo": "Nova portaria do INSS altera procedimentos administrativos e cumprimento de exigências. Mudança afeta acesso das empresas a decisões sobre benefícios de empregados. Alteração busca modernizar processos previdenciários.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80940/inss-muda-regras-de-processos-previdenciarios-e-consulta-de-beneficios/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Veterinários podem ter redução maior de IBS e CBS conforme projeto",
+      "resumo": "Projeto na Câmara propõe aumentar redução de tributos sobre serviços veterinários de 30% para 60%. Iniciativa busca beneficiar profissionais veterinários através da reforma tributária. Ampliação das desonerações ainda depende de aprovação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80937/veterinarios-podem-ter-reducao-maior-de-ibs-e-cbs/",
+      "idioma_original": "pt"
+    },
+    {
       "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "MEI terá perdão automático de dívidas do INSS a partir de 2027",
-      "resumo": "Receita Federal define regras para perdão de dívidas previdenciárias do MEI. Microempreendedores poderão consultar pendências e negociar parcelamentos com novas condições.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80932/mei-tera-perdao-automatico-de-dividas-do-inss-a-partir-de-2027/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "RAD deve funcionar plenamente em janeiro de 2027, diz Receita",
-      "resumo": "Receita Federal confirma funcionamento completo do RAD (Regime de Apuração por Diferença) a partir de janeiro de 2027. Recomenda que empresas negociem condições de pagamento com fornecedores.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80931/rad-deve-funcionar-plenamente-em-janeiro-de-2027-diz-receita/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Receita Federal define regras para divulgar benefícios fiscais de empresas",
-      "resumo": "Portaria RFB nº 745/2026 estabelece critérios para divulgação, atualização e correção de dados sobre benefícios fiscais concedidos a pessoas jurídicas. Medida aumenta transparência fiscal.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80930/receita-federal-define-regras-para-divulgar-beneficios-fiscais-de-empresas/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Redata: empresas aguardam decreto com regras para obter incentivos fiscais",
-      "resumo": "Decreto do Redata ainda não foi publicado e deve definir critérios de habilitação, fontes de energia aceitas e equipamentos beneficiados pelo regime de tributação especial.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80935/redata-empresas-aguardam-regras-para-obter-incentivos-fiscais/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Reforma Tributária",
-      "titulo": "Empresas usaram R$ 200 bilhões em créditos tributários até setembro; Senado debate restrição",
-      "resumo": "Dados da Receita mostram uso de R$ 200,1 bilhões em créditos tributários para pagar tributos federais de janeiro a setembro de 2026, aumento de 14,6% ante 2025. Senado discute possíveis restrições no ajuste fiscal.",
+      "titulo": "Empresas usaram R$ 200 bilhões em créditos para pagar tributos até setembro",
+      "resumo": "Empresas declararam usar R$ 200,1 bilhões em créditos tributários para pagar tributos federais entre janeiro e setembro de 2026. Valor cresceu 14,6% comparado a 2025, sem descontar inflação. Mecanismo de compensação tributária segue em foco no debate fiscal.",
       "fonte": "G1 Economia",
       "url_original": "https://g1.globo.com/economia/noticia/2026/11/17/creditos-tributarios-empresas-ajuste-fiscal.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Reforma Tributária",
-      "titulo": "Ministro da Fazenda diz que pacote fiscal é 'primeiro passo' e prega ajuste gradual",
-      "resumo": "Dario Durigan afirma que pacote de ajuste fiscal em análise é etapa inicial de processo mais amplo ao longo do quarto mandato. Senado deve concluir votação nesta terça. Meta é reduzir juros através de ajuste fiscal.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/11/17/ministro-da-fazenda-que-pacote-e-so-o-primeiro-passo-e-prega-ajuste-gradual-sem-negacionismo-para-baixar-juro.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Economia Geral",
-      "titulo": "Economia perde força no terceiro trimestre e acende alerta para empresas",
-      "resumo": "IBC-Br recuou 0,9% no terceiro trimestre, com quedas na agropecuária, indústria e serviços. Desaceleração econômica sinaliza desafios para manutenção dos negócios.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80936/economia-perde-forca-e-acende-alerta-para-empresas/",
       "idioma_original": "pt"
     }
   ]
