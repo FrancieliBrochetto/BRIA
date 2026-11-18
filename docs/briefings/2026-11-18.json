@@ -1,0 +1,131 @@
+{
+  "data": "2026-11-18",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Google alerta sobre era de ataques cibernéticos autônomos",
+      "resumo": "Relatório de segurança do Google identificou sistemas de IA que encontram falhas e criam ataques sem intervenção humana. A era dos ataques cibernéticos totalmente autônomos já começou.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/google-alerta-era-de-ataques-ciberneticos-autonomos-ja-comecou/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Sam Altman alerta contra futuro onde IA, não humanos, tomam decisões",
+      "resumo": "CEO da OpenAI alertou contra cenários de controle da IA sobre decisões humanas. Altman e Greg Brockman reconhecem desafios de manter modelos avançados sob controle humano.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Bancos dizem que clientes usando agentes de IA estão por conta própria",
+      "resumo": "Instituições financeiras como Citi informam que usuários de agentes de IA para finanças pessoais não receberão proteção, mesmo em caso de hacking. Tendência entre grandes bancos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Google Search ganha modo incógnito para IA conversations",
+      "resumo": "Novo recurso de threads temporárias permite conversas no AI Mode sem registrar no histórico ou influenciar recomendações futuras. Privacidade reforçada para usuários.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "WhatsApp testa backup na nuvem com 2 GB grátis",
+      "resumo": "Armazenamento online de 2 GB está em testes para usuários do Android. Planos pagos estarão disponíveis para quem precisar de mais capacidade.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/whatsapp-comeca-a-testar-backup-nas-nuvens-com-2-gb-gratis/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Fundadores da Anthropic prestes a se tornarem multibilionários com IPO",
+      "resumo": "Sete jovens fundadores que deixaram OpenAI em 2021 levam Anthropic (criadora do Claude) ao IPO nesta quinta-feira na Nasdaq. Empresa busca avaliação de até US$ 1,4 trilhão.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/inovacao/noticia/2026/11/18/quem-sao-os-sete-jovens-fundadores-da-anthropic-que-estao-prestes-a-se-tornarem-multibilionarios.ghtml/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Como investir na Anthropic via BDRs no Brasil",
+      "resumo": "Anthropic (criadora do Claude) faz IPO na Nasdaq. Brasileiro pode investir através de BDRs na bolsa brasileira. Empresa avaliada em até US$ 1,4 trilhão.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/18/anthropic-ipo-bolsa-como-investir-bdrs-brasil.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "IA & Automação",
+      "titulo": "Coaf usará inteligência artificial para combater lavagem de dinheiro",
+      "resumo": "Novo sistema previsto para 2027 utilizará IA na análise de operações suspeitas. Sistema dará retorno aos bancos sobre qualidade das comunicações de risco.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80974/coaf-tera-inteligencia-artificial-para-combater-lavagem-de-dinheiro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Receita libera ferramenta de apuração assistida da reforma tributária",
+      "resumo": "Ferramenta ficará disponível para todas as empresas nesta semana. Apresentará tributos a pagar e créditos disponíveis segundo secretário Robinson Barreirinhas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80966/receita-libera-apuracao-assistida-da-reforma-tributaria-para-empresas-nesta-semana/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Alíquota de 11,3% para CBS federal vale só em 2027",
+      "resumo": "Proposta do TCU estabelece tributação de 11,3% para Contribuição sobre Bens e Serviços em 2027. Alíquota pode subir ou descer nos anos seguintes.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/18/tributaria-aliquota-de-113percent-para-imposto-federal-valera-so-em-2027-e-segundo-receita-pode-subir-ou-descer-depois-entenda.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Aeroportos avaliam revisão de concessões pela reforma tributária",
+      "resumo": "Mudanças no IBS e CBS podem alterar custos e receitas de concessionárias. Empresas avaliam pedidos de reequilíbrio financeiro das operações.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80977/reforma-tributaria-aeroportos-avaliam-revisao-de-concessoes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Projetos propõem novas regras para tributar lucros e dividendos",
+      "resumo": "PL 5.854/2026 prevê imposto de 15% sobre dividendos; PL 5.889/2026 propõe alíquotas progressivas até 25%. Ambos tramitam no Congresso.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80978/projetos-propoem-novas-regras-para-tributar-lucros-e-dividendos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar sobe 1% e fecha a R$ 5,84",
+      "resumo": "Moeda americana subiu com foco em pacote fiscal e ata do Federal Reserve. Banco Central realizou dois leilões de linha totalizando US$ 1 bilhão.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-18112026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa recua com impasse no pacote fiscal",
+      "resumo": "Bolsa brasileira fechou em queda com incertezas sobre pacote de ajuste fiscal. Índices nos EUA operaram mistos apesar de balanço forte de Nvidia.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18112026/",
+      "idioma_original": "pt"
+    }
+  ]
+}
