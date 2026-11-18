@@ -3,90 +3,63 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Google alerta sobre era de ataques cibernéticos autônomos",
-      "resumo": "Relatório de segurança do Google identificou sistemas de IA que encontram falhas e criam ataques sem intervenção humana. A era dos ataques cibernéticos totalmente autônomos já começou.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/google-alerta-era-de-ataques-ciberneticos-autonomos-ja-comecou/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Sam Altman alerta contra futuro onde IA, não humanos, tomam decisões",
-      "resumo": "CEO da OpenAI alertou contra cenários de controle da IA sobre decisões humanas. Altman e Greg Brockman reconhecem desafios de manter modelos avançados sob controle humano.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Bancos dizem que clientes usando agentes de IA estão por conta própria",
-      "resumo": "Instituições financeiras como Citi informam que usuários de agentes de IA para finanças pessoais não receberão proteção, mesmo em caso de hacking. Tendência entre grandes bancos.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "Google Search ganha modo incógnito para IA conversations",
-      "resumo": "Novo recurso de threads temporárias permite conversas no AI Mode sem registrar no histórico ou influenciar recomendações futuras. Privacidade reforçada para usuários.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "WhatsApp testa backup na nuvem com 2 GB grátis",
-      "resumo": "Armazenamento online de 2 GB está em testes para usuários do Android. Planos pagos estarão disponíveis para quem precisar de mais capacidade.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/whatsapp-comeca-a-testar-backup-nas-nuvens-com-2-gb-gratis/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Fundadores da Anthropic prestes a se tornarem multibilionários com IPO",
-      "resumo": "Sete jovens fundadores que deixaram OpenAI em 2021 levam Anthropic (criadora do Claude) ao IPO nesta quinta-feira na Nasdaq. Empresa busca avaliação de até US$ 1,4 trilhão.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/inovacao/noticia/2026/11/18/quem-sao-os-sete-jovens-fundadores-da-anthropic-que-estao-prestes-a-se-tornarem-multibilionarios.ghtml/",
+      "titulo": "Anthropic é avaliada em US$ 1,5 trilhão e estreia na Nasdaq com IPO acima do esperado",
+      "resumo": "A Anthropic fixou o preço de IPO em US$ 83 por ação, acima da faixa prevista, avaliando a empresa em US$ 1,5 trilhão. A estreia na Nasdaq ocorreu em 19 de novembro e marca o segundo mega-IPO do ano focado em IA. Os sete fundadores, que deixaram a OpenAI em 2021, estão prestes a se tornarem multibilionários.",
+      "fonte": "Olhar Digital / InfoMoney / G1 Economia",
+      "url_original": "https://olhardigital.com.br/2026/11/18/pro/anthropic-chega-a-bolsa-com-acoes-mais-caras-que-o-previsto/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Como investir na Anthropic via BDRs no Brasil",
-      "resumo": "Anthropic (criadora do Claude) faz IPO na Nasdaq. Brasileiro pode investir através de BDRs na bolsa brasileira. Empresa avaliada em até US$ 1,4 trilhão.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/11/18/anthropic-ipo-bolsa-como-investir-bdrs-brasil.ghtml",
+      "subtema": "Segurança & Cyberataques",
+      "titulo": "Ataques cibernéticos potencializados por IA superam defesas existentes",
+      "resumo": "Palmer Luckey, cofundador da Anduril, alerta que ciberataques alimentados por IA estão ultrapassando as defesas atuais. O executivo aponta que tecnologia desatualizada deixa sistemas vulneráveis a uma nova onda de ataques habilitados por IA.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI lançamento mais recente recebe críticas; Califórnia processa a empresa",
+      "resumo": "O último lançamento do OpenAI recebeu avaliações negativas do mercado. Paralelamente, o estado da Califórnia iniciou ação judicial contra a OpenAI.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-newest-release-lands-to-rough-reviews",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Segurança de Dados",
+      "titulo": "Banco do Brasil expõe dados pessoais de clientes; vaza nome, CPF e e-mail",
+      "resumo": "O Banco do Brasil informou acesso não autorizado a dados pessoais em 12 de novembro. Os dados expostos incluem nome, CPF, endereço de e-mail e número da agência, podendo ser usados em golpes.",
+      "fonte": "Olhar Digital / G1 Economia",
+      "url_original": "https://olhardigital.com.br/2026/11/18/seguranca/banco-do-brasil-alerta-sobre-vazamento-de-dados-saiba-o-que-foi-exposto/",
       "idioma_original": "pt"
     },
     {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "IA & Automação",
-      "titulo": "Coaf usará inteligência artificial para combater lavagem de dinheiro",
-      "resumo": "Novo sistema previsto para 2027 utilizará IA na análise de operações suspeitas. Sistema dará retorno aos bancos sobre qualidade das comunicações de risco.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80974/coaf-tera-inteligencia-artificial-para-combater-lavagem-de-dinheiro/",
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa fecha em queda de 1,34% com preocupações fiscais e juros altos nos EUA",
+      "resumo": "O índice Ibovespa caiu 1,34%, fechando em 167.537,95 pontos, impactado por receios sobre o cenário fiscal brasileiro e perspectivas de juros maiores nos Estados Unidos.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-fecha-em-queda-com-receios-sobre-cenario-fiscal-e-juro-maior-nos-eua/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Wall Street fecha sem direção única após resultados da Nvidia",
+      "resumo": "O mercado americano não apresentou direção clara após divulgação dos resultados da Nvidia. Tom agressivo na ata do Federal Reserve também pressionou as ações.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/wall-st-fecha-sem-direcao-unica-apos-divulgacao-dos-resultados-da-nvidia/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Receita libera ferramenta de apuração assistida da reforma tributária",
-      "resumo": "Ferramenta ficará disponível para todas as empresas nesta semana. Apresentará tributos a pagar e créditos disponíveis segundo secretário Robinson Barreirinhas.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80966/receita-libera-apuracao-assistida-da-reforma-tributaria-para-empresas-nesta-semana/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Alíquota de 11,3% para CBS federal vale só em 2027",
-      "resumo": "Proposta do TCU estabelece tributação de 11,3% para Contribuição sobre Bens e Serviços em 2027. Alíquota pode subir ou descer nos anos seguintes.",
+      "titulo": "Alíquota de CBS de 11,3% começará em 2027 e pode variar depois, diz Receita Federal",
+      "resumo": "O secretário da Receita Federal informou que a alíquota proposta de 11,3% para o novo imposto federal sobre consumo valerá apenas em 2027. A taxa de referência pode aumentar ou diminuir posteriormente conforme diretrizes da reforma.",
       "fonte": "G1 Economia",
       "url_original": "https://g1.globo.com/economia/noticia/2026/11/18/tributaria-aliquota-de-113percent-para-imposto-federal-valera-so-em-2027-e-segundo-receita-pode-subir-ou-descer-depois-entenda.ghtml",
       "idioma_original": "pt"
@@ -94,37 +67,37 @@
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Aeroportos avaliam revisão de concessões pela reforma tributária",
-      "resumo": "Mudanças no IBS e CBS podem alterar custos e receitas de concessionárias. Empresas avaliam pedidos de reequilíbrio financeiro das operações.",
+      "titulo": "Empresas pedem ampliação do prazo para adaptação à CBS em 2027",
+      "resumo": "Empresas e contadores indicam desafios significativos para adaptar sistemas, processos e equipes antes da cobrança da CBS prevista para janeiro de 2027.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80977/reforma-tributaria-aeroportos-avaliam-revisao-de-concessoes/",
+      "url_original": "https://www.contabeis.com.br/noticias/80951/cbs-em-2027-empresas-pedem-mais-prazo-para-adaptacao/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "Projetos propõem novas regras para tributar lucros e dividendos",
-      "resumo": "PL 5.854/2026 prevê imposto de 15% sobre dividendos; PL 5.889/2026 propõe alíquotas progressivas até 25%. Ambos tramitam no Congresso.",
+      "subtema": "Leis Novas",
+      "titulo": "STJ mantém CPRB na base de cálculo do PIS e da Cofins",
+      "resumo": "No Tema 1.276, o Superior Tribunal de Justiça decidiu que a contribuição previdenciária sobre a receita bruta não pode ser excluída do cálculo do PIS/Pasep e da Cofins.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80978/projetos-propoem-novas-regras-para-tributar-lucros-e-dividendos/",
+      "url_original": "https://www.contabeis.com.br/noticias/80986/stj-mantem-cprb-na-base-de-calculo-do-pis-e-da-cofins/",
       "idioma_original": "pt"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Câmbio",
-      "titulo": "Dólar sobe 1% e fecha a R$ 5,84",
-      "resumo": "Moeda americana subiu com foco em pacote fiscal e ata do Federal Reserve. Banco Central realizou dois leilões de linha totalizando US$ 1 bilhão.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-18112026/",
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Lei de TICs: incentivos fiscais para empresas de tecnologia que investem em pesquisa",
+      "resumo": "A Lei de TICs concede crédito financeiro a fabricantes de tecnologia que investem em pesquisa e inovação. Entenda os requisitos e benefícios para acessar esses incentivos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80983/lei-de-tics-como-funcionam-os-incentivos-fiscais-para-empresas/",
       "idioma_original": "pt"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Ibovespa recua com impasse no pacote fiscal",
-      "resumo": "Bolsa brasileira fechou em queda com incertezas sobre pacote de ajuste fiscal. Índices nos EUA operaram mistos apesar de balanço forte de Nvidia.",
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Senado aprova pacote fiscal e envia para Câmara; acordo flexibiliza Lei Kandir",
+      "resumo": "O Senado rejeitou destaques e aprovou avanço do pacote fiscal para a Câmara. Um acordo foi formalizado pelo relator flexibilizando trecho do ajuste sobre a Lei Kandir.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18112026/",
+      "url_original": "https://www.infomoney.com.br/politica/senado-rejeita-destaques-e-avanca-com-pacote-fiscal-proposto-pelo-governo-lula/",
       "idioma_original": "pt"
     }
   ]
