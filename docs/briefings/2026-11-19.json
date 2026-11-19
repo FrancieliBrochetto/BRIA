@@ -3,137 +3,173 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Google lança Gemini 4 Neon, nova IA para tarefas complexas",
-      "resumo": "Modelo substitui Gemini 4 Argon e está disponível para assinantes dos planos AI Pro e Ultra do Google. A nova versão foi otimizada para lidar com workflows multietapas e tarefas de maior complexidade.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/google-lanca-gemini-4-neon-nova-ia-para-tarefas-complexas/",
+      "subtema": "Claude",
+      "titulo": "Anthropic estreia na Nasdaq com forte desempenho",
+      "resumo": "A Anthropic, criadora do Claude, levantou R$ 431 bilhões em IPO e teve papéis subindo 39% durante o pregão. A estreia movimentou o mercado de forma significativa, refletindo interesse dos investidores em empresas de IA.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/19/pro/anthropic-movimenta-mercado-em-estreia-na-nasdaq-veja-como-foi-o-primeiro-dia/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Gemini",
-      "titulo": "Google oferece ao Gemini capacidade de usar seu Mac automaticamente",
-      "resumo": "Atualização do Gemini traz um agente de IA para Mac capaz de organizar arquivos, preencher formulários e executar workflows com múltiplas etapas de forma autônoma.",
+      "titulo": "Google expande Gemini com capacidade de automação no Mac",
+      "resumo": "Gemini recebeu atualização que permite ao agente de IA executar tarefas no Mac, como organizar arquivos, preencher formulários e automatizar workflows multietapas. Integração expande funcionalidades do assistente para produtividade do usuário.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA & Segurança",
-      "titulo": "IA ajudou a descobrir falha crítica no Java",
-      "resumo": "Brecha de segurança que pode permitir invasões remotas foi identificada com auxílio de IA. Oracle já liberou uma correção para o problema.",
+      "subtema": "Automação",
+      "titulo": "Meta desenvolve dispositivo wearable de IA Muse Charm por cerca de $300",
+      "resumo": "Meta está desenvolvendo o Muse Charm, um wearable com IA que deve custar aproximadamente $300. A empresa promete revelar mais detalhes em breve sobre o novo dispositivo.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Tech",
+      "titulo": "Alibaba triplica lucro impulsionada por avanços em IA",
+      "resumo": "Alibaba registrou lucro de 64,5 bilhões de yuans no segundo trimestre fiscal, triplicando resultados anteriores. Desempenho acima das projeções foi impulsionado pelo avanço em tecnologias de inteligência artificial.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/19/pro/alibaba-triplica-lucro-no-trimestre-com-avanco-da-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Tech",
+      "titulo": "Brasil recebe primeiros computadores quânticos da América Latina",
+      "resumo": "Projeto na Paraíba trouxe os primeiros computadores quânticos da região para o Brasil. Avanço promete revolucionar pesquisa científica nacional e posiciona o país na tecnologia quântica.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/19/ciencia-e-espaco/computadores-quanticos-ja-estao-no-brasil-como-o-pais-entrou-no-jogo/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Flipper One chega como ferramenta hacker multifuncional com Linux",
+      "resumo": "Flipper One foi lançado no Kickstarter como um 'canivete suíço hacker' que roda Linux, custando a partir de $399. Campanha ultrapassou arrecadação de $14 milhões.",
       "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/ia-ajudou-a-descobrir-falha-critica-no-java/",
+      "url_original": "https://tecnoblog.net/noticias/flipper-one-chega-como-um-canivete-suico-hacker-que-roda-linux/",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Claude",
-      "titulo": "Agente de IA Meta Muse confunde conversas e expõe dados privados",
-      "resumo": "Relatório aponta que o agente Muse exibe informações de outros usuários, incluindo mensagens, pedidos de produtos e saldos bancários que não pertencem ao solicitante. Problema representa falha crítica de segurança e privacidade.",
+      "subtema": "IA & Tech",
+      "titulo": "Recentes falhas de sistemas sugerem padrão tipo Y2K com agentes de IA",
+      "resumo": "Especialistas em cibersegurança apontam que falhas recentes em sistemas de reservas aéreas, bancos e plataformas de produtividade podem estar relacionadas. Padrão sugere problema mais profundo envolvendo agentes de IA.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI recebe ação judicial do Estado da Califórnia",
-      "resumo": "Estado da Califórnia move ação contra OpenAI em tribunal. Detalhes específicos sobre o caso não foram divulgados no resumo disponível.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://therundownai.beehiiv.com/p/california-takes-openai-to-court",
+      "url_original": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
       "idioma_original": "en"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Anthropic estreia na Nasdaq acima do preço de IPO, 6ª empresa mais valiosa do mundo",
-      "resumo": "Anthropic (criadora do ChatBot Claude) estreia na Nasdaq a US$ 111, 33% acima do preço de IPO de US$ 83, captando mais de US$ 80 bilhões. A empresa alcançou sexta posição entre as mais valiosas do mundo com avaliação de US$ 1,5 trilhão.",
+      "titulo": "BDR da Anthropic movimenta R$ 460 milhões em estreia na B3",
+      "resumo": "O BDR da Anthropic movimentou R$ 460,2 milhões no primeiro dia de negociações na B3, ficando entre os 20 ativos mais negociados. Volume foi 3 vezes maior que o do BDR da SpaceX.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/anthropic-bdr-movimenta-r-460-mi-em-estreia-na-b3-volume-3-vezes-maior-que-spacex/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Mercado de câmbio trava após fala de Lula; BC intervém com leilão de dólar",
+      "resumo": "Declarações do presidente Lula sobre timing de anúncio do novo ministro da Fazenda pressionaram o câmbio. BC foi obrigado a intervir com leilão de dólar para estabilizar o mercado.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/11/19/anthropic-valor-de-mercado.ghtml",
+      "url_original": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/19/mercado-de-cambio-trava-apos-fala-de-lula-sobre-escolha-de-ministros-e-bc-intervem-com-leilao-de-dolar.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Intervenção do BC no câmbio estressou curva de juros",
+      "resumo": "Intervencao do Banco Central no mercado de câmbio gerou abertura de mais de 30 pontos nos vértices de juros de janeiro de 2028 a 2031. Movimento refletiu conjunção de fatores econômicos.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/como-a-intervencao-do-bc-no-mercado-de-cambio-acabou-estressando-a-curva-de-juros/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "CEO da Anthropic reafirma compromisso com ritmo controlado de desenvolvimento de IA",
-      "resumo": "Durante o discurso na abertura da Nasdaq, Dario Amodei reiterou o compromisso da Anthropic em manter o ritmo de desenvolvimento de IA, independentemente de pressões comerciais ou políticas.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Trump comprou até US$ 265 mil em ações da Nvidia enquanto governo avaliava regras para chips",
-      "resumo": "Declaração financeira revela que o presidente Trump adquiriu até US$ 265 mil em papéis da Nvidia em setembro, período em que o governo americano revisava regulações do setor de semicondutores. Operação levanta questões sobre conflito de interesses.",
+      "titulo": "Trump comprou até US$ 265 mil em ações da Nvidia durante análise de regras de chips",
+      "resumo": "Presidente dos EUA Trump comprou até US$ 265 mil em papéis da Nvidia em setembro enquanto seu governo avaliava regras para chips de IA. Operações foram realizadas conforme suas declarações financeiras.",
       "fonte": "G1 Economia",
       "url_original": "https://g1.globo.com/economia/noticia/2026/11/19/trump-acoes-nvidia.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
-      "subtema": "Crédito",
-      "titulo": "Condições de crédito ficaram mais restritivas no 3º trimestre, diz pesquisa do BC",
-      "resumo": "Pesquisa do Banco Central indica que as condições de oferta de crédito se tornaram mais restritivas, especialmente para pessoa física. Fatores como inadimplência e custo/disponibilidade de funding influenciaram o aperto.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/economia/condicoes-de-credito-ficaram-mais-restritivas-no-3o-trimestre-diz-pesquisa-do-bc/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Cibersegurança",
-      "titulo": "JPMorgan, Visa e Mastercard alvo de ataque cibernético em fornecedores",
-      "resumo": "JPMorgan Chase, Visa e Mastercard informaram que empresas fornecedoras sofreram ataque cibernético. As instituições afirmam que clientes não foram diretamente afetados, mas dados de operadoras podem ter sido expostos.",
+      "subtema": "IA & Tech",
+      "titulo": "Trump liberou quase 900 mil chips de IA avançados para empresas chinesas",
+      "resumo": "Administração Trump autorizou exportação de quase 900 mil chips avançados de IA para empresas chinesas, segundo comitê dos EUA. Decisão gerou controvérsia sobre política de contenção tecnológica.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/19/instituicoes-financeiras-ataque-cibernetico.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Cibersegurança",
-      "titulo": "iFood sofre ataque hacker e expõe dados de clientes, entregadores e restaurantes",
-      "resumo": "Criminosos invadiram sistemas do iFood e acessaram informações de clientes, representantes de restaurantes e entregadores. Empresa investiga o incidente e iniciará notificações das vítimas por e-mail.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/11/19/ifood-sofre-invasao-que-expoe-dados-de-clientes-entregadores-e-representantes-de-restaurantes.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Fim da escala 6x1: veja o que muda em dezembro",
-      "resumo": "Decreto regulamenta a escala 5x2, reduzindo a jornada semanal em etapas e garantindo dois dias de descanso remunerado sem corte salarial. Mudanças entram em vigor em dezembro.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/81026/fim-da-escala-6x1-veja-o-que-muda-em-dezembro/",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/11/19/governo-trump-liberou-quase-900-mil-chips-avancados-de-ia-para-empresas-chinesas-diz-comite-dos-eua.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "CCJ aprova projeto que criminaliza fraude contábil",
-      "resumo": "PL 2.091/2023 aprovado em Comissão Criminal prevê prisão de até seis anos para fraudes contábeis e altera regras sobre informações financeiras e patrimoniais de empresas.",
+      "titulo": "Reforma tributária 2026: fase de testes e mudanças nas notas fiscais",
+      "resumo": "2026 marca fase de testes da reforma tributária com mudanças em notas fiscais. Empresas devem começar a se preparar desde já para as implementações que virão em 2027.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/81006/ccj-aprova-projeto-que-criminaliza-fraude-contabil/",
+      "url_original": "https://www.contabeis.com.br/noticias/81001/reforma-tributaria-em-2026-o-que-muda-para-empresas/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "SPED",
-      "titulo": "CVM esclarece regras contábeis e de auditoria para fundos",
-      "resumo": "Ofício Circular 1/2026 da CVM orienta administradores e auditores sobre procedimentos para demonstrações contábeis com período inferior a 90 dias e informações comparativas.",
+      "subtema": "Nota Fiscal",
+      "titulo": "Fraude com notas fiscais falsas movimenta R$ 1,3 bi em São Paulo",
+      "resumo": "Operação X.509 investiga emissão de notas fiscais falsas em cinco cidades de SP com movimentação de R$ 1,3 bilhão. Fraude gerou aproximadamente R$ 232 milhões em créditos tributários irregulares.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/81016/cvm-esclarece-regras-contabeis-e-de-auditoria-para-fundos/",
+      "url_original": "https://www.contabeis.com.br/noticias/81018/fraude-com-notas-fiscais-falsas-movimenta-r-1-3-bi-em-sp/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "Filigranas do ganho de capital - Parte 2",
-      "resumo": "Análise de como o Perguntão 2026 aborda alienações sem preço definido e indenização por servidão no tema ganho de capital, esclarecendo pontos complexos da tributação.",
+      "titulo": "Restituição do IR pode priorizar vítimas de calamidade pública",
+      "resumo": "Projeto aprovado pela CCJ prevê que moradores de áreas com calamidade reconhecida pelo governo federal recebam prioridade na restituição do Imposto de Renda.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80987/filigranas-do-ganho-de-capital-parte-2/",
+      "url_original": "https://www.contabeis.com.br/noticias/81017/restituicao-do-ir-pode-priorizar-vitimas-de-calamidade-publica/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Moraes marca julgamento sobre Lei da Dosimetria para 4 de dezembro",
+      "resumo": "Ministro Moraes agendou julgamento sobre Lei da Dosimetria para 4 de dezembro no STF. Lei teve aplicação suspensa em maio até análise de ações que questionam sua constitucionalidade.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/politica/moraes-marca-julgamento-sobre-lei-da-dosimetria-para-4-de-dezembro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Operação Cash Out investiga bets por movimentação bilionária",
+      "resumo": "MPF investi movimento de empresas de apostas que declararam R$ 2 bilhões, mas movimentações podem ter chegado a R$ 13 bilhões em 2025. Operação analisa possível evasão fiscal.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81025/operacao-cash-out-investiga-bets-por-movimentacao-bilionaria/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Tech",
+      "titulo": "iFood sofre ataque hacker com exposição de dados de clientes e entregadores",
+      "resumo": "iFood confirmou invasão de seus sistemas em 14 de novembro com acesso a dados de clientes, entregadores e representantes de restaurantes. Dados bancários de alguns entregadores foram acessados, mas sem permitir movimentação.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/11/19/ifood-sofre-invasao-que-expoe-dados-de-clientes-entregadores-e-representantes-de-restaurantes.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Tech",
+      "titulo": "Hackers expõem dados de clientes de Visa, Mastercard e JPMorgan",
+      "resumo": "Grupo de ransomware n0n divulgou dados roubados de fornecedores de Visa, Mastercard e JPMorgan. Ataque afetou empresas prestadoras de serviços às instituições financeiras.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/19/seguranca/hackers-expoem-dados-de-clientes-de-visa-mastercard-e-jpmorgan/",
       "idioma_original": "pt"
     }
   ]
