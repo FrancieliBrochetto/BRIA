@@ -1,0 +1,140 @@
+{
+  "data": "2026-11-19",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google lança Gemini 4 Neon, nova IA para tarefas complexas",
+      "resumo": "Modelo substitui Gemini 4 Argon e está disponível para assinantes dos planos AI Pro e Ultra do Google. A nova versão foi otimizada para lidar com workflows multietapas e tarefas de maior complexidade.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/google-lanca-gemini-4-neon-nova-ia-para-tarefas-complexas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google oferece ao Gemini capacidade de usar seu Mac automaticamente",
+      "resumo": "Atualização do Gemini traz um agente de IA para Mac capaz de organizar arquivos, preencher formulários e executar workflows com múltiplas etapas de forma autônoma.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Segurança",
+      "titulo": "IA ajudou a descobrir falha crítica no Java",
+      "resumo": "Brecha de segurança que pode permitir invasões remotas foi identificada com auxílio de IA. Oracle já liberou uma correção para o problema.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/ia-ajudou-a-descobrir-falha-critica-no-java/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Agente de IA Meta Muse confunde conversas e expõe dados privados",
+      "resumo": "Relatório aponta que o agente Muse exibe informações de outros usuários, incluindo mensagens, pedidos de produtos e saldos bancários que não pertencem ao solicitante. Problema representa falha crítica de segurança e privacidade.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI recebe ação judicial do Estado da Califórnia",
+      "resumo": "Estado da Califórnia move ação contra OpenAI em tribunal. Detalhes específicos sobre o caso não foram divulgados no resumo disponível.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/california-takes-openai-to-court",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Anthropic estreia na Nasdaq acima do preço de IPO, 6ª empresa mais valiosa do mundo",
+      "resumo": "Anthropic (criadora do ChatBot Claude) estreia na Nasdaq a US$ 111, 33% acima do preço de IPO de US$ 83, captando mais de US$ 80 bilhões. A empresa alcançou sexta posição entre as mais valiosas do mundo com avaliação de US$ 1,5 trilhão.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/19/anthropic-valor-de-mercado.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "CEO da Anthropic reafirma compromisso com ritmo controlado de desenvolvimento de IA",
+      "resumo": "Durante o discurso na abertura da Nasdaq, Dario Amodei reiterou o compromisso da Anthropic em manter o ritmo de desenvolvimento de IA, independentemente de pressões comerciais ou políticas.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Trump comprou até US$ 265 mil em ações da Nvidia enquanto governo avaliava regras para chips",
+      "resumo": "Declaração financeira revela que o presidente Trump adquiriu até US$ 265 mil em papéis da Nvidia em setembro, período em que o governo americano revisava regulações do setor de semicondutores. Operação levanta questões sobre conflito de interesses.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/19/trump-acoes-nvidia.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Crédito",
+      "titulo": "Condições de crédito ficaram mais restritivas no 3º trimestre, diz pesquisa do BC",
+      "resumo": "Pesquisa do Banco Central indica que as condições de oferta de crédito se tornaram mais restritivas, especialmente para pessoa física. Fatores como inadimplência e custo/disponibilidade de funding influenciaram o aperto.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/economia/condicoes-de-credito-ficaram-mais-restritivas-no-3o-trimestre-diz-pesquisa-do-bc/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cibersegurança",
+      "titulo": "JPMorgan, Visa e Mastercard alvo de ataque cibernético em fornecedores",
+      "resumo": "JPMorgan Chase, Visa e Mastercard informaram que empresas fornecedoras sofreram ataque cibernético. As instituições afirmam que clientes não foram diretamente afetados, mas dados de operadoras podem ter sido expostos.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/19/instituicoes-financeiras-ataque-cibernetico.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cibersegurança",
+      "titulo": "iFood sofre ataque hacker e expõe dados de clientes, entregadores e restaurantes",
+      "resumo": "Criminosos invadiram sistemas do iFood e acessaram informações de clientes, representantes de restaurantes e entregadores. Empresa investiga o incidente e iniciará notificações das vítimas por e-mail.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/11/19/ifood-sofre-invasao-que-expoe-dados-de-clientes-entregadores-e-representantes-de-restaurantes.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Fim da escala 6x1: veja o que muda em dezembro",
+      "resumo": "Decreto regulamenta a escala 5x2, reduzindo a jornada semanal em etapas e garantindo dois dias de descanso remunerado sem corte salarial. Mudanças entram em vigor em dezembro.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81026/fim-da-escala-6x1-veja-o-que-muda-em-dezembro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "CCJ aprova projeto que criminaliza fraude contábil",
+      "resumo": "PL 2.091/2023 aprovado em Comissão Criminal prevê prisão de até seis anos para fraudes contábeis e altera regras sobre informações financeiras e patrimoniais de empresas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81006/ccj-aprova-projeto-que-criminaliza-fraude-contabil/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "CVM esclarece regras contábeis e de auditoria para fundos",
+      "resumo": "Ofício Circular 1/2026 da CVM orienta administradores e auditores sobre procedimentos para demonstrações contábeis com período inferior a 90 dias e informações comparativas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81016/cvm-esclarece-regras-contabeis-e-de-auditoria-para-fundos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Filigranas do ganho de capital - Parte 2",
+      "resumo": "Análise de como o Perguntão 2026 aborda alienações sem preço definido e indenização por servidão no tema ganho de capital, esclarecendo pontos complexos da tributação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80987/filigranas-do-ganho-de-capital-parte-2/",
+      "idioma_original": "pt"
+    }
+  ]
+}
