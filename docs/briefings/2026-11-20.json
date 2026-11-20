@@ -1,0 +1,95 @@
+{
+  "data": "2026-11-20",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI testa novo visual do ChatGPT e expande funcionalidades do Dots",
+      "resumo": "OpenAI está testando um novo layout para o ChatGPT que permite fixar ferramentas na barra inferior e reserva uma aba dedicada ao Dots, seu agente de IA. A atualização visa melhorar a experiência do usuário com acesso mais rápido às funcionalidades principais.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/20/inteligencia-artificial/o-chatgpt-mudou-por-ai-openai-testa-novo-visual-e-expande-dots/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google lança Gemini 4 Neon com novas capacidades",
+      "resumo": "Google liberou o Gemini 4 Neon, versão atualizada do seu modelo de IA com melhorias em processamento e funcionalidades. A nova versão representa avanços na competição entre os principais modelos de IA disponíveis no mercado.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-11-19",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic completa IPO recorde de US$ 105 bilhões",
+      "resumo": "Os sete fundadores da Anthropic (criadora do Claude) faturaram quase US$ 2 bilhões em IPO recorde, com a empresa sendo avaliada em aproximadamente US$ 105 bilhões. Cada fundador recebeu cerca de US$ 280 milhões na oferta a US$ 83 por ação.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Apple desenvolve agente de IA próprio para macOS",
+      "resumo": "Apple está construindo um agente de IA para executar tarefas no Mac, competindo com Meta Muse, Instinct, Claude e OpenAI Dots. A iniciativa reflete a estratégia da empresa de integrar capacidades de IA autônoma em seus produtos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Tech",
+      "titulo": "IA de reconhecimento confunde pacote de Doritos com arma em escola",
+      "resumo": "Sistema de IA em Baltimore identificou incorretamente um pacote de Doritos como arma dentro de uma escola, provocando abordagem armada. Estudantes e famílias processam o distrito escolar, polícia e fornecedor da tecnologia pela falha.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/20/inteligencia-artificial/ia-confunde-pacote-de-doritos-com-arma-em-escola-de-baltimore/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Tech",
+      "titulo": "Funcionário da Anthropic afirma ter solucionado Hipótese de Riemann",
+      "resumo": "Um funcionário da Anthropic publicou alegação de ter resolvido a Hipótese de Riemann, um dos problemas matemáticos mais famosos. Se comprovada, a solução teria implicações profundas para toda a matemática e criptografia.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mundo/funcionario-da-anthropic-diz-que-solucionou-problema-mais-famoso-da-matematica/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Nvidia sai do top 3 de empresas dos EUA em queda de ações",
+      "resumo": "A queda nas ações da Nvidia a removeu do ranking das três maiores empresas dos EUA por capitalização de mercado. A mudança reflete preferência dos investidores por empresas com investimentos em IA combinados com receitas consolidadas em nuvem e software.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/20/pro/queda-das-acoes-tira-nvidia-do-top-3-no-ranking-de-empresas-dos-eua/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "EFD Contribuições 2027: transição para CBS em 2027",
+      "resumo": "Contadores devem entender os cuidados com fechamento da EFD-Contribuições em 2026 e a transição para cobrança da Contribuição sobre Bens e Serviços (CBS) em 2027. Mudança representa importante alteração no sistema tributário nacional.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80909/efd-contribuicoes-2027-do-fechamento-de-2026-a-apuracao-da-cbs-em-2027/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Empresa não pode obrigar funcionário a abrir MEI",
+      "resumo": "Exigir que funcionário abra CNPJ pode configurar pejotização fraudulenta quando mantidos requisitos do vínculo empregatício. Decisão reforça proteção trabalhista contra tentativas de transformar relação de emprego em prestação de serviços.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80954/empresa-pode-obrigar-funcionario-a-abrir-mei-entenda/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Direitos de quem trabalha no Dia da Consciência Negra",
+      "resumo": "Trabalhadores escalados para atuar em 20 de novembro têm direito a pagamento em dobro ou folga compensatória conforme regras aplicáveis. Feriado altera funcionamento de bancos, comércios, serviços públicos e transportes.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/80946/feriado-de-20-de-novembro-veja-os-direitos-de-quem-trabalha-na-data/",
+      "idioma_original": "pt"
+    }
+  ]
+}
