@@ -3,117 +3,99 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "IA e Criatividade",
-      "titulo": "Atores licenciam rosto com IA para startups de microdrama",
-      "resumo": "Atores começam a licenciar versões em IA de seus rostos para startups de microdramas, uma tendência já popular na China. Especialistas questionam as consequências de longo prazo se a prática se expandir em Hollywood.",
+      "subtema": "Automação",
+      "titulo": "Agentes de IA em mensagens de texto ganham destaque",
+      "resumo": "Lista dos principais agentes de IA que podem operar dentro de aplicativos de mensagem, desde assistentes gerais até soluções especializadas para famílias, viagens e trabalho.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "url_original": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA e Matemática",
-      "titulo": "IA e matemático humano chegam a soluções para hipótese de Riemann de 167 anos",
-      "resumo": "Uma solução impulsionada por IA e uma solução de matemático humano foram apresentadas para a hipótese de Riemann, surpreendendo a comunidade científica. Ambas as abordagens geram debate sobre o futuro da matemática.",
+      "subtema": "Automação",
+      "titulo": "IA resolve conjectura de Riemann de 167 anos; solução humana surge simultaneamente",
+      "resumo": "IA apresenta solução para o histórico problema matemático da hipótese de Riemann, enquanto um matemático humano também resolve o mesmo problema. Ambos os resultados causam impacto na comunidade científica.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic realiza maior IPO da história com US$ 93,5 bilhões",
+      "resumo": "Empresa de IA Anthropic (criadora do Claude) faz oferta pública record, mas ações caem após estreia, refletindo cautela dos investidores com empresas de inteligência artificial.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/21/pro/anthropic-e-o-paradoxo-do-ipo-bilionario/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
       "subtema": "Gemini",
-      "titulo": "Google lança Gemini 4 Neon com novas capacidades",
-      "resumo": "Google apresenta Gemini 4 Neon como parte de sua sequência de lançamentos de ferramentas de IA. A atualização traz melhorias em recuperação de ferramentas e capacidades de agentes.",
-      "fonte": "TLDR AI",
-      "url_original": "https://tldr.tech/ai/2026-11-19",
+      "titulo": "Google expande lançamentos com ferramenta Neon",
+      "resumo": "Google continua seu ritmo acelerado de lançamentos com a apresentação do Neon, nova ferramenta dentro do ecossistema Gemini.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/google-shipping-spree-continues-with-neon",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "ChatGPT Wallet integra funcionalidade de pagamento",
-      "resumo": "OpenAI adiciona recurso de carteira ao ChatGPT, permitindo transações diretas dentro da plataforma. Funcionalidade faz parte da estratégia de expansão de serviços oferecidos.",
-      "fonte": "TLDR AI",
-      "url_original": "https://tldr.tech/ai/2026-11-16",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Nvidia",
-      "titulo": "Nvidia para de vender chips H200 na China após saída de Jensen Huang",
-      "resumo": "Nvidia descontinua vendas de chips H200 para China em meio ao escândalo da saída de CEO Jensen Huang. Empresa divulga resultados com crescimento saudável mas enfrenta pressão regulatória.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Startups e Financiamento",
-      "titulo": "Fundador Spotify investe em startup de fusão nuclear liderada por pesquisador de IA",
-      "resumo": "Daniel Ek, fundador do Spotify, está apoiando Europa Fusion, startup focada em energia de fusão fundada por pesquisador de IA. Iniciativa reflete interesse em tecnologias de longa duração.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Agentes de IA transformam comércio eletrônico com negociação automática",
-      "resumo": "Especialistas exploram futuro do comércio agentico, onde IA negocia automaticamente com varejistas. Publicidade emerge como possível modelo de monetização para essa nova dinâmica.",
-      "fonte": "Stratechery",
-      "url_original": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Chip Design",
-      "titulo": "IA é usada para projetar chips com melhor eficiência",
-      "resumo": "IA está sendo aplicada no design de chips, otimizando arquitetura e desempenho. Tendência marca mudança em como indústria de semicondutores aborda inovação.",
-      "fonte": "TLDR AI",
-      "url_original": "https://tldr.tech/ai/2026-11-19",
+      "titulo": "Novo lançamento OpenAI recebe críticas em comunidade",
+      "resumo": "Recente release do OpenAI enfrenta recepção negativa dos usuários, levantando questões sobre a direção dos produtos.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/openai-newest-release-lands-to-rough-reviews",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Segurança",
-      "titulo": "OpenAI enfrenta ação judicial da Califórnia",
-      "resumo": "Estado da Califórnia processa OpenAI, levantando questões sobre práticas de segurança e conformidade regulatória da empresa. Processo reflete crescente escrutínio sobre empresas de IA.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://therundownai.beehiiv.com/p/california-takes-openai-to-court",
-      "idioma_original": "en"
+      "titulo": "Hackers invadem sistemas do FBI e banco de dados de agências policiais",
+      "resumo": "Ataque cibernético afetou dados de agências de segurança e sistema de pagamentos a agricultores. Donald Trump comentou o incidente.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/21/seguranca/hackers-invadem-sistemas-do-fbi-trump-comenta-o-caso/",
+      "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Cibersegurança",
-      "titulo": "Onda de apagões cibernéticos questiona vulnerabilidades em infraestrutura digital",
-      "resumo": "Semana recente registrou interrupções massivas em serviços Microsoft, suspensão de voos nos EUA e problemas em sistemas da NSA. Especialistas debatem se causa foi ataque cibernético, IA ou falha de atualização.",
+      "subtema": "Segurança",
+      "titulo": "Onda de apagões em serviços digitais: culpados são atualizações, IA ou ataques cibernéticos",
+      "resumo": "Microsoft sofre interrupção em massa, voos suspensos nos EUA e falhas na NSA; investigação apontam para falhas técnicas, atualizações pendentes ou possíveis ataques.",
       "fonte": "G1 Economia",
       "url_original": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/21/ataques-ciberneticos-ia-ou-atualizacoes-pendentes-o-que-ha-por-tras-da-onda-de-apagoes-dos-ultimos-dias.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Smartphones",
-      "titulo": "Samsung permite bloqueio individual de apps com biometria",
-      "resumo": "Samsung introduz recurso na One UI 9.5 que permite bloquear apps com biometria, PIN, senha ou padrão. Funcionalidade começa a chegar aos Galaxy S26 para aumentar privacidade.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/samsung-agora-permite-bloquear-apps-individualmente-nos-celulares/",
+      "subtema": "Legislação",
+      "titulo": "Califórnia processa OpenAI por práticas irregulares",
+      "resumo": "Estado americano move ação judicial contra OpenAI, abrindo frente legal contra a empresa de inteligência artificial.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/california-takes-openai-to-court",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Legislação",
+      "titulo": "UE propõe taxa anual sobre big techs para financiar orçamento até 2034",
+      "resumo": "União Europeia anuncia cobrança sobre receitas de grandes empresas de tecnologia (publicidade online, serviços digitais, dados de usuários) para financiar orçamento 2028-2034.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/11/21/uniao-europeia-propoe-taxar-big-techs-para-financiar-orcamento-ate-2034.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Android",
-      "titulo": "Motorola confirma mais modelos que receberão Android 17",
-      "resumo": "Motorola amplia lista de celulares elegíveis para atualização Android 17. Modelos das linhas Edge, Razr e Moto G começam a receber o update.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/motorola-confirma-mais-celulares-que-receberao-o-android-17/",
+      "subtema": "Legislação",
+      "titulo": "Países não alcançam acordo na ONU sobre regulamentação de armas autônomas",
+      "resumo": "Negociações em Genebra terminaram sem consenso sobre regulação de armas que selecionam e atacam alvos sem intervenção humana.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/21/robotica/paises-nao-chegam-a-acordo-na-onu-sobre-armas-autonomas/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Reforma Tributária muda rotina de escritórios contábeis em 2027",
-      "resumo": "Entrada da CBS e implantação do IBS exigem ajustes em apuração de tributos, emissão de notas fiscais e cumprimento de obrigações. Escritórios precisam se preparar para mudanças operacionais.",
+      "titulo": "Reforma Tributária 2027: CBS e IBS exigem ajustes em escritórios contábeis",
+      "resumo": "Entrada da Contribuição sobre Serviços (CBS) e implantação do Imposto sobre Bens e Serviços (IBS) demandam mudanças em apuração de tributos, emissão de notas fiscais e cumprimento de obrigações.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/80949/reforma-tributaria-veja-o-que-muda-na-rotina-dos-escritorios-contabeis-em-2027/",
       "idioma_original": "pt"
@@ -121,37 +103,37 @@
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "União Europeia propõe imposto de 3% sobre receitas de big techs até 2034",
-      "resumo": "UE propõe cobrança anual de 3% sobre receitas digitais de grandes empresas de tecnologia para financiar orçamento de 2028 a 2034. Medida afeta ganhos com publicidade online, serviços digitais e dados de usuários.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/11/21/uniao-europeia-propoe-taxar-big-techs-para-financiar-orcamento-ate-2034.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "Abono salarial 2026 tem prazo até 28 de dezembro",
-      "resumo": "Trabalhadores têm até 28 de dezembro para consultar e sacar abono salarial de 2026. Valores disponíveis somam R$ 304,8 milhões.",
+      "titulo": "Abono salarial 2026: prazo termina em 28 de dezembro com R$ 304,8 milhões disponíveis",
+      "resumo": "Trabalhadores têm até 28 de dezembro para consultar e sacar valores do abono salarial de 2026, que somam mais de R$ 300 milhões.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/80948/abono-salarial-de-2026-veja-como-consultar-e-sacar-os-valores-disponiveis/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "eSocial",
-      "titulo": "Despesas com home office: o que empresa deve reembolsar",
-      "resumo": "Internet, energia elétrica e equipamentos podem gerar custos reembolsáveis para trabalhadores remotos. CLT estabelece diretrizes sobre responsabilidade da empresa com reembolso.",
+      "subtema": "Legislação Trabalhista",
+      "titulo": "Home office: CLT estabelece diretrizes sobre reembolso de despesas",
+      "resumo": "Empresa deve reembolsar despesas de internet, energia elétrica e equipamentos para trabalho remoto conforme normas da CLT.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/80919/home-office-quais-despesas-a-empresa-deve-reembolsar/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Administração Fiscal",
-      "titulo": "Pró-labore ou lucro: como remunerar sócios corretamente",
-      "resumo": "Pró-labore remunera trabalho do sócio, enquanto distribuição depende do lucro empresarial. Escolha correta afeta impostos e planejamento fiscal.",
+      "subtema": "Legislação Trabalhista",
+      "titulo": "Pró-labore vs. Lucro: diferenças na remuneração de sócios",
+      "resumo": "Pró-labore remunera trabalho do sócio independentemente de lucros; distribuição de lucros depende de resultados. Conheça as diferenças tributárias e quando usar cada modalidade.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/80921/pro-labore-ou-lucro-entenda-como-remunerar-os-socios/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "IBGE registra diferença de até 71% na renda entre brancos e negros",
+      "resumo": "Estudo do IBGE revela desigualdade salarial estrutural: trabalhadores brancos ganham significativamente mais; disparidades também aparecem em informalidade e ocupação de cargos de chefia.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81021/ibge-aponta-diferenca-de-ate-71-na-renda-entre-brancos-e-negros/",
       "idioma_original": "pt"
     }
   ]
