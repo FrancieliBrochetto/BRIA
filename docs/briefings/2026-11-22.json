@@ -3,63 +3,45 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Signal restringe capturas de tela contra vigilância por IA",
-      "resumo": "Signal limitou a capacidade de usuários fazerem screenshots em Android e iOS para combater o que chama de 'ameaça existencial' da vigilância por inteligência artificial. A medida busca proteger conversas de serem capturadas e processadas por sistemas de IA.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI lança ChatGPT Wallet e agentes sempre ativos",
-      "resumo": "OpenAI apresentou novas funcionalidades incluindo ChatGPT Wallet para transações e agentes de IA que funcionam continuamente. Recursos fazem parte da expansão de capacidades do ChatGPT para aplicações práticas do dia a dia.",
-      "fonte": "TLDR AI",
-      "url_original": "https://tldr.tech/ai/2026-11-16",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Google lança Gemini 4 Neon com novas capacidades",
-      "resumo": "Google apresentou Gemini 4 Neon, versão atualizada do modelo de IA com melhorias em capacidades de processamento. Lançamento reforça competição da Google com OpenAI no mercado de modelos de linguagem.",
-      "fonte": "TLDR AI",
-      "url_original": "https://tldr.tech/ai/2026-11-19",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Anthropic faz maior IPO da história",
-      "resumo": "Anthropic, empresa desenvolvedora do Claude, realizou o maior IPO (oferta pública inicial) da história. Oferta reflete investimento crescente em startups de IA e consolidação da empresa no mercado de modelos de linguagem.",
+      "titulo": "Anthropic realiza maior IPO da história",
+      "resumo": "A Anthropic completou sua oferta pública de ações, estabelecendo um recorde como o maior IPO já realizado. A empresa impôs condições incomuns aos bancos de Wall Street durante as negociações do processo.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/anthropic-pulls-off-the-biggest-ipo-ever",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Python",
-      "titulo": "Falha crítica descoberta em Java afeta 90% das grandes empresas",
-      "resumo": "Empresa de cibersegurança usou IA para descobrir vulnerabilidade crítica nas funções de memória do Java. Linguagem é utilizada por 90% das grandes empresas do mundo, tornando a descoberta significativa para segurança corporativa.",
-      "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/22/a-falha-critica-descoberta-na-linguagem-de-programacao-usada-por-90-das-grandes-empresas-do-mundo.ghtml",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Agentes de IA em mensagens de texto ganham destaque",
-      "resumo": "Lista de agentes de IA que funcionam dentro de apps de mensagens cresceu, incluindo assistentes gerais e especializados para famílias, viagens e trabalho. Tendência mostra migração de IA para ferramentas de comunicação do dia a dia.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "subtema": "Gemini",
+      "titulo": "Google lança Gemini 4 Neon com novas capacidades",
+      "resumo": "Google prossegue com seu cronograma de lançamentos de produtos de IA, apresentando a versão Gemini 4 Neon com funcionalidades expandidas. A empresa continua sua estratégia agressiva de inovação em IA.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-11-19",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Atores licenciam rosto para startups de microdrama com IA",
-      "resumo": "Ator licenciou versão digital de seu rosto para startup de microdramas, tendência já popular na China. Especialistas questionam consequências de longo prazo se a prática se popularizar em Hollywood.",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI lança ChatGPT Wallet e agentes sempre ativos",
+      "resumo": "OpenAI introduziu a funcionalidade ChatGPT Wallet para pagamentos integrados e agentes que funcionam continuamente. Os lançamentos mais recentes receberam avaliações mistas da comunidade.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-11-16",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Segurança",
+      "titulo": "Signal restringe capturas de tela contra vigilância por IA",
+      "resumo": "O Signal limitou a capacidade dos usuários de fazer capturas de tela em seus apps Android e iOS como defesa contra ameaças de vigilância por inteligência artificial. A medida aborda uma ameaça existencial que a empresa identifica.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Comércio",
+      "titulo": "Atores licenciam rostos para startup de microdramas com IA",
+      "resumo": "Atores começam a vender versões em IA de seus rostos para startups de microdramas, uma tendência já popular na China. Especialistas questionam as consequências de longo prazo se essa prática se expandir para Hollywood.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
       "idioma_original": "en"
@@ -67,73 +49,100 @@
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Samsung permite bloqueio individual de apps com biometria",
-      "resumo": "Recurso da One UI 9.5 permite proteger aplicativos individuais com biometria, PIN, senha ou padrão. Funcionalidade começa a chegar aos Galaxy S26 como medida de segurança adicional.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/samsung-agora-permite-bloquear-apps-individualmente-nos-celulares/",
+      "titulo": "IA agents integrados em mensagens de texto ganham destaque",
+      "resumo": "Diversos agentes de IA podem agora operar dentro de aplicativos de mensagens de texto, desde assistentes gerais até agentes especializados para famílias, viagens e trabalho. A lista destaca as ferramentas mais notáveis nesta categoria.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Python",
+      "titulo": "Falha crítica descoberta em Java afeta 90% das grandes empresas",
+      "resumo": "Uma empresa de cibersegurança usou IA para identificar uma vulnerabilidade crítica nas funções de memória do Java, linguagem usada por 90% das grandes corporações globais. A descoberta marca mais um caso de IA detectando falhas críticas em infraestrutura tecnológica.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/22/a-falha-critica-descoberta-na-linguagem-de-programacao-usada-por-90-das-grandes-empresas-do-mundo.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Motorola confirma mais celulares recebendo Android 17",
-      "resumo": "Motorola anunciou expansão de celulares que receberão atualização para Android 17. Update já começou em modelos das linhas Edge, Razr e Moto G.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/motorola-confirma-mais-celulares-que-receberao-o-android-17/",
-      "idioma_original": "pt"
+      "subtema": "Chip Design",
+      "titulo": "IA é usada para projetar novos chips de forma avançada",
+      "resumo": "Inteligência artificial agora auxilia no design de chips, automatizando processos complexos de engenharia. A tendência marca avanço significativo na aplicação de IA ao desenvolvimento de hardware.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-11-19",
+      "idioma_original": "en"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Nvidia enfrenta investigação sobre contabilidade nos EUA",
-      "resumo": "Comissão de Valores Mobiliários (SEC) dos EUA investiga possíveis irregularidades contábeis na gigante de chips Nvidia. Investigação amplifica crise enfrentada pela empresa.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/11/22/pro/contabilidade-da-nvidia-e-alvo-de-investigacao-nos-estados-unidos/",
-      "idioma_original": "pt"
+      "tema": "IA & Tech",
+      "subtema": "Regulação",
+      "titulo": "Califórnia processa OpenAI na justiça",
+      "resumo": "O estado da Califórnia iniciou ação judicial contra a OpenAI, levantando questões regulatórias sobre práticas da empresa. O caso marca escalada em supervisão estatal sobre grandes empresas de IA.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/california-takes-openai-to-court",
+      "idioma_original": "en"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "EUA buscam respostas sobre venda de chips Nvidia para China",
-      "resumo": "Secretário americano declarou que país busca esclarecimentos sobre vendas de chips Nvidia para China. Questão envolve políticas de controle de exportação de tecnologia.",
+      "tema": "IA & Tech",
+      "subtema": "Nvidia",
+      "titulo": "Governo Trump investiga compliance de vendas de chips Nvidia para China",
+      "resumo": "O secretário do Tesouro americano busca informações sobre quem supervisionava compliance na Nvidia durante vendas de chips. O conselho da empresa descartou a sugestão do Trump de recontratar Jensen Huang.",
       "fonte": "InfoMoney",
       "url_original": "https://www.infomoney.com.br/mundo/eua-buscam-respostas-sobre-venda-de-chips-da-nvidia-para-china-diz-secretario/",
       "idioma_original": "pt"
     },
     {
+      "tema": "IA & Tech",
+      "subtema": "Nvidia",
+      "titulo": "Homem acusado de contrabandear chips Nvidia para a China",
+      "resumo": "Li Ming foi acusado de atuar nos bastidores de rede ligada à ex-companheira de Jensen Huang, revelando esquema mais amplo para contornar sanções americanas. O caso expõe vulnerabilidades em controles de exportação.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/22/pro/o-ajudante-de-alice-huang-homem-e-acusado-de-contrabandear-chips-da-nvidia-para-a-china/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Cultura Corporativa",
+      "titulo": "Irmãos Amodei moldaram cultura excêntrica da Anthropic",
+      "resumo": "Dario e Daniela Amodei criaram rituais excêntricos na Anthropic sob lema 'mantenha a Anthropic estranha' e filtram candidatos focados apenas em dinheiro. A abordagem reflete filosofia única de gestão da empresa.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/22/pro/como-os-irmaos-amodei-moldaram-a-cultura-excentrica-da-anthropic/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Data Centers",
+      "titulo": "Data centers no centro da reação contra Big Tech",
+      "resumo": "Jornalista Paris Marx analisa em novo livro 'Hyperscale' o papel central dos data centers na reação contra as grandes empresas de tecnologia. O tema levanta questões sobre sustentabilidade e impacto ambiental.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "idioma_original": "en"
+    },
+    {
       "tema": "Contabilidade & Legislação",
       "subtema": "Reforma Tributária",
-      "titulo": "Reforma Tributária muda rotina de escritórios contábeis em 2027",
-      "resumo": "Entrada da CBS e implantação do IBS exigem ajustes na apuração de tributos, emissão de notas fiscais e cumprimento de obrigações em 2027. Escritórios precisam se preparar para mudanças significativas.",
+      "titulo": "Reforma Tributária traz mudanças na rotina dos escritórios em 2027",
+      "resumo": "Entrada da CBS e implantação do IBS exigem ajustes na apuração de tributos, emissão de notas fiscais e cumprimento de obrigações. Escritórios contábeis precisam se preparar para novo cenário fiscal.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/80949/reforma-tributaria-veja-o-que-muda-na-rotina-dos-escritorios-contabeis-em-2027/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Contabilidade",
+      "subtema": "Lançamentos Contábeis",
       "titulo": "Como lançar juros e multas por atraso na contabilidade",
-      "resumo": "Juros, multas e encargos pagos a fornecedores devem ser registrados separadamente da compra. Artigo orienta os lançamentos contábeis corretos e cuidados necessários.",
+      "resumo": "Juros, multas e encargos pagos a fornecedores devem ser registrados separadamente da compra. Artigo detalha os lançamentos contábeis corretos e cuidados necessários.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/80993/como-lancar-juros-e-multas-por-atraso-na-contabilidade/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "Governo oferece atendimento presencial para contas GOV.BR em 265 municípios",
-      "resumo": "Rede do MGI está presente em 265 municípios e oferece suporte para criar, recuperar e proteger contas GOV.BR. Iniciativa facilita acesso a serviços digitais governamentais.",
+      "subtema": "GOV.BR",
+      "titulo": "Atendimento presencial para contas GOV.BR em 265 municípios",
+      "resumo": "Rede do MGI oferece suporte presencial em 265 municípios para criar, recuperar e proteger contas GOV.BR. Iniciativa facilita acesso a serviços digitais governamentais.",
       "fonte": "Contábeis",
       "url_original": "https://www.contabeis.com.br/noticias/81008/onde-encontrar-atendimento-presencial-para-acessar-a-conta-gov-br/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Legislação",
-      "titulo": "44% dos pequenos negócios já sofreram tentativas de golpes digitais",
-      "resumo": "Pesquisa do Sebrae revela que quase metade dos pequenos negócios enfrentou tentativas de golpes digitais ou por telefone. Artigo apresenta 5 cuidados essenciais para reduzir riscos.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/80920/5-cuidados-para-proteger-empresas-de-golpes-digitais/",
       "idioma_original": "pt"
     }
   ]
