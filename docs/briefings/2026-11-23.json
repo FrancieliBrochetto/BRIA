@@ -1,0 +1,140 @@
+{
+  "data": "2026-11-23",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google Search integra IA com Drive e Wallet para respostas personalizadas",
+      "resumo": "O modo IA do Google Search agora acessa dados do Google Drive e Wallet para fornecer respostas mais personalizadas. A integração aproveita o ecossistema de dados já disponível nos serviços Google. Funcionalidade disponível no app Gemini.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude ajuda a resolver maior problema aberto da matemática",
+      "resumo": "Claude contribuiu para a solução de um dos maiores problemas não resolvidos da matemática. A IA assistiu na análise e resolução de desafio matemático complexo.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/claude-helps-solve-math-s-biggest-open-problem",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Mercado de IA",
+      "titulo": "Anthropic realiza maior IPO da história",
+      "resumo": "A Anthropic completou o maior IPO (oferta pública inicial de ações) já registrado. A empresa de IA busca expandir suas operações e pesquisa em modelos de linguagem.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-pulls-off-the-biggest-ipo-ever",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Nvidia",
+      "titulo": "Jensen Huang retorna como CEO da Nvidia após 11 dias; ações recuperam US$ 953 bi",
+      "resumo": "Jensen Huang foi reempossado como CEO da Nvidia nesta segunda-feira após renúncia em 12 de novembro. As ações recuperaram US$ 953 bilhões em um dia, superior ao valor de toda a B3. Huang será testificado no Senado sobre seu relacionamento com suspeita de espionagem chinesa.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/23/nvidia-recupera-us-953-bilhoes-em-um-dia-com-volta-de-ceo-valor-maior-que-o-de-toda-a-b3.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Nvidia",
+      "titulo": "Empresa Megaspeed, ligada ao escândalo de Huang, caminha para sanções americanas",
+      "resumo": "A Megaspeed, liderada por Alice Huang (pessoa investigada por suspeita de espionagem), pode ser incluída em lista negra dos EUA. Empresas americanas seriam proibidas de fazer negócios com ela sem licença especial do governo federal.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa cai 0,95% e renova mínima do ano com preocupações fiscais",
+      "resumo": "O Ibovespa fechou em queda de 0,95%, renovando a mínima do ano. Aversão global a risco e questões fiscais brasileiras pesaram nas negociações.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-cai-23112026-fiscal-e-com-ajustes-pos-feriado/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Braskem salta 12% com acordo de reestruturação de dívidas com credores",
+      "resumo": "A Braskem alcançou acordo com credores sobre plano de reestruturação de dívidas. As ações subiram 12% após anúncio da negociação.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/braskem-sobe-forte-com-noticia-sobre-acordo-com-credores-para-reestruturar-dividas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Petrobras cai mais de 3% por queda de petróleo e expectativas sobre plano de negócios",
+      "resumo": "Ações da Petrobras (PETR3 e PETR4) recuaram mais de 3%. Queda de preços internacionais de petróleo, noticiário sobre Braskem e expectativa sobre novo plano de negócios pressionaram cotações.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/petrobras-petr3petr4-3-fatores-que-fizeram-as-acoes-cairem-mais-de-3-nesta-2a/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ações do BRB perdem quase 75% do valor em um ano",
+      "resumo": "O Banco de Brasília (BRB) viu ações caírem 75% em um ano, afetado pela crise do Banco Master e falta de divulgação de balanços operacionais há 12 meses. Ações ordinárias e preferenciais foram impactadas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/acoes-do-brb-perderam-quase-75percent-do-valor-em-um-ano-entenda.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Tributação de dividendos: autores solicitam retirada de propostas legislativas",
+      "resumo": "Requerimento para retirada do PL 5.854/2026 foi protocolado na Câmara em 19 de novembro. Outra proposta sobre tributação de dividendos também teve retirada solicitada.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81074/tributacao-de-dividendos-autores-pedem-retirada-de-pls/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Refis 2026 começa hoje em Sergipe com descontos de até 95%",
+      "resumo": "Adesão ao Refis permite renegociar débitos de ICMS, IPVA e ITCMD com descontos significativos em juros e multas. Programa começou em Sergipe nesta segunda-feira.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81069/refis-2026-comeca-hoje-23-com-descontos-de-ate-95-em-sergipe/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Trabalhista",
+      "titulo": "Ministério do Trabalho regulamenta jornada 5x2 e redução de horas sem perda salarial",
+      "resumo": "Portaria publicada nesta segunda estabelece dois dias de repouso semanal e redução gradual de 44 para 40 horas semanais sem diminuição de salário. Três outras portarias ainda serão divulgadas.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/23/ministerio-do-trabalho-portaria-escala-5x2.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "13º salário: primeira parcela deve ser paga até 30 de novembro",
+      "resumo": "Prazo legal para pagamento da primeira parcela do 13º salário é 30 de novembro. Obrigação aplica-se a trabalhadores com carteira assinada e servidores públicos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81070/13o-salario-primeira-parcela-deve-ser-paga-ate-30-de-novembro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Legislação Trabalhista",
+      "titulo": "Nova jornada 5x2 altera cálculo de hora extra com maior custo",
+      "resumo": "Redução da jornada para 40 horas semanais modifica o divisor salarial, aumenta o valor da hora trabalhada e impacta o custo das horas extras para empresas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81067/o-que-muda-no-calculo-da-hora-extra-com-a-nova-jornada-5x2/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Contabilidade",
+      "titulo": "Adiantamento de clientes: quando reconhecer a receita",
+      "resumo": "Valores recebidos antes da entrega de produtos ou serviços podem ser registrados como passivo. O reconhecimento como receita segue critérios específicos de contabilização.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81075/adiantamento-de-clientes-quando-reconhecer-a-receita/",
+      "idioma_original": "pt"
+    }
+  ]
+}
