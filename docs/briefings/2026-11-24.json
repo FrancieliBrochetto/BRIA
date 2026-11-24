@@ -1,0 +1,113 @@
+{
+  "data": "2026-11-24",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Anthropic lança Claude Ship para revisar e aprovar mudanças em código",
+      "resumo": "A Anthropic apresentou Claude Ship, ferramenta que utiliza agentes de IA para revisar, corrigir e aprovar alterações em códigos de programação de forma automatizada.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/23/inteligencia-artificial/anthropic-lanca-ia-que-revisa-corrige-e-aprova-alteracoes-em-codigos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Supertake capta US$ 20 milhões para transformar previsões de mercado em portfólios via IA",
+      "resumo": "Startup Supertake levantou US$ 20 milhões para permitir que agentes de IA convertam previsões de mercado dos usuários em carteiras de ações automaticamente, sem necessidade de seleção manual de papéis.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Nvidia recupera US$ 953 bilhões com retorno de Jensen Huang à liderança",
+      "resumo": "Jensen Huang reassumiu como CEO da Nvidia após aprovação unânime do conselho. A empresa recuperou US$ 953 bilhões em valor de mercado em um único dia, superior ao valor total da B3.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/23/nvidia-recupera-us-953-bilhoes-em-um-dia-com-volta-de-ceo-valor-maior-que-o-de-toda-a-b3.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Meta suspende emissão de ações Classe C sem direito a voto em disputa com Zuckerberg",
+      "resumo": "Meta acordou em suspender a emissão de ações ordinária Classe C, seja por dividendos ou outra forma, durante disputa judicial envolvendo Mark Zuckerberg.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/meta-suspende-acoes-sem-direito-a-voto-com-zuckerberg-diante-de-disputa-judicial/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Petrobras investe US$ 122 bilhões entre 2027 e 2031, aumento de 11,9%",
+      "resumo": "Petrobras aprovou novo plano de negócios com investimentos de US$ 122 bilhões no próximo ciclo, representando aumento de 11,93% ante período anterior. Mais de 70% irá para exploração de petróleo e gás.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/23/petrobras-investimento-2027-a-2031.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Petrobras retorna ao setor de etanol com compra de 42% da Neomille por R$ 2,8 bi",
+      "resumo": "Petrobras fechou acordo para adquirir 42% da produtora de etanol de milho Neomille por R$ 2,8 bilhões, marcando retorno à produção de etanol após período afastado do segmento.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/negocios/noticia/2026/11/23/petrobras-etanol.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Câmara aprova texto-base do pacote fiscal do governo Lula",
+      "resumo": "Câmara dos Deputados aprovou o texto-base do projeto de ajuste fiscal proposto pelo governo. Próximas etapas incluem votação de destaques e segundo turno para finalização.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/politica/camara-aprova-pacote-fiscal-proposto-pelo-governo-lula/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Senado solicita ao TCU estudos sobre alíquota de referência da CBS",
+      "resumo": "Senado pediu ao Tribunal de Contas da União análise sobre a alíquota de referência da CBS. Proposta também preserva créditos de PIS e Cofins para abatimento de débitos do novo tributo.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81063/aliquota-da-cbs-senado-pede-estudos-ao-tcu/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Autores retiram projetos de lei sobre tributação de dividendos",
+      "resumo": "Requerimento para retirada do PL 5.854/2026 foi protocolado na Câmara em 19 de novembro. Outra proposta sobre dividendos também teve retirada solicitada.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81074/tributacao-de-dividendos-autores-pedem-retirada-de-pls/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Refis 2026 começa em Sergipe com descontos de até 95%",
+      "resumo": "Programa de refinanciamento iniciado em 23 de novembro permite renegociar débitos de ICMS, IPVA e ITCMD com reduções de até 95% em juros e multas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81069/refis-2026-comeca-hoje-23-com-descontos-de-ate-95-em-sergipe/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "13º salário: primeira parcela deve ser paga até 30 de novembro",
+      "resumo": "Primeira parcela do 13º salário deve ser paga até fim de novembro para trabalhadores com carteira assinada e servidores públicos. Conheça prazos e formas de cálculo.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81070/13o-salario-primeira-parcela-deve-ser-paga-ate-30-de-novembro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Contabilidade",
+      "titulo": "Adiantamento de clientes: quando reconhecer a receita",
+      "resumo": "Valores recebidos antes da entrega de produtos ou serviços devem ser registrados como passivo até o cumprimento da obrigação, quando se tornam receita.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81075/adiantamento-de-clientes-quando-reconhecer-a-receita/",
+      "idioma_original": "pt"
+    }
+  ]
+}
