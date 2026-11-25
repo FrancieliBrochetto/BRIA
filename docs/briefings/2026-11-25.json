@@ -3,18 +3,18 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "IA & Automação",
-      "titulo": "IA cria arquitetura de CPU 4,6 vezes mais eficiente",
-      "resumo": "Projeto Frostbite da startup Architect Labs superou núcleos convencionais em simulações de 25 programas. Desempenho precisa ser confirmado em hardware real.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/ia-cria-arquitetura-de-cpu-quase-46-vezes-mais-eficiente/",
-      "idioma_original": "pt"
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI unifica medidor de uso entre Chat e Work com limites mais curtos",
+      "resumo": "OpenAI está implementando um único medidor de consumo ao combinar as experiências ChatGPT Chat e Work. Usuários pesados podem atingir limites de uso mais rapidamente com a integração das plataformas.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Claude ajuda a resolver maior problema aberto da matemática",
-      "resumo": "Claude contribuiu para solução de importante problema matemático em aberto. Demonstra capacidades avançadas de raciocínio lógico e análise complexa.",
+      "titulo": "Claude da Anthropic ajuda a resolver maior problema aberto da matemática",
+      "resumo": "Claude contribuiu para resolver um dos maiores problemas em aberto da matemática. A IA da Anthropic demonstra capacidade avançada em raciocínio matemático complexo.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/claude-helps-solve-math-s-biggest-open-problem",
       "idioma_original": "en"
@@ -22,127 +22,127 @@
     {
       "tema": "IA & Tech",
       "subtema": "Gemini",
-      "titulo": "Google lança Gemini 4 Neon com novas capacidades",
-      "resumo": "Google continua sua sequência de lançamentos com o Gemini 4 Neon. Ferramenta inclui capacidades para busca de informações e detecção de erros de faturamento.",
+      "titulo": "Google lança Gemini 4 Neon com novas funcionalidades",
+      "resumo": "Google continua sua série de lançamentos com o Gemini 4 Neon, expandindo suas capacidades de IA. A ferramenta pode ser testada para identificar erros de faturamento e outras aplicações práticas.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/google-shipping-spree-continues-with-neon",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA & Automação",
-      "titulo": "New York proíbe brinquedos com IA por cinco anos",
-      "resumo": "Estado bane chatbots de IA para crianças após pesquisa revelar falhas de segurança. Riscos incluem exposição a conteúdo inadequado e danos ao desenvolvimento emocional.",
+      "subtema": "Automação",
+      "titulo": "Neuralink: paciente joga GTA VI apenas com o pensamento",
+      "resumo": "Participante do ensaio clínico da Neuralink controla PS5 sem usar controle, apenas com comandos mentais convertidos pelo implante. Demonstra avanço significativo em interface cérebro-máquina para controle de dispositivos.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/25/games-e-consoles/neuralink-gta-6-paciente-joga-ps5-pensamento/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Tech",
+      "titulo": "New York bane brinquedos de IA por cinco anos após falhas de segurança",
+      "resumo": "Nova York proibiu chatbots de IA para brinquedos por cinco anos após pesquisa revelar falhas críticas de segurança. Riscos incluem exposição a conteúdo inadequado e danos ao desenvolvimento emocional infantil.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA & Automação",
-      "titulo": "Character.AI desafia leilão de dados privados de usuários",
-      "resumo": "Procuradores de estados contestam plano de venda de dados de mais de 21 milhões de contas, incluindo 2,1 milhões de menores. Dados incluem conversas privadas sensíveis.",
+      "subtema": "IA & Tech",
+      "titulo": "Nvidia enfrenta possível rebaixamento de crédito da S&P por riscos de governança",
+      "resumo": "S&P pondera reduzir rating de crédito da Nvidia para AA-, considerando riscos de governança corporativa e dependência de liderança-chave. Decisão reflete preocupações com estrutura de comando da empresa.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "url_original": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA & Automação",
-      "titulo": "SpaceX recebe autorização para lançar um milhão de satélites com IA",
-      "resumo": "Projeto Starmind da SpaceX pretende levar capacidade de processamento de IA para o espaço. Autorização aprovada para grande constelação de satélites.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/11/25/ciencia-e-espaco/spacex-recebe-autorizacao-para-lancar-um-milhao-de-satelites-de-ia/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "ChatGPT",
-      "titulo": "OpenAI resolve cálculos de matrizes e avança em raciocínio matemático",
-      "resumo": "OpenAI publica progresso em resolução de problemas matemáticos com matrizes. Avanço integrado aos modelos mais recentes.",
-      "fonte": "TLDR AI",
-      "url_original": "https://tldr.tech/ai/2026-11-25",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA & Automação",
-      "titulo": "Amazon e Meta discutem fim do bloqueio do agente de IA Muse",
-      "resumo": "Negociações em andamento para encerrar bloqueio de dois meses contra agente de IA Muse. Acordo potencial entre gigantes de tech.",
+      "subtema": "IA & Tech",
+      "titulo": "CEO da Anthropic rebate acusações sobre abdicação de controle humano à IA",
+      "resumo": "Dario Amodei da Anthropic nega que a empresa favoreça a entrega de agência humana à IA. Argumenta ser absurdo enquanto empresas líderes automatizam cada vez mais pesquisa e desenvolvimento de modelos.",
       "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "url_original": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "IA & Automação",
-      "titulo": "Aparelhos antigos sem atualizações são porta de entrada para hackers",
-      "resumo": "Quando fabricantes param de atualizar dispositivos, brechas de segurança ficam abertas. Obsolescência digital representa risco crescente de invasão.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/11/25/seguranca/aparelho-antigo-que-ainda-funciona-bem-eh-porta-para-hackers/",
-      "idioma_original": "pt"
+      "subtema": "IA & Tech",
+      "titulo": "Três fundadores da xAI buscam desenvolver IA para prever o futuro",
+      "resumo": "Fundadores da xAI trabalham em tecnologia de previsão para o futuro usando IA. Projeto ambiciona ir além de análise preditiva tradicional.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/three-xai-founders-want-ai-to-predict-the-future",
+      "idioma_original": "en"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "S&P coloca rating AA da Nvidia em observação negativa por governança",
-      "resumo": "Agência questiona falta de supervisão do conselho sobre conduta dos executivos. Saída e retorno do CEO não responderam suficientemente às preocupações.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/sp-coloca-ratings-aa-da-nvidia-em-observacao-negativa-por-riscos-de-governanca/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Bolsas dos EUA despencam com tarifas de Trump e venda de IA",
-      "resumo": "Nasdaq cai 4,22% e S&P 500 recua 2,84% após anúncio de novas tarifas. Forte venda de ações de inteligência artificial pressiona mercado.",
+      "tema": "IA & Tech",
+      "subtema": "IA & Tech",
+      "titulo": "FCC autoriza SpaceX a lançar 1 milhão de satélites para data centers no espaço",
+      "resumo": "FCC dos EUA autorizou SpaceX a lançar até 1 milhão de satélites até 2040 para criar infraestrutura de data centers em órbita. Iniciativa visa expandir capacidade de computação através de satélites espaciais.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/11/25/trump-tarifas-ia-bolsa-de-ny-wall-street.ghtml",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/11/25/fcc-autoriza-spacex-a-lancar-1-milhao-de-satelites-para-criar-data-centers-no-espaco.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Cosan negocia venda de participações minoritárias em Rumo, Compass e Moove",
+      "resumo": "Holding avalia vender participações minoritárias em três subsidiárias para reduzir dívida. Grupos como Cofco, Bunge, Ultra e Grupo México demonstram interesse nas operações.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/business/cosan-negocia-venda-de-participacoes-na-rumo-compass-e-moove-para-reduzir-divida/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Câmbio",
-      "titulo": "EUA propõem novas tarifas contra Brasil e 14 economias",
-      "resumo": "Governo americano propõe aumento de tributação sobre açúcar importado do Brasil e tarifa de 10% sobre aeronaves. Novas cotas afetarão setor agropecuário.",
+      "titulo": "Citigroup avalia retorno à Venezuela negociando sanções com os EUA",
+      "resumo": "Citigroup discute condições com administração Trump para retomar operações na Venezuela após cinco anos. Movimento pode facilitar reintegração do país ao sistema financeiro americano.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/citigroup-avalia-retorno-a-venezuela-apos-cinco-anos-e-negocia-sancoes-com-os-eua/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "CMN anuncia medidas para conter endividamento das famílias brasileiras",
+      "resumo": "Conselho Monetário Nacional aprova pacote de ações contra superendividamento, incluindo redução gradual de limite de cartão para usuários de rotativo. Medida busca proteger população do endividamento de risco.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/eua-querem-mudar-taxacao-sobre-acucar-brasileiro-veja-como-pode-ficar.ghtml",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/25/cmn-anuncia-medidas-para-conter-o-endividamento-das-familias.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "CFC define anuidades de 2027; contador pagará R$ 749",
-      "resumo": "Resolução estabelece valores de anuidades para profissionais e empresas contábeis de 2027. Inclui descontos, prazos de pagamento e regras de parcelamento.",
+      "titulo": "REIDI terá teto de benefícios e seleção de projetos por comitê",
+      "resumo": "LC 239/2026 estabelece limite para incentivo REIDI vinculado ao IBS e CBS, corrigido pelo IPCA. Projetos serão selecionados pelo Poder Executivo através de comitê.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/81160/cfc-define-anuidades-de-2027-contador-pagara-r-749/",
+      "url_original": "https://www.contabeis.com.br/noticias/81164/reidi-tera-teto-de-beneficios-e-selecao-de-projetos-por-comite/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "Receita limita uso de créditos tributários em RET e SCP",
-      "resumo": "Solução de Consulta Cosit 184/2026 permite compensar débitos do RET com créditos próprios. Impede uso de créditos da sócia ostensiva para pagar tributos da SCP.",
+      "titulo": "SP permite usar crédito de ICMS na compra de equipamentos do ativo imobilizado",
+      "resumo": "Empresas comerciais podem transferir crédito acumulado de ICMS para aquisição de bens do ativo imobilizado, mediante cumprimento de requisitos específicos.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/81158/receita-limita-uso-de-creditos-tributarios-em-ret-e-scp/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "ICMS",
-      "titulo": "Perda de combustível por evaporação não gera crédito de ICMS em SP",
-      "resumo": "Sefaz-SP esclarece que postos revendedores não podem aproveitar créditos de ICMS sobre combustíveis perdidos por evaporação. Decisão afeta setor de combustíveis.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/81151/perda-de-combustivel-por-evaporacao-nao-gera-credito-de-icms-em-sp/",
+      "url_original": "https://www.contabeis.com.br/noticias/81167/sp-permite-usar-credito-de-icms-na-compra-de-equipamentos/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Leis Novas",
-      "titulo": "STJ vai definir contribuição sobre intervalo intrajornada suprimido",
-      "resumo": "STJ analisará se incidem contribuições previdenciárias sobre Hora Repouso Alimentação após Reforma Trabalhista. Tribunal suspende processos sobre tema.",
+      "titulo": "STJ vai definir contribuição sobre rateio do Fundeb",
+      "resumo": "Tema 1.487 no STJ discutirá se valores distribuídos a profissionais de educação entram na base de contribuição previdenciária patronal. Decisão impactará tributação do Fundeb.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/81148/stj-vai-definir-contribuicao-sobre-intervalo-intrajornada-suprimido/",
+      "url_original": "https://www.contabeis.com.br/noticias/81165/stj-vai-definir-contribuicao-sobre-rateio-do-fundeb/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "CFC define anuidades de 2027 com contador pagando R$ 749",
+      "resumo": "Resolução do Conselho Federal de Contabilidade estabelece valores de anuidade para 2027, descontos, prazos e regras de parcelamento para profissionais e empresas contábeis.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81160/cfc-define-anuidades-de-2027-contador-pagara-r-749/",
       "idioma_original": "pt"
     }
   ]
