@@ -1,0 +1,149 @@
+{
+  "data": "2026-11-25",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Automação",
+      "titulo": "IA cria arquitetura de CPU 4,6 vezes mais eficiente",
+      "resumo": "Projeto Frostbite da startup Architect Labs superou núcleos convencionais em simulações de 25 programas. Desempenho precisa ser confirmado em hardware real.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/ia-cria-arquitetura-de-cpu-quase-46-vezes-mais-eficiente/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude ajuda a resolver maior problema aberto da matemática",
+      "resumo": "Claude contribuiu para solução de importante problema matemático em aberto. Demonstra capacidades avançadas de raciocínio lógico e análise complexa.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/claude-helps-solve-math-s-biggest-open-problem",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google lança Gemini 4 Neon com novas capacidades",
+      "resumo": "Google continua sua sequência de lançamentos com o Gemini 4 Neon. Ferramenta inclui capacidades para busca de informações e detecção de erros de faturamento.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/google-shipping-spree-continues-with-neon",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Automação",
+      "titulo": "New York proíbe brinquedos com IA por cinco anos",
+      "resumo": "Estado bane chatbots de IA para crianças após pesquisa revelar falhas de segurança. Riscos incluem exposição a conteúdo inadequado e danos ao desenvolvimento emocional.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Automação",
+      "titulo": "Character.AI desafia leilão de dados privados de usuários",
+      "resumo": "Procuradores de estados contestam plano de venda de dados de mais de 21 milhões de contas, incluindo 2,1 milhões de menores. Dados incluem conversas privadas sensíveis.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Automação",
+      "titulo": "SpaceX recebe autorização para lançar um milhão de satélites com IA",
+      "resumo": "Projeto Starmind da SpaceX pretende levar capacidade de processamento de IA para o espaço. Autorização aprovada para grande constelação de satélites.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/25/ciencia-e-espaco/spacex-recebe-autorizacao-para-lancar-um-milhao-de-satelites-de-ia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI resolve cálculos de matrizes e avança em raciocínio matemático",
+      "resumo": "OpenAI publica progresso em resolução de problemas matemáticos com matrizes. Avanço integrado aos modelos mais recentes.",
+      "fonte": "TLDR AI",
+      "url_original": "https://tldr.tech/ai/2026-11-25",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Automação",
+      "titulo": "Amazon e Meta discutem fim do bloqueio do agente de IA Muse",
+      "resumo": "Negociações em andamento para encerrar bloqueio de dois meses contra agente de IA Muse. Acordo potencial entre gigantes de tech.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Automação",
+      "titulo": "Aparelhos antigos sem atualizações são porta de entrada para hackers",
+      "resumo": "Quando fabricantes param de atualizar dispositivos, brechas de segurança ficam abertas. Obsolescência digital representa risco crescente de invasão.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/25/seguranca/aparelho-antigo-que-ainda-funciona-bem-eh-porta-para-hackers/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "S&P coloca rating AA da Nvidia em observação negativa por governança",
+      "resumo": "Agência questiona falta de supervisão do conselho sobre conduta dos executivos. Saída e retorno do CEO não responderam suficientemente às preocupações.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/sp-coloca-ratings-aa-da-nvidia-em-observacao-negativa-por-riscos-de-governanca/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Bolsas dos EUA despencam com tarifas de Trump e venda de IA",
+      "resumo": "Nasdaq cai 4,22% e S&P 500 recua 2,84% após anúncio de novas tarifas. Forte venda de ações de inteligência artificial pressiona mercado.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/25/trump-tarifas-ia-bolsa-de-ny-wall-street.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "EUA propõem novas tarifas contra Brasil e 14 economias",
+      "resumo": "Governo americano propõe aumento de tributação sobre açúcar importado do Brasil e tarifa de 10% sobre aeronaves. Novas cotas afetarão setor agropecuário.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/eua-querem-mudar-taxacao-sobre-acucar-brasileiro-veja-como-pode-ficar.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "CFC define anuidades de 2027; contador pagará R$ 749",
+      "resumo": "Resolução estabelece valores de anuidades para profissionais e empresas contábeis de 2027. Inclui descontos, prazos de pagamento e regras de parcelamento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81160/cfc-define-anuidades-de-2027-contador-pagara-r-749/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Receita limita uso de créditos tributários em RET e SCP",
+      "resumo": "Solução de Consulta Cosit 184/2026 permite compensar débitos do RET com créditos próprios. Impede uso de créditos da sócia ostensiva para pagar tributos da SCP.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81158/receita-limita-uso-de-creditos-tributarios-em-ret-e-scp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "ICMS",
+      "titulo": "Perda de combustível por evaporação não gera crédito de ICMS em SP",
+      "resumo": "Sefaz-SP esclarece que postos revendedores não podem aproveitar créditos de ICMS sobre combustíveis perdidos por evaporação. Decisão afeta setor de combustíveis.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81151/perda-de-combustivel-por-evaporacao-nao-gera-credito-de-icms-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "STJ vai definir contribuição sobre intervalo intrajornada suprimido",
+      "resumo": "STJ analisará se incidem contribuições previdenciárias sobre Hora Repouso Alimentação após Reforma Trabalhista. Tribunal suspende processos sobre tema.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81148/stj-vai-definir-contribuicao-sobre-intervalo-intrajornada-suprimido/",
+      "idioma_original": "pt"
+    }
+  ]
+}
