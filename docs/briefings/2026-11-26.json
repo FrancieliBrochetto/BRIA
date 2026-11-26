@@ -1,0 +1,122 @@
+{
+  "data": "2026-11-26",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI unifica medidor de uso entre Chat e Work com limites mais rigorosos",
+      "resumo": "OpenAI implementará um único medidor de consumo ao mesclar as plataformas ChatGPT Chat e Work. Usuários pesados podem atingir limites mais rapidamente com essa integração.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude auxilia na resolução de maior problema aberto da matemática",
+      "resumo": "A IA Claude contribuiu para resolver um dos maiores problemas em aberto da matemática, demostrando avanço em capacidades analíticas de modelos de linguagem.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/claude-helps-solve-math-s-biggest-open-problem",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Google enfrenta multa por não divulgar dados sobre anúncios",
+      "resumo": "Senacon determinou que Google Brasil amplie informações sobre anúncios pagos em suas plataformas, sob risco de multa diária de R$ 200 mil.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/26/pro/google-pode-pagar-r-200-mil-por-dia-se-nao-revelar-mais-dados-sobre-anuncios/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Anthropic nega acusações sobre transferência de controle humano à IA",
+      "resumo": "CEO Dario Amodei refuta críticas de rivais sobre entrega de agência humana à IA, enquanto empresas de IA crescentemente automatizam pesquisa e desenvolvimento de modelos.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "IA & Tech",
+      "titulo": "Anthropic realiza maior IPO da história",
+      "resumo": "A empresa de IA Anthropic conseguiu um IPO recorde, consolidando posição como player significativo no setor de inteligência artificial.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/anthropic-pulls-off-the-biggest-ipo-ever",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "S&P considera rebaixamento de crédito da Nvidia por riscos de governança",
+      "resumo": "Agência de classificação pode reduzir rating da Nvidia para AA-, quarto maior nível, devido a preocupações com governança corporativa e dependência de liderança-chave.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa sobe 4% com notícias sobre Fazenda e altas em ações",
+      "resumo": "Bolsa brasileira fecha em alta com feriado nos EUA; Bradesco dispara 7% acompanhando otimismo com medidas fiscais do governo.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26112026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Azzas 2154 reduz alta após notícia sobre negociação travada da FARM Rio",
+      "resumo": "Ação chegou a subir 12%, mas recuou com informação de que venda da rede de moda FARM Rio, controlada pela holding, está parada.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/azzas-2154-azza3-chega-a-subir-12-mas-reduz-alta-com-noticia-sobre-negociacao-da-farm-rio/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Lei do Ajuste Fiscal amplia redução de benefícios e limita compensação de créditos",
+      "resumo": "LC 239/2026 estabelece restrições a benefícios fiscais, limita compensação de créditos e cria tetos para regimes de incentivos empresariais.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81205/lei-do-ajuste-fiscal-o-que-muda-para-as-empresas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Reforma tributária: alíquota cairia para 7% sem benefícios setoriais",
+      "resumo": "IFI estima que sem isenções concedidas durante tramitação, alíquota de imposto federal sobre consumo seria 7% em 2027, abaixo dos 8,5% da Receita Federal.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/26/reforma-tributaria-sem-beneficios-a-produtos-e-setores-imposto-do-governo-cairia-de-113percent-para-7percent-em-2027-estima-orgao-do-senado/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "PGBL: aportes em dezembro reduzem base tributável do IR 2027",
+      "resumo": "Contribuições ao PGBL podem ser deduzidas até 12% da renda tributável anual. Dezembro é prazo para aproveitar benefício fiscal na declaração do exercício seguinte.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81195/pgbl-aportes-em-dezembro-podem-reduzir-base-de-calculo-do-ir/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "ICMS",
+      "titulo": "Confaz atualiza PMPF de combustíveis para dezembro",
+      "resumo": "Tabela de Preço Médio Ponderado ao Consumidor Final para etanol, GNV e outros combustíveis é atualizada com vigência a partir de 1º de dezembro.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81189/icms-de-combustiveis-atualizada-tabela-de-pmpf-para-dezembro/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "eSocial",
+      "titulo": "INSS atualiza prova de vida de 22,4 milhões de benefícios pelo voto",
+      "resumo": "INSS regularizou prova de vida de mais de 22 milhões de beneficiários através da participação nas eleições, atualizando dados por estado e perfil etário.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81204/inss-atualiza-prova-de-vida-de-22-4-milhoes-de-beneficios-pelo-voto/",
+      "idioma_original": "pt"
+    }
+  ]
+}
