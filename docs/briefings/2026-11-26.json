@@ -4,8 +4,8 @@
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "OpenAI unifica medidor de uso entre Chat e Work com limites mais rigorosos",
-      "resumo": "OpenAI implementará um único medidor de consumo ao mesclar as plataformas ChatGPT Chat e Work. Usuários pesados podem atingir limites mais rapidamente com essa integração.",
+      "titulo": "OpenAI unifica medidor de uso entre ChatGPT Chat e Work",
+      "resumo": "OpenAI implementará um único medidor de uso ao mesclar as experiências de ChatGPT Chat e Work. Usuários pesados podem atingir limites mais rapidamente com a integração dos dois serviços.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
       "idioma_original": "en"
@@ -13,109 +13,127 @@
     {
       "tema": "IA & Tech",
       "subtema": "Claude",
-      "titulo": "Claude auxilia na resolução de maior problema aberto da matemática",
-      "resumo": "A IA Claude contribuiu para resolver um dos maiores problemas em aberto da matemática, demostrando avanço em capacidades analíticas de modelos de linguagem.",
+      "titulo": "Claude auxilia na resolução do maior problema aberto da matemática",
+      "resumo": "Claude ajudou a resolver um dos problemas matemáticos em aberto mais desafiadores. A IA demonstra capacidade de contribuir em pesquisa matemática avançada.",
       "fonte": "The Rundown AI",
       "url_original": "https://therundownai.beehiiv.com/p/claude-helps-solve-math-s-biggest-open-problem",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
-      "subtema": "Gemini",
-      "titulo": "Google enfrenta multa por não divulgar dados sobre anúncios",
-      "resumo": "Senacon determinou que Google Brasil amplie informações sobre anúncios pagos em suas plataformas, sob risco de multa diária de R$ 200 mil.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/11/26/pro/google-pode-pagar-r-200-mil-por-dia-se-nao-revelar-mais-dados-sobre-anuncios/",
-      "idioma_original": "pt"
+      "subtema": "Automação",
+      "titulo": "Nvidia pausa envios de chips para Sudeste Asiático",
+      "resumo": "Nvidia ordenou pausa nos envios de servidores para Malásia, Singapura, Tailândia e Indonésia. Medida faz parte do esforço dos EUA em impedir que chips de IA cheguem à China.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Anthropic nega acusações sobre transferência de controle humano à IA",
-      "resumo": "CEO Dario Amodei refuta críticas de rivais sobre entrega de agência humana à IA, enquanto empresas de IA crescentemente automatizam pesquisa e desenvolvimento de modelos.",
-      "fonte": "TechCrunch AI",
-      "url_original": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "IA & Tech",
-      "titulo": "Anthropic realiza maior IPO da história",
-      "resumo": "A empresa de IA Anthropic conseguiu um IPO recorde, consolidando posição como player significativo no setor de inteligência artificial.",
-      "fonte": "The Rundown AI",
-      "url_original": "https://therundownai.beehiiv.com/p/anthropic-pulls-off-the-biggest-ipo-ever",
-      "idioma_original": "en"
-    },
-    {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "S&P considera rebaixamento de crédito da Nvidia por riscos de governança",
-      "resumo": "Agência de classificação pode reduzir rating da Nvidia para AA-, quarto maior nível, devido a preocupações com governança corporativa e dependência de liderança-chave.",
+      "titulo": "S&P considera rebaixamento de crédito da Nvidia",
+      "resumo": "Agência de classificação de risco avalia reduzir rating de Nvidia para AA- por preocupações com governança e riscos de dependência de líderes-chave. Seria a quarta classificação mais alta.",
       "fonte": "TechCrunch AI",
       "url_original": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
       "idioma_original": "en"
     },
     {
-      "tema": "Mercado Financeiro",
-      "subtema": "Ações",
-      "titulo": "Ibovespa sobe 4% com notícias sobre Fazenda e altas em ações",
-      "resumo": "Bolsa brasileira fecha em alta com feriado nos EUA; Bradesco dispara 7% acompanhando otimismo com medidas fiscais do governo.",
-      "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26112026/",
-      "idioma_original": "pt"
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "CEO Jensen Huang violou código de conduta da Nvidia",
+      "resumo": "Jensen Huang quebrou as regras de conduta da própria empresa. Comportamento do presidente pode ter impacto na cultura corporativa e relação com funcionários.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "idioma_original": "en"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Azzas 2154 reduz alta após notícia sobre negociação travada da FARM Rio",
-      "resumo": "Ação chegou a subir 12%, mas recuou com informação de que venda da rede de moda FARM Rio, controlada pela holding, está parada.",
+      "titulo": "Bolsa brasileira ganha R$ 232 bilhões com anúncio de Trabuco na Fazenda",
+      "resumo": "Ibovespa registrou segunda maior alta diária desde janeiro de 2021, disparando 6,07% para 176.800 pontos. Movimento impulsionado pela nomeação de Luiz Carlos Trabuco (Bradesco) para o Ministério da Fazenda.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/azzas-2154-azza3-chega-a-subir-12-mas-reduz-alta-com-noticia-sobre-negociacao-da-farm-rio/",
+      "url_original": "https://www.infomoney.com.br/mercados/efeito-trabuco-bolsa-brasileira-ganha-r-232-bilhoes-em-valor-de-mercado-em-um-dia/",
       "idioma_original": "pt"
     },
     {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Lei do Ajuste Fiscal amplia redução de benefícios e limita compensação de créditos",
-      "resumo": "LC 239/2026 estabelece restrições a benefícios fiscais, limita compensação de créditos e cria tetos para regimes de incentivos empresariais.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/81205/lei-do-ajuste-fiscal-o-que-muda-para-as-empresas/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Reforma tributária: alíquota cairia para 7% sem benefícios setoriais",
-      "resumo": "IFI estima que sem isenções concedidas durante tramitação, alíquota de imposto federal sobre consumo seria 7% em 2027, abaixo dos 8,5% da Receita Federal.",
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Dólar cai 1,25% com confirmação de Trabuco na Fazenda",
+      "resumo": "Dólar desceu para R$ 5,7441 após anúncio da nomeação de Luiz Carlos Trabuco. Movimento reflete otimismo do mercado com escolha do presidente do Bradesco.",
       "fonte": "G1 Economia",
-      "url_original": "https://g1.globo.com/economia/noticia/2026/11/26/reforma-tributaria-sem-beneficios-a-produtos-e-setores-imposto-do-governo-cairia-de-113percent-para-7percent-em-2027-estima-orgao-do-senado/",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/26/trabuco-ibovespa-fazenda-dolar.ghtml",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
       "subtema": "Imposto de Renda",
-      "titulo": "PGBL: aportes em dezembro reduzem base tributável do IR 2027",
-      "resumo": "Contribuições ao PGBL podem ser deduzidas até 12% da renda tributável anual. Dezembro é prazo para aproveitar benefício fiscal na declaração do exercício seguinte.",
+      "titulo": "STJ julgará crédito de ICMS sobre combustível em operações de frota própria",
+      "resumo": "Superior Tribunal de Justiça decidirá se empresas podem aproveitar crédito de ICMS sobre combustível, pneus, lubrificantes e peças usados em entregas com frota própria.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/81195/pgbl-aportes-em-dezembro-podem-reduzir-base-de-calculo-do-ir/",
+      "url_original": "https://www.contabeis.com.br/noticias/81209/credito-de-icms-sobre-combustivel-sera-julgado-pelo-stj/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "ICMS",
-      "titulo": "Confaz atualiza PMPF de combustíveis para dezembro",
-      "resumo": "Tabela de Preço Médio Ponderado ao Consumidor Final para etanol, GNV e outros combustíveis é atualizada com vigência a partir de 1º de dezembro.",
+      "subtema": "Leis Novas",
+      "titulo": "Pará regulamenta Prorefis com descontos de até 100% em débitos estaduais",
+      "resumo": "Estado do Pará oferece programa de regularização de débitos com redução de multas e juros. Adesão aberta até 15 de dezembro de 2026 pelo portal da Secretaria de Fazenda.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/81189/icms-de-combustiveis-atualizada-tabela-de-pmpf-para-dezembro/",
+      "url_original": "https://www.contabeis.com.br/noticias/81212/para-regulamenta-prorefis-com-descontos-de-ate-100/",
       "idioma_original": "pt"
     },
     {
       "tema": "Contabilidade & Legislação",
-      "subtema": "eSocial",
-      "titulo": "INSS atualiza prova de vida de 22,4 milhões de benefícios pelo voto",
-      "resumo": "INSS regularizou prova de vida de mais de 22 milhões de beneficiários através da participação nas eleições, atualizando dados por estado e perfil etário.",
+      "subtema": "Leis Novas",
+      "titulo": "Escala 5x2 aumenta custo de horas extras em 2027",
+      "resumo": "Nova jornada reduz divisor do salário-hora para 210 em dezembro de 2026 e 200 em 2027, elevando o valor das horas extras. Empresas precisam ajustar folhas de pagamento.",
       "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/81204/inss-atualiza-prova-de-vida-de-22-4-milhoes-de-beneficios-pelo-voto/",
+      "url_original": "https://www.contabeis.com.br/noticias/81211/hora-extra-ficara-mais-cara-com-a-escala-5x2-veja-o-calculo/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "EUA propõem tarifa de 10% sobre aviões brasileiros",
+      "resumo": "Proposta dos EUA inclui tarifa de 10% sobre aeronaves brasileiras e novas cobranças sobre açúcar. Medidas passarão por consulta pública antes da implementação.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81208/eua-propoem-tarifa-de-10-para-avioes-do-brasil/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Sefaz-PI investe até R$ 200 mil em startups de gestão de riscos fiscais",
+      "resumo": "Piauí abre edital para selecionar até duas soluções tecnológicas de gestão de riscos fiscais. Inscrições abertas até 23 de dezembro de 2026.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81206/sefaz-pi-abre-edital-para-startups-com-investimento-de-ate-r-200-mil/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Luiz Carlos Trabuco confirmado como ministro da Fazenda",
+      "resumo": "Presidente do Conselho de Administração do Bradesco aceitou convite de Lula para assumir o Ministério da Fazenda em 2027. Trabuco é figura próxima ao presidente e respeitada pelo mercado.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/politica/noticia/2026/11/26/governo-lula-anuncia-luiz-trabuco-para-ministerio-da-fazenda.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Brasil rebate Macron sobre restrições a carne como protecionismo",
+      "resumo": "Governo brasileiro criticou declarações do presidente francês Emmanuel Macron que chamou carne brasileira de \"dopada\". Brasil afirma não haver evidências técnicas para restrições impostas pela UE.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/governo-lula-acusa-franca-de-disseminar-desinformacao.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Banco do Brasil e Google bloqueiam 77 mil ligações fraudulentas",
+      "resumo": "Instituições bloquearam mais de 77 mil chamadas falsas em primeira semana de iniciativa contra o Golpe da Falsa Central. Ferramenta usa recursos de segurança do Android para impedir falsificação de números.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/26/seguranca/banco-do-brasil-e-google-bloqueiam-77-mil-ligacoes-falsas-em-uma-semana/",
       "idioma_original": "pt"
     }
   ]
