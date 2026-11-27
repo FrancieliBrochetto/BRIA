@@ -1,0 +1,104 @@
+{
+  "data": "2026-11-27",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Nvidia pausa envio de chips para Sudeste Asiático",
+      "resumo": "Nvidia ordenou aos parceiros de manufatura que paralisem remessas de servidores para Malásia, Singapura, Tailândia e Indonésia. A medida faz parte do esforço dos EUA para evitar que chips de IA cheguem à China.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI unifica medidor de uso entre Chat e Work",
+      "resumo": "OpenAI implementará um único medidor de consumo ao mesclar as versões Chat e Work do ChatGPT. Usuários pesados podem atingir limites de uso mais rapidamente com essa integração.",
+      "fonte": "TechCrunch",
+      "url_original": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Alto custo de memória reduz metas de smartphones em 2027",
+      "resumo": "Metas de embarques de smartphones caem em quase todas as grandes fabricantes, com redução de até 29%. O encarecimento dos componentes de memória é o principal fator.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/alto-custo-da-memoria-derruba-metas-para-smartphones-em-2027/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Hackers invadem plataforma de nuvem da Força Aérea dos EUA",
+      "resumo": "Ataque ao Cloud One provocou interrupções em sistemas da Força Aérea americana. A invasão afeta a infraestrutura crítica de defesa.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/noticias/hackers-invadem-principal-plataforma-de-nuvem-da-forca-aerea-dos-eua/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Data centers espaciais da SpaceX enfrentam desafios técnicos",
+      "resumo": "Projeto Starmind da SpaceX enfrenta obstáculos em resfriamento e custos operacionais, além de críticas sobre lixo espacial e interferências de rádio.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/27/ciencia-e-espaco/starmind-o-que-se-sabe-sobre-os-data-centers-espaciais-da-spacex/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Prazos do IRRF para dividendos: residentes e não residentes",
+      "resumo": "Receita Federal esclareceu que imposto sobre dividendos pagos ao exterior vence no próprio dia do fato gerador. Para residentes, o prazo é no mês seguinte.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81249/dividendos-veja-os-prazos-do-irrf-para-residentes-e-nao-residentes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "CARF reconhece dedutibilidade de PLR para diretores empregados",
+      "resumo": "Decisão do conselho permite deduzir Participação nos Lucros e Resultados de diretores celetistas no cálculo do IRPJ e CSLL, embora tema ainda divida opiniões.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81247/carf-permite-deduzir-plr-paga-a-diretores-empregados/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "Gorjetas no Simples: exclusão da receita tributável",
+      "resumo": "Gorjetas repassadas aos empregados são excluídas da base de cálculo do Simples Nacional. Receita Federal forneceu orientação vinculante sobre o tratamento.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81248/gorjetas-no-simples-entram-na-receita-tributavel/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "CPRB: cálculos diferentes entre retenção em NF-e e contribuição",
+      "resumo": "Retenção previdenciária de 3,5% ou 11% na nota fiscal não corresponde ao cálculo da CPRB devida pela prestadora. Entenda as diferenças metodológicas.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81237/cprb-retencao-na-nfe-contribuicao-da-empresa-tem-calculos-diferentes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Simples Nacional: fim do regime de caixa em 2027",
+      "resumo": "A partir de janeiro de 2027, receitas serão tributadas pelo faturamento, independentemente de recebimento. Regra de transição exige atenção aos valores pendentes em 2026.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81245/simples-nacional-fim-do-regime-de-caixa-exige-atencao-em-2027/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Wall Street sobe com ações de IA se recuperando",
+      "resumo": "Mercado americano recuperou-se após semana volátil, com setor de inteligência artificial liderando ganhos. Analistas citam mercado sobrevendido como catalisador da recuperação.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/wall-street-sobe-com-acoes-do-setor-de-ia-se-recuperando-em-semana-volatil/",
+      "idioma_original": "pt"
+    }
+  ]
+}
