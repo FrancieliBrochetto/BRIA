@@ -3,101 +3,137 @@
   "noticias": [
     {
       "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Nvidia pausa envio de chips para Sudeste Asiático",
-      "resumo": "Nvidia ordenou aos parceiros de manufatura que paralisem remessas de servidores para Malásia, Singapura, Tailândia e Indonésia. A medida faz parte do esforço dos EUA para evitar que chips de IA cheguem à China.",
-      "fonte": "TechCrunch",
-      "url_original": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "subtema": "Claude",
+      "titulo": "Claude ajuda a resolver maior problema aberto da matemática",
+      "resumo": "Claude contribuiu para a solução de um dos maiores problemas em aberto da matemática. A IA assistiu na resolução com capacidades avançadas de raciocínio matemático.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/claude-helps-solve-math-s-biggest-open-problem",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "ChatGPT",
-      "titulo": "OpenAI unifica medidor de uso entre Chat e Work",
-      "resumo": "OpenAI implementará um único medidor de consumo ao mesclar as versões Chat e Work do ChatGPT. Usuários pesados podem atingir limites de uso mais rapidamente com essa integração.",
-      "fonte": "TechCrunch",
-      "url_original": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "titulo": "OpenAI unifica ChatGPT Chat e Work com limite único de uso",
+      "resumo": "OpenAI vai mesclar as versões Chat e Work do ChatGPT em uma única plataforma. Usuários pesados podem atingir limites de uso mais rapidamente com o novo medidor unificado.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI processa Apple acusando roubo de segredos comerciais",
+      "resumo": "OpenAI entrou com ação judicial contra a Apple, acusando a empresa de roubar segredos comerciais e bloquear acesso a fornecedores. A ação responde a processo anterior da Apple contra a desenvolvedora do ChatGPT.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/tecnologia/noticia/2026/11/27/open-ai-apple-ia-segredo-processo.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "MCP: novo padrão de IA para automação de tarefas financeiras",
+      "resumo": "O protocolo MCP (Model Context Protocol) automatiza tarefas em programações financeiras, gestão de nuvem e produtividade em tempo real. Padrão visa facilitar integração de IA em operações críticas.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/responde/o-que-e-mcp-saiba-para-que-serve-o-padrao-de-inteligencia-artificial/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "S&P considera rebaixamento de crédito da Nvidia por riscos de governança",
+      "resumo": "Agência de rating S&P avalia reduzir o crédito da Nvidia para AA-, quarto maior nível. Decisão se baseia em riscos de governança corporativa e dependência de figura central.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "CEO da Nvidia violou código de conduta da empresa",
+      "resumo": "Jensen Huang, CEO da Nvidia, violou código de conduta corporativo da fabricante. Questão pode ter impacto na cultura organizacional e ambiente de trabalho.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
       "idioma_original": "en"
     },
     {
       "tema": "IA & Tech",
       "subtema": "Automação",
-      "titulo": "Alto custo de memória reduz metas de smartphones em 2027",
-      "resumo": "Metas de embarques de smartphones caem em quase todas as grandes fabricantes, com redução de até 29%. O encarecimento dos componentes de memória é o principal fator.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/alto-custo-da-memoria-derruba-metas-para-smartphones-em-2027/",
-      "idioma_original": "pt"
+      "titulo": "Nvidia pausa envio de chips para Sudeste Asiático por controles dos EUA",
+      "resumo": "Nvidia ordenou aos parceiros de manufatura pausar embarques de servidores para Malásia, Singapura, Tailândia e Indonésia. Movimento segue intensificação de controles dos EUA para evitar chegada de chips de IA na China.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "idioma_original": "en"
     },
     {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Hackers invadem plataforma de nuvem da Força Aérea dos EUA",
-      "resumo": "Ataque ao Cloud One provocou interrupções em sistemas da Força Aérea americana. A invasão afeta a infraestrutura crítica de defesa.",
-      "fonte": "Tecnoblog",
-      "url_original": "https://tecnoblog.net/noticias/hackers-invadem-principal-plataforma-de-nuvem-da-forca-aerea-dos-eua/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "IA & Tech",
-      "subtema": "Automação",
-      "titulo": "Data centers espaciais da SpaceX enfrentam desafios técnicos",
-      "resumo": "Projeto Starmind da SpaceX enfrenta obstáculos em resfriamento e custos operacionais, além de críticas sobre lixo espacial e interferências de rádio.",
-      "fonte": "Olhar Digital",
-      "url_original": "https://olhardigital.com.br/2026/11/27/ciencia-e-espaco/starmind-o-que-se-sabe-sobre-os-data-centers-espaciais-da-spacex/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "Prazos do IRRF para dividendos: residentes e não residentes",
-      "resumo": "Receita Federal esclareceu que imposto sobre dividendos pagos ao exterior vence no próprio dia do fato gerador. Para residentes, o prazo é no mês seguinte.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/81249/dividendos-veja-os-prazos-do-irrf-para-residentes-e-nao-residentes/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Imposto de Renda",
-      "titulo": "CARF reconhece dedutibilidade de PLR para diretores empregados",
-      "resumo": "Decisão do conselho permite deduzir Participação nos Lucros e Resultados de diretores celetistas no cálculo do IRPJ e CSLL, embora tema ainda divida opiniões.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/81247/carf-permite-deduzir-plr-paga-a-diretores-empregados/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "Gorjetas no Simples: exclusão da receita tributável",
-      "resumo": "Gorjetas repassadas aos empregados são excluídas da base de cálculo do Simples Nacional. Receita Federal forneceu orientação vinculante sobre o tratamento.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/81248/gorjetas-no-simples-entram-na-receita-tributavel/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Leis Novas",
-      "titulo": "CPRB: cálculos diferentes entre retenção em NF-e e contribuição",
-      "resumo": "Retenção previdenciária de 3,5% ou 11% na nota fiscal não corresponde ao cálculo da CPRB devida pela prestadora. Entenda as diferenças metodológicas.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/81237/cprb-retencao-na-nfe-contribuicao-da-empresa-tem-calculos-diferentes/",
-      "idioma_original": "pt"
-    },
-    {
-      "tema": "Contabilidade & Legislação",
-      "subtema": "Reforma Tributária",
-      "titulo": "Simples Nacional: fim do regime de caixa em 2027",
-      "resumo": "A partir de janeiro de 2027, receitas serão tributadas pelo faturamento, independentemente de recebimento. Regra de transição exige atenção aos valores pendentes em 2026.",
-      "fonte": "Contábeis",
-      "url_original": "https://www.contabeis.com.br/noticias/81245/simples-nacional-fim-do-regime-de-caixa-exige-atencao-em-2027/",
+      "tema": "Mercado Financeiro",
+      "subtema": "Ações",
+      "titulo": "Ibovespa salta 4% com anúncio de Trabuco no Ministério da Fazenda",
+      "resumo": "Ibovespa superou 183 mil pontos com alta de quase 4% após confirmação de Luiz Carlos Trabuco como novo ministro da Fazenda. 11 ações subiram mais de 6% no dia.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/bbas3-rent3-8-acoes-sobem-mais-de-12-e-lideram-ganhos-nesta-sexta-apos-anuncio-de-trabuco/",
       "idioma_original": "pt"
     },
     {
       "tema": "Mercado Financeiro",
       "subtema": "Ações",
-      "titulo": "Wall Street sobe com ações de IA se recuperando",
-      "resumo": "Mercado americano recuperou-se após semana volátil, com setor de inteligência artificial liderando ganhos. Analistas citam mercado sobrevendido como catalisador da recuperação.",
+      "titulo": "Petrobras, Vale e Suzano pressionam Ibovespa na sessão",
+      "resumo": "Ações de exportadoras caem com recuo do dólar em cerca de 3%, principalmente Petrobras (queda de 3%), Vale e Suzano. Movimentação reduz ganhos do índice no dia.",
       "fonte": "InfoMoney",
-      "url_original": "https://www.infomoney.com.br/mercados/wall-street-sobe-com-acoes-do-setor-de-ia-se-recuperando-em-semana-volatil/",
+      "url_original": "https://www.infomoney.com.br/mercados/acoes-ibovespa-quedas-trabuco-27112026/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Câmbio",
+      "titulo": "Bandeira tarifária verde em dezembro — sem custos extras",
+      "resumo": "Aneel confirma bandeira tarifária verde para dezembro, mantendo conta de luz sem valor adicional. Decisão reflete condições favoráveis de geração de energia no país.",
+      "fonte": "G1 Economia",
+      "url_original": "https://g1.globo.com/economia/noticia/2026/11/27/conta-de-luz-aneel-mantem-bandeira-tarifaria-verde-em-dezembro.ghtml",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Venda de veículos: limite de isenção do IRPF é somado no mês",
+      "resumo": "Receita Federal determina que vendas de automóveis da mesma natureza no mês sejam somadas para verificar o limite de R$ 35 mil de isenção. Decisão afeta contribuintes que vendem múltiplos veículos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81250/venda-de-veiculos-limite-de-isencao-do-irpf-e-somado/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Nota Fiscal",
+      "titulo": "DANFE digital pode substituir versão impressa em SP",
+      "resumo": "Sefaz-SP esclarece que DANFE eletrônico pode substituir versão impressa durante transporte de mercadorias em operações específicas. Medida reduz necessidade de documentação física.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81242/danfe-digital-quando-a-impressao-pode-ser-dispensada-em-sp/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "SAFs e associações: tributação diferenciada na reforma tributária",
+      "resumo": "Reforma tributária traz tratamento diferenciado para clubes em formato de SAF e associações. Decisão depende de fatores fiscais, financeiros e de governança.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81179/safs-e-associacoes-diferencas-na-tributacao-dos-clubes/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "SPED",
+      "titulo": "Critérios para reconhecimento de receita de subvenção governamental",
+      "resumo": "CPC 07 e normas para PMEs estabelecem critérios específicos para reconhecer receita de subvenção. Receber aporte não é suficiente; contadores devem verificar condições do CPC.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81254/subvencao-governamental-quando-reconhecer-a-receita/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "Espírito Santo prorroga adesão à transação de ICMS até dezembro",
+      "resumo": "PGE-ES estende até 23 de dezembro o prazo para adesão à negociação de débitos de ICMS. Medida oferece oportunidade de regularização fiscal para contribuintes habilitados.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81239/icms-es-prorroga-adesao-a-transacao-tributaria-ate-dezembro/",
       "idioma_original": "pt"
     }
   ]
