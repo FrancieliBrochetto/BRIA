@@ -1,0 +1,140 @@
+{
+  "data": "2026-11-28",
+  "noticias": [
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "MCP: novo padrão de inteligência artificial para automação",
+      "resumo": "O protocolo MCP (Model Context Protocol) automatiza tarefas em programações financeiras, gestão de nuvem e produtividade em tempo real. Serve como padrão integrado para sistemas de IA executarem operações complexas sem intervenção manual.",
+      "fonte": "Tecnoblog",
+      "url_original": "https://tecnoblog.net/responde/o-que-e-mcp-saiba-para-que-serve-o-padrao-de-inteligencia-artificial/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "OpenAI apresenta ação judicial contra Apple por pressão anticompetitiva",
+      "resumo": "OpenAI revidou a ação movida pela Apple no verão com uma contrademanda acusando a empresa de pressionar ilegalmente fornecedores. A disputa marca crescente tensão entre as gigantes de tecnologia no setor de IA.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Claude",
+      "titulo": "Claude resolve problema matemático aberto há décadas",
+      "resumo": "A IA Claude ajudou a solucionar um dos maiores problemas em aberto da matemática. A conquista demonstra capacidade avançada de raciocínio lógico e resolução de problemas complexos em domínios científicos.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/claude-helps-solve-math-s-biggest-open-problem",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Gemini",
+      "titulo": "Gemini 4 Neon: detectar erros de cobrança em tempo real",
+      "resumo": "Novo modelo Gemini 4 Neon permite identificar inconsistências em faturas e cobranças automaticamente. Ferramenta útil para empresas e consumidores monitorarem despesas com maior precisão.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/claude-helps-solve-math-s-biggest-open-problem",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Nvidia pausa envio de chips para Sudeste Asiático por controle de exportação",
+      "resumo": "Nvidia pediu aos parceiros de manufatura que pausem remessas de servidores para Malásia, Singapura, Tailândia e Indonésia. Medida faz parte do esforço dos EUA em impedir que chips de IA cheguem à China.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "xAI investe em modelos para prever o futuro",
+      "resumo": "Fundadores da xAI desenvolvem ferramentas de IA focadas em previsão de eventos futuros. Abordagem busca aplicar machine learning para antecipar padrões em dados complexos.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/three-xai-founders-want-ai-to-predict-the-future",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "ChatGPT",
+      "titulo": "Sakana AI desenvolve modelos de IA homegrown para competitividade industrial do Japão",
+      "resumo": "CEO da Sakana AI reforça que modelos locais vão além de segurança nacional, buscando fortalecer competitividade industrial. Iniciativa alinha-se com estratégia de soberania tecnológica japonesa.",
+      "fonte": "TechCrunch AI",
+      "url_original": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "Deepfakes sexuais com IA atingem escolas brasileiras; meninas são principais vítimas",
+      "resumo": "Pesquisa da SaferNet revela que 12,4% dos meninos adolescentes criaram imagens íntimas falsas com IA. Alunas e professoras enfrentam crescente ameaça de abuso sexual via deepfakes em ambiente escolar.",
+      "fonte": "Olhar Digital",
+      "url_original": "https://olhardigital.com.br/2026/11/28/inteligencia-artificial/deepfakes-sexuais-com-ia-atingem-escolas-e-tem-meninas-como-principais-vitimas/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "IA & Tech",
+      "subtema": "Automação",
+      "titulo": "IA traz avanços na resolução de equações de física",
+      "resumo": "Modelos de inteligência artificial fazem progresso em cálculos matemáticos complexos de física teórica. Resultado sugere potencial de IA para acelerar descobertas científicas em problemas não resolvidos.",
+      "fonte": "The Rundown AI",
+      "url_original": "https://therundownai.beehiiv.com/p/ai-takes-a-swing-at-physics-biggest-puzzle",
+      "idioma_original": "en"
+    },
+    {
+      "tema": "Mercado Financeiro",
+      "subtema": "Cripto",
+      "titulo": "Token World Liberty apoiado por Trump cai 50% e perde 90% do valor desde setembro",
+      "resumo": "Criptomoeda World Liberty desvalorizou-se drasticamente, caindo para cerca de US$0,018 no sábado. Token, que tem apoio do ex-presidente Trump, já perdeu mais de 90% desde início da negociação em setembro de 2025.",
+      "fonte": "InfoMoney",
+      "url_original": "https://www.infomoney.com.br/mercados/token-de-criptomoeda-world-liberty-apoiado-por-trump-cai-cerca-de-50/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "MEI: preparação necessária para 2027 com novo limite de faturamento",
+      "resumo": "Microempreendedores individuais devem revisar obrigações fiscais antes de janeiro de 2027, incluindo novo teto de faturamento e opção pelo Simei. Planejamento deve incluir atualização de registros e conformidade legal.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81252/mei-veja-o-que-organizar-para-comecar-2027-em-dia/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Imposto de Renda",
+      "titulo": "IRRF sobre aluguel: cálculo correto com múltiplos proprietários",
+      "resumo": "Empresa que aluga imóvel de mais de um dono deve calcular Imposto de Renda Retido na Fonte (IRRF) por beneficiário. Procedimento exige conferência de contrato, rateio e comprovação de pagamentos.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81215/irrf-sobre-aluguel-como-calcular-com-dois-proprietarios/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "Lei Complementar 239/2026 pode limitar compensação de créditos tributários em 2027",
+      "resumo": "Nova legislação prevê restrições para compensação de créditos federais que podem impactar planejamento financeiro das empresas. Mudanças exigem revisão de estratégias de gestão tributária para o próximo ano.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81220/creditos-tributarios-nova-lei-pode-limitar-compensacoes-em-2027/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Leis Novas",
+      "titulo": "CFC anuncia anuidade 2027 com reajuste e descontos para profissionais",
+      "resumo": "Anuidade do Conselho Regional de Contabilidade terá aumento em 2027, mas oferece descontos para pagamento antecipado, Domicílio Eletrônico e profissionais recém-registrados. Economias significativas disponíveis com pagamento até data determinada.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81163/anuidade-2027-do-cfc-veja-como-garantir-descontos/",
+      "idioma_original": "pt"
+    },
+    {
+      "tema": "Contabilidade & Legislação",
+      "subtema": "Reforma Tributária",
+      "titulo": "SAFs e associações esportivas: diferenças tributárias na reforma",
+      "resumo": "Reforma tributária trata de forma distinta SAFs (Sociedades Anônimas de Futebol) e associações esportivas. Decisão entre estruturas exige análise de fatores fiscais, financeiros e de governança corporativa.",
+      "fonte": "Contábeis",
+      "url_original": "https://www.contabeis.com.br/noticias/81179/safs-e-associacoes-diferencas-na-tributacao-dos-clubes/",
+      "idioma_original": "pt"
+    }
+  ]
+}
